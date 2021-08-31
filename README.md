@@ -8,6 +8,8 @@ you can take it from there.
 
 ## Thanks To
 
+- CEscorcio (pt)
+
 (Your name here! Send me a PR!)
 
 ## Copyright
