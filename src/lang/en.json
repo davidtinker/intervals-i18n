@@ -1273,6 +1273,7 @@
   "dev_lang_blurb": "Translations for these languages may be incomplete or machine generated and text might overflow in places",
   "dev_lang_help_blurb": "If you would like to see Intervals.icu in your own language or can help improve translations please <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>visit the forums</a>",
   "distance": "You might want to edit this for an indoor trainer ride if the distance hasn't been calculated correctly.",
+  "donate_blurb": "Your subscription will help cover hosting costs and fund ongoing development of the platform. You can cancel at any time.",
   "donate_please_support": "If you are enjoying Intervals.icu please consider supporting the project with a $4/month subscription. The monthly hosting costs are substantial as is the time required to keep everything running. Supporter feature requests move up the todo list!",
   "dropbox_add_folders_to_download": "Add folders to download FIT, TCX and GPX files or upload activities to Dropbox",
   "eCP": "eCP",

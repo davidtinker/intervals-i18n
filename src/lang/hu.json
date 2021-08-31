@@ -1273,6 +1273,7 @@
   "dev_lang_blurb": "Ezeknek a nyelveknek a fordítása lehet hiányos vagy gépi, és a szöveg helyenként túlcsordulhat",
   "dev_lang_help_blurb": "Ha szeretné látni az Intervals.icu -t a saját nyelvén, vagy segíthet a fordítások javításában, <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>keresse fel a fórumokat</a>",
   "distance": "Érdemes ezt szerkeszteni egy beltéri edzőutazáshoz, ha a távolságot nem megfelelően számították ki.",
+  "donate_blurb": "Az előfizetés fedezi a tárhely költségeit és finanszírozza a platform folyamatos fejlesztését. Bármikor lemondhatja.",
   "donate_please_support": "Ha élvezi az Intervals.icu szolgáltatást, fontolja meg a projekt támogatását 4 USD/hó előfizetéssel. A havi tárhelyköltségek jelentősek, mint az idő, ami minden működéshez szükséges. A támogatói funkciók kérései felfelé haladnak a teendők listáján!",
   "dropbox_add_folders_to_download": "Adjon hozzá mappákat a FIT, TCX és GPX fájlok letöltéséhez, vagy töltse fel a tevékenységeket a Dropboxba",
   "eCP": "eCP",
