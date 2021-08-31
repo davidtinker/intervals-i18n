@@ -9,7 +9,7 @@ you can take it from there.
 ## Thanks To
 
 - CEscorcio (pt)
-
+- Nicolas Pignier (fr)
 (Your name here! Send me a PR!)
 
 ## Copyright
