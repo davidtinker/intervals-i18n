@@ -10,6 +10,8 @@ you can take it from there.
 
 - CEscorcio (pt)
 - Nicolas Pignier (fr)
+- Igor Brusetti (it)
+
 (Your name here! Send me a PR!)
 
 ## Copyright
