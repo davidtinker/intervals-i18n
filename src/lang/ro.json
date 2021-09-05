@@ -1316,6 +1316,7 @@
   "dev_lang_blurb": "Traducerile pentru aceste limbi pot fi incomplete sau generate automat, iar textul ar putea să se revarsă pe alocuri",
   "dev_lang_help_blurb": "Dacă doriți să vedeți Intervals.icu în propria limbă sau puteți ajuta la îmbunătățirea traducerilor, vă rugăm să <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>vizitați forumurile</a>",
   "disconnected_from": "Deconectat de la",
+  "disconnected_from_training_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă doriți să încărcați în continuare antrenamentele planificate în {0} reconectați-vă din <a href=\"https://intervals.icu/settings\">setări</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă doriți să continuați să descărcați date de wellness din {0} reconectați-vă din <a href=\"https://intervals.icu/settings\">setări</a>.",
   "distance": "S-ar putea să doriți să editați acest lucru pentru o plimbare cu un antrenor de interior, dacă distanța nu a fost calculată corect.",
   "do_not_send_me_mails_like_this": "Nu-mi trimiteți astfel de mesaje",

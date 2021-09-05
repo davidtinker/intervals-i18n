@@ -1316,6 +1316,7 @@
   "dev_lang_blurb": "Translations for these languages may be incomplete or machine generated and text might overflow in places",
   "dev_lang_help_blurb": "If you would like to see Intervals.icu in your own language or can help improve translations please <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>visit the forums</a>",
   "disconnected_from": "Disconnected from",
+  "disconnected_from_training_blurb": "Intervals.icu has been disconnected from {0}. If you would like to continue uploading planned workouts to {0} please reconnect in <a href=\"https://intervals.icu/settings\">settings</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu has been disconnected from {0}. If you would like to continue downloading wellness data from {0} please reconnect in <a href=\"https://intervals.icu/settings\">settings</a>.",
   "distance": "You might want to edit this for an indoor trainer ride if the distance hasn't been calculated correctly.",
   "do_not_send_me_mails_like_this": "Do not send me mails like this",

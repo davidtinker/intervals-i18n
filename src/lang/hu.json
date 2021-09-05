@@ -1316,6 +1316,7 @@
   "dev_lang_blurb": "Ezeknek a nyelveknek a fordítása lehet hiányos vagy gépi, és a szöveg helyenként túlcsordulhat",
   "dev_lang_help_blurb": "Ha szeretné látni az Intervals.icu -t a saját nyelvén, vagy segíthet a fordítások javításában, <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>keresse fel a fórumokat</a>",
   "disconnected_from": "Leválasztva",
+  "disconnected_from_training_blurb": "Az Intervals.icu leválasztva a (z) {0}webhelyről. Ha továbbra is szeretné feltölteni a tervezett edzéseket {0} , csatlakozzon újra a <a href=\"https://intervals.icu/settings\">beállításokban</a>.",
   "disconnected_from_wellness_blurb": "Az Intervals.icu leválasztva a (z) {0}webhelyről. Ha továbbra is szeretné letölteni a wellness -adatokat {0} , csatlakozzon újra a <a href=\"https://intervals.icu/settings\">beállításokban</a>.",
   "distance": "Érdemes ezt szerkeszteni egy beltéri edzőutazáshoz, ha a távolságot nem megfelelően számították ki.",
   "do_not_send_me_mails_like_this": "Ne küldjön nekem ilyen leveleket",
