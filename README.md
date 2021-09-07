@@ -8,6 +8,11 @@ you can take it from there.
 
 ## Thanks To
 
+- CEscorcio (pt)
+- Nicolas Pignier (fr)
+- Igor Brusetti (it)
+- Zestroen Дмитрий Румянцев (ru)
+
 (Your name here! Send me a PR!)
 
 ## Copyright
