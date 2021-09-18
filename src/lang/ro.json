@@ -1,4 +1,5 @@
 {
+  "% FTP": "% FTP",
   "% HRR": "% HRR",
   "% LTHR": "% LTHR",
   "% Max HR": "% Max HR",
@@ -237,6 +238,7 @@
   "Change Password": "Schimbați parola",
   "Change decay rates for fitness and fatigue": "Modificați ratele de descompunere pentru fitness și oboseală",
   "Change in eFTP since last activity": "Modificarea eFTP de la ultima activitate",
+  "Chart has been copied to the clipboard": "Diagrama a fost copiată în clipboard",
   "Charts": "Grafice",
   "Chat": "conversație",
   "Chats": "Chaturi",
@@ -282,6 +284,7 @@
   "Cookies": "fursecuri",
   "Cooldown": "Răcire",
   "Cooldown time": "Timp de reîncărcare",
+  "Copy": "Copie",
   "Copy To Clipboard": "Copiați în clipboard",
   "Copy when dragging": "Copiați când trageți",
   "Core Temp": "Temp",

@@ -1,4 +1,5 @@
 {
+  "% FTP": "% FTP",
   "% HRR": "% HRR",
   "% LTHR": "% LTHR",
   "% Max HR": "% Max HF",
@@ -237,6 +238,7 @@
   "Change Password": "Ändere das Passwort",
   "Change decay rates for fitness and fatigue": "Ändern Sie die Zerfallsraten für Fitness und Müdigkeit",
   "Change in eFTP since last activity": "eFTP-Änderung seit letzter Aktivität",
+  "Chart has been copied to the clipboard": "Das Diagramm wurde in die Zwischenablage kopiert",
   "Charts": "Diagramme",
   "Chat": "Chat",
   "Chats": "Chats",
@@ -282,6 +284,7 @@
   "Cookies": "Kekse",
   "Cooldown": "Abkühlen",
   "Cooldown time": "Abklingzeit",
+  "Copy": "Kopieren",
   "Copy To Clipboard": "In die Zwischenablage kopieren",
   "Copy when dragging": "Beim Ziehen kopieren",
   "Core Temp": "Kerntemperatur",

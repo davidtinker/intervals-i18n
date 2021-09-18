@@ -1,4 +1,5 @@
 {
+  "% FTP": "% FTP",
   "% HRR": "% HRR",
   "% LTHR": "% LTHR",
   "% Max HR": "% HRmax",
@@ -237,6 +238,7 @@
   "Change Password": "Wachtwoord wijzigen",
   "Change decay rates for fitness and fatigue": "Wijzig de vervalsnelheid voor fitness en vermoeidheid",
   "Change in eFTP since last activity": "Wijziging in eFTP sinds laatste activiteit",
+  "Chart has been copied to the clipboard": "Grafiek is gekopieerd naar het klembord",
   "Charts": "Grafieken",
   "Chat": "Chat",
   "Chats": "Chats",
@@ -282,6 +284,7 @@
   "Cookies": "Cookies",
   "Cooldown": "Cooldown",
   "Cooldown time": "Cooldown-tijd",
+  "Copy": "Kopieer",
   "Copy To Clipboard": "Kopieer naar klembord",
   "Copy when dragging": "Kopiëren bij slepen",
   "Core Temp": "Kerntemp.",

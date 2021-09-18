@@ -1,4 +1,5 @@
 {
+  "% FTP": "% FTP",
   "% HRR": "% HRR",
   "% LTHR": "% LTHR",
   "% Max HR": "% Max HR",
@@ -237,6 +238,7 @@
   "Change Password": "Jelszó módosítása",
   "Change decay rates for fitness and fatigue": "Módosítsa a bomlási arányokat az erőnlét és a fáradtság érdekében",
   "Change in eFTP since last activity": "Az eFTP változása az utolsó tevékenység óta",
+  "Chart has been copied to the clipboard": "A diagram a vágólapra van másolva",
   "Charts": "táblázatok",
   "Chat": "Csevegés",
   "Chats": "Beszélgetések",
@@ -282,6 +284,7 @@
   "Cookies": "SÜTÉSEK",
   "Cooldown": "Nyugodj le",
   "Cooldown time": "Kihűlési idő",
+  "Copy": "másolat",
   "Copy To Clipboard": "Másolja a vágólapra",
   "Copy when dragging": "Másolás húzáskor",
   "Core Temp": "Maghőmérséklet",
