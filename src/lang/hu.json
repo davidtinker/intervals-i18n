@@ -1481,7 +1481,7 @@
   "send_msg_to_ask_coach_for_help": "Ha üzenetet küld, láthatja az Ön Intervals.icu adatait, és segíthetnek Önnek.",
   "sent_group_chat_msg_sub": "{0} üzenetet küldött a következőnek: '{1}'",
   "sent_message_msg_sub": "{0} üzenetet küldött Önnek",
-  "share_folder_with_athletes": "Ossza meg a {{name}} sportolókkal",
+  "share_folder_with_athletes": "Ossza meg a {name} sportolókkal",
   "shared_folder0": "Megosztott mappa {0}",
   "shared_plan0": "Megosztott edzésterv {0}",
   "she": "Ő",

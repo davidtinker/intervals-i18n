@@ -1481,7 +1481,7 @@
   "send_msg_to_ask_coach_for_help": "Dacă trimiteți un mesaj, aceștia vă vor putea vedea datele Intervals.icu și vă vor putea ajuta.",
   "sent_group_chat_msg_sub": "{0} a trimis un mesaj către '{1}'",
   "sent_message_msg_sub": "{0} v-a trimis un mesaj",
-  "share_folder_with_athletes": "Distribuiți {{name}} sportivilor",
+  "share_folder_with_athletes": "Distribuiți {name} sportivilor",
   "shared_folder0": "Dosar partajat {0}",
   "shared_plan0": "Plan comun de instruire {0}",
   "she": "ea",

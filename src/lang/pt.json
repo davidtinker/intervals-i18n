@@ -1481,7 +1481,7 @@
   "send_msg_to_ask_coach_for_help": "Se enviar uma mensagem, eles poderão ver os seus dados do Intervals.icu e poderão ajudá-lo.",
   "sent_group_chat_msg_sub": "{0} enviou uma mensagem para '{1}'",
   "sent_message_msg_sub": "{0} enviou-lhe uma mensagem",
-  "share_folder_with_athletes": "Partilhar {{name}} com Atletas",
+  "share_folder_with_athletes": "Partilhar {name} com Atletas",
   "shared_folder0": "Pasta partilhada {0}",
   "shared_plan0": "Plano de formação partilhada {0}",
   "she": "ela",

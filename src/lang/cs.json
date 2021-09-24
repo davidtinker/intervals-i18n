@@ -1481,7 +1481,7 @@
   "send_msg_to_ask_coach_for_help": "Pokud odešlete zprávu, uvidí vaše data Intervals.icu a mohou vám pomoci.",
   "sent_group_chat_msg_sub": " Uživatel{0} odeslal zprávu uživateli '{1}'",
   "sent_message_msg_sub": " Uživatel{0} vám poslal zprávu",
-  "share_folder_with_athletes": "Sdílejte {{name}} se sportovci",
+  "share_folder_with_athletes": "Sdílejte {name} se sportovci",
   "shared_folder0": "Sdílená složka {0}",
   "shared_plan0": "Sdílený tréninkový plán {0}",
   "she": "ona",

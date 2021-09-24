@@ -1481,7 +1481,7 @@
   "send_msg_to_ask_coach_for_help": "Als je een bericht stuurt, kunnen zij je Intervals.icu-gegevens zien en misschien helpen.",
   "sent_group_chat_msg_sub": "{0} stuurde een bericht naar '{1}'",
   "sent_message_msg_sub": "{0} stuurde je een bericht",
-  "share_folder_with_athletes": "Deel {{name}} met atleten",
+  "share_folder_with_athletes": "Deel {name} met atleten",
   "shared_folder0": "Gedeelde map {0}",
   "shared_plan0": "Gedeeld plan {0}",
   "she": "zij",
