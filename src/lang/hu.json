@@ -147,6 +147,7 @@
   "Average cadence (excluding zeros)": "Átlagos lépésütem (Nullákat leszámítva)",
   "Average cadence riding in zone 2": "A 2-es zónában eltöltött átlagos lépésütem",
   "Average crank torque": "Átlagos forgatónyomaték",
+  "Average for interval": "Az intervallum átlaga",
   "Average heart rate": "Átlagos pulzusszám",
   "Average heartrate": "Átlagos szívverés",
   "Average heartrate as % of max HR": "Maximális pulzushoz viszonyítot átlagos pultusszám",
@@ -590,6 +591,7 @@
   "Intensity": "Intenzitás",
   "Intensity %": "%-ban mért intenzitás",
   "Intensity vs Heart rate": "Intenzitás VS pulzus",
+  "Interval Avg": "Időköz átl",
   "Interval Data": "Interval adatok",
   "Interval Type": "Intervallum típus",
   "Interval edits and other changes are preserved": "Az intervall beállítások és más változtatások meghagyása",
@@ -1302,6 +1304,7 @@
   "comment_on_activity": "Ha megjegyzést fűz ehhez a tevékenységhez, segítse {name} képzését.",
   "commented_on_activity_msg_sub": "{0} megjegyzést fűzött a következőhöz: {1}",
   "commented_on_other_activity_msg_sub": "{0} megjegyzést fűzött {1} videójához {2}",
+  "confirm_c_activities": "Biztosan újra szeretnéd feldolgozni a (z) {n} fájljait? Minden szerkesztés visszavonásra kerül.",
   "confirm_clear_plan": "Biztosan törli az edzéstervet? Minden tervezett edzés törlődik! Ha meg szeretné tartani az edzéseket, először másolja azokat a könyvtárába. Ne feledje, hogy a versenyek, a külső naptárakból származó edzések és egyéb bejegyzések nem törlődnek.",
   "confirm_crop_activity": "Biztosan levágja ezt a tevékenységet a jelenleg kiválasztott részre?",
   "confirm_del": "Biztosan törli a (z) {name} fájlt?",
@@ -1526,6 +1529,5 @@
   "you_are_following": "Követed a következőt: {obj}",
   "your_coaches_blurb": "Edzői (azok, akik szerkeszthetik tevékenységeit, naptárát, FTP -jét és edzési beállításait):",
   "your_followers_blurb": "Követői (azok, akik láthatják a tevékenységeit, beleértve a privát, naptári és teljesítményadatokat, kattintson a szerkesztéshez):",
-  "zoom_before_crop": "Mielőtt a vágás gombra kattint, nagyítson a tevékenység azon részére, amelyet meg szeretne tartani",
-  "confirm_c_activities": "Biztosan újra szeretnéd feldolgozni a (z) {n} fájljait? Minden szerkesztés visszavonásra kerül."
+  "zoom_before_crop": "Mielőtt a vágás gombra kattint, nagyítson a tevékenység azon részére, amelyet meg szeretne tartani"
 }
