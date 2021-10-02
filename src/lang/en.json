@@ -1321,6 +1321,7 @@
   "confirm_goto_settings_update_lthr": "Your threshold heart rate appears to have increased to {value} bpm. You should consider updating your {type} threshold HR and HR zones in settings. Don't change anything if you were dehydrated or if you know your HR was elevated for some other reason.",
   "confirm_leave_group": "Are you sure you want to leave '{name}'?",
   "confirm_reanalyze_activities": "Are you sure you want to re-analyze {n}? Any manual interval edits will be undone.",
+  "confirm_remove_plan": "Are you sure you want to take {name} off this training plan?",
   "confirm_reprocess_activities": "Are you sure you want to reprocess the files for {n}? All edits will be undone.",
   "confirm_share_folder_with_all": "Are you sure you want to share this folder with all the athletes you coach?",
   "confirm_share_folder_with_tag": "Are you sure you want to share this folder with athletes you coach with the tag {tag}",

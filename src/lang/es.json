@@ -1320,6 +1320,7 @@
   "confirm_goto_settings_update_lthr": "Tu frecuencia cardíaca umbral parece haber aumentado a {value} lpm. Deberías considerar actualizar tu FC umbral {type} y las zonas de FC en los ajustes. No cambies nada si estabas deshidratado o si sabes que tu FC fue elevada por alguna otra razón.",
   "confirm_leave_group": "¿Estás seguro de que quieres dejar '{name}'?",
   "confirm_reanalyze_activities": "¿Está seguro de que quiere volver a analizar {n}? Cualquier edición manual de intervalos se deshará.",
+  "confirm_remove_plan": "¿Estás seguro de que quieres quitarte {name} de este plan de entrenamiento?",
   "confirm_reprocess_activities": "¿Está seguro de que quiere volver a procesar los archivos para {n}? Todas las ediciones se desharán.",
   "confirm_share_folder_with_all": "¿Estás seguro de que quieres compartir esta carpeta con todos los atletas que entrenas?",
   "confirm_share_folder_with_tag": "¿Estás seguro de que quieres compartir esta carpeta con los atletas que entrenas con la etiqueta {tag}",

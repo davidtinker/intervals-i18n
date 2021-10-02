@@ -1320,6 +1320,7 @@
   "confirm_goto_settings_update_lthr": "Je drempelhartslag lijkt te zijn toegenomen tot {value} bpm. Overweeg om je {type} drempelhartslag en hartslagzones in de instellingen bij te werken. Verander niets indien je gedehydrateerd was of als je hartslag om een andere gekende reden verhoogd was.",
   "confirm_leave_group": "Weet je zeker dat je '{name}' wilt laten staan?",
   "confirm_reanalyze_activities": "Weet je zeker dat je {n}opnieuw wil analyseren? Alle manuele interval aanpassingen zullen ongedaan gemaakt worden.",
+  "confirm_remove_plan": "Weet je zeker dat je {name} van dit trainingsplan af wilt halen?",
   "confirm_reprocess_activities": "Weet je zeker dat je de bestanden voor {n} opnieuw wil verwerken? Alle aanpassingen zullen ongedaan gemaakt worden.",
   "confirm_share_folder_with_all": "Weet je zeker dat je deze map wilt delen met alle atleten die je coacht?",
   "confirm_share_folder_with_tag": "Weet je zeker dat je deze map wilt delen met atleten die je coacht met de tag {tag}",

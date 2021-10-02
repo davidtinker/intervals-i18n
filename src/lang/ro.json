@@ -1320,6 +1320,7 @@
   "confirm_goto_settings_update_lthr": "Pragul ritmului cardiac pare să fi crescut la {value} bpm. Ar trebui să vă gândiți să vă actualizați {type} pragul HR și zonele HR în setări. Nu schimbați nimic dacă ați fost deshidratat sau dacă știți că HR a fost crescut din alt motiv.",
   "confirm_leave_group": "Sigur doriți să părăsiți „{name}”?",
   "confirm_reanalyze_activities": "Sigur doriți să reanalizați {n}? Orice modificare manuală a intervalului va fi anulată.",
+  "confirm_remove_plan": "Sigur doriți să eliminați {name} acest plan de formare?",
   "confirm_reprocess_activities": "Sigur doriți să reprocesați fișierele pentru {n}? Toate modificările vor fi anulate.",
   "confirm_share_folder_with_all": "Sigur doriți să distribuiți acest dosar tuturor sportivilor pe care îi antrenați?",
   "confirm_share_folder_with_tag": "Sigur doriți să distribuiți acest dosar sportivilor pe care îi antrenați cu eticheta {tag}",

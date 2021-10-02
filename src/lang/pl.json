@@ -1320,6 +1320,7 @@
   "confirm_goto_settings_update_lthr": "Wygląda na to, że Twoje progowe tętno wzrosło do {value} bpm. Powinieneś rozważyć aktualizację swojego {type} progowego HR i stref HR w ustawieniach. Nie zmieniaj niczego, jeśli byłeś odwodniony lub jeśli wiesz, że Twoje tętno było podwyższone z jakiegoś innego powodu.",
   "confirm_leave_group": "Czy na pewno chcesz zostawić '{name}'?",
   "confirm_reanalyze_activities": "Czy na pewno chcesz ponownie analizować {n}? Wszelkie ręczne zmiany interwałów zostaną cofnięte.",
+  "confirm_remove_plan": "Czy jesteś pewien, że chcesz usunąć {name} z tego planu treningowego?",
   "confirm_reprocess_activities": "Czy na pewno chcesz ponownie przetworzyć pliki dla {n}? Wszystkie edycje zostaną cofnięte.",
   "confirm_share_folder_with_all": "Czy jesteś pewien, że chcesz udostępnić ten folder wszystkim sportowcom, których trenujesz?",
   "confirm_share_folder_with_tag": "Czy na pewno chcesz udostępnić ten folder sportowcom, których trenujesz z tagiem {tag}",

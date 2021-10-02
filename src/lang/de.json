@@ -1320,6 +1320,7 @@
   "confirm_goto_settings_update_lthr": "Ihre Schwellenherzfrequenz scheint sich auf {value} Schläge pro Minute erhöht zu haben. Sie sollten in Erwägung ziehen, Ihre {type} Schwellen-HR und HR-Zonen in den Einstellungen zu aktualisieren. Ändern Sie nichts, wenn Sie dehydriert waren oder wenn Sie wissen, dass Ihre Herzfrequenz aus einem anderen Grund erhöht war.",
   "confirm_leave_group": "Sind Sie sicher, dass Sie '{name}' verlassen wollen?",
   "confirm_reanalyze_activities": "Sind Sie sicher, dass Sie {n}erneut analysieren wollen? Alle manuellen Intervallbearbeitungen werden rückgängig gemacht.",
+  "confirm_remove_plan": "Sind Sie sicher, dass Sie {name} aus diesem Trainingsplan streichen wollen?",
   "confirm_reprocess_activities": "Sind Sie sicher, dass Sie die Dateien für {n} erneut bearbeiten wollen? Alle Bearbeitungen werden rückgängig gemacht.",
   "confirm_share_folder_with_all": "Sind Sie sicher, dass Sie diesen Ordner allen Sportlern, die Sie betreuen, zur Verfügung stellen wollen?",
   "confirm_share_folder_with_tag": "Sind Sie sicher, dass Sie diesen Ordner für die von Ihnen betreuten Sportler mit dem Tag {tag}freigeben möchten?",

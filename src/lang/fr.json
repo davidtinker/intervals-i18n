@@ -1320,6 +1320,7 @@
   "confirm_goto_settings_update_lthr": "Votre seuil de fréquence cardiaque semble avoir augmenté à {value} bpm. Vous devriez envisager de mettre à jour votre seuil de fréquence cardiaque {type} et vos zones de fréquence cardiaque dans les paramètres. Ne changez rien si vous étiez déshydraté ou si vous savez que votre FC était élevée pour une autre raison.",
   "confirm_leave_group": "Vous êtes sûr de vouloir quitter '{name}' ?",
   "confirm_reanalyze_activities": "Etes-vous sûr de vouloir ré-analyser {n}? Toute modification manuelle des intervalles sera annulée.",
+  "confirm_remove_plan": "Êtes-vous sûr de vouloir retirer {name} de ce plan d'entraînement ?",
   "confirm_reprocess_activities": "Etes-vous sûr de vouloir retraiter les fichiers pour {n}? Toutes les modifications seront annulées.",
   "confirm_share_folder_with_all": "Êtes-vous sûr de vouloir partager ce dossier avec tous les athlètes que vous entraînez ?",
   "confirm_share_folder_with_tag": "Êtes-vous sûr de vouloir partager ce dossier avec les athlètes que vous entraînez avec le tag {tag}.",

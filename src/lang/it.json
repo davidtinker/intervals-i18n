@@ -1320,6 +1320,7 @@
   "confirm_goto_settings_update_lthr": "La tua frequenza cardiaca di soglia sembra essere aumentata a {value} bpm. Dovresti considerare di aggiornare la tua {type} soglia FC e le zone FC nelle impostazioni. Non cambiare nulla se eri disidratato o se sai che la tua FC era elevata per qualche altro motivo.",
   "confirm_leave_group": "Sei sicuro di voler lasciare '{name}'?",
   "confirm_reanalyze_activities": "Sei sicuro di voler rianalizzare {n}? Qualsiasi modifica manuale dell'intervallo sarà annullata.",
+  "confirm_remove_plan": "Sei sicuro di voler togliere {name} da questo piano di allenamento?",
   "confirm_reprocess_activities": "Sei sicuro di voler rielaborare i file per {n}? Tutte le modifiche saranno annullate.",
   "confirm_share_folder_with_all": "Sei sicuro di voler condividere questa cartella con tutti gli atleti che alleni?",
   "confirm_share_folder_with_tag": "Sei sicuro di voler condividere questa cartella con gli atleti che alleni con il tag {tag}",
