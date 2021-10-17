@@ -12,6 +12,7 @@ you can take it from there.
 - Nicolas Pignier (fr)
 - Igor Brusetti (it)
 - Zestroen Дмитрий Румянцев (ru)
+- Peloide (es)
 
 (Your name here! Send me a PR!)
 
