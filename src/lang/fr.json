@@ -1519,7 +1519,7 @@
   "their": "leur",
   "them": "Eux",
   "they": "elles ou ils",
-  "threshold_pace": "Votre seuil d'allure est la vitesse que vous pouvez maintenir pendant une \"longue\" période (la définition dépend du sport), mesurée en temps par unité de distance. Pour la course à pied, il peut s'agir de la vitesse la plus rapide que vous avez pu atteindre pendant 30 minutes. Elle est utilisée pour calculer la charge d'entraînement à partir de l'allure. Voir <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zones/' target='_blank'>Setting Zones par Joe Friel</a>",
+  "threshold_pace": "Votre seuil d'allure est la vitesse que vous pouvez maintenir pendant une \"longue\" période (la définition dépend du sport), mesurée en temps par unité de distance. Pour la course à pied, il peut s'agir de la vitesse la plus rapide que vous avez pu atteindre pendant 30 minutes. Elle est utilisée pour calculer la charge d'entraînement à partir de l'allure. Voir <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zone/' target='_blank'>Setting Zones par Joe Friel</a>",
   "time_in_zones_hr_load_blurb": "Vos activités précédentes avec la puissance et la fréquence cardiaque sont utilisées pour construire un modèle de régression linéaire afin d'estimer la charge d'entraînement.",
   "time_trialist_blurb": "Vous pouvez faire kilomètre après kilomètre à l'avant et ne pas ressentir de douleur (Tony Martin)",
   "timezone": "Certains fichiers d'activité (provenant de Zwift, par exemple) ne contiennent pas d'informations sur le fuseau horaire. C'est le fuseau horaire utilisé pour les activités sans fuseau horaire.",

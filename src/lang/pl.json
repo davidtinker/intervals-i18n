@@ -1519,7 +1519,7 @@
   "their": "ich",
   "them": "im",
   "they": "oni",
-  "threshold_pace": "Twoje tempo progowe to prędkość, którą możesz utrzymać przez \"długi\" czas (definicja zależy od dyscypliny sportu) mierzony w jednostce czasu na dystans. W przypadku biegania może to być najszybsza prędkość, jaką jesteś w stanie osiągnąć przez 30 minut. Jest ona używana do obliczania obciążenia treningowego na podstawie tempa. Zobacz <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zones/' target='_blank'>Setting Zones autorstwa Joe Friel</a>",
+  "threshold_pace": "Twoje tempo progowe to prędkość, którą możesz utrzymać przez \"długi\" czas (definicja zależy od dyscypliny sportu) mierzony w jednostce czasu na dystans. W przypadku biegania może to być najszybsza prędkość, jaką jesteś w stanie osiągnąć przez 30 minut. Jest ona używana do obliczania obciążenia treningowego na podstawie tempa. Zobacz <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zone/' target='_blank'>Setting Zones autorstwa Joe Friel</a>",
   "time_in_zones_hr_load_blurb": "Poprzednie aktywności użytkownika wraz z mocą i tętnem są wykorzystywane do budowy modelu regresji liniowej w celu oszacowania obciążenia treningowego.",
   "time_trialist_blurb": "Możesz robić kilometr za kilometrem na froncie i nie czuć bólu (Tony Martin)",
   "timezone": "Niektóre pliki aktywności (np. z Zwift) nie zawierają informacji o strefie czasowej. Jest to strefa czasowa używana dla aktywności bez stref czasowych.",

@@ -1519,7 +1519,7 @@
   "their": "seus",
   "them": "eles",
   "they": "elas",
-  "threshold_pace": "O seu ritmo limite é a velocidade que pode manter durante um tempo 'longo' (a definição depende do desporto) medido em tempo por unidade de distância. Para correr, esta pode ser a velocidade mais rápida que conseguiu correr durante 30 minutos. É utilizado para calcular a carga de treino a partir do ritmo. Ver <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zones/' target='_blank'>Definir Zonas por Joe Friel</a>",
+  "threshold_pace": "O seu ritmo limite é a velocidade que pode manter durante um tempo 'longo' (a definição depende do desporto) medido em tempo por unidade de distância. Para correr, esta pode ser a velocidade mais rápida que conseguiu correr durante 30 minutos. É utilizado para calcular a carga de treino a partir do ritmo. Ver <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zone/' target='_blank'>Definir Zonas por Joe Friel</a>",
   "time_in_zones_hr_load_blurb": "As suas actividades anteriores com potência e frequência cardíaca são utilizadas para construir um modelo de regressão linear para estimar a carga de treino.",
   "time_trialist_blurb": "Pode fazer quilómetro após quilómetro na frente e não sentir dor (Tony Martin)",
   "timezone": "Alguns ficheiros de actividade (por exemplo, de Zwift) não contêm informação de fuso horário. Este é o fuso horário utilizado para actividades sem fusos horários.",

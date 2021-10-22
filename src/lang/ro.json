@@ -1519,7 +1519,7 @@
   "their": "al lor",
   "them": "lor",
   "they": "ei",
-  "threshold_pace": "Ritmul dvs. de prag este viteza pe care o puteți menține pentru un timp \"lung\" (definiția depinde de sport) măsurată în timp pe unitate de distanță. Pentru alergare, acesta ar putea fi cel mai rapid pe care l-ați putut rula timp de 30 de minute. Este folosit pentru a calcula sarcina de antrenament din ritm. Consultați <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zones/' target='_blank'>Setarea zonelor de Joe Friel</a>",
+  "threshold_pace": "Ritmul dvs. de prag este viteza pe care o puteți menține pentru un timp \"lung\" (definiția depinde de sport) măsurată în timp pe unitate de distanță. Pentru alergare, acesta ar putea fi cel mai rapid pe care l-ați putut rula timp de 30 de minute. Este folosit pentru a calcula sarcina de antrenament din ritm. Consultați <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zone/' target='_blank'>Setarea zonelor de Joe Friel</a>",
   "time_in_zones_hr_load_blurb": "Activitățile dvs. anterioare cu putere și ritm cardiac sunt utilizate pentru a construi un model de regresie liniară pentru a estima sarcina de antrenament.",
   "time_trialist_blurb": "Puteți face kilometru după kilometru pe față și nu simțiți durere (Tony Martin)",
   "timezone": "Unele fișiere de activitate (de exemplu, de la Zwift) nu conțin informații despre fusul orar. Acesta este fusul orar utilizat pentru activități fără fusuri orare.",

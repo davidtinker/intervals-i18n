@@ -1519,7 +1519,7 @@
   "their": "their",
   "them": "them",
   "they": "they",
-  "threshold_pace": "Your threshold pace is the speed you can maintain for a 'long' time (definition depends on the sport) measured in time per distance unit. For running this might be the fastest you have been able to run for 30 minutes. It is used to calculate training load from pace. See <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zones/' target='_blank'>Setting Zones by Joe Friel</a>",
+  "threshold_pace": "Your threshold pace is the speed you can maintain for a 'long' time (definition depends on the sport) measured in time per distance unit. For running this might be the fastest you have been able to run for 30 minutes. It is used to calculate training load from pace. See <a href='https://joefrieltraining.com/a-quick-guide-to-setting-zone/' target='_blank'>Setting Zones by Joe Friel</a>",
   "time_in_zones_hr_load_blurb": "Your previous activities with power and heart rate are used to build a linear regression model to estimate training load.",
   "time_trialist_blurb": "You can do kilometer after kilometer on the front and do not feel pain (Tony Martin)",
   "timezone": "Some activity files (e.g. from Zwift) do not contain timezone information. This is the timezone used for activities without timezones.",

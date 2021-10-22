@@ -1519,7 +1519,7 @@
   "their": "jejich",
   "them": "jim",
   "they": "ony",
-  "threshold_pace": "Vaše prahové tempo je rychlost, kterou můžete udržovat po „dlouhou“ dobu (definice závisí na sportu) měřenou v čase na jednotku vzdálenosti. Pokud jde o běh, může to být nejrychlejší běh na 30 minut. Slouží k výpočtu tréninkové zátěže z tempa. Viz <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zones/' target='_blank'>Nastavení zón od Joe Friela</a>",
+  "threshold_pace": "Vaše prahové tempo je rychlost, kterou můžete udržovat po „dlouhou“ dobu (definice závisí na sportu) měřenou v čase na jednotku vzdálenosti. Pokud jde o běh, může to být nejrychlejší běh na 30 minut. Slouží k výpočtu tréninkové zátěže z tempa. Viz <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zone/' target='_blank'>Nastavení zón od Joe Friela</a>",
   "time_in_zones_hr_load_blurb": "Vaše předchozí aktivity s výkonem a srdeční frekvencí se používají k sestavení lineárního regresního modelu pro odhad tréninkového zatížení.",
   "time_trialist_blurb": "Na přední straně můžete dělat kilometr za kilometrem a necítíte bolest (Tony Martin)",
   "timezone": "Některé soubory aktivit (např. Od Zwift) neobsahují informace o časovém pásmu. Toto je časové pásmo používané pro činnosti bez časových pásem.",

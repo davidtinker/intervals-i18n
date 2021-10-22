@@ -1519,7 +1519,7 @@
   "their": "SU",
   "them": "Ellos",
   "they": "Ellos",
-  "threshold_pace": "Tu ritmo umbral es la velocidad que puedes mantener durante un tiempo \"largo\" (la definición depende del deporte) medido en tiempo por unidad de distancia. En el caso de la carrera a pie, puede ser la velocidad más rápida que hayas podido alcanzar durante 30 minutos. Se utiliza para calcular la carga de entrenamiento a partir del ritmo. Ver <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zones/' target='_blank'>Setting Zones de Joe Friel</a>",
+  "threshold_pace": "Tu ritmo umbral es la velocidad que puedes mantener durante un tiempo \"largo\" (la definición depende del deporte) medido en tiempo por unidad de distancia. En el caso de la carrera a pie, puede ser la velocidad más rápida que hayas podido alcanzar durante 30 minutos. Se utiliza para calcular la carga de entrenamiento a partir del ritmo. Ver <a href='https://joefrielsblog.com/a-quick-guide-to-setting-zone/' target='_blank'>Setting Zones de Joe Friel</a>",
   "time_in_zones_hr_load_blurb": "Tus actividades anteriores con la potencia y la frecuencia cardíaca se utilizan para construir un modelo de regresión lineal para estimar la carga de entrenamiento.",
   "time_trialist_blurb": "Puedes hacer kilómetro tras kilómetro en la parte delantera y no sentir dolor (Tony Martin)",
   "timezone": "Algunos archivos de actividades (por ejemplo, de Zwift) no contienen información sobre la zona horaria. Esta es la zona horaria utilizada para las actividades sin zonas horarias.",
