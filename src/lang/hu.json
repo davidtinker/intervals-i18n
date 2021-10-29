@@ -1458,6 +1458,7 @@
   "no_targets_blurb": "Az alábbi gombokra kattintva állíthatod be az edzésterhelést, az edzésidőt és a távolságot az adott sport számára. Nyomon követheted a fejlődésed és megtervezheted az edzéseid a céljaid elérése érdekében.",
   "non_members_visible_blurb": "A nem tagok láthatják a csoportot, de nem láthatják a csevegőüzeneteket, edzéseket vagy edzésterveket",
   "old_wellness_data_blurb": "A kezdeti időponttól kezdődően a wellness-adatok letöltésre kerülnek. Több percig tart, amíg megjelenik a naptárában. Kérjük, legyen türelmes.",
+  "old_wellness_data_download_busy": "A wellness adatok letöltése folyamatban van, kérjük, legyen türelmes.",
   "outdoor_power_range": "A pontos teljesítménycélokkal rendelkező szabadtéri edzéslépéseket a cél teljesítmény plusz/mínusz tartományaiba adjuk meg",
   "over time": "Időtúllépés",
   "pace_load_type": "Az Intervals.icu meg tudja becsülni az edzésterhelést az úszás sebességéből és a futás tempójából. Ez bizonyos esetekben jobb mérés lehet, mint a pulzus alapú edzésterhelés meghatározás. A futó számítást <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>ebben a Slowtwitch -bejegyzésben</a>ismertetjük. Az úszás kiszámítása <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>itt olvasható</a>.",

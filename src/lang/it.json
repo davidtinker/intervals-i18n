@@ -1458,6 +1458,7 @@
   "no_targets_blurb": "Clicca i pulsanti qui sotto per impostare il carico di allenamento, il tempo e gli obiettivi di distanza per i tuoi sport. Puoi monitorare i progressi rispetto agli obiettivi e pianificare l'allenamento per raggiungerli.",
   "non_members_visible_blurb": "I non membri possono vedere il gruppo ma non i messaggi di chat, gli allenamenti o i piani di allenamento",
   "old_wellness_data_blurb": "I dati del benessere dalla data di inizio saranno scaricati. Ci vorranno molti minuti prima che appaiano sul tuo calendario. Per favore, sii paziente.",
+  "old_wellness_data_download_busy": "I dati del benessere vengono scaricati, si prega di essere pazienti",
   "outdoor_power_range": "I passi di allenamento all'aperto con obiettivi di potenza esatti sono convertiti in intervalli di più/meno questa percentuale della potenza obiettivo",
   "over time": "nel tempo",
   "pace_load_type": "Intervals.icu può stimare il carico di allenamento dal ritmo per il nuoto e dal passo regolato dal gradiente per la corsa. Questa potrebbe essere una misura migliore del carico dalla frequenza cardiaca. Il calcolo della corsa è spiegato in <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>questo post di Slowtwitch</a>. Il calcolo del nuoto è <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>spiegato qui</a>.",

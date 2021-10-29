@@ -1458,6 +1458,7 @@
   "no_targets_blurb": "Click the buttons below to set training load, time and distance targets for your sports. You can track progress against the targets and plan your training to achieve them.",
   "non_members_visible_blurb": "Non-members can see the group but not chat messages, workouts or training plans",
   "old_wellness_data_blurb": "Wellness data from the start date will be downloaded. It will take many minutes to appear on your calendar. Please be patient.",
+  "old_wellness_data_download_busy": "Wellness data is being downloaded, please be patient",
   "outdoor_power_range": "Outdoor workout steps with exact power targets are converted into ranges of plus/minus this percentage of the target power",
   "over time": "over time",
   "pace_load_type": "Intervals.icu can estimate training load from pace for swimming and gradient adjusted pace for running. This might be a better measure than load from heart rate. The running calculation is explained in <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>this Slowtwitch post</a>. The swim calculation is <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>explained here</a>.",

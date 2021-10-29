@@ -1458,6 +1458,7 @@
   "no_targets_blurb": "Klicken Sie auf die Schaltflächen unten, um Trainingsbelastungs-, Zeit- und Distanzziele für Ihre Sportarten festzulegen. Sie können Ihren Fortschritt anhand dieser Ziele verfolgen und Ihr Training so planen, dass Sie diese Ziele erreichen.",
   "non_members_visible_blurb": "Nicht-Mitglieder können die Gruppe sehen, aber keine Chat-Nachrichten, Workouts oder Trainingspläne",
   "old_wellness_data_blurb": "Die Wellness-Daten werden ab dem Startdatum heruntergeladen. Es wird einige Minuten dauern, bis sie in Ihrem Kalender erscheinen. Bitte haben Sie etwas Geduld.",
+  "old_wellness_data_download_busy": "Wellness-Daten werden gerade heruntergeladen, bitte haben Sie etwas Geduld",
   "outdoor_power_range": "Outdoor-Trainingsschritte mit genauen Leistungszielen werden in Bereiche von plus/minus diesem Prozentsatz der Zielleistung umgerechnet",
   "over time": "Im Laufe der Zeit",
   "pace_load_type": "Intervals.icu kann die Trainingsbelastung anhand des Tempos beim Schwimmen und des an die Steigung angepassten Tempos beim Laufen schätzen. Dies könnte ein besseres Maß sein als die Belastung anhand der Herzfrequenz. Die Laufberechnung wird in <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>diesem Slowtwitch-Beitrag</a>erklärt. Die Berechnung beim Schwimmen wird <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>hier</a>erklärt.",

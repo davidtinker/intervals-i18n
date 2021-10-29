@@ -1458,6 +1458,7 @@
   "no_targets_blurb": "Kliknij poniższe przyciski, aby ustawić obciążenie treningowe, czas i dystans docelowy dla Twoich dyscyplin sportowych. Możesz śledzić postępy w stosunku do celów i planować trening, aby je osiągnąć.",
   "non_members_visible_blurb": "Osoby nie będące członkami grupy mogą widzieć grupę, ale nie mogą widzieć wiadomości na czacie, treningów ani planów treningowych.",
   "old_wellness_data_blurb": "Zostaną pobrane dane dotyczące samopoczucia od daty rozpoczęcia. Zanim dane pojawią się w Twoim kalendarzu, minie wiele minut. Prosimy o cierpliwość.",
+  "old_wellness_data_download_busy": "Trwa pobieranie danych Wellness, prosimy o cierpliwość",
   "outdoor_power_range": "Kroki treningu na zewnątrz z dokładnymi celami mocy są przekształcane w zakresy plus/minus tego procentu mocy docelowej",
   "over time": "w czasie",
   "pace_load_type": "Intervals.icu może oszacować obciążenie treningowe na podstawie tempa dla pływania i tempa dostosowanego do nachylenia dla biegania. To może być lepsza miara niż obciążenie z tętna. Obliczanie biegu jest wyjaśnione w <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>tym poście Slowtwitch</a>. Obliczanie pływania jest <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>wyjaśnione tutaj</a>.",
