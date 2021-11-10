@@ -326,6 +326,7 @@
   "Days": "Jours",
   "Days with no value get previous day value": "Les jours sans donnée obtiennent la donnée du jour précédent",
   "Decoupling": "Découplage",
+  "Default": "Par défaut",
   "Default Cooldown Time": "Temps de retour au calme par défaut",
   "Default Warmup Time": "Temps d'échauffement par défaut",
   "Defaults": "Valeurs par défaut",
