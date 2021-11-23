@@ -13,6 +13,7 @@ you can take it from there.
 - Igor Brusetti (it)
 - Zestroen Дмитрий Румянцев (ru)
 - Peloide (es)
+- Benjamin Schwan (de)
 
 (Your name here! Send me a PR!)
 
