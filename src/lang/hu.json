@@ -143,7 +143,6 @@
   "Ask To Follow Athletes": "Sportoló követése",
   "Ask a coach for help": "Kérj segítséget az edződtől",
   "Athlete ID": "Sportolói azonosító",
-
   "Athletes": "Sportolók",
   "Athletes cannot edit workouts": "A sportolók nem szerkeszthetik az edzéseket",
   "Athletes receive {w} {a}": "A sportolók {w} {a}",
@@ -157,7 +156,7 @@
   "Average SmO2 %": "Átlagos SmO2 %",
   "Average SmO2 % (2)": "Átlagos SmO2 % (2)",
   "Average THb": "Átlag THb",
-  "Average THb (2)": "Átlag THb (2)",
+  "Average THb (2)": "Átlag THb (2)",
   "Average ascent speed (meters/hour)": "Átlagsebesség az emelkedőn (méter/óra)",
   "Average cadence (excluding zeros)": "Átlagos fordulatszám (nullákat leszámítva)",
   "Average cadence riding in zone 2": "A 2-es zónában eltöltött átlagos fordulatszám",
@@ -611,7 +610,6 @@
   "Import": "Importálás",
   "Import All Garmin Data": "Összes Garmin adat importálása",
   "Import All Polar Data": "Összes Polar adat importálása",
-
   "Import activity files": "Tevékenységek importálása",
   "Import wellness data": "Wellness adatok importálása",
   "Include commutes": "Tartalmazza az ingázást ",
