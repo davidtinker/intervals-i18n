@@ -94,7 +94,7 @@
   "Add Step": "Lépés hozzáadása",
   "Add Sweet Spot": "Sweet Spot hozzáadása",
   "Add To Library": "Hozzáadás a könyvtárhoz",
-
+  "Add Type": "Típus hozzáadása",
   "Add Workout": "Edzés hozzáadása",
   "Add Your Coach": "Add hozzá az edződ",
   "Add Zone": "Zóna hozzáadása",
@@ -143,6 +143,7 @@
   "Ask To Follow Athletes": "Sportoló követése",
   "Ask a coach for help": "Kérj segítséget az edződtől",
   "Athlete ID": "Sportolói azonosító",
+  "Athlete bikes and shoes updated": "Cipők és kerékpárok frissítve",
   "Athletes": "Sportolók",
   "Athletes cannot edit workouts": "A sportolók nem szerkeszthetik az edzéseket",
   "Athletes receive {w} {a}": "A sportolók {w} {a}",
@@ -272,7 +273,7 @@
   "Cleaned minutes spent in HR Z2": "2-es zónában eltöltött tiszta percek",
   "Clear": "Törlés",
   "Clear Plan": "Edzésterv törlése",
-
+  "Clear week": "Hét törlése",
   "Click To Signup": "Kattints a regisztráció gombra",
   "Click to configure zones": "Kattints a zónák konfigurálásához",
   "Click to define targets": "Kattints a célok meghatározásához",
@@ -305,7 +306,7 @@
   "Cooldown time": "Levezetés idő",
   "Copy": "Másolat",
   "Copy To Clipboard": "Másolás a vágólapra",
-
+  "Copy week": "Hét másolása",
   "Copy when dragging": "Másolás húzáskor",
   "Core Temp": "Belső hőmérséklet",
   "Count": "Számolás",
@@ -342,14 +343,14 @@
   "Del": "Törlés",
   "Delete": "Törlés",
   "Delete Account": "Fiók törlése",
-
-
+  "Delete Folder": "Mappa törlése",
+  "Delete Plan": "Terv törlése",
   "Delete activity": "Tevékenység törlése",
   "Delete calendar": "Naptár törlése",
   "Delete chart": "Diagram törlése",
   "Delete future notes": "Jövőbeni jegyzetek törlése",
   "Delete the interval at the marker": "Töröld az intervallumot a jelzésnél",
-
+  "Delete week": "Hét törlése",
   "Deleted": "Törölve",
   "Deleting": "Törlés",
   "Demote Self": "Lefokozod magad",
@@ -361,7 +362,7 @@
   "Device": "Eszköz",
   "Device Information (for troubleshooting)": "Eszközadatok (Hibaelhárításhoz)",
   "Device name": "Eszköz neve",
-  "Diastolic": "Diasztolés vérnyomás",
+  "Diastolic": "Diasztolés vérnyomásérték",
   "Difficult": "Nehéz",
   "Disabled": "Nincs kiválasztva",
   "Disconnect": "Szétkapcsol",
@@ -394,9 +395,9 @@
   "Drop folders & plans here": "Dobd ide a mappákat és terveket",
   "Drop folders & plans here to share": "Dobd ide a mappákat és terveket a megosztáshoz",
   "Dropbox": "Dropbox",
-
-
-
+  "Duplicate": "Duplikálás",
+  "Duplicate Folder": "Mappa duplikálása",
+  "Duplicate Plan": "Terv duplikálása",
   "Duration": "Időtartam",
   "Duration eg 8m30s": "Időtartam pl. 8p30mp",
   "E-Bike Ride": "E-bike",
@@ -405,10 +406,10 @@
   "Edit": "Szerkesztés",
   "Edit Axis": "Tengely szerk.",
   "Edit Data": "Adatok szerkesztése",
-
+  "Edit Folder": "Mappa szerkesztése",
   "Edit Heart Rate Training Zones": "Pulzuszónák beállítása",
   "Edit Pace Training Zones ": "Tempózónák beállítása",
-
+  "Edit Plan": "Terv szerkesztése",
   "Edit Power Training Zones ": "Teljesítményzónák beálítása",
   "Edit activities, calendar, FTP and training settings": "Állítsd be a tevékenységeket, naptárt, FTP-t és az edzés beállításokat",
   "Edit chart": "Diagram szerkesztése",
@@ -610,6 +611,7 @@
   "Import": "Importálás",
   "Import All Garmin Data": "Összes Garmin adat importálása",
   "Import All Polar Data": "Összes Polar adat importálása",
+  "Import Workouts": "Edzések importálása",
   "Import activity files": "Tevékenységek importálása",
   "Import wellness data": "Wellness adatok importálása",
   "Include commutes": "Tartalmazza az ingázást ",
@@ -621,8 +623,8 @@
   "Injured": "Sérülés",
   "Inline R": "Sorban R",
   "Inline Skate": "Egysoros korcsolya",
-
-
+  "Insert week above": "Hét beillesztése felülre",
+  "Insert week below": "Hét beillesztése alulra",
   "Inspired by": "Inspirál",
   "Instant HR": "Instant pulzus",
   "Instant Power": "Instant teljesítmény",
@@ -847,7 +849,7 @@
   "Password Reset": "Jelszó visszaállítása",
   "Paste": "Beillesztés",
   "Paste Custom Chart": "Egyéni diagram beillesztése",
-
+  "Paste week": "Hét beillesztése",
   "Pay Now": "Fizess most",
   "Percentage of fitness": "A fittség százalékos arányában",
   "Period": "Menstruáció",
@@ -924,7 +926,7 @@
   "Refresh calendar": "Naptár frissítése",
   "Reload from": "Újratöltés innen",
   "Remove": "Eltávolítás",
-
+  "Remove Folder": "Mappa eltávolítása",
   "Remove Plan": "Terv eltávolítása",
   "Repeats": "Ismétlések",
   "Replace missing points with preceding value": "Cseréld ki a hiányzó pontokat az előző értékre",
@@ -981,8 +983,8 @@
   "Sex": "Nem",
   "Share": "Megosztás",
   "Share Activity": "Tevékenység megosztása",
-
-
+  "Share Folder": "Mappa megosztása",
+  "Share Plan": "Terv megosztása",
   "Share With Athlete": "Osszd meg sportolóval",
   "Share with other athletes": "Osszd meg más sportolókkal",
   "Show activity source": "Tevékenységforrás megjelenítése",
@@ -990,7 +992,7 @@
   "Show compliance to plan": "Mutasd a tervnek való megfelelést",
   "Show deleted activities": "Törölt tevékenységek megjelenítése",
   "Show estimated FTP": "Becsült FTP megjelenítése",
-
+  "Show fitness": "Fittség megjelenítése",
   "Show gradient adjusted pace": "Mutasd a meredekséghez igazított tempót (GAP)",
   "Show model power curve": "Modell teljesítménygörbéjének megjelenítése",
   "Show notes and comments": "Jegyzetek és megjegyzések megjelenítése",
@@ -1171,7 +1173,7 @@
   "Up": "Szint",
   "Update": "Frissítés",
   "Update Activities": "Tevékenységek frissítése",
-
+  "Update Gear": "Eszközök frissítése",
   "Update Permissions": "Engedélyek frissítése",
   "Update Zones": "Zónák frissítése",
   "Update calendars of all linked athletes": "Összes sportoló naptárának frissítése",
@@ -1240,7 +1242,7 @@
   "Wbal ᐁ": "W'bal ᐁ",
   "Wednesday": "Szerda",
   "Week": "Hét",
-
+  "Week_short": "Hét",
   "Weekly": "Heti",
   "Weekly Average": "Heti átlag",
   "Weekly Max": "Heti maximum",
@@ -1291,8 +1293,8 @@
   "Workout Search": "Edzés keresés",
   "Workout shift": "Edzés műszak",
   "Workouts": "Edzések",
-
-
+  "X-Axis": "X-tengely",
+  "Y-Axis": "Y-tengely",
   "Year": "Év",
   "Yes": "Igen",
   "Yes & Others": "Igen és egyebek",
@@ -1372,7 +1374,7 @@
   "commented_on_activity_msg_sub": "{0} megjegyzést fűzött a következőhöz: {1}",
   "commented_on_other_activity_msg_sub": "{0} megjegyzést fűzött {1} videójához {2}",
   "confirm_clear_plan": "Biztosan törlöd az edzéstervet? Minden tervezett edzés törlődik! Ha meg szeretnéd tartani az edzéseket, először másold azokat a könyvtáradba. Ne feledd, hogy a versenyek, a külső naptárakból származó edzések és egyéb bejegyzések nem törlődnek.",
-
+  "confirm_clear_week": "Biztos, hogy törölni akarod az összes edzést ezen a héten?",
   "confirm_crop_activity": "Biztosan levágod ezt a tevékenységet a jelenleg kiválasztott részre?",
   "confirm_del": "Biztosan törlöd a (z) {name} fájlt?",
   "confirm_del_activity": "Biztosan törlöd ezt a tevékenységet?",
@@ -1383,7 +1385,7 @@
   "confirm_delete_account": "Biztosan törölni szeretnéd fiókodat? Minden adat törlődik. Ez a művelet nem visszavonható! Írd be az „igen”-t az alábbi mezőbe, majd kattints az „OK” gombra a fiók törléséhez.",
   "confirm_delete_activities": "Biztosan törlöd a (z) {n}fájlt? Ha hibázol, visszavonhatod a tevékenységek törlését, de ez sok időt vesz igénybe, és nem állítja vissza a szerkesztéseket. Szóval légy óvatos!",
   "confirm_delete_sport_settings": "Biztosan törlöd a (z) {type} beállításait?",
-
+  "confirm_delete_week": "Biztos, hogy törölni akarod ezt a hetet és az összes edzést?",
   "confirm_fix_data": "Biztosan módosítani szeretnéd a (z) {n} adatait",
   "confirm_goto_settings_update_ftp": "Az eFTP értéke {estFtp}w-ra nőtt. Érdemes megfontolni az {type} FTP frissítését a beállításokban, hogy a teljesítményzónákat aktualizálni lehessen, és az edzésterhelés helyesen legyen kiszámítva.",
   "confirm_goto_settings_update_lthr": "Úgy tűnik, az anaerob küszöbhöz tartozó pulzusszám {value} ütés / percre emelkedett. Érdemes megfontolni a beállításokban a {type} laktátküszöbhöz tartozó pulzusszám és a pulzus zónák frissítését. Ne változtass semmit, ha dehidratálttá válsz, vagy ha tudod, hogy a pulzus más okból emelkedett.",
@@ -1473,8 +1475,8 @@
   "hrss_load_blurb": "A modell az egyes HR-értékeknél a küszöbértékhez és a HR tartalékhoz (max. nyugalmi HR) töltött időt használja az edzésterhelés becsléséhez.",
   "icu_rolling_ftp": "A becsült FTP kiszámítása a <a href='https://www.cyclingapps.net/' target='_blank'>FastFitness.Tips</a> és a <a href='https://doi.org/10.1080/00140139608964484' target='_blank'>Morton 3 paraméteres kritikus teljesítménymodellje</a>teljesítménygörbéi alapján történik. A becsült FTP kiszámítása úgy történik, hogy a rendszer a teljesítménygörbére helyezi, az egyetlen maximális erőfeszítéssel elvégzett, 180 másodperc és 30 perc közé eső munkát. A becsült FTP változatlan marad, ha fenntartja az edzésterhelést, és lassan csökken, amikor csökkenti az edzést. Ahhoz, hogy felmenjen, maximális erőfeszítést kell tenned! A szükséges minimális időtartam a beállításokban van megadva.",
   "import_in_progress": "{n} import folyamatban",
-
-
+  "import_workout_count": "{n}/{tot} edzés importálva",
+  "import_workouts_blurb": "Kattints a {types} fájlok kiválasztásához, vagy húzd ide őket. Több fájl is kiválasztható vagy törölhető. Minden egyes fájl importálásra kerül a mappába.",
   "indoor_ftp": "A beltéri FTP-t beltéri edésekhez és virtuális versenyekhez használják. Ha üresen hagyod, akkor normál FTP-t használ. - <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "intensity": "Az edzés intenzitása annak mértéke, hogy milyen intenzív volt az FTP-hez képest. Kiszámításához el kell osztani az edzés normalizált wattjait vagy súlyozott átlagteljesítményét az FTP-vel. Ha 100%-nál nagyobb intenzitással képes teljesíteni 1 órás vagy hosszabb edzést, akkor az FTP túl alacsony. A teljesítmény nélküli tevékenységekhez az intenzitást az edzésterhelés és az időtartam határozza meg.",
   "interval_search_blurb": "Írd be a 0-t egy mezőbe, hogy bármilyen értéket egyeztess. A teljesítmény mezőbe wattban megadott értéket vagy az FTP-hez viszonyított százalékos intenzitást lehet beírni minden egyes tevékenységhez. Így megadhatod a 100%-ot, hogy megtalálod az összes küszöbintervallumot. Kattints egy tevékenység intervallumcsipkére, hogy a keresési paramétereket az adott intervallumra töltsd fel. A vastag vonal az egyes napok tevékenységeinek megfelelő intervallumokra vonatkozó átlagos teljesítményt/nyomatékot mutatja.",
