@@ -1410,6 +1410,7 @@
   "confirm_del_workout": "Sigur doreși să ștergi acest antrenament?",
   "confirm_delete_account": "Sigur doreși să ștergi contul tău? Toate datele tale vor fi șterse. Această acțiune nu poate fi anulată! Scrie „da” în căsuța de mai jos și apasă pe „OK” pentru a-ți șterge contul.",
   "confirm_delete_activities": "Sigur doreși să ștergi {n}? Dacă faci o greșeală, poți anula ștergerea activităților, dar aceasta durează mult și nu va restabili nicio editare. Așa că fii atent!",
+  "confirm_delete_plot": "Sunteți sigur că doriți să ștergeți această diagramă?",
   "confirm_delete_sport_settings": "Sigur dorești să ștergi setările pentru {type} ?",
   "confirm_delete_week": "Sigur dorești să ștergi această săptămână și toate antrenamentele sale?",
   "confirm_fix_data": "Sigur dorești să ajustezi datele pentru {n}",

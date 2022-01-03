@@ -1410,6 +1410,7 @@
   "confirm_del_workout": "Are you sure you want to delete this workout?",
   "confirm_delete_account": "Are you sure you want to delete your account? All of your data will be deleted. This action cannot be undone! Enter 'yes' in the box below and click 'OK' to delete your account.",
   "confirm_delete_activities": "Are you sure you want to delete {n}? If you make a mistake you can undelete activities but this takes a long time and won't restore any edits. So be careful!",
+  "confirm_delete_plot": "Are you sure you want to delete this chart plot?",
   "confirm_delete_sport_settings": "Are you sure you want to delete settings for {type} ?",
   "confirm_delete_week": "Are you sure you want to delete this week and all its workouts?",
   "confirm_fix_data": "Are you sure you want to adjust data for {n}",

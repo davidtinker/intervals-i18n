@@ -1410,6 +1410,7 @@
   "confirm_del_workout": "Weet je zeker dat je deze training wil verwijderen?",
   "confirm_delete_account": "Weet je zeker dat je je account wil verwijderen? Al je gegevens worden verwijderd. Deze actie kan niet ongedaan gemaakt worden! Tik 'ja' in het onderstaande veld en klik op 'OK' om je account te verwijderen.",
   "confirm_delete_activities": "Weet je zeker dat je {n}wilt verwijderen? Als je een fout maakt kan je bewerkingen ongedaan maken, maar dit duurt lang en zal aanpassingen niet herstellen. Wees dus voorzichtig!",
+  "confirm_delete_plot": "Weet u zeker dat u deze grafiek plot wilt verwijderen?",
   "confirm_delete_sport_settings": "Weet je zeker dat je de instellingen voor {type} wil verwijderen?",
   "confirm_delete_week": "Weet je zeker dat je deze week en al zijn trainingen wilt verwijderen?",
   "confirm_fix_data": "Weet je zeker dat je de data voor {n} wilt aanpassen",

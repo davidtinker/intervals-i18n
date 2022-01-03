@@ -1410,6 +1410,7 @@
   "confirm_del_workout": "Czy na pewno chcesz usunąć ten trening?",
   "confirm_delete_account": "Czy na pewno chcesz usunąć swoje konto? Wszystkie Twoje dane zostaną usunięte. Tej akcji nie można cofnąć! Wpisz „tak” w polu poniżej i kliknij „OK”, aby usunąć swoje konto.",
   "confirm_delete_activities": "Czy na pewno chcesz usunąć {n}? Jeśli popełnisz błąd, możesz cofnąć usunięte aktywności, ale trwa to długo i nie przywróci żadnych zmian. Więc bądź ostrożny!",
+  "confirm_delete_plot": "Czy na pewno chcesz usunąć ten wykres?",
   "confirm_delete_sport_settings": "Czy na pewno chcesz usunąć ustawienia dla {type} ?",
   "confirm_delete_week": "Czy na pewno chcesz usunąć ten tydzień i wszystkie jego treningi?",
   "confirm_fix_data": "Czy na pewno chcesz dostosować dane dla {n}",

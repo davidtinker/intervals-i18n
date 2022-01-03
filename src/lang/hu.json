@@ -1410,6 +1410,7 @@
   "confirm_del_workout": "Biztosan törlöd ezt az edzést?",
   "confirm_delete_account": "Biztosan törölni szeretnéd fiókodat? Minden adat törlődik. Ez a művelet nem visszavonható! Írd be az „igen”-t az alábbi mezőbe, majd kattints az „OK” gombra a fiók törléséhez.",
   "confirm_delete_activities": "Biztosan törlöd a (z) {n}fájlt? Ha hibázol, visszavonhatod a tevékenységek törlését, de ez sok időt vesz igénybe, és nem állítja vissza a szerkesztéseket. Szóval légy óvatos!",
+  "confirm_delete_plot": "Biztos, hogy törölni szeretné ezt a diagram ábrát?",
   "confirm_delete_sport_settings": "Biztosan törlöd a (z) {type} beállításait?",
   "confirm_delete_week": "Biztos, hogy törölni akarod ezt a hetet és az összes edzést?",
   "confirm_fix_data": "Biztosan módosítani szeretnéd a (z) {n} adatait",

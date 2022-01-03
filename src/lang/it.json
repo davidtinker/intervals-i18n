@@ -1410,6 +1410,7 @@
   "confirm_del_workout": "Sei sicuro di voler cancellare questo allenamento?",
   "confirm_delete_account": "Sei sicuro di voler eliminare il tuo account? Tutti i tuoi dati verranno cancellati. Questa azione non può essere annullata! Inserisci \"sì\" nella casella sottostante e fai clic su \"OK\" per eliminare il tuo account.",
   "confirm_delete_activities": "Sei sicuro di voler cancellare {n}? Se fai un errore puoi annullare le attività, ma questo richiede molto tempo e non ripristinerà nessuna modifica. Quindi fai attenzione!",
+  "confirm_delete_plot": "Sei sicuro di voler cancellare questo grafico?",
   "confirm_delete_sport_settings": "Sei sicuro di voler eliminare le impostazioni per {type} ?",
   "confirm_delete_week": "Sei sicuro di voler cancellare questa settimana e tutti i suoi allenamenti?",
   "confirm_fix_data": "Sei sicuro di voler aggiustare i dati per {n}",

@@ -1410,6 +1410,7 @@
   "confirm_del_workout": "Opravdu chcete toto cvičení smazat?",
   "confirm_delete_account": "Opravdu chcete svůj účet smazat? Všechna vaše data budou smazána. Tuto akci nelze vrátit zpět! Do pole níže zadejte „ano“ a kliknutím na „OK“ svůj účet smažte.",
   "confirm_delete_activities": "Opravdu chcete smazat {n}? Pokud uděláte chybu, můžete aktivity zrušit, ale to trvá dlouho a neobnoví žádné úpravy. Buď opatrný!",
+  "confirm_delete_plot": "Jste si jisti, že chcete tento graf odstranit?",
   "confirm_delete_sport_settings": "Opravdu chcete smazat nastavení pro {type} ?",
   "confirm_delete_week": "Jste si jisti, že chcete tento týden a všechny jeho tréninky smazat?",
   "confirm_fix_data": "Opravdu chcete upravit data pro {n}",

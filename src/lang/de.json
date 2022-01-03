@@ -1410,6 +1410,7 @@
   "confirm_del_workout": "Sind Sie sicher, dass Sie dieses Training löschen möchten?",
   "confirm_delete_account": "Möchten Sie Ihr Konto wirklich löschen? Alle Ihre Daten werden gelöscht. Diese Aktion kann nicht rückgängig gemacht werden! Geben Sie \"Ja\" in das Feld unten ein und klicken Sie auf \"OK\", um Ihr Konto zu löschen.",
   "confirm_delete_activities": "Sind Sie sicher, dass Sie {n}löschen wollen? Wenn Sie einen Fehler machen, können Sie die Löschung rückgängig machen, aber das dauert sehr lange und stellt keine Änderungen wieder her. Seien Sie also vorsichtig!",
+  "confirm_delete_plot": "Sind Sie sicher, dass Sie dieses Diagramm löschen möchten?",
   "confirm_delete_sport_settings": "Möchten Sie die Einstellungen für {type} wirklich löschen?",
   "confirm_delete_week": "Sind Sie sicher, dass Sie diese Woche und alle Trainingseinheiten löschen möchten?",
   "confirm_fix_data": "Sind Sie sicher, dass Sie die Daten für {n} anpassen wollen?",
