@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "Please add me to {group}, thanks!",
   "please_capture_dob": "Please capture your date of birth to view age based rankings for power! How do you compare to your peers?",
   "please_describe_problem": "Please describe the problem you are having or the cool new feature you have thought of and I will see what I can do.",
+  "please_login_at": "Please login at {0}",
   "polar_import_complete": "Polar data import complete",
   "power": "power",
   "power_hr_chart_blurb": "This chart shows the same HR and power data but the x-axis is the power for each minute and y-axis the corresponding heart rate. The lines show the relationship between power and heart rate for the first half and second half of the ride.",

@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "Kérlek, vegyél fel a (z) {group}csoportba, köszönöm!",
   "please_capture_dob": "Kérlek, rögzítsd a születési dátumodat, hogy megtekinthesd a teljesítményre vonatkozó rangsort! Milyen a teljesítményed hozzád hasaonló emberekhez viszonyítva?",
   "please_describe_problem": "Kérlek, írd le a problémát, vagy az újszerű funkciót, amire gondoltál, és meglátom, mit tehetek.",
+  "please_login_at": "Kérjük, jelentkezzen be a {0}",
   "polar_import_complete": "Polar adatimport befejeződött",
   "power": "Teljesítmény",
   "power_hr_chart_blurb": "Ez a diagram ugyanazokat a HR és teljesítmény adatokat mutatja, de az x tengely minden perc teljesítménye, az y tengely pedig a hozzá tartozó pulzusszám. A vonalak a teljesítmény és a pulzus kapcsolatát mutatják az út első és második felében.",

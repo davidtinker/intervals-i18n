@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "S'il vous plaît, ajoutez-moi à {group}, merci !",
   "please_capture_dob": "Veuillez saisir votre date de naissance pour afficher les classements en fonction de l'âge pour le pouvoir ! Comment vous comparez-vous à vos pairs ?",
   "please_describe_problem": "Décrivez-moi le problème que vous rencontrez ou la nouvelle fonctionnalité géniale à laquelle vous avez pensé et je verrai ce que je peux faire.",
+  "please_login_at": "Veuillez vous connecter à {0}",
   "polar_import_complete": "Polar l'importation des données est terminée",
   "power": "Puissance",
   "power_hr_chart_blurb": "Ce graphique montre les mêmes données de fréquence cardiaque et de puissance, mais l'axe des x représente la puissance pour chaque minute et l'axe des y la fréquence cardiaque correspondante. Les lignes montrent la relation entre la puissance et la fréquence cardiaque pour la première moitié et la seconde moitié du parcours.",

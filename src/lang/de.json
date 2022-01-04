@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "Bitte fügen Sie mich zu {group}hinzu, danke!",
   "please_capture_dob": "Bitte erfassen Sie Ihr Geburtsdatum, um altersbasierte Ranglisten für die Macht anzuzeigen! Wie schneidest du im Vergleich zu deinen Kollegen ab?",
   "please_describe_problem": "Bitte beschreiben Sie das Problem, das Sie haben, oder die coole neue Funktion, an die Sie gedacht haben, und ich werde sehen, was ich tun kann.",
+  "please_login_at": "Bitte melden Sie sich unter {0}an.",
   "polar_import_complete": "Polar datenimport abgeschlossen",
   "power": "Leistung",
   "power_hr_chart_blurb": "Dieses Diagramm zeigt dieselben Daten zu Herzfrequenz und Leistung, wobei die x-Achse die Leistung für jede Minute und die y-Achse die entsprechende Herzfrequenz darstellt. Die Linien zeigen die Beziehung zwischen Leistung und Herzfrequenz für die erste und zweite Hälfte der Fahrt.",

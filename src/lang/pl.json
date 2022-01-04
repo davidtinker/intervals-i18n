@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "Proszę dodać mnie do {group}, dzięki!",
   "please_capture_dob": "Zapisz swoją datę urodzenia, aby zobaczyć rankingi oparte na wieku! Jak wypadasz na tle swoich rówieśników?",
   "please_describe_problem": "Opisz problem, który masz lub fajną nową funkcję, którą wymyśliłeś, a ja zobaczę, co mogę zrobić.",
+  "please_login_at": "Proszę zalogować się pod adresem {0}",
   "polar_import_complete": "Polar import danych zakończony",
   "power": "Moc",
   "power_hr_chart_blurb": "Ten wykres przedstawia te same dane dotyczące HR i mocy, ale oś x to moc dla każdej minuty, a oś y to odpowiadające jej tętno. Linie pokazują zależność pomiędzy mocą i tętnem dla pierwszej i drugiej połowy jazdy.",

@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "Por favor adicione-me ao {group}, obrigado!",
   "please_capture_dob": "Indique a sua data de nascimento para ver rankings baseados na idade em relação com a potência! Como está em relação aos seus pares?",
   "please_describe_problem": "Por favor, descreva o problema que está a ter ou a nova funcionalidade fixe em que pensou e eu verei o que posso fazer.",
+  "please_login_at": "Por favor inicie sessão em {0}",
   "polar_import_complete": "Polar importação de dados completa",
   "power": "Energia",
   "power_hr_chart_blurb": "Este gráfico mostra os mesmos dados de FC e potência, mas o eixo x é a potência para cada minuto e o eixo y é a frequência cardíaca correspondente. As linhas mostram a relação entre a potência e a frequência cardíaca para a primeira metade e a segunda metade da viagem.",

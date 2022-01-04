@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "Voeg me toe aan {group}, bedankt!",
   "please_capture_dob": "Geef je geboortedatum op om op leeftijd gebaseerde ranglijsten voor vermogen te bekijken! Hoe verhoudt u zich tot je leeftijdsgenoten?",
   "please_describe_problem": "Beschrijf het probleem dat je hebt of de coole nieuwe functie die je hebt bedacht en ik zal zien wat ik kan doen.",
+  "please_login_at": "Log in bij {0}",
   "polar_import_complete": "Polar import van gegevens voltooid",
   "power": "vermogen",
   "power_hr_chart_blurb": "Deze grafiek toont dezelfde HR- en vermogendata, maar de x-as is het vermogen voor elke minuut en de y-as de bijhorende hartslag. De lijnen tonen de relatie tussen vermogen en hartslag voor de eerste helft en de tweede helft van de rit.",

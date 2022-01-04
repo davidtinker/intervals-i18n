@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "Vă rog să mă adăugați la {group}, mulțumesc!",
   "please_capture_dob": "Te rugăm să îți introduci data nașterii pentru a vedea clasamentele bazate pe vârstă pentru putere! Cum te compari cu cei de vârsta ta?",
   "please_describe_problem": "Te rugăm să descrii problema pe care o ai sau noua funcție interesantă la care te-ai gândit și voi vedea ce pot face.",
+  "please_login_at": "Vă rugăm să vă conectați la {0}",
   "polar_import_complete": "Importul datelor Polar, finalizat!",
   "power": "putere",
   "power_hr_chart_blurb": "Această diagramă prezintă aceleași date de puls și putere, dar axa x este puterea pentru fiecare minut și axa y este pulsul corespunzător. Liniile arată relația dintre putere și puls pentru prima jumătate și a doua jumătate a antrenamentului.",

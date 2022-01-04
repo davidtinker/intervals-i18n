@@ -1567,6 +1567,7 @@
   "please_add_me_to_group": "Per favore aggiungimi a {group}, grazie!",
   "please_capture_dob": "Cattura la tua data di nascita per visualizzare le classifiche basate sull'età per il potere! Come ti confronti con i tuoi coetanei?",
   "please_describe_problem": "Per favore, descrivete il problema che avete o la nuova caratteristica che avete pensato e vedrò cosa posso fare.",
+  "please_login_at": "Si prega di effettuare il login a {0}",
   "polar_import_complete": "Polar importazione dati completata",
   "power": "Potenza",
   "power_hr_chart_blurb": "Questo grafico mostra gli stessi dati di FC e potenza ma l'asse x è la potenza per ogni minuto e l'asse y la frequenza cardiaca corrispondente. Le linee mostrano il rapporto tra potenza e frequenza cardiaca per la prima metà e la seconda metà della corsa.",
