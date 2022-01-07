@@ -1454,6 +1454,7 @@
   "download_in_progress": "Download in progress, please be patient",
   "download_old": "Download old {label}",
   "download_old_data_blurb": "{label} between the dates will be downloaded. They may take a several minutes to appear on your calendar.",
+  "download_old_garmin_warning": "Garmin does not allow data older than one year to be downloaded and only allows a single call to the API. Please get your dates right first time! If you need more use the \"Import All Garmin Data\" button. This takes a while but you get everything.",
   "downloading_activities": "Downloading {0} activities",
   "dropbox_add_folders_to_download": "Add folders to download FIT, TCX and GPX files or upload activities to Dropbox",
   "dropbox_upload_folder_blurb": "All activities uploaded to Intervals.icu go here (except Strava) and files are deleted when activities are deleted",

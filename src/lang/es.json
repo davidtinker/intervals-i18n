@@ -1454,6 +1454,7 @@
   "download_in_progress": "Descarga en curso, por favor sea paciente",
   "download_old": "Descargar antiguo {label}",
   "download_old_data_blurb": "{label} entre las fechas se descargarán. Pueden tardar varios minutos en aparecer en su calendario.",
+  "download_old_garmin_warning": "Garmin no permite la descarga de datos con más de un año de antigüedad y sólo permite una única llamada a la API. Por favor, ¡haz las fechas correctas a la primera! Si necesitas más utiliza el botón \"Importar todos los datos de Garmin\". Esto tarda un poco pero se obtiene todo.",
   "downloading_activities": "Descargando {0} actividades",
   "dropbox_add_folders_to_download": "Agregue carpetas para descargar archivos FIT, TCX y GPX o cargue actividades en Dropbox",
   "dropbox_upload_folder_blurb": "Todas las actividades subidas a Intervals.icu van aquí (excepto Strava) y los archivos se borran cuando se eliminan las actividades",

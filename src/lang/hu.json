@@ -1454,6 +1454,7 @@
   "download_in_progress": "Letöltés folyamatban, kérjük, legyen türelemmel",
   "download_old": "Letöltés régi {label}",
   "download_old_data_blurb": "{label} a dátumok között letöltésre kerül. Néhány percig eltarthat, amíg megjelennek a naptárában.",
+  "download_old_garmin_warning": "A Garmin nem engedélyezi az egy évnél régebbi adatok letöltését, és csak egyszeri hívást engedélyez az API-hoz. Kérjük, első alkalommal adja meg a helyes dátumokat! Ha többre van szüksége, használja az \"Összes Garmin-adat importálása\" gombot. Ez eltart egy ideig, de mindent megkap.",
   "downloading_activities": "{0} tevékenység letöltése",
   "dropbox_add_folders_to_download": "Adj hozzá mappákat a FIT, TCX és GPX fájlok letöltéséhez, vagy töltsd fel a tevékenységeket a Dropboxba",
   "dropbox_upload_folder_blurb": "Az Intervals.icu oldalra feltöltött összes tevékenység ide kerül (kivéve a Strava-t), és a fájlok törlődnek a tevékenységek törlésekor",
