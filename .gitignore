@@ -3,3 +3,5 @@
 
 src/lang/hu.json.bak
 src/lang/new-keys.2022jan03.txt
+*.txt
+src/lang/hu.david-22-01-03.json
