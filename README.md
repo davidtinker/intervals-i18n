@@ -14,6 +14,7 @@ you can take it from there.
 - Zestroen Дмитрий Румянцев (ru)
 - Peloide (es)
 - Benjamin Schwan (de)
+- Viktória Bata / Gábor Ziegler (hu)
 
 (Your name here! Send me a PR!)
 
