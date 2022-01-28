@@ -15,6 +15,7 @@ you can take it from there.
 - Peloide (es)
 - Benjamin Schwan (de)
 - Viktória Bata / Gábor Ziegler (hu)
+- Viktor Biró (ro)
 
 (Your name here! Send me a PR!)
 
