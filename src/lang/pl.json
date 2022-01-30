@@ -1667,6 +1667,7 @@
   "sport_settings_combined_time_in_zones": "Intervals.icu informuje o łącznym czasie w strefach. Działa to najlepiej, jeśli masz taką samą liczbę stref mocy, tętna i tempa, a strefy są porównywalne.",
   "sprinter_blurb": "Jesteś wybuchowym finiszerem, zakładając, że uda Ci się dobiec do końca wyścigu (Cipollini)",
   "started_chat_msg_sub": "{0} rozpoczął z tobą czat",
+  "strava_description_update_warning": "Należy pamiętać, że opis wyświetlany na Strava będzie aktualizowany",
   "supporter_download_unlimited_blurb": "Dziękujemy za wsparcie Intervals.icu! Jako wspierający możesz pobierać nieograniczoną ilość danych historycznych z {source}.",
   "suunto_upload_filters_blurb": "Dodaj filtry, aby wybrać, które zaplanowane treningi zostaną przesłane do Suunto. Przesyłane są treningi na następny tydzień.",
   "their": "ich",

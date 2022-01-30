@@ -1667,6 +1667,7 @@
   "sport_settings_combined_time_in_zones": "Intervals.icu raportează timpul combinat în zone. Acest lucru funcționează cel mai bine dacă ai același număr de zone pentru putere, HR și ritm, iar zonele sunt comparabile.",
   "sprinter_blurb": "Ești un finisher exploziv, presupunând că poți ajunge la sfârșitul cursei (Cipollini)",
   "started_chat_msg_sub": "{0} a inițiat un chat cu tine.",
+  "strava_description_update_warning": "Rețineți că descrierea afișată pe Strava va fi actualizată",
   "supporter_download_unlimited_blurb": "Vă mulțumim pentru că susții Intervals.icu! În calitate de susținător, poți descărca date istorice nelimitate de la {source}.",
   "suunto_upload_filters_blurb": "Adaugă filtre pentru a selecta antrenamentele planificate care vor fi încărcate în Suunto. Antrenamentele pentru săptămâna următoare sunt încărcate.",
   "their": "al lor",

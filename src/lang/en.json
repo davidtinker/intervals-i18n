@@ -1667,6 +1667,7 @@
   "sport_settings_combined_time_in_zones": "Intervals.icu reports on combined time in zones. This works best if you have the same number of zones for power, HR and pace and the zones are comparable.",
   "sprinter_blurb": "You are an explosive finisher, assuming you can make it to the end of the race (Cipollini)",
   "started_chat_msg_sub": "{0} started a chat with you",
+  "strava_description_update_warning": "Note that the description shown on Strava will be updated",
   "supporter_download_unlimited_blurb": "Thank you for supporting Intervals.icu! As a supporter you can download unlimited historical data from {source}.",
   "suunto_upload_filters_blurb": "Add filters to select which planned workouts will be uploaded to Suunto. Workouts for the next week are uploaded.",
   "their": "their",

@@ -1667,6 +1667,7 @@
   "sport_settings_combined_time_in_zones": "Este valor é a duração combinada em zonas de treino. Funciona melhor se tiver o mesmo número de zonas para potência, HR e ritmo e se as zonas forem comparáveis.",
   "sprinter_blurb": "É um finalizador explosivo, assumindo que pode chegar ao fim da corrida (Cipollini)",
   "started_chat_msg_sub": "{0} iniciou uma conversa consigo",
+  "strava_description_update_warning": "Note-se que a descrição apresentada em Strava será actualizada",
   "supporter_download_unlimited_blurb": "Obrigado por apoiar o Intervals.icu! Como apoiante, pode descarregar dados históricos ilimitados a partir de {source}.",
   "suunto_upload_filters_blurb": "Adicionar filtros para seleccionar quais os treinos planeados que serão carregados para a Suunto. Os treinos para a próxima semana serão carregados.",
   "their": "seus",
