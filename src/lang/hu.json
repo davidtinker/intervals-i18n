@@ -1667,6 +1667,7 @@
   "sport_settings_combined_time_in_zones": "Az Intervals.icu képes kimutatást készíteni a különböző zónák együttes használatával. Ez akkor működik a legjobban, ha azonos számú zóna van a teljesítmény, a HR és a tempó tekintetében, és a zónák összehasonlíthatók.",
   "sprinter_blurb": "Sprinter befejező vagy, feltételezve, hogy eléred a verseny végét (Cipollini)",
   "started_chat_msg_sub": "{0} csevegni kezdett veled",
+  "strava_description_update_warning": "Vegye figyelembe, hogy a Strava-n megjelenő leírás frissülni fog",
   "supporter_download_unlimited_blurb": "Köszönjük, hogy támogatod az Intervals.icu-t! Támogatóként korlátlan mennyiségű historikus adatot tölthetsz le a(z) {source} szolgáltatásból.",
   "suunto_upload_filters_blurb": "Szűrők hozzáadásával kiválaszthatod, hogy mely tervezett edzések kerüljenek feltöltésre a Suuntóra. A következő hétre vonatkozó edzések feltöltésre kerülnek.",
   "their": "Övék",

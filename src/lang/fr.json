@@ -1667,6 +1667,7 @@
   "sport_settings_combined_time_in_zones": "Intervals.icu rapporte le temps combiné dans les zones. Cela fonctionne mieux si vous avez le même nombre de zones pour la puissance, la FC et l'allure et que les zones sont comparables.",
   "sprinter_blurb": "Vous êtes un finisseur explosif, en supposant que vous puissiez aller jusqu'au bout de la course (Cipollini).",
   "started_chat_msg_sub": "{0} a commencé une discussion avec vous",
+  "strava_description_update_warning": "Notez que la description affichée sur Strava sera mise à jour",
   "supporter_download_unlimited_blurb": "Merci de soutenir Intervals.icu ! En tant que supporter, vous pouvez télécharger des données historiques illimitées à partir de {source}.",
   "suunto_upload_filters_blurb": "Ajoutez des filtres pour sélectionner les entraînements planifiés qui seront téléchargés vers Suunto. Les entraînements de la semaine suivante sont téléchargés.",
   "their": "leur",
