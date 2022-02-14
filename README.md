@@ -16,6 +16,7 @@ you can take it from there.
 - Benjamin Schwan (de)
 - Viktória Bata / Gábor Ziegler (hu)
 - Viktor Biró (ro)
+- Sebastian Murawski (pl)
 
 (Your name here! Send me a PR!)
 
