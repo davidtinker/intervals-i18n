@@ -1692,7 +1692,7 @@
   "their": "njihov",
   "them": "njim",
   "they": "oni",
-  "threshold_pace": "Vaš prag tempa je hitrost, ki jo lahko zadržujete 'dolgo' (definicija je odvisna od športa), merjena v času na enoto razdalje. Za tek je to morda najhitrejše, kar ste lahko tekli 30 minut. Uporablja se za izračun obremenitve treninga iz tempa. Glejte <a href='https://joefrieltraining.com/a-quick-guide-to-setting-zone/' target='_blank'>Nastavitev območij avtorja Joe Friel</a>",
+  "threshold_pace": "Vaš prag tempa je hitrost, ki jo lahko vzdržujete 'dolgo' (definicija je odvisna od športa), merjena v času na enoto razdalje. Za tek je to morda najhitrejše, kar ste lahko tekli 30 minut. Uporablja se za izračun obremenitve treninga iz tempa. Glejte <a href='https://joefrieltraining.com/a-quick-guide-to-setting-zone/' target='_blank'>Nastavitev območij avtorja Joe Friel</a>",
   "tick_both_boxes": "Obe polji morata biti označeni:",
   "time_in_zones_hr_load_blurb": "Vaše prejšnje aktivnosti z močjo in srčnim utripom se uporabljajo za izgradnjo modela linearne regresije za oceno obremenitve pri treningu.",
   "time_trialist_blurb": "Lahko delaš kilometer za kilometrom spredaj in ne čutiš bolečine (Tony Martin)",
