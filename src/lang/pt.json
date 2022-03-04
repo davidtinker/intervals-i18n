@@ -1573,7 +1573,7 @@
   "her": "Dela",
   "him": "ele",
   "his": "Seu",
-  "hourly_data_limit": "Os dados por hora só estão disponíveis durante as próximas 48 horas",
+  "hourly_data_limit": "Os dados por hora só estão disponíveis durante as próximas 120 horas",
   "hrLag": "O atraso em segundos entre um aumento de potência e um aumento correspondente do ritmo cardíaco. O ritmo cardíaco não responde imediatamente quando se baixa a potência e demora algum tempo a recuperar quando se alivia.",
   "hr_load_model_not_enough_data": "Não tem actividades suficientes com potência e ritmo cardíaco, pelo que foi utilizado um modelo geral (não específico do atleta).",
   "hr_load_model_r2_blurb": "Cada ponto no gráfico é de uma actividade utilizada para construir o modelo. O eixo y mostra a diferença entre a carga de treino estimada e real para cada actividade como uma percentagem da carga real.",

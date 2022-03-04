@@ -1573,7 +1573,7 @@
   "her": "njo",
   "him": "njega",
   "his": "njegovega",
-  "hourly_data_limit": "Podatki po urah so na voljo samo za naslednjih 48 ur",
+  "hourly_data_limit": "Podatki po urah so na voljo samo za naslednjih 120 ur",
   "hrLag": "Zamik v sekundah med povečanjem moči in ustreznim povečanjem srčnega utripa. Vaš srčni utrip se ne odzove takoj, ko izklopite napajanje in traja nekaj časa, da si opomore, ko izklopite.",
   "hr_load_model_not_enough_data": "Nimate dovolj aktivnosti z močjo in srčnim utripom, zato je bil uporabljen splošen (ne specifičen za športnika) model.",
   "hr_load_model_r2_blurb": "Vsaka pika na grafikonu je iz aktivnosti, uporabljene za izgradnjo modela. Os y prikazuje razliko med ocenjeno in dejansko obremenitvijo vadbe za vsako dejavnost kot odstotek dejanske obremenitve.",

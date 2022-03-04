@@ -1573,7 +1573,7 @@
   "her": "ja",
   "him": "jego",
   "his": "jego",
-  "hourly_data_limit": "Dane godzinowe są dostępne tylko dla następnych 48 godzin",
+  "hourly_data_limit": "Dane godzinowe są dostępne tylko dla następnych 120 godzin",
   "hrLag": "Opóźnienie w sekundach pomiędzy wzrostem mocy a odpowiadającym mu wzrostem tętna. Tętno nie reaguje natychmiast po zmniejszeniu mocy i potrzebuje trochę czasu, aby powrócić do normy po zmniejszeniu mocy.",
   "hr_load_model_not_enough_data": "Nie masz wystarczająco dużo aktywności z mocą i tętnem, więc użyto ogólnego (nie specyficznego dla sportowca) modelu.",
   "hr_load_model_r2_blurb": "Każda kropka na wykresie pochodzi z aktywności użytej do budowy modelu. Oś y pokazuje różnicę między szacowanym a rzeczywistym obciążeniem treningowym dla każdej czynności jako procent rzeczywistego obciążenia.",

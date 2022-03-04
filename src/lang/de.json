@@ -1573,7 +1573,7 @@
   "her": "Sie",
   "him": "ihm",
   "his": "seine",
-  "hourly_data_limit": "Stündliche Daten sind nur für die nächsten 48 Stunden verfügbar",
+  "hourly_data_limit": "Stündliche Daten sind nur für die nächsten 120 Stunden verfügbar",
   "hrLag": "Die Verzögerung in Sekunden zwischen einer Leistungserhöhung und einem entsprechenden Anstieg der Herzfrequenz. Ihre Herzfrequenz reagiert nicht sofort, wenn Sie die Leistung verringern, und braucht eine Weile, um sich zu erholen, wenn Sie die Leistung verringern.",
   "hr_load_model_not_enough_data": "Da es nicht genügend Aktivitäten mit Leistung und Herzfrequenz gibt, wurde ein allgemeines (nicht athletenspezifisches) Modell verwendet.",
   "hr_load_model_r2_blurb": "Jeder Punkt im Diagramm stammt von einer Aktivität, die zur Erstellung des Modells verwendet wurde. Die y-Achse zeigt die Differenz zwischen der geschätzten und der tatsächlichen Trainingsbelastung für jede Aktivität als Prozentsatz der tatsächlichen Belastung.",

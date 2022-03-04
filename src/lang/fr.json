@@ -1573,7 +1573,7 @@
   "her": "cette personne",
   "him": "lui",
   "his": "son",
-  "hourly_data_limit": "Les données horaires ne sont disponibles que pour les 48 heures à venir",
+  "hourly_data_limit": "Les données horaires ne sont disponibles que pour les 120 heures à venir",
   "hrLag": "Le délai en secondes entre une augmentation de la puissance et une augmentation correspondante de la fréquence cardiaque. Votre fréquence cardiaque ne réagit pas immédiatement lorsque vous réduisez la puissance et met un certain temps à se rétablir lorsque vous relâchez la pression.",
   "hr_load_model_not_enough_data": "Vous n'avez pas assez d'activités avec la puissance et la fréquence cardiaque, donc un modèle général (non spécifique à un athlète) a été utilisé.",
   "hr_load_model_r2_blurb": "Chaque point du graphique correspond à une activité utilisée pour construire le modèle. L'axe des y montre la différence entre la charge de formation estimée et réelle pour chaque activité, en pourcentage de la charge réelle.",

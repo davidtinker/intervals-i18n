@@ -1573,7 +1573,7 @@
   "her": "her",
   "him": "him",
   "his": "his",
-  "hourly_data_limit": "Hourly data is only available for the next 48 hours",
+  "hourly_data_limit": "Hourly data is only available for the next 120 hours",
   "hrLag": "The delay in seconds between an increase in power and a corresponding increase in heart rate. Your heart rate doesn't respond immediately when you put the power down and takes a while to recover when you ease off.",
   "hr_load_model_not_enough_data": "You do not have enough activities with power and heart rate so a general (not athlete specific) model has been used.",
   "hr_load_model_r2_blurb": "Each dot on the chart is from an activity used to build the model. The y-axis shows the difference between the estimated and actual training load for each activity as a percentage of the actual load.",

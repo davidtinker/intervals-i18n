@@ -1573,7 +1573,7 @@
   "her": "její",
   "him": "mu",
   "his": "jeho",
-  "hourly_data_limit": "Hodinové údaje jsou k dispozici pouze pro následujících 48 hodin",
+  "hourly_data_limit": "Hodinové údaje jsou k dispozici pouze pro následujících 120 hodin",
   "hrLag": "Prodleva v sekundách mezi zvýšením výkonu a odpovídajícím zvýšením srdeční frekvence. Vaše srdeční frekvence nereaguje okamžitě, když vypnete napájení, a chvíli se zotavuje, když se uvolníte.",
   "hr_load_model_not_enough_data": "Nemáte dostatek aktivit s výkonem a srdeční frekvencí, takže byl použit obecný model (ne pro sportovce).",
   "hr_load_model_r2_blurb": "Každá tečka v grafu pochází z aktivity použité k sestavení modelu. Osa y ukazuje rozdíl mezi odhadovaným a skutečným tréninkovým zatížením pro každou aktivitu v procentech skutečného zatížení.",

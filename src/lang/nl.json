@@ -1573,7 +1573,7 @@
   "her": "Haar",
   "him": "hem",
   "his": "zijn",
-  "hourly_data_limit": "Uurgegevens zijn alleen beschikbaar voor de komende 48 uur",
+  "hourly_data_limit": "Uurgegevens zijn alleen beschikbaar voor de komende 120 uur",
   "hrLag": "De vertraging in seconden tussen een toename van het vermogen en een overeenkomstige toename van de hartslag. Je hartslag reageert niet onmiddellijk wanneer je het vermogen verhoogt en het duurt even voor die zich herstelt wanneer je gas terugneemt.",
   "hr_load_model_not_enough_data": "Er zijn niet genoeg activiteiten met vermogen en hartslag, er wordt een algemeen (niet atleet-specifiek) model gebruikt.",
   "hr_load_model_r2_blurb": "Elke stip op de grafiek is van een activiteit waarmee het model is opgebouwd. Op de y-as staat het verschil tussen de geschatte en de werkelijke trainingsbelasting voor elke activiteit, uitgedrukt als percentage van de werkelijke belasting.",

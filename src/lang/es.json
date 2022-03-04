@@ -1573,7 +1573,7 @@
   "her": "SU",
   "him": "El",
   "his": "SU",
-  "hourly_data_limit": "Los datos horarios sólo están disponibles para las próximas 48 horas",
+  "hourly_data_limit": "Los datos horarios sólo están disponibles para las próximas 120 horas",
   "hrLag": "El retraso en segundos entre un aumento de la potencia y el correspondiente aumento de la frecuencia cardíaca. El ritmo cardíaco no responde inmediatamente cuando se baja la potencia y tarda en recuperarse cuando se reduce.",
   "hr_load_model_not_enough_data": "No tiene suficientes actividades con la potencia y la frecuencia cardíaca, por lo que se ha utilizado un modelo general (no específico para un atleta).",
   "hr_load_model_r2_blurb": "Cada punto del gráfico corresponde a una actividad utilizada para construir el modelo. El eje Y muestra la diferencia entre la carga de entrenamiento estimada y la real para cada actividad como porcentaje de la carga real.",

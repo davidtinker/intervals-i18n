@@ -1573,7 +1573,7 @@
   "her": "a ei",
   "him": "-l",
   "his": "a lui",
-  "hourly_data_limit": "Datele orare sunt disponibile numai pentru următoarele 48 de ore",
+  "hourly_data_limit": "Datele orare sunt disponibile numai pentru următoarele 120 de ore",
   "hrLag": "Întârzierea în secunde între o creștere a puterii și o creștere corespunzătoare a Pulsului. Pulsul nu răspunde imediat când reduci efortul, ci durează ceva timp să te recuperezi când te relaxezi.",
   "hr_load_model_not_enough_data": "Nu sunt suficiente activități cu putere și puls, așa că a fost utilizat un model general (nu specific sportivului).",
   "hr_load_model_r2_blurb": "Fiecare punct din diagramă provine dintr-o activitate utilizată pentru a construi modelul. Axa y arată diferența dintre efortul de antrenament estimat și cel real, pentru fiecare activitate, ca procent din efortul real.",

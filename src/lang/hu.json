@@ -1573,7 +1573,7 @@
   "her": "Neki",
   "him": "Neki",
   "his": "Övé",
-  "hourly_data_limit": "Az óránkénti adatok csak a következő 48 órára állnak rendelkezésre",
+  "hourly_data_limit": "Az óránkénti adatok csak a következő 120 órára állnak rendelkezésre",
   "hrLag": "Másodpercekben kifejezett időbeli lemaradás a teljesítmény növekedése és a hozzá tartozó pulzusszám-emelkedés között. A pulzusod nem azonnal követi le a teljesítményed csökkentését: időbe telik, amíg a pulzusod visszaáll a lazítás után.",
   "hr_load_model_not_enough_data": "Nem rendelkezel olyan elegendő számú tevékenységgel, amihez teljesítmény és pulzus is rögzítésre került, ezért egy általános (nem sportoló-specifikus) modell került használatra.",
   "hr_load_model_r2_blurb": "A diagram minden adatpontja egy, a modell felépítéséhez használt tevékenységből származik. Az y tengely az eltérést mutatja az egyes tevékenységek becsült és tényleges edzésterhelése között, a tényleges terhelés százalékában.",

@@ -1573,7 +1573,7 @@
   "her": "sua",
   "him": "lui",
   "his": "suo",
-  "hourly_data_limit": "I dati orari sono disponibili solo per le prossime 48 ore",
+  "hourly_data_limit": "I dati orari sono disponibili solo per le prossime 120 ore",
   "hrLag": "Il ritardo in secondi tra un aumento di potenza e un corrispondente aumento della frequenza cardiaca. La frequenza cardiaca non risponde immediatamente quando si abbassa la potenza e ci vuole un po' per recuperare quando si allenta.",
   "hr_load_model_not_enough_data": "Non avete abbastanza attività con potenza e frequenza cardiaca, quindi è stato utilizzato un modello generale (non specifico per l'atleta).",
   "hr_load_model_r2_blurb": "Ogni punto sul grafico proviene da un'attività utilizzata per costruire il modello. L'asse y mostra la differenza tra il carico di allenamento stimato e quello effettivo per ogni attività come percentuale del carico effettivo.",
