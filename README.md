@@ -18,6 +18,7 @@ you can take it from there.
 - Viktor Biró (ro)
 - Sebastian Murawski (pl)
 - Rastislav Srnánek (cs)
+- Matjaž Hribljan (sl)
 
 (Your name here! Send me a PR!)
 
