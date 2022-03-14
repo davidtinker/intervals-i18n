@@ -17,6 +17,7 @@ you can take it from there.
 - Viktória Bata / Gábor Ziegler (hu)
 - Viktor Biró (ro)
 - Sebastian Murawski (pl)
+- Rastislav Srnánek (cs)
 
 (Your name here! Send me a PR!)
 
