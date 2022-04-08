@@ -1818,6 +1818,7 @@
   "use_otp_to_login": "您没有密码，请申请一个OTP来登录",
   "user_has_no_password": "该电子邮件地址的用户没有设置密码，请点击 \"与Strava连接 \"进行登录",
   "variability_index": "变异性指数是衡量骑行过程中功率输出的平稳性或多变性的一种方法。它的计算方法是用标准化功率除以平均功率。稳定而均匀的输出，如在铁人三项比赛中，其VI值应在1.05以下。在一场小型比赛中，你的VI可能高达1.2或更高 - <a href='https://www.trainingpeaks.com/blog/power-terminology-for-cycling/' target='_blank'>www.trainingpeaks.com</a>",
+  "vo2max_5m": "V̇O2 max是最大耗氧率，通常以每公斤体重的毫升数显示。准确测量VO2 max需要在实验室中用代谢车进行分级运动测试。这里显示的估计值是由5分钟的峰值功率输出得出的，使用的公式是 <a href='https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml' target='_blank'>5分钟测试预测公路自行车的最大耗氧量</a>",
   "w_prime": "无氧能力或W'(W prime)是在超过阈值(FTP)骑行时可用的能量，单位为J。它是一种使用非有氧途径的短时间能量来源 - <a href='https://www.pezcyclingnews.com/toolbox/the-anaerobic-w/' target='_blank'>pezcyclingnews.com</a>.",
   "warmup_time": "Intervals.icu在计算解耦时会排除一个活动的前几分钟(热身)。这是新活动默认的预热时间",
   "warn_set_password": "请注意，在撤销访问权之前，需要设置一个密码，否则将无法登录Intervals.icu",
