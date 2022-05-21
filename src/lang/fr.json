@@ -1539,6 +1539,7 @@
   "avg_hr_load_blurb": "Les activités précédentes avec la puissance et la fréquence cardiaque sont utilisées pour construire un modèle qui associe la fréquence cardiaque moyenne à la charge d'entraînement par heure.",
   "avg_hr_load_dots": "Chaque point du tableau correspond à une activité utilisée pour construire le modèle.",
   "band_blurb": "Affiche une zone ombrée autour des tracés de moyennes mobiles. Les unités sont les écarts types des données de la moyenne mobile.",
+  "best_pace_for_season_0": "Meilleur {0} de la saison : {1} à {2} !",
   "best_power_for_season_0": "Meilleure puissance pour la saison : {0}w pour {1}!",
   "calendar_export_blurb": "Vous pouvez afficher les entraînements planifiés, les courses, les vacances et les notes dans n'importe quel calendrier externe qui prend en charge la souscription à une URL de calendrier (Google, Microsoft, Apple, etc.). Cliquez sur le lien ci-dessous pour le copier dans le presse-papiers :",
   "calendar_export_blurb2": "Suivez ensuite les instructions <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">de configuration manuelle de TrainerRoad</a> pour ajouter le lien du calendrier à votre calendrier externe. Notez que les activités terminées et les entraînements planifiés datant de plus d'une semaine ne sont pas inclus.",

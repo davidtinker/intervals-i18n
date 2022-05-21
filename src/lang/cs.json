@@ -1539,6 +1539,7 @@
   "avg_hr_load_blurb": "Předchozí aktivity s výkonem a srdeční frekvencí se používají k sestavení modelu, který mapuje průměrnou srdeční frekvenci na tréninkové zatížení za hodinu.",
   "avg_hr_load_dots": "Každá tečka v grafu pochází z aktivity použité k sestavení modelu",
   "band_blurb": "Zobrazení stínované oblasti kolem grafů klouzavých průměrů. Jednotkami jsou směrodatné odchylky dat klouzavého průměru.",
+  "best_pace_for_season_0": "Nejlepší {0} za sezónu: {1} v {2}!",
   "best_power_for_season_0": "Nejlepší výkon za sezónu: {0}w za {1}!",
   "calendar_export_blurb": "Plánované tréninky, závody, svátky a poznámky si můžete prohlédnout v libovolném externím kalendáři, který podporuje přihlášení k odběru adresy URL kalendáře (Google, Microsoft, Apple atd.). Kliknutím na odkaz níže jej zkopírujete do schránky:",
   "calendar_export_blurb2": "Poté podle <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">pokynů k ručnímu nastavení od TrainerRoad</a> přidejte odkaz na kalendář do svého externího kalendáře. Všimněte si, že nejsou zahrnuty dokončené aktivity a plánovaná cvičení stará více než týden.",

@@ -1539,6 +1539,7 @@
   "avg_hr_load_blurb": "A teljesítmény és a pulzusszám korábbi tevékenységeit olyan modell építésére használják, amely az átlagos pulzusszámot az óránkénti edzésterheléshez rendeli hozzá.",
   "avg_hr_load_dots": "A diagram minden pontja a modell felépítéséhez használt tevékenységből származik",
   "band_blurb": "Árnyékolt terület megjelenítése a mozgóátlag-ábrák körül. A grafikonegységek a mozgóátlagban szereplő adatok egységnyi statisztikai szórása.",
+  "best_pace_for_season_0": "Legjobb {0} a szezonban: {1} , {2}!",
   "best_power_for_season_0": "A szezon legjobb teljesítménye: {0}w {1}!",
   "calendar_export_blurb": "A tervezett edzéseket, versenyeket, eseményeket és jegyzeteket megtekintheted bármely olyan külső naptárban, amely támogatja a naptár URL-címére való feliratkozást (Google, Microsoft, Apple stb.). Kattints az alábbi linkre a vágólapra másoláshoz:",
   "calendar_export_blurb2": "Ezután kövesd a <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">TrainerRoad kézi beállítási utasításait</a> , hogy hozzáadd a naptár linkjét a külső naptáradhoz. Vedd figyelembe, hogy a befejezett tevékenységeket és a tervezett edzéseket, amelyek több mint egy hetesek, nem tartalmazza.",

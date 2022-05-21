@@ -1539,6 +1539,7 @@
   "avg_hr_load_blurb": "以前活动的功率和心率被用来建立模型，将平均心率映射到每小时的训练负荷",
   "avg_hr_load_dots": "图表上的每一个点都来自于用于建立模型的一个活动",
   "band_blurb": "在移动平均线图周围显示一个阴影区域，单位是移动平均线中数据的标准差",
+  "best_pace_for_season_0": "本季最佳 {0} ： {1}  {2}！",
   "best_power_for_season_0": "本赛季的最佳功率：{0}W持续{1}!",
   "calendar_export_blurb": "你可以在任何支持订阅日历URL的外部日历(谷歌、微软、苹果等)中查看计划的训练、比赛、假期和笔记。点击下面的链接，将其复制到剪贴板",
   "calendar_export_blurb2": "然后按照<a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">TrainerRoad手动设置说明</a> ，将日历链接添加到你的外部日历。请注意，已完成的活动和超过一周的计划锻炼不包括在内",
