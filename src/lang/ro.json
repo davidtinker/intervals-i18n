@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "Nu ai antrenori, apasă pe oricare dintre urmăritorii tăi pentru a-i face antrenori",
   "no_forecasts": "Nu s-au găsit previziuni, faceți clic pe Adaugă previziune pentru a crea una.",
   "no_gear_blurb": "Nu aveți biciclete, pantofi sau alte echipamente.",
+  "no_matching_activities_with_found": "Nu s-au găsit activități care se potrivesc cu {p} ",
   "no_targets_blurb": "Apasă pe butoanele de mai jos pentru a seta efortul de antrenament, timpul și distanța obiectivelor pentru sportul tău. Poți urmări progresul față de obiective și poți planifica antrenamentul pentru a le atinge.",
   "no_user_with_email": "Nici un utilizator nu este înregistrat cu această adresă de e-mail",
   "non_members_visible_blurb": "Non-membrii pot vedea grupul, dar nu vor vedea mesaje de chat, antrenamentele sau planurile de antrenament",

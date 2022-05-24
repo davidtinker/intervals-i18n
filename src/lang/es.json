@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "No tienes ningún entrenador, haz clic en cualquiera de tus seguidores para convertirlo en entrenador",
   "no_forecasts": "No se ha encontrado ninguna previsión, haga clic en Añadir previsión para crear una",
   "no_gear_blurb": "No tiene bicicletas, zapatos u otros equipos",
+  "no_matching_activities_with_found": "No se encontraron actividades que coincidan con {p} ",
   "no_targets_blurb": "Haz clic en los botones de abajo para establecer objetivos de carga de entrenamiento, tiempo y distancia para tus deportes. Puedes hacer un seguimiento del progreso en relación con los objetivos y planificar tu entrenamiento para alcanzarlos.",
   "no_user_with_email": "No hay ningún usuario registrado con esa dirección de correo electrónico",
   "non_members_visible_blurb": "Los que no son miembros pueden ver el grupo pero no los mensajes del chat, los entrenamientos o los planes de entrenamiento",

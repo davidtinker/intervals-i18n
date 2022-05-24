@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "Nincs edződ, kattints valamelyik követődre, hogy az edződ legyen",
   "no_forecasts": "Nincs előrejelzés, kattints az Előrejelzés hozzáadása gombra, hogy létrehozd!",
   "no_gear_blurb": "Nincs kerékpárod, cipőd vagy egyéb felszerelésed.",
+  "no_matching_activities_with_found": "Nem találhatók megfelelő tevékenységek a következővel: {p} ",
   "no_targets_blurb": "Az alábbi gombokra kattintva állíthatod be az edzésterhelést, az edzésidőt és a távolságot az adott sport számára. Nyomon követheted a fejlődésed és megtervezheted az edzéseid a céljaid elérése érdekében.",
   "no_user_with_email": "Nincs regisztrált felhasználó ezen az e-mail címen",
   "non_members_visible_blurb": "A nem tagok láthatják a csoportot, de nem láthatják a csevegőüzeneteket, edzéseket vagy edzésterveket",

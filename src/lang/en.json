@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "You do not have any coaches, click any of your followers to make them a coach",
   "no_forecasts": "No forecasts found, click Add Forecast to create one",
   "no_gear_blurb": "You do not have any bikes, shoes or other gear",
+  "no_matching_activities_with_found": "No matching activities with {p} found",
   "no_targets_blurb": "Click the buttons below to set training load, time and distance targets for your sports. You can track progress against the targets and plan your training to achieve them.",
   "no_user_with_email": "No user is registered with that email address",
   "non_members_visible_blurb": "Non-members can see the group but not chat messages, workouts or training plans",

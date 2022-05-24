@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "Nemáte žádné trenéry, kliknutím na některého ze svých sledujících z nich uděláte kouče",
   "no_forecasts": "Nebyly nalezeny žádné předpovědi, klikněte na tlačítko Přidat předpověď a vytvořte předpověď.",
   "no_gear_blurb": "Nemáte kola, boty ani jiné vybavení.",
+  "no_matching_activities_with_found": "Nebyly nalezeny žádné odpovídající aktivity s {p} ",
   "no_targets_blurb": "Kliknutím na tlačítka níže nastavíte tréninkové zatížení, čas a vzdálenosti pro své sporty. Můžete sledovat pokrok proti cílům a naplánovat si trénink, abyste jich dosáhli.",
   "no_user_with_email": "Pod touto e-mailovou adresou není registrován žádný uživatel",
   "non_members_visible_blurb": "Nečlenové mohou vidět skupinu, ale ne chatové zprávy, cvičení nebo tréninkové plány",

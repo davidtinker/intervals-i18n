@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "你没有教练，点击你的一个关注者，让他成为教练",
   "no_forecasts": "没有找到预测，点击添加预测来创建一个预测",
   "no_gear_blurb": "你没有任何自行车、鞋子或其他装备",
+  "no_matching_activities_with_found": "找不到与 {p} 匹配的活动",
   "no_targets_blurb": "点击下面的按钮设置训练负荷、时间和距离目标，你可以根据目标追踪进度并计划你的训练来实现这些目标",
   "no_user_with_email": "没有用户用该电子邮件地址注册",
   "non_members_visible_blurb": "非成员可以看到群组，但不能看到聊天信息、训练或训练计划",

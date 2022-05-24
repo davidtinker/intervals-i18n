@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "Nimate nobenega trenerja, kliknite katerega od svojih sledilcev, da ga naredite za trenerja",
   "no_forecasts": "Najdena ni nobena napoved, kliknite Dodaj Napoved, da jo ustvarite",
   "no_gear_blurb": "Nimate koles, čevljev ali druge opreme",
+  "no_matching_activities_with_found": "Ni najdenih nobenih ujemajočih se dejavnosti z {p} ",
   "no_targets_blurb": "Kliknite spodnje gumbe, da nastavite cilje napora treninga, časa in razdalje za vaš šport. Spremljate lahko napredek pri doseganju ciljev in načrtujete trening, da jih dosežete.",
   "no_user_with_email": "Noben uporabnik ni registriran s tem e-poštnim naslovom",
   "non_members_visible_blurb": "Nečlani lahko vidijo skupino, ne pa sporočil klepeta, treningov ali načrtov treniranja",

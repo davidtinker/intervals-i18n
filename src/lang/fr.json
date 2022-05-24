@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "Vous n'avez pas de coachs, cliquez sur l'un ou l'une de vos abonné(e) pour en faire un(e) coach.",
   "no_forecasts": "Aucune prévision n'a été trouvée, cliquez sur Ajouter une prévision pour en créer une.",
   "no_gear_blurb": "Vous n'avez pas de vélo, de chaussures ou d'autres équipements.",
+  "no_matching_activities_with_found": "Aucune activité correspondante avec {p} n'a été trouvée",
   "no_targets_blurb": "Cliquez sur les boutons ci-dessous pour définir des objectifs de charge d'entraînement, de temps et de distance pour vos sports. Vous pouvez suivre vos progrès par rapport à ces objectifs et planifier votre entraînement pour les atteindre.",
   "no_user_with_email": "Aucun utilisateur n'est enregistré avec cette adresse e-mail",
   "non_members_visible_blurb": "Les non-membres peuvent voir le groupe mais pas les messages de discussion, les séances d'entraînement ou les plans d'entraînement.",

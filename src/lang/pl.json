@@ -1743,6 +1743,7 @@
   "no_coaches_blurb": "Nie masz żadnych trenerów, kliknij na któregokolwiek z Twoich obserwujących, aby uczynić go trenerem",
   "no_forecasts": "Nie znaleziono prognoz, kliknij Dodaj prognozę, aby ją utworzyć",
   "no_gear_blurb": "Nie masz żadnych rowerów, butów ani innego sprzętu",
+  "no_matching_activities_with_found": "Nie znaleziono pasujących działań z {p} ",
   "no_targets_blurb": "Kliknij poniższe przyciski, aby ustawić obciążenie treningowe, czas i dystans docelowy dla Twoich dyscyplin sportowych. Możesz śledzić postępy w stosunku do celów i planować trening, aby je osiągnąć.",
   "no_user_with_email": "Żaden użytkownik nie jest zarejestrowany pod tym adresem e-mail",
   "non_members_visible_blurb": "Osoby nie będące członkami grupy mogą widzieć grupę, ale nie mogą widzieć wiadomości na czacie, treningów ani planów treningowych.",
