@@ -1528,6 +1528,7 @@
   "after_kj": "La courbe puissance-durée, après qu'une quantité importante de travail a déjà été effectuée, donne un aperçu de la résistance à la fatigue. Voir <a href='https://www.outsideonline.com/health/training-performance/fatigue-resistance-research/' target='_blank'>The New Science of Fatigue Resistance</a> et <a href='https://pubmed.ncbi.nlm.nih.gov/33789246/' target='_blank'>l'article de Peter Leo et al</a> pour en savoir plus sur le sujet.",
   "all future workouts": "tous les entraînements futurs",
   "all_rounder_blurb": "Bon dans tout, seuls les spécialistes peuvent vous battre (Sagan)",
+  "allow_login_via_link": "Autoriser {n} à vous connecter via un lien",
   "analyse_for_pace_zones": "Ré-analysez cette activité pour voir le temps dans les zones de rythme.",
   "and": "et",
   "as used in": "dans le cadre de",

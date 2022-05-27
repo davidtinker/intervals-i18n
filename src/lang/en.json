@@ -1528,6 +1528,7 @@
   "after_kj": "The power duration curve after a significant amount of work has already been done, provides insight into fatigue resistance. See <a href='https://www.outsideonline.com/health/training-performance/fatigue-resistance-research/' target='_blank'>The New Science of Fatigue Resistance</a> and <a href='https://pubmed.ncbi.nlm.nih.gov/33789246/' target='_blank'>paper by Peter Leo et al</a> for more on the topic.",
   "all future workouts": "all future workouts",
   "all_rounder_blurb": "Good at everything, only the specialists can beat you (Sagan)",
+  "allow_login_via_link": "Allow {n} to log you in via a link",
   "analyse_for_pace_zones": "Re-analyse this activity to see time in pace zones",
   "and": "and",
   "as used in": "as used in",

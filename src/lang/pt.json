@@ -1528,6 +1528,7 @@
   "after_kj": "A curva de duração da potência, após uma quantidade significativa de trabalho já realizado, fornece uma visão da resistência à fadiga. Ver <a href='https://www.outsideonline.com/health/training-performance/fatigue-resistance-research/' target='_blank'>The New Science of Fatigue Resistance</a> and <a href='https://pubmed.ncbi.nlm.nih.gov/33789246/' target='_blank'>paper by Peter Leo et al</a> para mais informações sobre o tema.",
   "all future workouts": "todos os treinos futuros",
   "all_rounder_blurb": "Bom em tudo, só os especialistas o podem vencer (Sagan)",
+  "allow_login_via_link": "Permitir que {n} faça login por meio de um link",
   "analyse_for_pace_zones": "Re-analisar esta actividade para ver o tempo em zonas de ritmo",
   "and": "e",
   "as used in": "como usado em",

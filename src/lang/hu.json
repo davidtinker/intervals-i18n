@@ -1528,6 +1528,7 @@
   "after_kj": "A teljesítményidő görbe jelentős mennyiségű munka elvégzése után betekintést nyújt a fáradtságtűrő képességbe. A témával kapcsolatban lásd: <a href='https://www.outsideonline.com/health/training-performance/fatigue-resistance-research/' target='_blank'>The New Science of Fatigue Resistance</a> és <a href='https://pubmed.ncbi.nlm.nih.gov/33789246/' target='_blank'>Peter Leo és munkatársai</a> .",
   "all future workouts": "minden jövőbeli edzés",
   "all_rounder_blurb": "Mindenben jó, csak a szakemberek tudnak legyőzni (Sagan)",
+  "allow_login_via_link": "Engedélyezze {n} számára, hogy egy linken keresztül bejelentkezzen",
   "analyse_for_pace_zones": "Elemezze újra ezt a tevékenységet, hogy lássa a tempó zónákban eltöltött időt.",
   "and": "és",
   "as used in": "-ben használt",

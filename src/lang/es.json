@@ -1528,6 +1528,7 @@
   "after_kj": "La curva de duración de la potencia, una vez que se ha realizado una cantidad significativa de trabajo, proporciona información sobre la resistencia a la fatiga. Véase <a href='https://www.outsideonline.com/health/training-performance/fatigue-resistance-research/' target='_blank'>La nueva ciencia de la resistencia a la fatiga</a> y <a href='https://pubmed.ncbi.nlm.nih.gov/33789246/' target='_blank'>el artículo de Peter Leo et al</a> para más información sobre el tema.",
   "all future workouts": "todos los futuros entrenamientos",
   "all_rounder_blurb": "Bueno en todo, sólo los especialistas pueden vencerte (Sagan)",
+  "allow_login_via_link": "Permitir que {n} inicie sesión a través de un enlace",
   "analyse_for_pace_zones": "Vuelve a analizar esta actividad para ver el tiempo en zonas de ritmo",
   "and": "y",
   "as used in": "tal y como se utiliza en",

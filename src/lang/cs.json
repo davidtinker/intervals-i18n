@@ -1528,6 +1528,7 @@
   "after_kj": "Křivka trvání výkonu po tom, co již bylo provedeno značné množství práce, poskytuje pohled na odolnost proti únavě. Další informace o tomto tématu naleznete v článku <a href='https://www.outsideonline.com/health/training-performance/fatigue-resistance-research/' target='_blank'>The New Science of Fatigue Resistance</a> a <a href='https://pubmed.ncbi.nlm.nih.gov/33789246/' target='_blank'>paper Peter Leo et al</a> .",
   "all future workouts": "všechny budoucí tréninky",
   "all_rounder_blurb": "Dobrý ve všem, jen specialisté vás mohou porazit (Sagan)",
+  "allow_login_via_link": "Umožněte uživateli {n} přihlásit se pomocí odkazu",
   "analyse_for_pace_zones": "Znovu analyzujte tuto aktivitu, abyste viděli čas v tempových zónách.",
   "and": "A",
   "as used in": "jak se používá v",
