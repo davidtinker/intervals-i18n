@@ -1054,6 +1054,7 @@
   "Remove Folder": "Удалить папку",
   "Remove Plan": "Удалить план",
   "Remove all intervals": "Удалите все интервалы",
+  "Remove from": "Удалить из {n}",
   "Repeats": "Повторяется",
   "Replace": "Заменить",
   "Replace missing points with preceding value": "Замените пропущенные точки предыдущим значением",

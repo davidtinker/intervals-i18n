@@ -1054,6 +1054,7 @@
   "Remove Folder": "Supprimer le dossier",
   "Remove Plan": "Supprimer le plan",
   "Remove all intervals": "Supprimer tous les intervalles",
+  "Remove from": "Supprimer de {n}",
   "Repeats": "Répétitions",
   "Replace": "Remplacer",
   "Replace missing points with preceding value": "Remplacer les points manquants par la valeur précédente",

@@ -1054,6 +1054,7 @@
   "Remove Folder": "Mappa eltávolítása",
   "Remove Plan": "Terv eltávolítása",
   "Remove all intervals": "Minden intervallum eltávolítása",
+  "Remove from": "Eltávolítás innen: {n}",
   "Repeats": "Ismétlések",
   "Replace": "Cseréld",
   "Replace missing points with preceding value": "Cseréld ki a hiányzó pontokat az előző értékre",

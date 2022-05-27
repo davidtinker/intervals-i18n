@@ -1054,6 +1054,7 @@
   "Remove Folder": "删除文件夹",
   "Remove Plan": "删除计划",
   "Remove all intervals": "移除所有区间",
+  "Remove from": "从 {n}中删除",
   "Repeats": "重复次数",
   "Replace": "替换",
   "Replace missing points with preceding value": "用前面的值替换缺失的点",
