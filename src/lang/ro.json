@@ -1831,6 +1831,7 @@
   "started_chat_msg_sub": "{0} a inițiat un chat cu tine.",
   "strava_description_update_warning": "Rețineți că descrierea afișată pe Strava va fi actualizată",
   "strava_elevation_blurb": "Datele de elevație de pe Strava sunt foarte precise chiar și de pe dispozitive fără altimetru barometric, utilizarea corecției de elevație nu este recomandată",
+  "strava_sync_other_activities": "Păstrați activitățile non-Strava sincronizate cu Strava",
   "supporter_download_unlimited_blurb": "Vă mulțumim pentru că susții Intervals.icu! În calitate de susținător, poți descărca date istorice nelimitate de la {source}.",
   "suunto_upload_filters_blurb": "Adaugă filtre pentru a selecta antrenamentele planificate care vor fi încărcate în Suunto. Antrenamentele pentru săptămâna următoare sunt încărcate.",
   "their": "al lor",

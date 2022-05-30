@@ -1831,6 +1831,7 @@
   "started_chat_msg_sub": "{0} je začel klepet z vami",
   "strava_description_update_warning": "Upoštevajte, da bo opis, prikazan na Stravi, posodobljen",
   "strava_elevation_blurb": "Podatki o nadmorski višini iz Strave so zelo natančni tudi pri napravah brez barometričnega višinomera, uporaba popravka višine ni priporočljiva",
+  "strava_sync_other_activities": "Naj bodo dejavnosti, ki niso Strava, sinhronizirane s Stravo",
   "supporter_download_unlimited_blurb": "Hvala, ker podpirate Intervals.icu! Kot podpornik lahko prenesete neomejeno pretekle podatke iz {source}.",
   "suunto_upload_filters_blurb": "Dodajte filtre, da izberete, katere načrtovane treninge bodo naložene v Suunto. Treningi za naslednji teden so naloženi.",
   "their": "njihov",

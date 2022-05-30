@@ -1831,6 +1831,7 @@
   "started_chat_msg_sub": "{0} is een gesprek met je begonnen",
   "strava_description_update_warning": "Merk op dat de beschrijving op Strava zal worden bijgewerkt",
   "strava_elevation_blurb": "Hoogtegegevens van Strava zijn zeer nauwkeurig, zelfs van toestellen zonder barometrische hoogtemeter, het gebruik van hoogtecorrectie wordt niet aanbevolen",
+  "strava_sync_other_activities": "Houd niet-Strava-activiteiten gesynchroniseerd met Strava",
   "supporter_download_unlimited_blurb": "Dank u voor het steunen van Intervals.icu! Als supporter kunt u onbeperkt historische data downloaden van {source}.",
   "suunto_upload_filters_blurb": "Voeg filters toe om te selecteren welke geplande trainingen naar Suunto worden geüpload. Workouts voor de volgende week worden geüpload.",
   "their": "hun",

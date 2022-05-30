@@ -1831,6 +1831,7 @@
   "started_chat_msg_sub": "{0} hat einen Chat mit dir begonnen",
   "strava_description_update_warning": "Beachten Sie, dass die auf Strava angezeigte Beschreibung aktualisiert wird",
   "strava_elevation_blurb": "Die Höhendaten von Strava sind auch bei Geräten ohne barometrischen Höhenmesser sehr genau, eine Höhenkorrektur wird nicht empfohlen.",
+  "strava_sync_other_activities": "Halten Sie Nicht-Strava-Aktivitäten mit Strava synchron",
   "supporter_download_unlimited_blurb": "Danke, dass Sie Intervals.icu unterstützen! Als Unterstützer können Sie unbegrenzt historische Daten von {source}herunterladen.",
   "suunto_upload_filters_blurb": "Fügen Sie Filter hinzu, um auszuwählen, welche geplanten Trainingseinheiten auf Suunto hochgeladen werden sollen. Die Trainingseinheiten für die nächste Woche werden hochgeladen.",
   "their": "ihr",
