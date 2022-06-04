@@ -1704,6 +1704,8 @@
   "hr_range": "有确切心率目标的训练步骤被转换为目标心率某个正/负百分比范围内",
   "hr_spikes": "通过比较心率曲线和你的最大心率，可以检测并修正心率尖峰，高于最大心率的尖峰会被前后的心率值的插值所取代。如果某项活动的心率数据质量很差，可以通过点击齿轮图标忽略心率数据，你可以通过点击图表按钮并添加原始心率数据来查看未经修改的心率曲线",
   "hrrc": "HRRc衡量你在强力输出后恢复的速度，指至少从阈值心率开始，在60秒内心率的最大下降值。一般的，心率下降越快或越多，恢复就越好 - <a href='https://www.pezcyclingnews.com/latestnews/toolbox-heart-rate-recovery/'>www.pezcyclingnews.com</a>",
+  "hrrc_min": "该设置控制了触发计算所需的最小HR值",
+  "hrrc_min_in_settings": "可以在 /settings 中为每项运动配置触发计算所需的最小 HR",
   "hrss_load_blurb": "该模型使用相对于阈值的每个心率花费的时间，和你的心率储备(最大心率减去静息心率)来估计训练负荷",
   "icu_rolling_ftp": "估计的FTP使用<a href='https://www.cyclingapps.net/' target='_blank'>FastFitness.Tips</a> 和 <a href='https://doi.org/10.1080/00140139608964484' target='_blank'>Morton的3参数临界功率模型</a>的功率曲线计算。该算法只需要1次180s到30min的全力输出。如果保持训练负荷，估计FTP将保持不变。当减少训练时，FTP将缓慢下降。要想让它上升，需要付出最大的努力!所需的最小持续时间在设置中进行配置",
   "ignore_hr_blurb": "不要用HR来计算训练负荷、HR曲线或总数",
