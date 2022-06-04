@@ -1724,6 +1724,7 @@
   "intervals_locked_blurb": "Intervalele sunt blocate, se deblochează din meniul {actions} .",
   "intervals_login_otp": "Intervale.icu login OTP",
   "intervals_password_reset": "Resetare parolă Intervals.icu",
+  "invert_sub_wellness": "Inversați scorurile subiective de bunăstare, astfel încât 1 este rău și 4 este bun",
   "invite_your_friends": "Invită-ți prietenii și alți atleți să alăture pe Intervals.icu trimițându-le linkul de mai jos:",
   "join_req_msg_sub": "{0} a solicitat să se alăture unuia dintre grupurile tale.",
   "kCal": "kCal",

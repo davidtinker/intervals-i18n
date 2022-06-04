@@ -1724,6 +1724,7 @@
   "intervals_locked_blurb": "Intervali so zaklenjeni, odklepanje iz menija {actions} ",
   "intervals_login_otp": "Intervals.icu login OTP",
   "intervals_password_reset": "Intervals.icu ponastavi geslo",
+  "invert_sub_wellness": "Obrnite subjektivne ocene dobrega počutja, tako da je 1 slaba in 4 dobra",
   "invite_your_friends": "Povabite svoje prijatelje in športnike, da se vam pridružijo na Intervals.icu, tako da jim pošljete spodnjo povezavo:",
   "join_req_msg_sub": " Oseba{0} je prosila za pridružitev eni od vaših skupin",
   "kCal": "kCal",

@@ -1724,6 +1724,7 @@
   "intervals_locked_blurb": "Az intervallumok zárolva vannak, az {actions} menüből feloldhatóak.",
   "intervals_login_otp": "Intervals.icu bejelentkezés egyszer-használatos kóddal (OTP)",
   "intervals_password_reset": "Intervals.icu jelszó visszaállítása",
+  "invert_sub_wellness": "A szubjektív wellness pontszámok megfordítása, így az 1 rossz, a 4 pedig jó",
   "invite_your_friends": "Hívd meg barátaidat és sportolóidat, hogy csatlakozzanak hozzád az Intervals.icu oldalon az alábbi link elküldésével:",
   "join_req_msg_sub": "{0} kérte, hogy csatlakozz valamelyik csoportjához",
   "kCal": "kcal",

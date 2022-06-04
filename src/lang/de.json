@@ -1724,6 +1724,7 @@
   "intervals_locked_blurb": "Intervalle sind gesperrt, Entsperren über das Menü {actions} ",
   "intervals_login_otp": "Intervalle.icu Anmeldung OTP",
   "intervals_password_reset": "Intervals.icu Passwort zurücksetzen",
+  "invert_sub_wellness": "Invertieren der subjektiven Wellness-Bewertungen, so dass 1 schlecht und 4 gut ist",
   "invite_your_friends": "Lade Freunde und Sportler ein, sich dir auf Intervals.icu anzuschließen, indem du ihnen den Link schickst:",
   "join_req_msg_sub": "{0} gebeten, einer Ihrer Gruppen beizutreten",
   "kCal": "kcal",

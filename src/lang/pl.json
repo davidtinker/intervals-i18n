@@ -1724,6 +1724,7 @@
   "intervals_locked_blurb": "Interwały są zablokowane, odblokować z menu {actions} .",
   "intervals_login_otp": "Interwały.icu login OTP",
   "intervals_password_reset": "Intervals.icu resetowanie hasła",
+  "invert_sub_wellness": "Odwrócenie subiektywnej oceny samopoczucia, tak aby 1 oznaczało złe samopoczucie, a 4 dobre",
   "invite_your_friends": "Zaproś swoich znajomych i sportowców, aby dołączyli do Ciebie na Intervals.icu, wysyłając im poniższy link:",
   "join_req_msg_sub": "{0} poprosił o dołączenie do jednej z twoich grup",
   "kCal": "kCal",

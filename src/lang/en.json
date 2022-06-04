@@ -1724,6 +1724,7 @@
   "intervals_locked_blurb": "Intervals are locked, unlock from {actions} menu",
   "intervals_login_otp": "Intervals.icu login OTP",
   "intervals_password_reset": "Intervals.icu password reset",
+  "invert_sub_wellness": "Invert subjective wellness scores so 1 is bad and 4 is good",
   "invite_your_friends": "Invite your friends and athletes to join you on Intervals.icu by sending them the link below:",
   "join_req_msg_sub": "{0} asked to join one of your groups",
   "kCal": "kCal",

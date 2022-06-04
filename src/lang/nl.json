@@ -1724,6 +1724,7 @@
   "intervals_locked_blurb": "Intervallen zijn vergrendeld, ontgrendelen via menu {actions} ",
   "intervals_login_otp": "Intervals.icu login OTP",
   "intervals_password_reset": "Intervals.icu wachtwoord reset",
+  "invert_sub_wellness": "Draai de subjectieve welzijnsscores om, dus 1 is slecht en 4 is goed",
   "invite_your_friends": "Nodig vrienden en atleten uit om met je mee te doen op Intervals.icu door ze onderstaande link te sturen:",
   "join_req_msg_sub": "{0} vraagt om bij een van jullie groepen te komen",
   "kCal": "kCal",
