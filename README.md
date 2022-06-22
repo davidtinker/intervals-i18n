@@ -24,4 +24,4 @@ you can take it from there.
 
 ## Copyright
 
-All files copyright David Tinker.
+All files copyright Intervals.icu Ltd.
