@@ -1615,6 +1615,7 @@
   "comment_on_activity": "Komentirajte to aktivnost, da pomagate {name} pri njihovem treniranju.",
   "commented_on_activity_msg_sub": "{0} je komentiral {1}",
   "commented_on_other_activity_msg_sub": " Oseba{0} je komentirala {2}osebe {1}",
+  "compound_score_5m": "Sestavljen rezultat je absolutna moč (w) x relativna moč (w/kg) za dano trajanje (tukaj 5 minut). Ugotovljeno je bilo, da bolj napoveduje kot samo 5 m absolutne ali relativne moči prokontinentalnega uspeha na dirkah U23 – <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "configure_pace_zones": "V nastavitvah konfigurirajte območja tempa za ta šport, da vidite čas v območjih tempa",
   "confirm_clear_intervals": "Ali ste prepričani, da želite odstraniti vse intervale?",
   "confirm_clear_plan": "Ali ste prepričani, da želite počistiti načrt treniranja? Vsi prihodnji načrtovani treningi bodo izbrisani! Če želite obdržati kakršne koli treninge, jih najprej kopirajte v knjižnico. Upoštevajte, da se dirke, treningi iz zunanjih koledarjev in drugi vnosi ne izbrišejo.",

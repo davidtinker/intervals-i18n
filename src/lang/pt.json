@@ -1615,6 +1615,7 @@
   "comment_on_activity": "Comente esta actividade para ajudar {name} com o treino.",
   "commented_on_activity_msg_sub": "{0} comentado em {1}",
   "commented_on_other_activity_msg_sub": "{0} comentado em {1}'s {2}",
+  "compound_score_5m": "A pontuação composta é potência absoluta (w) x potência relativa (w/kg) para uma determinada duração (aqui 5 minutos). Descobriu-se que é mais preditivo do que 5m de potência absoluta ou relativa sozinho do sucesso de corrida pró-continental U23 de um dia - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "configure_pace_zones": "Configurar zonas de ritmo para este desporto em definições para ver o tempo em zonas de ritmo",
   "confirm_clear_intervals": "Tem a certeza de que quer remover todos os intervalos?",
   "confirm_clear_plan": "Tem a certeza de que quer limpar o plano de treino? Todos os futuros treinos planeados serão eliminados! Se quiser manter algum treino, copie-o primeiro para a sua biblioteca. Atenção que as provas, treinos de calendários externos e outras entradas não serão apagados.",

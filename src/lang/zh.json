@@ -1615,6 +1615,7 @@
   "comment_on_activity": "对这项活动进行评论，帮助 {name} 进行训练",
   "commented_on_activity_msg_sub": "{0} 对 {1} 发表了评论",
   "commented_on_other_activity_msg_sub": "{0} 评论了 {1}的 {2}",
+  "compound_score_5m": "复合分数是给定持续时间（此处为 5 分钟）的绝对功率 (w) x 相对功率 (w/kg)。已发现它比仅 5m 绝对或相对力量更能预测亲大陆 U23 一日比赛的成功 - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "configure_pace_zones": "在设置中为这项运动配置步伐区，以查看步伐区的时间。",
   "confirm_clear_intervals": "你确定你要删除所有的间隔吗？",
   "confirm_clear_plan": "确定清除训练计划？所有未来计划的训练都将被删除!如果你想保留训练，请先将它们复制到你的资料库。请注意，比赛、来自外部日历的训练和其他条目不会被删除",
