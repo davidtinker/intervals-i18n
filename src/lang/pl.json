@@ -1615,6 +1615,7 @@
   "comment_on_activity": "Skomentuj tę czynność, aby pomóc {name} w szkoleniu.",
   "commented_on_activity_msg_sub": "{0} skomentował {1}",
   "commented_on_other_activity_msg_sub": "{0} skomentował {1}'s {2}",
+  "compound_score_5m": "Wynik związku to moc bezwzględna (w) x moc względna (w/kg) dla danego czasu trwania (tutaj 5 minut). Stwierdzono, że jest ona bardziej predykcyjna niż sama moc bezwzględna lub względna z 5 metrów w jednodniowych wyścigach prokontynentalnych U23 — <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "configure_pace_zones": "Skonfiguruj strefy tempa dla tego sportu w ustawieniach, aby zobaczyć czas w strefach tempa.",
   "confirm_clear_intervals": "Czy na pewno chcesz usunąć wszystkie interwały?",
   "confirm_clear_plan": "Czy na pewno chcesz wyczyścić plan treningowy? Wszystkie zaplanowane w przyszłości treningi zostaną usunięte! Jeśli chcesz zachować jakieś treningi, skopiuj je najpierw do swojej biblioteki. Pamiętaj, że wyścigi, treningi z zewnętrznych kalendarzy i inne wpisy nie są usuwane.",

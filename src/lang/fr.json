@@ -1615,6 +1615,7 @@
   "comment_on_activity": "Commentez cette activité pour aider {name} dans sa formation.",
   "commented_on_activity_msg_sub": "{0} a commenté {1}",
   "commented_on_other_activity_msg_sub": "{0} a commenté {1}'s {2}",
+  "compound_score_5m": "Le score composé est la puissance absolue (w) x la puissance relative (w/kg) pour une durée donnée (ici 5 minutes). Il s'est avéré plus prédictif que la seule puissance absolue ou relative de 5 m du succès d'une journée en course pro-continental U23 - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "configure_pace_zones": "Configurez les zones d'allure pour ce sport dans les paramètres pour voir le temps dans les zones d'allure.",
   "confirm_clear_intervals": "Êtes-vous sûr de vouloir supprimer tous les intervalles ?",
   "confirm_clear_plan": "Êtes-vous sûr de vouloir effacer le plan d'entraînement ? Tous les entraînements planifiés à l'avenir seront supprimés ! Si vous souhaitez conserver certains entraînements, copiez-les d'abord dans votre bibliothèque. Notez que les courses, les entraînements provenant de calendriers externes et les autres entrées ne sont pas supprimés.",
