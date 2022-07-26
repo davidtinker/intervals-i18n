@@ -1043,6 +1043,8 @@
   "Power curve after kJ of work": "Curva de potencia después de kJ de trabajo",
   "Power curve for workouts": "Curva de potencia para entrenamientos",
   "Power from real power meter": "Potencia del medidor de potencia real",
+  "Power meter battery status": "Estado de la batería del medidor de potencia",
+  "Power meter serial no": "Número de serie del medidor de potencia",
   "Power model used to estimate FTP": "Modelo de potencia utilizado para estimar FTP",
   "Power spike threshold %": "% Umbral de pico de potencia",
   "Power spikes": "Picos de potencia",

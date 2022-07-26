@@ -1043,6 +1043,8 @@
   "Power curve after kJ of work": "做功某个值后的功率曲线",
   "Power curve for workouts": "训练课程的功率曲线",
   "Power from real power meter": "来自真实功率计的功率",
+  "Power meter battery status": "电表电池状态",
+  "Power meter serial no": "功率计序列号",
   "Power model used to estimate FTP": "用来估计FTP的功率模型",
   "Power spike threshold %": "功率尖峰阈值%",
   "Power spikes": "功率尖峰",

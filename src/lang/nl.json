@@ -1043,6 +1043,8 @@
   "Power curve after kJ of work": "Vermogen-curve na kJ arbeid",
   "Power curve for workouts": "Vermogen-curve voor workouts",
   "Power from real power meter": "Vermogen van echte vermogenmeter",
+  "Power meter battery status": "Batterijstatus van de vermogensmeter",
+  "Power meter serial no": "Serienummer vermogensmeter",
   "Power model used to estimate FTP": "Toegepast model voor FTP-schatting",
   "Power spike threshold %": "Vermogenartefact drempel %",
   "Power spikes": "Vermogenartefacten",

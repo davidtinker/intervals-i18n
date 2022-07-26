@@ -1043,6 +1043,8 @@
   "Power curve after kJ of work": "Кривая мощности после совершения работы в кДж",
   "Power curve for workouts": "Кривая мощности для тренировок",
   "Power from real power meter": "Мощность от реального измерителя мощности",
+  "Power meter battery status": "Состояние батареи измерителя мощности",
+  "Power meter serial no": "Серийный номер измерителя мощности",
   "Power model used to estimate FTP": "Модель мощности, используемая для оценки FTP",
   "Power spike threshold %": "Порог скачка мощности %",
   "Power spikes": "Скачки напряжения",

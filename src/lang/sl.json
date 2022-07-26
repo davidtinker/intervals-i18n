@@ -1043,6 +1043,8 @@
   "Power curve after kJ of work": "Krivulja moči po kJ dela",
   "Power curve for workouts": "Krivulja moči za treninge",
   "Power from real power meter": "Moč iz pravega merilca moči",
+  "Power meter battery status": "Stanje baterije merilnika moči",
+  "Power meter serial no": "Merilnik moči Serijska št",
   "Power model used to estimate FTP": "Model moči, ki se uporablja za oceno FTP",
   "Power spike threshold %": "Prag moči konic %",
   "Power spikes": "Moč konic",

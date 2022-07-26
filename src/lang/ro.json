@@ -1043,6 +1043,8 @@
   "Power curve after kJ of work": "Curba de putere după kJ de lucru",
   "Power curve for workouts": "Curba de putere pentru antrenamente",
   "Power from real power meter": "Putere de la un contor real de putere",
+  "Power meter battery status": "Starea bateriei contorului de putere",
+  "Power meter serial no": "Contorul de putere nr",
   "Power model used to estimate FTP": "Model de putere utilizat pentru estimarea FTP",
   "Power spike threshold %": "% Prag vârf putere",
   "Power spikes": "Vârfuri de putere",

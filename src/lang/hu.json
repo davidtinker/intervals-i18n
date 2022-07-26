@@ -1043,6 +1043,8 @@
   "Power curve after kJ of work": "Teljesítménygörbe kJ edzés után",
   "Power curve for workouts": "Teljesítménygörbe az edzésekhez",
   "Power from real power meter": "Teljesítmény valódi teljesítménymérőből",
+  "Power meter battery status": "A teljesítménymérő akkumulátorának állapota",
+  "Power meter serial no": "Teljesítménymérő sorozatszám",
   "Power model used to estimate FTP": "FTP becsléséhez használt teljesítménymodell",
   "Power spike threshold %": "Teljesítménykiugrás küszöb %",
   "Power spikes": "Teljesítménykiugrások",
