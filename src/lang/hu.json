@@ -1606,6 +1606,7 @@
   "ask_admin_to_join": "Ha szeretnél csatlakozni ehhez a csoporthoz, kérj engedélyt az egyik adminisztrátortól",
   "athlete_has_not_shared_fitness_charts": "{n} nem osztott meg fitnesztáblázatokat",
   "athlete_has_not_shared_plans": "{n} nem osztott meg mindenkivel egyetlen mappát vagy tervet sem",
+  "athlete_has_not_shared_trace_charts": "{n} nem osztott meg tevékenységi nyomkövetési diagramokat",
   "athlete_plans_blurb": "Kezdeti dátum és az aktuális hét",
   "atl_blurb": "Ez az edzésterhelés 7 napos exponenciálisan súlyozott mozgóátlaga",
   "attacker_blurb": "Kiváló 1 méteres teljesítménye van, és túlfeszültséget okozhat túlfeszültség után (Valverde)",
@@ -1974,6 +1975,7 @@
   "you_are_following": "Őket követed",
   "you_have_not_shared_fitness_charts": "Nem osztott meg fitnesztáblázatokat",
   "you_have_not_shared_plans": "Nem osztott meg mindenkivel egyetlen mappát vagy tervet sem",
+  "you_have_not_shared_trace_charts": "Nem osztott meg tevékenységi nyomkövetési diagramokat",
   "your_coaches_blurb": "Edzőid (ők azok, akik szerkeszthetik tevékenységedet, naptárad, FTP-det és edzési beállításaidat):",
   "your_followers_blurb": "Követőid (ők azok, akik láthatják a tevékenységeidet, beleértve a magánjellegűre állított, naptári és teljesítményadataidat, kattints a szerkesztésükhez):",
   "zoom_before_crop": "Mielőtt a kivágás gombra kattintasz, nagyíts a tevékenység azon részére, amelyet meg szeretnél tartani"

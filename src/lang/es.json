@@ -1606,6 +1606,7 @@
   "ask_admin_to_join": "Si quieres unirte a este grupo pregunta a uno de los administradores",
   "athlete_has_not_shared_fitness_charts": "{n} no ha compartido ningún gráfico de actividad física",
   "athlete_has_not_shared_plans": "{n} no ha compartido carpetas ni planes con nadie",
+  "athlete_has_not_shared_trace_charts": "{n} no ha compartido ningún gráfico de seguimiento de actividad",
   "athlete_plans_blurb": "Fecha de inicio y semana actual",
   "atl_blurb": "Se trata de una media móvil ponderada exponencialmente de 7 días de su carga de entrenamiento",
   "attacker_blurb": "Tienes una excelente potencia de 1 metro y puedes meter una oleada tras otra (Valverde)",
@@ -1974,6 +1975,7 @@
   "you_are_following": "Los estás siguiendo",
   "you_have_not_shared_fitness_charts": "No has compartido ningún gráfico de actividad física.",
   "you_have_not_shared_plans": "No has compartido ninguna carpeta o plan con nadie",
+  "you_have_not_shared_trace_charts": "No has compartido ningún gráfico de seguimiento de actividad.",
   "your_coaches_blurb": "Tus entrenadores (personas que pueden editar tus actividades, calendario, FTP y ajustes de entrenamiento):",
   "your_followers_blurb": "Tus seguidores (personas que pueden ver tus actividades, incluidas las privadas, el calendario y los datos de energía, haz clic para editar):",
   "zoom_before_crop": "Haz zoom en la parte de la actividad que quieres conservar antes de hacer clic en recortar"

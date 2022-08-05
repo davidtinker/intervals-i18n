@@ -1606,6 +1606,7 @@
   "ask_admin_to_join": "Contacteer één van de admins om lid te worden van deze groep.",
   "athlete_has_not_shared_fitness_charts": "{n} heeft geen fitnessgrafieken gedeeld",
   "athlete_has_not_shared_plans": "{n} heeft geen mappen of plannen met iedereen gedeeld",
+  "athlete_has_not_shared_trace_charts": "{n} heeft geen activiteitentraceergrafieken gedeeld",
   "athlete_plans_blurb": "Begindatum en lopende week",
   "atl_blurb": "Dit is een 7-dagen exponentieel gewogen voortschrijdend gemiddelde van je trainingsbelasting",
   "attacker_blurb": "Je hebt een uitstekend vermogen van 1 meter en je kunt de ene aanval na de andere inzetten (Valverde)",
@@ -1974,6 +1975,7 @@
   "you_are_following": "Jij volgt hen.",
   "you_have_not_shared_fitness_charts": "Je hebt geen fitnessgrafieken gedeeld",
   "you_have_not_shared_plans": "Je hebt geen mappen of plannen met iedereen gedeeld",
+  "you_have_not_shared_trace_charts": "U heeft geen activiteitentraceergrafieken gedeeld",
   "your_coaches_blurb": "Je coaches (mensen die je activiteiten, agenda, FTP en trainingsinstellingen kunnen bewerken):",
   "your_followers_blurb": "Je volgers (mensen die je activiteiten kunnen zien, inclusief privé-, agenda- en vermogendata, klik om te bewerken):",
   "zoom_before_crop": "Zoom naar het deel van de activiteit dat je wil behouden voordat je op bijsnijden klikt"

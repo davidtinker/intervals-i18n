@@ -1606,6 +1606,7 @@
   "ask_admin_to_join": "Wenn Sie dieser Gruppe beitreten möchten, fragen Sie einen der Administratoren",
   "athlete_has_not_shared_fitness_charts": "{n} hat keine Fitnessdiagramme geteilt",
   "athlete_has_not_shared_plans": "{n} hat keine Ordner oder Pläne für alle freigegeben",
+  "athlete_has_not_shared_trace_charts": "{n} hat keine Aktivitätsverfolgungsdiagramme freigegeben",
   "athlete_plans_blurb": "Anfangsdatum und aktuelle Woche",
   "atl_blurb": "Dies ist ein exponentiell gewichteter gleitender Durchschnitt deiner Trainingsbelastung über 7 Tage",
   "attacker_blurb": "Du verfügst über eine hervorragende 1-Minuten-Leistung und kannst eine Attacke nach der anderen setzen (Valverde).",
@@ -1974,6 +1975,7 @@
   "you_are_following": "Sie folgen Ihnen",
   "you_have_not_shared_fitness_charts": "Sie haben keine Fitnessdiagramme geteilt",
   "you_have_not_shared_plans": "Sie haben keine Ordner oder Pläne für alle freigegeben",
+  "you_have_not_shared_trace_charts": "Sie haben keine Aktivitätsverfolgungsdiagramme freigegeben",
   "your_coaches_blurb": "Deine Trainer (Personen, die deine Aktivitäten, deinen Kalender, deine FTP und deine Trainingseinstellungen bearbeiten können):",
   "your_followers_blurb": "Deine Follower (Personen, die deine Aktivitäten sehen können, einschließlich privater Trainingseinheiten, Kalendereinträgen und Leistungsdaten). Klicken zum bearbeiten:",
   "zoom_before_crop": "Zoome auf den Teil der Aktivität, den du behalten möchtest, bevor du auf Ausschneiden klickst."

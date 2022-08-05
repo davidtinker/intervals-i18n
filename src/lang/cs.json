@@ -1606,6 +1606,7 @@
   "ask_admin_to_join": "Pokud se chcete připojit k této skupině, zeptejte se některého z administrátorů",
   "athlete_has_not_shared_fitness_charts": "{n} nesdílí žádné grafy fitness",
   "athlete_has_not_shared_plans": "{n} nesdílí žádné složky ani plány se všemi",
+  "athlete_has_not_shared_trace_charts": "{n} nesdílí žádné grafy trasování aktivity",
   "athlete_plans_blurb": "Datum zahájení a aktuální týden",
   "atl_blurb": "Toto je 7 denní exponenciálně vážený klouzavý průměr vaší tréninkové zátěže",
   "attacker_blurb": "Máte vynikající výkon 1 m a můžete se přepínat po přepětí (Valverde)",
@@ -1974,6 +1975,7 @@
   "you_are_following": "Sledujete je",
   "you_have_not_shared_fitness_charts": "Nesdíleli jste žádné fitness tabulky",
   "you_have_not_shared_plans": "Nesdíleli jste žádné složky ani plány se všemi",
+  "you_have_not_shared_trace_charts": "Nesdíleli jste žádné grafy trasování aktivity",
   "your_coaches_blurb": "Vaši trenéři (lidé, kteří mohou upravovat vaše aktivity, kalendář, FTP a nastavení školení):",
   "your_followers_blurb": "Vaši sledující (lidé, kteří mohou vidět vaše aktivity, včetně soukromých, kalendářních a výkonových údajů, kliknutím upravíte):",
   "zoom_before_crop": "Před kliknutím na oříznutí zvětšete část aktivity, kterou chcete zachovat"

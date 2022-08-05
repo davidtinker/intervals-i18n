@@ -1606,6 +1606,7 @@
   "ask_admin_to_join": "Jeśli chciałbyś dołączyć do tej grupy zapytaj jednego z adminów",
   "athlete_has_not_shared_fitness_charts": "{n} nie udostępnił żadnych wykresów fitness",
   "athlete_has_not_shared_plans": "{n} nie udostępnił nikomu żadnych folderów ani planów",
+  "athlete_has_not_shared_trace_charts": "{n} nie udostępnił żadnych wykresów śledzenia aktywności",
   "athlete_plans_blurb": "Data rozpoczęcia i bieżący tydzień",
   "atl_blurb": "Jest to 7-dniowa wykładniczo ważona średnia krocząca obciążenia treningowego.",
   "attacker_blurb": "Masz świetną moc 1m i możesz robić skok za skokiem (Valverde)",
@@ -1974,6 +1975,7 @@
   "you_are_following": "Podążasz za nimi",
   "you_have_not_shared_fitness_charts": "Nie udostępniłeś żadnych wykresów fitness",
   "you_have_not_shared_plans": "Nie udostępniłeś wszystkim żadnych folderów ani planów",
+  "you_have_not_shared_trace_charts": "Nie udostępniłeś żadnych wykresów śledzenia aktywności",
   "your_coaches_blurb": "Twoi trenerzy (osoby, które mogą edytować Twoje aktywności, kalendarz, FTP i ustawienia treningowe):",
   "your_followers_blurb": "Twoi obserwujący (osoby, które mogą zobaczyć Twoje aktywności, w tym prywatne, kalendarz i dane dotyczące mocy, kliknij, aby edytować):",
   "zoom_before_crop": "Powiększ część aktywności, którą chcesz zachować, przed kliknięciem przycisku przycinania."

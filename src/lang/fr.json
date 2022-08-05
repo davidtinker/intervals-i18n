@@ -1606,6 +1606,7 @@
   "ask_admin_to_join": "Si vous souhaitez rejoindre ce groupe, demandez à l'un des administrateurs.",
   "athlete_has_not_shared_fitness_charts": "{n} n'a partagé aucun graphique de condition physique",
   "athlete_has_not_shared_plans": "{n} n'a partagé aucun dossier ou plan avec tout le monde",
+  "athlete_has_not_shared_trace_charts": "{n} n'a partagé aucun graphique de trace d'activité",
   "athlete_plans_blurb": "Date de début et semaine en cours",
   "atl_blurb": "Il s'agit d'une moyenne mobile pondérée exponentiellement sur 7 jours de votre charge d'entraînement.",
   "attacker_blurb": "Vous avez une excellente puissance sur 1 minute et vous pouvez enchaîner les montées (Valverde).",
@@ -1974,6 +1975,7 @@
   "you_are_following": "Vous les suivez",
   "you_have_not_shared_fitness_charts": "Vous n'avez partagé aucun tableau de fitness",
   "you_have_not_shared_plans": "Vous n'avez partagé aucun dossier ou plan avec tout le monde",
+  "you_have_not_shared_trace_charts": "Vous n'avez partagé aucun graphique de suivi d'activité",
   "your_coaches_blurb": "Vos coachs (les personnes qui peuvent modifier vos activités, votre calendrier, vos paramètres FTP et d'entraînement) :",
   "your_followers_blurb": "Vos abonnés (les personnes qui peuvent voir vos activités, y compris les données privées, le planning et les données de puissance, cliquez pour modifier) :",
   "zoom_before_crop": "Zoomez sur la partie de l'activité que vous souhaitez conserver avant de cliquer sur le bouton \"Rogner\"."

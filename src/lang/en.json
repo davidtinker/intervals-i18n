@@ -1606,6 +1606,7 @@
   "ask_admin_to_join": "If you would like to join this group ask one of the admins",
   "athlete_has_not_shared_fitness_charts": "{n} has not shared any fitness charts",
   "athlete_has_not_shared_plans": "{n} has not shared any folders or plans with everyone",
+  "athlete_has_not_shared_trace_charts": "{n} has not shared any activity trace charts",
   "athlete_plans_blurb": "Start date and current week",
   "atl_blurb": "This is a 7 day exponentially weighted moving average of your training load",
   "attacker_blurb": "You have excellent 1m power and can put in surge after surge (Valverde)",
@@ -1974,6 +1975,7 @@
   "you_are_following": "You are following them",
   "you_have_not_shared_fitness_charts": "You have not shared any fitness charts",
   "you_have_not_shared_plans": "You have not shared any folders or plans with everyone",
+  "you_have_not_shared_trace_charts": "You have not shared any activity trace charts",
   "your_coaches_blurb": "Your coaches (people who can edit your activities, calendar, FTP and training settings):",
   "your_followers_blurb": "Your followers (people who can see your activities, including private, calendar and power data, click to edit):",
   "zoom_before_crop": "Zoom to the part of the activity you want to keep before clicking crop"
