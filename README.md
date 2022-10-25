@@ -19,6 +19,7 @@ you can take it from there.
 - Sebastian Murawski (pl)
 - Rastislav Srnánek (cs)
 - Matjaž Hribljan (sl)
+- Serhii Khrapin (uk)
 
 (Your name here! Send me a PR!)
 
