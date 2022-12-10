@@ -1831,6 +1831,7 @@
   "garmin_download_activities_blurb": "Activitățile create la sau după această dată sunt descărcate de la Garmin Connect. Ar putea dura ceva timp. Datele nu pot fi mai vechi de un an din cauza restricțiilor API Garmin. Te rugăm să reții că activitățile de pe dispozitive non-Garmin (de ex. TrainerRoad) nu sunt furnizate către Intervals.icu. Folosește Dropbox pentru acestea.",
   "garmin_import_complete": "Importul de date Garmin s-a finalizat",
   "garmin_upload_filters_blurb": "Adaugă filtre pentru a selecta antrenamentele planificate care vor fi încărcate în Garmin Connect. Antrenamentele pentru săptămâna viitoare sunt încărcate.",
+  "gear_reminder_reset": "Nu uitați să resetați mementourile dacă doriți să primiți mai multe dintre aceste e-mailuri în viitor!",
   "gender_not_set": "Sexul tău nu este setat, te rugăm să actualizezi setările.",
   "googlefit_confirm_disconnect": "Ești sigur că doreşti să te deconectezi de la Google Fit?",
   "googlefit_timezone_blurb": "Te rugăm să reții că Google Fit nu oferă informații despre fusul orar. Intervals.icu presupune că dățile și orele sunt în fusul orar Intervals.icu de {tz}. Dacă acest fus orar este incorect, apasă Anulare și modifică-l (în partea de sus a acestei pagini) înainte de a te conecta.",

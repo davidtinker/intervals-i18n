@@ -1831,6 +1831,7 @@
   "garmin_download_activities_blurb": "Aktivity vytvořené k tomuto datu nebo po něm se stahují ze služby Garmin Connect. Může to chvíli trvat. Kvůli omezením Garmin API nemohou být data delší než jeden rok. Upozorňujeme, že činnosti z jiných zařízení než Garmin (např. TrainerRoad) nejsou poskytovány na Intervals.icu. K tomu použijte Dropbox.",
   "garmin_import_complete": "Import dat Garmin dokončen",
   "garmin_upload_filters_blurb": "Přidejte filtry a vyberte, která plánovaná cvičení budou nahrána do Garmin Connect. Nahrávají se tréninky na příští týden.",
+  "gear_reminder_reset": "Pokud chcete v budoucnu dostávat více těchto e-mailů, nezapomeňte resetovat připomenutí!",
   "gender_not_set": "Vaše pohlaví není nastaveno, aktualizujte prosím nastavení.",
   "googlefit_confirm_disconnect": "Opravdu se chcete odpojit od služby Google Fit?",
   "googlefit_timezone_blurb": "Upozorňujeme, že služba Google Fit nevrací informace o časovém pásmu. Intervals.icu předpokládá, že data a časy jsou ve vašem časovém pásmu Intervals.icu {tz}. Pokud je tato časová zóna nesprávná, stiskněte tlačítko zrušit a před připojením ji změňte (v horní části této stránky).",

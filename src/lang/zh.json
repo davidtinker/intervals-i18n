@@ -1831,6 +1831,7 @@
   "garmin_download_activities_blurb": "在此日期或之后创建的活动会从Garmin Connect下载，这可能需要一些时间。由于Garmin API的限制，数据不能超过一年的时间。请注意，非Garmin设备(如TrainerRoad)的活动不会提供给Intervals.icu。请使用Dropbox获取这些数据",
   "garmin_import_complete": "Garmin数据导入完成",
   "garmin_upload_filters_blurb": "添加过滤器来选择哪些计划中的训练将被上传到Garmin Connect。将会上传下周的训练",
+  "gear_reminder_reset": "如果您以后想收到更多此类电子邮件，请记得重置提醒！",
   "gender_not_set": "您的性别没有设置，请更新您的设置",
   "googlefit_confirm_disconnect": "确定断开与Google Fit的连接？",
   "googlefit_timezone_blurb": "请注意，Google Fit并不返回时区信息。Intervals.icu假定日期和时间是在你的Intervals.icu时区： {tz}。如果这个时区不正确，请在连接前点击取消并更改(本页面顶部)",

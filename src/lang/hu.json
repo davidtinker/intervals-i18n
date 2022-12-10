@@ -1831,6 +1831,7 @@
   "garmin_download_activities_blurb": "A Garmin Connect webhelyről az adott dátumon és az azt követő dátumokon levő tevékenységek letöltésre kerülnek. Ez eltarthat egy ideig. A Garmin API korlátozásai miatt a letöltött adatok nem ölelhetnek át egy évnél hosszab időtartományt. Felhívjuk figyelmedet, hogy a nem Garmin eszközökkel (pl. TrainerRoad) rögzített tevékenységek nem elérhetők az Intervals.icu számára. Azokhoz használd a Dropboxot közvetítőnek.",
   "garmin_import_complete": "A Garmin adatok importálása befejeződött",
   "garmin_upload_filters_blurb": "Szűrők hozzáadásával kiválaszthatod, hogy mely tervezett edzéseket töltsd fel a Garmin Connect szolgáltatásba. A következő hét edzései feltöltésre kerülnek.",
+  "gear_reminder_reset": "Ne felejtse el visszaállítani az emlékeztetőket, ha a jövőben több ilyen e-mailt szeretne kapni!",
   "gender_not_set": "Nemed nincs beállítva, kérjük, frissítsd beállításaidat.",
   "googlefit_confirm_disconnect": "Biztos, hogy meg akarod szüntetni a kapcsolatot a Google Fit alkalmazással?",
   "googlefit_timezone_blurb": "Felhívjuk figyelmed, hogy a Google Fit nem ad vissza időzóna információt. Az Intervals.icu ezért feltételezi, hogy a dátumok és időpontok az Intervals.icu időzónájában {tz} vannak megadva. Ha ez az időzóna helytelen, akkor a csatlakozás előtt nyomd meg a cancel gombot, és módosítsd az időzónát (az oldal tetején).",

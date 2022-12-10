@@ -1831,6 +1831,7 @@
   "garmin_download_activities_blurb": "Le attività create a partire da questa data vengono scaricate da Garmin Connect. Questo potrebbe richiedere un po' di tempo. I dati non possono essere più di un anno nel passato a causa delle restrizioni Garmin API. Si prega di notare che le attività da dispositivi non Garmin (ad esempio TrainerRoad) non vengono fornite a Intervals.icu. Usa Dropbox per queste.",
   "garmin_import_complete": "Importazione dati Garmin completa",
   "garmin_upload_filters_blurb": "Aggiungere filtri per selezionare quali allenamenti pianificati saranno caricati su Garmin Connect. Gli allenamenti per la prossima settimana vengono caricati.",
+  "gear_reminder_reset": "Ricorda di reimpostare i promemoria se desideri ricevere più di queste email in futuro!",
   "gender_not_set": "Il tuo sesso non è impostato, per favore aggiorna le tue impostazioni.",
   "googlefit_confirm_disconnect": "Sei sicuro di volerti disconnettere da Google Fit?",
   "googlefit_timezone_blurb": "Si prega di notare che Google Fit non restituisce informazioni sul fuso orario. Intervals.icu presume che le date e gli orari siano nel tuo fuso orario Intervals.icu di {tz}. Se questo fuso orario non è corretto, premi cancella e cambialo (in cima a questa pagina) prima di connetterti.",

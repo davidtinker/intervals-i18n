@@ -1831,6 +1831,7 @@
   "garmin_download_activities_blurb": "Aktivnosti, ustvarjene na ta datum ali pozneje, se prenesejo iz Garmin Connect. To lahko traja nekaj časa. Podatki ne smejo biti stari več kot eno leto, zaradi omejitev Garmin API. Upoštevajte, da aktivnosti iz naprav, ki niso Garmin (npr. TrainerRoad) niso posredovane Intervals.icu. Za te namene uporabite Dropbox.",
   "garmin_import_complete": "Uvoz Garmin podatkov je končan",
   "garmin_upload_filters_blurb": "Dodajte filtre, da izberete, kateri načrtovani treningi bodo naloženi v Garmin Connect. Treningi za naslednji teden so naloženi.",
+  "gear_reminder_reset": "Ne pozabite ponastaviti opomnikov, če želite v prihodnosti prejemati več teh e-poštnih sporočil!",
   "gender_not_set": "Vaš spol ni nastavljen, posodobite nastavitve.",
   "googlefit_confirm_disconnect": "Ali ste prepričani, da želite prekiniti povezavo z Googlom Fit?",
   "googlefit_timezone_blurb": "Upoštevajte, da Google Fit ne vrača podatkov o časovnem pasu. Intervals.icu predpostavlja, da so datumi in ure v vašem časovnem pasu Intervals.icu {tz}. Če je ta časovni pas napačen, pritisnite Prekliči in ga spremenite (na vrhu te strani), preden se povežete.",
