@@ -12,10 +12,18 @@ you can take it from there.
 - Nicolas Pignier (fr)
 - Igor Brusetti (it)
 - Zestroen Дмитрий Румянцев (ru)
+- Mario Rodrigo (es)
 - Peloide (es)
+- Benjamin Schwan (de)
+- Viktória Bata / Gábor Ziegler (hu)
+- Viktor Biró (ro)
+- Sebastian Murawski (pl)
+- Rastislav Srnánek (cs)
+- Matjaž Hribljan (sl)
+- Serhii Khrapin (uk)
 
 (Your name here! Send me a PR!)
 
 ## Copyright
 
-All files copyright David Tinker.
+All files copyright Intervals.icu Ltd.
