@@ -1798,6 +1798,7 @@
   "disconnected_from": "Prekinjena povezava z",
   "disconnected_from_training_blurb": "Intervals.icu je bila prekinjena z {0}. Če želite še naprej nalagati načrtovane treninge v {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu je bila prekinjena z {0}. Če želite še naprej prenašati podatke o dobrem počutju iz {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
+  "displayed_welless_fields": "Polja za dobro počutje, prikazana na koledarju",
   "distance": "Če razdalja ni bila pravilno izračunana, boste morda želeli to spremeniti v notranjo vožnjo.",
   "do_not_send_me_mails_like_this": "Ne pošiljajte mi takšne pošte",
   "donate_blurb": "Vaša naročnina bo pomagala kriti stroške gostovanja in financirati tekoči razvoj platforme. Prekličete lahko kadar koli.",

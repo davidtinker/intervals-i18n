@@ -1798,6 +1798,7 @@
   "disconnected_from": "Odpojeno od",
   "disconnected_from_training_blurb": "Intervals.icu byl odpojen od {0}. Pokud chcete pokračovat v nahrávání plánovaných cvičení do {0} , znovu se připojte v <a href=\"https://intervals.icu/settings\">nastavení</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu byl odpojen od {0}. Pokud chcete pokračovat ve stahování údajů o wellness z webu {0} , znovu se připojte v <a href=\"https://intervals.icu/settings\">nastavení</a>.",
+  "displayed_welless_fields": "Wellness pole zobrazená v kalendáři",
   "distance": "Pokud vzdálenost nebyla vypočítána správně, můžete to změnit.",
   "do_not_send_me_mails_like_this": "Neposílejte mi takové maily",
   "donate_blurb": "Vaše předplatné pomůže pokrýt náklady na hostování a financovat průběžný vývoj platformy. Odběr můžete kdykoli zrušit.",

@@ -1798,6 +1798,7 @@
   "disconnected_from": "Leválasztva",
   "disconnected_from_training_blurb": "Az Intervals.icu leválasztva a (z) {0}webhelyről. Ha továbbra is szeretnéd feltölteni a tervezett edzéseket {0} , csatlakozz újra a <a href=\"https://intervals.icu/settings\">beállításokban</a>.",
   "disconnected_from_wellness_blurb": "Az Intervals.icu leválasztva a (z) {0}webhelyről. Ha továbbra is szeretnéd letölteni a wellness-adatokat {0} , csatlakozz újra a <a href=\"https://intervals.icu/settings\">beállításokban</a>.",
+  "displayed_welless_fields": "Wellness mezők megjelennek a naptárban",
   "distance": "Érdemes átírni az értéket beltéri edzéseken, ha a távolságot nem megfelelően mérted.",
   "do_not_send_me_mails_like_this": "Ne küldj nekem ilyen leveleket",
   "donate_blurb": "Az előfizetés fedezi a tárhely költségeit és finanszírozza a platform folyamatos fejlesztését. Bármikor lemondhatod.",

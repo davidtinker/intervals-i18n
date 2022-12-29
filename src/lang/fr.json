@@ -1798,6 +1798,7 @@
   "disconnected_from": "Déconnecté de",
   "disconnected_from_training_blurb": "Intervals.icu a été déconnecté de {0}. Si vous souhaitez continuer à télécharger des séances d'entraînement planifiées vers {0} , veuillez vous reconnecter dans les paramètres <a href=\"https://intervals.icu/settings\"></a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu a été déconnecté de {0}. Si vous souhaitez continuer à télécharger des données sur le bien-être à partir de {0} , veuillez vous reconnecter dans les paramètres <a href=\"https://intervals.icu/settings\"></a>.",
+  "displayed_welless_fields": "Champs de bien-être affichés sur le calendrier",
   "distance": "Vous pouvez modifier ces données pour un entraînement en salle si la distance n'a pas été calculée correctement.",
   "do_not_send_me_mails_like_this": "Ne m'envoyez pas de mails comme celui-ci",
   "donate_blurb": "Votre abonnement permettra de couvrir les coûts d'hébergement et de financer le développement continu de la plateforme. Vous pouvez le résilier à tout moment.",

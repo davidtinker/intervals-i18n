@@ -1798,6 +1798,7 @@
   "disconnected_from": "Getrennt von",
   "disconnected_from_training_blurb": "Die Verbindung von Intervals.icu wurde von {0}getrennt. Wenn Sie weiterhin geplante Trainings auf {0} hochladen möchten, stellen Sie die Verbindung in den <a href=\"https://intervals.icu/settings\">Einstellungen</a>wieder her.",
   "disconnected_from_wellness_blurb": "Die Verbindung von Intervals.icu wurde von {0}getrennt. Wenn Sie weiterhin Wellness-Daten von {0} herunterladen möchten, stellen Sie die Verbindung in den <a href=\"https://intervals.icu/settings\">Einstellungen</a>wieder her.",
+  "displayed_welless_fields": "Wellnessfelder im Kalender angezeigt",
   "distance": "Sie sollten dies für eine Fahrt mit dem Indoor-Trainer bearbeiten, wenn die Entfernung nicht korrekt berechnet wurde.",
   "do_not_send_me_mails_like_this": "Schicken Sie mir nicht solche Mails",
   "donate_blurb": "Dein Abonnement trägt zur Deckung der Hosting-Kosten und zur Finanzierung der Entwicklung der Plattform bei. Du kannst jederzeit kündigen.",

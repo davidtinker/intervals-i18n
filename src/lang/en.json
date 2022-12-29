@@ -1798,6 +1798,7 @@
   "disconnected_from": "Disconnected from",
   "disconnected_from_training_blurb": "Intervals.icu has been disconnected from {0}. If you would like to continue uploading planned workouts to {0} please reconnect in <a href=\"https://intervals.icu/settings\">settings</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu has been disconnected from {0}. If you would like to continue downloading wellness data from {0} please reconnect in <a href=\"https://intervals.icu/settings\">settings</a>.",
+  "displayed_welless_fields": "Wellness fields displayed on calendar",
   "distance": "You might want to edit this for an indoor trainer ride if the distance hasn't been calculated correctly.",
   "do_not_send_me_mails_like_this": "Do not send me mails like this",
   "donate_blurb": "Your subscription will help cover hosting costs and fund ongoing development of the platform. You can cancel at any time.",

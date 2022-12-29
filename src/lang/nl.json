@@ -1798,6 +1798,7 @@
   "disconnected_from": "Losgekoppeld van",
   "disconnected_from_training_blurb": "Intervals.icu is losgekoppeld van {0}. Als je wil doorgaan met het uploaden van geplande trainingen naar {0} , maak dan opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu is losgekoppeld van {0}. Als je wil doorgaan met het downloaden van Wellness-gegevens van {0} , maak dan opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
+  "displayed_welless_fields": "Wellness-velden weergegeven op de kalender",
   "distance": "Je kan dit aanpassen voor een indoor trainer rit waarvan de afstand niet juist is berekend.",
   "do_not_send_me_mails_like_this": "Stuur me geen vergelijkbare mails meer",
   "donate_blurb": "Jouw abonnement zal helpen om de hostingkosten te dekken en de lopende ontwikkeling van het platform te financieren. Je kan op elk moment opzeggen.",
