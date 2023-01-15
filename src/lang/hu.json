@@ -1842,7 +1842,7 @@
   "fatigue": "A leterheltséged az edzésterhelés 7 napos exponenciálisan súlyozott mozgóátlaga.",
   "feel": "Hogy érezted magad?",
   "field_pace_units": "A méter/másodpercben megadott mezők ütemként formázhatók a számformátum használata helyett",
-  "fit_session_field": "A tevékenységekhez tartozó FIT-fájlok tartalmaznak egy munkamenet-rekordot a tevékenység összefoglaló információival. Írja be ide a munkamenetrekord mező nevét, hogy a tevékenységmezőt a FIT fájlok olvasásakor és írásakor annak értékével töltse ki. Megvizsgálhatja a FIT fájlokat a fitfileviewer.com oldalon. Ha ez az érték nincs beállítva, akkor a FIT fájl írásakor a mező kódja lesz a neve.",
+  "fit_session_field": "A tevékenységekhez tartozó FIT-fájlok tartalmaznak egy munkamenet-rekordot a tevékenység összefoglaló információival. Írja be ide egy munkamenetrekord mező nevét vagy mezőszámát, hogy a tevékenységmezőt a FIT fájlok olvasásakor és írásakor annak értékével töltse ki. Megvizsgálhatja a FIT fájlokat a fitfileviewer.com oldalon. Ha ez az érték nincs beállítva, akkor a FIT fájl írásakor a mező kódja lesz a neve.",
   "fitness": "Az edzettséged az edzésterhelés 42 napos exponenciálisan súlyozott mozgóátlaga.",
   "folder_not_shared_with_athletes": "Ez a mappa nincs megosztva egyetlen sportolóval sem",
   "follow_req_msg_content": "{0} szeretne követni téged. Látni fogja a tevékenységeid és teljesítményed, valamint tanulhat bőséges tapasztalataidból.",

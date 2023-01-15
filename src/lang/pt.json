@@ -1842,7 +1842,7 @@
   "fatigue": "A fadiga é uma média dos últimos 7 dias exponencialmente ponderada da sua carga de treino.",
   "feel": "Como se sentiu?",
   "field_pace_units": "Os campos que estão em metros/segundo podem ser formatados como ritmo em vez de usar o formato de número",
-  "fit_session_field": "Os arquivos FIT para atividades incluem um registro de sessão com informações resumidas para a atividade. Digite o nome de um campo de registro de sessão aqui para preencher o campo de atividade com seu valor quando os arquivos FIT forem lidos e gravados. Você pode examinar os arquivos FIT em fitfileviewer.com. Se esse valor não for definido, o código de campo será usado para seu nome quando um arquivo FIT for gravado.",
+  "fit_session_field": "Os arquivos FIT para atividades incluem um registro de sessão com informações resumidas para a atividade. Digite o nome ou o número do campo de um registro de sessão aqui para preencher o campo de atividade com seu valor quando os arquivos FIT forem lidos e gravados. Você pode examinar os arquivos FIT em fitfileviewer.com. Se esse valor não for definido, o código de campo será usado para seu nome quando um arquivo FIT for gravado.",
   "fitness": "A aptidão física é uma média dos últimos 42 dias exponencialmente ponderada da sua carga de treino.",
   "folder_not_shared_with_athletes": "Esta pasta não é partilhada com nenhum atleta",
   "follow_req_msg_content": "{0} gostaria de o seguir. Poderão ver as suas actividades e aprender com a sua experiência.",

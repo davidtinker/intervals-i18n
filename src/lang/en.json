@@ -1842,7 +1842,7 @@
   "fatigue": "Fatigue is a 7 day exponentially weighted moving average of your training load.",
   "feel": "How did you feel?",
   "field_pace_units": "Fields that are in meters/second can be formatted as pace instead of using the number format",
-  "fit_session_field": "FIT files for activities include a session record with summary information for the activity. Enter the name of a session record field here to fill the activity field with its value when FIT files are read and written. You can examine FIT files at fitfileviewer.com. If this value is not set then the field code is used for its name when a FIT file is written.",
+  "fit_session_field": "FIT files for activities include a session record with summary information for the activity. Enter the name or field number of a session record field here to fill the activity field with its value when FIT files are read and written. You can examine FIT files at fitfileviewer.com. If this value is not set then the field code is used for its name when a FIT file is written.",
   "fitness": "Fitness is a 42 day exponentially weighted moving average of your training load.",
   "folder_not_shared_with_athletes": "This folder is not shared with any athletes",
   "follow_req_msg_content": "{0} would like to follow you. They will be able to see your activities and power and learn from your vast experience.",

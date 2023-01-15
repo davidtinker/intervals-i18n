@@ -1842,7 +1842,7 @@
   "fatigue": "La fatiga es una media móvil ponderada exponencialmente de 7 días de tu carga de entrenamiento.",
   "feel": "¿Cómo se sintió?",
   "field_pace_units": "Los campos que están en metros/segundo se pueden formatear como ritmo en lugar de usar el formato de número",
-  "fit_session_field": "Los archivos FIT para actividades incluyen un registro de sesión con información resumida de la actividad. Ingrese el nombre de un campo de registro de sesión aquí para completar el campo de actividad con su valor cuando se leen y escriben archivos FIT. Puede examinar los archivos FIT en fitfileviewer.com. Si no se establece este valor, el código de campo se utiliza como nombre cuando se escribe un archivo FIT.",
+  "fit_session_field": "Los archivos FIT para actividades incluyen un registro de sesión con información resumida de la actividad. Ingrese el nombre o el número de campo de un campo de registro de sesión aquí para completar el campo de actividad con su valor cuando se leen y escriben archivos FIT. Puede examinar los archivos FIT en fitfileviewer.com. Si no se establece este valor, el código de campo se utiliza como nombre cuando se escribe un archivo FIT.",
   "fitness": "La aptitud es una media móvil ponderada exponencialmente de 42 días de su carga de entrenamiento.",
   "folder_not_shared_with_athletes": "Esta carpeta no se comparte con ningún deportista",
   "follow_req_msg_content": "{0} querrán seguirte. Podrán ver tus actividades y tu potencia y aprender de tu vasta experiencia.",

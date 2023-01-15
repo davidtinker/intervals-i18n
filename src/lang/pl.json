@@ -1842,7 +1842,7 @@
   "fatigue": "Zmęczenie to 7-dniowa wykładniczo ważona średnia krocząca obciążenia treningowego.",
   "feel": "Jak się czułeś?",
   "field_pace_units": "Pola wyrażone w metrach/sekundę można sformatować jako tempo zamiast formatu liczbowego",
-  "fit_session_field": "Pliki FIT dla działań zawierają zapis sesji z podsumowaniem informacji o działaniu. Wprowadź tutaj nazwę pola rekordu sesji, aby wypełnić pole aktywności jego wartością podczas odczytu i zapisu plików FIT. Możesz sprawdzić pliki FIT na stronie fitfileviewer.com. Jeśli ta wartość nie jest ustawiona, to kod pola jest używany jako nazwa podczas zapisywania pliku FIT.",
+  "fit_session_field": "Pliki FIT dla działań zawierają zapis sesji z podsumowaniem informacji o działaniu. Wprowadź tutaj nazwę lub numer pola rekordu sesji, aby wypełnić pole aktywności jego wartością podczas odczytu i zapisu plików FIT. Możesz sprawdzić pliki FIT na stronie fitfileviewer.com. Jeśli ta wartość nie jest ustawiona, to kod pola jest używany jako nazwa podczas zapisywania pliku FIT.",
   "fitness": "Wytrenowanie to 42-dniowa wykładniczo ważona średnia krocząca obciążenia treningowego.",
   "folder_not_shared_with_athletes": "Ten folder nie jest współdzielony z żadnym sportowcem",
   "follow_req_msg_content": "{0} chcieliby cię naśladować. Będą mogli zobaczyć twoją aktywność i siłę oraz uczyć się z twojego ogromnego doświadczenia.",

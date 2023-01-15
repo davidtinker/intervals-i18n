@@ -1842,7 +1842,7 @@
   "fatigue": "Utrujenost je 7-dnevno eksponentno tehtano drseče povprečje vašega napora treningov.",
   "feel": "Kako ste se počutili?",
   "field_pace_units": "Polja v metrih/sekundo lahko namesto v številski obliki oblikujete kot tempo",
-  "fit_session_field": "Datoteke FIT za dejavnosti vključujejo zapis seje s povzetkom informacij o dejavnosti. Tukaj vnesite ime polja zapisa seje, da izpolnite polje dejavnosti z njegovo vrednostjo, ko so datoteke FIT prebrane in zapisane. Datoteke FIT lahko pregledate na fitfileviewer.com. Če ta vrednost ni nastavljena, se pri zapisovanju datoteke FIT kot ime uporablja koda polja.",
+  "fit_session_field": "Datoteke FIT za dejavnosti vključujejo zapis seje s povzetkom informacij o dejavnosti. Tukaj vnesite ime ali številko polja zapisa seje, da izpolnite polje dejavnosti z njegovo vrednostjo, ko so datoteke FIT prebrane in zapisane. Datoteke FIT lahko pregledate na fitfileviewer.com. Če ta vrednost ni nastavljena, se pri zapisovanju datoteke FIT kot ime uporablja koda polja.",
   "fitness": "Fitnes je 42-dnevno eksponentno tehtano drseče povprečje vašega napora treningov.",
   "folder_not_shared_with_athletes": "Ta mapa ni v skupni rabi z nobenim športnikom",
   "follow_req_msg_content": "{0} vas želi slediti. Ogledali si bodo lahko vaše aktivnosti in moč ter se učili iz vaših bogatih izkušenj.",

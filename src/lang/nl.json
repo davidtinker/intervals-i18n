@@ -1842,7 +1842,7 @@
   "fatigue": "Vermoeidheid is een 7-dagen exponentieel gewogen voortschrijdend gemiddelde van je trainingsbelasting.",
   "feel": "Wat was je gevoel?",
   "field_pace_units": "Velden in meters/seconde kunnen worden opgemaakt als tempo in plaats van de getalnotatie te gebruiken",
-  "fit_session_field": "FIT-bestanden voor activiteiten bevatten een sessierecord met samenvattende informatie voor de activiteit. Voer hier de naam van een sessierecordveld in om het activiteitenveld te vullen met zijn waarde wanneer FIT-bestanden worden gelezen en geschreven. U kunt FIT-bestanden bekijken op fitfileviewer.com. Als deze waarde niet is ingesteld, wordt de veldcode gebruikt voor de naam wanneer een FIT-bestand wordt geschreven.",
+  "fit_session_field": "FIT-bestanden voor activiteiten bevatten een sessierecord met samenvattende informatie voor de activiteit. Voer hier de naam of het veldnummer van een sessierecordveld in om het activiteitenveld te vullen met zijn waarde wanneer FIT-bestanden worden gelezen en geschreven. U kunt FIT-bestanden bekijken op fitfileviewer.com. Als deze waarde niet is ingesteld, wordt de veldcode gebruikt voor de naam wanneer een FIT-bestand wordt geschreven.",
   "fitness": "Fitness is een 42-dagen exponentieel gewogen voortschrijdend gemiddelde van je trainingsbelasting.",
   "folder_not_shared_with_athletes": "Deze map wordt niet gedeeld met atleten",
   "follow_req_msg_content": "{0} wil je graag volgen. Ze zullen je activiteiten en vermogen kunnen zien en kunnen leren van je enorme ervaring.",
