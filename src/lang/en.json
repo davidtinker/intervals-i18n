@@ -1898,6 +1898,7 @@
   "incorrect_password": "Incorrect password",
   "indoor_ftp": "Indoor FTP is used for indoor trainer and virtual rides. If left blank then normal FTP is used. - <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "intensity": "The intensity of a ride is a measure of how hard it was compared to your FTP. It is calculated by dividing the normalized watts or weighted average power for the ride by your FTP. If you are able to complete a ride of 1 hour or longer at more than 100% intensity then your FTP is too low. For activities without power intensity is derived from the training load and duration.",
+  "interval_display": "Interval summaries are displayed with the time or distance (for swimming) followed by average power, pace or heart rate depending on what is available. Use this option to set the priority for the sport.",
   "interval_search_blurb": "Enter 0 in a field to match any value. The power field accepts a value in watts or a percentage intensity relative to the FTP for each activity. So you can enter 100% to find all the threshold intervals. Click the interval chips for an activity to populate the search parameters to that interval. The thick line shows average power/torque for the matching intervals from activities on each day.",
   "intervals_icu_email_confirmation": "Intervals.icu email confirmation",
   "intervals_locked_blurb": "Intervals are locked, unlock from {actions} menu",

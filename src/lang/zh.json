@@ -1898,6 +1898,7 @@
   "incorrect_password": "密码错误",
   "indoor_ftp": "室内FTP用于室内骑行台和虚拟骑行。如果留空则使用普通FTP- <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "intensity": "骑行的强度是衡量与你的FTP相比有多难。计算方法是用标准化功率或加权平均功率除以FTP。如果能够以超过100%的强度完成1h或更长时间的骑行，那你的FTP就太低了。对于没有功率的活动，强度是由训练负荷和持续时间得出的",
+  "interval_display": "间隔摘要显示为时间或距离（游泳），然后是平均功率、步速或心率，具体取决于可用的内容。使用此选项设置运动的优先级。",
   "interval_search_blurb": "在字段中输入0来匹配任何数值，功率字段接受以瓦特为单位的值或相对于每个活动的FTP的百分比强度。可以输入100%来寻找所有的阈值间歇，点击某项活动的间歇切片，将搜索参数填充到该间歇中。粗线显示了每天活动的对应间歇的平均功率/扭矩",
   "intervals_icu_email_confirmation": "Intervals.icu电子邮件确认",
   "intervals_locked_blurb": "间歇时间被锁定，从 {actions} 菜单中解锁",

@@ -1898,6 +1898,7 @@
   "incorrect_password": "Napačno geslo",
   "indoor_ftp": "Notranji FTP se uporablja za notranje treninge in virtualne vožnje. Če pustite prazno, se uporablja običajen FTP. – <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "intensity": "Intenzivnost vožnje je merilo, kako težka je bila v primerjavi z vašim FTP. Izračuna se tako, da se normalizirani vati ali tehtana povprečna moč za vožnjo delijo z vašim FTP. Če lahko opravite vožnjo, ki traja 1 uro ali več, pri več kot 100 % intenzivnosti, je vaš FTP prenizek. Za aktivnosti brez moči je intenzivnost izpeljana iz napora treninga in trajanja.",
+  "interval_display": "Povzetki intervalov so prikazani s časom ali razdaljo (za plavanje), ki ji sledi povprečna moč, tempo ali srčni utrip, odvisno od tega, kaj je na voljo. S to možnostjo nastavite prednost športa.",
   "interval_search_blurb": "Vnesite 0 v polje, da se ujema s katero koli vrednostjo. Polje moči sprejme vrednost v vatih ali odstotek intenzivnosti glede na FTP za vsako aktivnost. Vnesete lahko 100%, da poiščete vse intervale na vašem pragu. Kliknite intervalne žetone za aktivnost, da zapolnite iskalne parametre v ta interval. Debela črta prikazuje povprečno moč/navor za ujemajoče se intervale aktivnosti na vsak dan.",
   "intervals_icu_email_confirmation": "Potrditev e-pošte Intervals.icu",
   "intervals_locked_blurb": "Intervali so zaklenjeni, odklepanje iz menija {actions} ",
