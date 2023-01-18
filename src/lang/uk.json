@@ -453,6 +453,8 @@
   "Demote Self": "Понизити себе",
   "Derailleur": "Перемикач",
   "Description": "Опис",
+  "Description LF": "Опис LF",
+  "Description with line breaks preserved": "Опис із розривами рядків збережено",
   "Details": "Деталі",
   "Detect intervals from laps, removing any edits": "Визначити інтервали з кіл, видаляючи будь-які зміни",
   "Detect intervals, removing any edits": "Визначити інтервали, видаляючи будь-які правки",

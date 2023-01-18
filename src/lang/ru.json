@@ -453,6 +453,8 @@
   "Demote Self": "Понизить себя",
   "Derailleur": "Derailleur",
   "Description": "Описание",
+  "Description LF": "Описание НЧ",
+  "Description with line breaks preserved": "Описание с сохранением разрывов строк",
   "Details": "Подробности",
   "Detect intervals from laps, removing any edits": "Определите интервалы из кругов, удалив все правки",
   "Detect intervals, removing any edits": "Определите интервалы, удалив все правки",

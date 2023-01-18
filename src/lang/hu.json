@@ -453,6 +453,8 @@
   "Demote Self": "Lefokozod magad",
   "Derailleur": "Láncváltó",
   "Description": "Leírás",
+  "Description LF": "Leírás LF",
+  "Description with line breaks preserved": "Leírás a sortörésekkel megőrizve",
   "Details": "Részletek",
   "Detect intervals from laps, removing any edits": "Intervallok érzékelése körökből, a szerkesztések törlése",
   "Detect intervals, removing any edits": "Intervallok érzékelése, a szerkesztések eltávolítása",

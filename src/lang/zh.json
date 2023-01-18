@@ -453,6 +453,8 @@
   "Demote Self": "降级",
   "Derailleur": "变速器",
   "Description": "说明",
+  "Description LF": "说明低频",
+  "Description with line breaks preserved": "保留换行符的说明",
   "Details": "详细内容",
   "Detect intervals from laps, removing any edits": "从各圈检测间歇，删除任何编辑",
   "Detect intervals, removing any edits": "检测间歇，删除任何编辑",

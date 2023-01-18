@@ -453,6 +453,8 @@
   "Demote Self": "Zdegraduj siebie",
   "Derailleur": "Przerzutka",
   "Description": "Opis",
+  "Description LF": "Opis LF",
+  "Description with line breaks preserved": "Opis z zachowaniem podziałów wierszy",
   "Details": "Detale",
   "Detect intervals from laps, removing any edits": "Wykrywaj odstępy czasowe z okrążeń, usuwając wszelkie edycje",
   "Detect intervals, removing any edits": "Wykryj odstępy czasu, usuwając wszelkie zmiany",

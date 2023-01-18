@@ -453,6 +453,8 @@
   "Demote Self": "Selbst degradieren",
   "Derailleur": "Schaltwerk",
   "Description": "Beschreibung",
+  "Description LF": "BeschreibungLF",
+  "Description with line breaks preserved": "Beschreibung mit beibehaltenen Zeilenumbrüchen",
   "Details": "Einzelheiten",
   "Detect intervals from laps, removing any edits": "Erkennen von Intervallen aus Runden, Entfernen von Bearbeitungen",
   "Detect intervals, removing any edits": "Erkennen von Intervallen, Entfernen von Bearbeitungen",

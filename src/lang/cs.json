@@ -453,6 +453,8 @@
   "Demote Self": "Snížit úroveň sebe sama",
   "Derailleur": "Přehazovačka",
   "Description": "Popis",
+  "Description LF": "Popis LF",
+  "Description with line breaks preserved": "Popis se zalomením řádků zachován",
   "Details": "Podrobnosti",
   "Detect intervals from laps, removing any edits": "Zjišťujte intervaly z kol a odstraňujte veškeré úpravy",
   "Detect intervals, removing any edits": "Zjišťujte intervaly a odstraňujte veškeré úpravy",

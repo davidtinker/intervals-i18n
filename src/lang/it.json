@@ -453,6 +453,8 @@
   "Demote Self": "Abbassare se stessi",
   "Derailleur": "Derailleur",
   "Description": "Descrizione",
+  "Description LF": "DescrizioneLF",
+  "Description with line breaks preserved": "Descrizione con interruzioni di riga conservate",
   "Details": "Dettagli",
   "Detect intervals from laps, removing any edits": "Rileva gli intervalli dai giri, rimuovendo qualsiasi modifica",
   "Detect intervals, removing any edits": "Rileva gli intervalli, rimuovendo qualsiasi modifica",

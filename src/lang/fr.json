@@ -453,6 +453,8 @@
   "Demote Self": "Se rétrograder",
   "Derailleur": "Dérailleur",
   "Description": "Description",
+  "Description LF": "Désignation LF",
+  "Description with line breaks preserved": "Description avec sauts de ligne conservés",
   "Details": "Détails",
   "Detect intervals from laps, removing any edits": "Détecter les intervalles à partir des tours, en supprimant toute modification.",
   "Detect intervals, removing any edits": "Détecter les intervalles, en supprimant toute modification",
