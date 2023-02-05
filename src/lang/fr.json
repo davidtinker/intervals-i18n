@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} n'a partagé aucun champ de saisie",
   "athlete_has_not_shared_plans": "{n} n'a partagé aucun dossier ou plan avec tout le monde",
   "athlete_has_not_shared_trace_charts": "{n} n'a partagé aucun graphique de trace d'activité",
+  "athlete_missing_field": "{n} n'a pas {f}",
   "athlete_plans_blurb": "Date de début et semaine en cours",
   "atl_blurb": "Il s'agit d'une moyenne mobile pondérée exponentiellement sur 7 jours de votre charge d'entraînement.",
   "attacker_blurb": "Vous avez une excellente puissance sur 1 minute et vous pouvez enchaîner les montées (Valverde).",

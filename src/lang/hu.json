@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} nem osztott meg egyetlen beviteli mezőt sem",
   "athlete_has_not_shared_plans": "{n} nem osztott meg mindenkivel egyetlen mappát vagy tervet sem",
   "athlete_has_not_shared_trace_charts": "{n} nem osztott meg tevékenység nyomonkövetési diagramokat",
+  "athlete_missing_field": "{n} nem rendelkezik a következővel: {f}",
   "athlete_plans_blurb": "Kezdeti dátum és az aktuális hét",
   "atl_blurb": "Ez az edzésterhelés 7 napos exponenciálisan súlyozott mozgóátlaga",
   "attacker_blurb": "Kiváló 1 méteres teljesítménye van, és túlfeszültséget okozhat túlfeszültség után (Valverde)",

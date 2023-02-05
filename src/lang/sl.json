@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} ni dal v skupno rabo nobenega polja za vnos",
   "athlete_has_not_shared_plans": "{n} ni dal nobene mape ali načrta v skupno rabo z vsemi",
   "athlete_has_not_shared_trace_charts": "{n} ni dal v skupno rabo nobenih grafikonov sledenja dejavnosti",
+  "athlete_missing_field": "{n} nima {f}",
   "athlete_plans_blurb": "Datum začetka in trenutni teden",
   "atl_blurb": "To je 7-dnevno eksponentno tehtano drseče povprečje vašega napora treninga",
   "attacker_blurb": "Imate odlično 1m moč in lahko povzročite sunek za sunkom (Valverde)",

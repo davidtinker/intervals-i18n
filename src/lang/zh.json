@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} 尚未共享任何输入字段",
   "athlete_has_not_shared_plans": "{n} 尚未与所有人共享任何文件夹或计划",
   "athlete_has_not_shared_trace_charts": "{n} 尚未共享任何活动跟踪图表",
+  "athlete_missing_field": "{n} 没有 {f}",
   "athlete_plans_blurb": "开始日期和当前周",
   "atl_blurb": "这是你训练负荷的7天指数加权移动平均数",
   "attacker_blurb": "你有出色的1min功率，能一次又一次进攻(亚历桑德罗•巴尔韦德)",

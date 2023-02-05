@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} no ha compartido ningún campo de entrada",
   "athlete_has_not_shared_plans": "{n} no ha compartido carpetas ni planes con nadie",
   "athlete_has_not_shared_trace_charts": "{n} no ha compartido ningún gráfico de seguimiento de actividad",
+  "athlete_missing_field": "{n} no tiene {f}",
   "athlete_plans_blurb": "Fecha de inicio y semana actual",
   "atl_blurb": "Se trata de una media móvil ponderada exponencialmente de 7 días de su carga de entrenamiento",
   "attacker_blurb": "Tienes una excelente potencia de 1 metro y puedes meter una oleada tras otra (Valverde)",

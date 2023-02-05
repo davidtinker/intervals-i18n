@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} não compartilhou nenhum campo de entrada",
   "athlete_has_not_shared_plans": "{n} não partilhou nenhuma pasta ou plano com todos",
   "athlete_has_not_shared_trace_charts": "{n} não partilhou nenhum gráfico de registo de atividade",
+  "athlete_missing_field": "{n} não tem {f}",
   "athlete_plans_blurb": "Data de início e semana actual",
   "atl_blurb": "Esta é uma média de 7 dias exponencialmente ponderada da sua carga de treino",
   "attacker_blurb": "Tem uma excelente potência de 1m e pode colocar em onda após onda (Valverde)",

@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} hat keine Eingabefelder freigegeben",
   "athlete_has_not_shared_plans": "{n} hat keine Ordner oder Pläne für alle freigegeben",
   "athlete_has_not_shared_trace_charts": "{n} hat keine Aktivitätsverfolgungsdiagramme freigegeben",
+  "athlete_missing_field": "{n} hat nicht {f}",
   "athlete_plans_blurb": "Anfangsdatum und aktuelle Woche",
   "atl_blurb": "Dies ist ein exponentiell gewichteter gleitender Durchschnitt deiner Trainingsbelastung über 7 Tage",
   "attacker_blurb": "Du verfügst über eine hervorragende 1-Minuten-Leistung und kannst eine Attacke nach der anderen setzen (Valverde).",

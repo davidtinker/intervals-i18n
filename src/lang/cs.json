@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} nesdílí žádná vstupní pole",
   "athlete_has_not_shared_plans": "{n} nesdílí žádné složky ani plány se všemi",
   "athlete_has_not_shared_trace_charts": "{n} nesdílí žádné grafy trasování aktivity",
+  "athlete_missing_field": "{n} nemá {f}",
   "athlete_plans_blurb": "Datum zahájení a aktuální týden",
   "atl_blurb": "Toto je 7 denní exponenciálně vážený klouzavý průměr vaší tréninkové zátěže",
   "attacker_blurb": "Máte vynikající výkon 1 m a můžete se přepínat po přepětí (Valverde)",

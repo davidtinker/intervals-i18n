@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} nu a distribuit niciun câmp de introducere",
   "athlete_has_not_shared_plans": "{n} nu a partajat niciun folder sau plan cu toată lumea",
   "athlete_has_not_shared_trace_charts": "{n} nu a distribuit nicio diagramă de urmărire a activității",
+  "athlete_missing_field": "{n} nu are {f}",
   "athlete_plans_blurb": "Data de începere și săptămâna curentă",
   "atl_blurb": "Efortul antrenamentului este o medie ponderată exponențial de 7 zile",
   "attacker_blurb": "Ai o putere excelentă pe 1 metru și poți creea accelerare după accelerare (Valverde)",

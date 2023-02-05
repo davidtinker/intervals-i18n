@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} nie udostępnił żadnych pól wejściowych",
   "athlete_has_not_shared_plans": "{n} nie udostępnił nikomu żadnych folderów ani planów",
   "athlete_has_not_shared_trace_charts": "{n} nie udostępnił żadnych wykresów śledzenia aktywności",
+  "athlete_missing_field": "{n} nie ma {f}",
   "athlete_plans_blurb": "Data rozpoczęcia i bieżący tydzień",
   "atl_blurb": "Jest to 7-dniowa wykładniczo ważona średnia krocząca obciążenia treningowego.",
   "attacker_blurb": "Masz świetną moc 1m i możesz robić skok za skokiem (Valverde)",

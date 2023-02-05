@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} heeft geen invoervelden gedeeld",
   "athlete_has_not_shared_plans": "{n} heeft geen mappen of plannen met iedereen gedeeld",
   "athlete_has_not_shared_trace_charts": "{n} heeft geen activiteitentraceergrafieken gedeeld",
+  "athlete_missing_field": "{n} heeft geen {f}",
   "athlete_plans_blurb": "Begindatum en lopende week",
   "atl_blurb": "Dit is een 7-dagen exponentieel gewogen voortschrijdend gemiddelde van je trainingsbelasting",
   "attacker_blurb": "Je hebt een uitstekend vermogen van 1 meter en je kunt de ene aanval na de andere inzetten (Valverde)",

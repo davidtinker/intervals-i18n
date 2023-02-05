@@ -1720,6 +1720,7 @@
   "athlete_has_not_shared_input_fields": "{n} has not shared any input fields",
   "athlete_has_not_shared_plans": "{n} has not shared any folders or plans with everyone",
   "athlete_has_not_shared_trace_charts": "{n} has not shared any activity trace charts",
+  "athlete_missing_field": "{n} does not have {f}",
   "athlete_plans_blurb": "Start date and current week",
   "atl_blurb": "This is a 7 day exponentially weighted moving average of your training load",
   "attacker_blurb": "You have excellent 1m power and can put in surge after surge (Valverde)",
