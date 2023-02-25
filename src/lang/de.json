@@ -564,6 +564,7 @@
   "Estimated load": "Geschätzte Belastung",
   "Example": "Beispiel",
   "Expand percentages": "Prozentsätze erweitern",
+  "Expires on": "Läuft aus am",
   "Exponentially weighted moving avg like fatigue (default 7 days)": "Exponentiell gewichteter gleitender Durchschnitt wie Ermüdung (Standard 7 Tage)",
   "Exponentially weighted moving avg like fitness (default 42 days)": "Exponentiell gewichteter gleitender Durchschnittswert wie Fitness (Standardwert 42 Tage)",
   "Export Calendar": "Kalender exportieren",
