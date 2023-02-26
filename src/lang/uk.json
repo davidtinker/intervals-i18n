@@ -2066,7 +2066,7 @@
   "strava_description_update_warning": "Зауважте, що опис, показаний на Strava, буде оновлено",
   "strava_elevation_blurb": "Дані про висоту від Strava дуже точні навіть з пристроїв без барометричного висотоміра, використовувати корекцію висоти не рекомендується",
   "strava_sync_other_activities": "Синхронізувати активності, не пов’язані зі Strava, із Strava",
-  "subscribe_on_settings_page": "Ви можете <a href='https://intervals.icu/settings'>підписатися на сторінці налаштувань</a>.",
+  "subscribe_on_settings_page": "Ви можете <a href='https://intervals.icu/settings?sub=true'>підписатися на сторінці налаштувань</a>.",
   "supporter_download_unlimited_blurb": "Дякуємо за підтримку Intervals.icu! Як прихильник ви можете завантажити необмежену кількість історичних даних із {source}.",
   "supporter_feature_requests": "Запити на функції підтримки підвищуються в списку завдань!",
   "suunto_upload_filters_blurb": "Додайте фільтри, щоб вибрати, які заплановані тренування будуть завантажені в Suunto. Тренування на наступний тиждень завантажуються.",

@@ -2066,7 +2066,7 @@
   "strava_description_update_warning": "Upoštevajte, da bo opis, prikazan na Stravi, posodobljen",
   "strava_elevation_blurb": "Podatki o nadmorski višini iz Strave so zelo natančni tudi pri napravah brez barometričnega višinomera, uporaba popravka višine ni priporočljiva",
   "strava_sync_other_activities": "Naj bodo dejavnosti, ki niso Strava, sinhronizirane s Stravo",
-  "subscribe_on_settings_page": "Lahko se <a href='https://intervals.icu/settings'>naročite na strani z nastavitvami</a>.",
+  "subscribe_on_settings_page": "Lahko se <a href='https://intervals.icu/settings?sub=true'>naročite na strani z nastavitvami</a>.",
   "supporter_download_unlimited_blurb": "Hvala, ker podpirate Intervals.icu! Kot podpornik lahko prenesete neomejeno pretekle podatke iz {source}.",
   "supporter_feature_requests": "Zahteve za funkcije podpornikov se premaknejo navzgor na seznamu opravil!",
   "suunto_upload_filters_blurb": "Dodajte filtre, da izberete, katere načrtovane treninge bodo naložene v Suunto. Treningi za naslednji teden so naloženi.",

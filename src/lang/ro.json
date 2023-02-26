@@ -2066,7 +2066,7 @@
   "strava_description_update_warning": "Reține că descrierea afișată pe Strava va fi actualizată",
   "strava_elevation_blurb": "Datele de elevație de pe Strava sunt foarte precise chiar și de pe dispozitive fără altimetru barometric, utilizarea corecției de elevație nu este recomandată",
   "strava_sync_other_activities": "Păstrarea activităților non-Strava sincronizate cu Strava",
-  "subscribe_on_settings_page": "Vă puteți <a href='https://intervals.icu/settings'>abona pe pagina de setări</a>.",
+  "subscribe_on_settings_page": "Vă puteți <a href='https://intervals.icu/settings?sub=true'>abona pe pagina de setări</a>.",
   "supporter_download_unlimited_blurb": "Vă mulțumim pentru că susții Intervals.icu! În calitate de susținător, poți descărca date istorice nelimitate de la {source}.",
   "supporter_feature_requests": "Solicitările de funcții ale susținătorilor urcă pe lista de sarcini!",
   "suunto_upload_filters_blurb": "Adaugă filtre pentru a selecta antrenamentele planificate care vor fi încărcate în Suunto. Antrenamentele pentru săptămâna următoare sunt încărcate.",

@@ -2066,7 +2066,7 @@
   "strava_description_update_warning": "请注意，Strava上显示的描述将被更新",
   "strava_elevation_blurb": "Strava的海拔数据是非常准确的，即使是没有气压高度计的设备，也不建议使用海拔校正。",
   "strava_sync_other_activities": "使非 Strava 活动与 Strava 保持同步",
-  "subscribe_on_settings_page": "您可以 <a href='https://intervals.icu/settings'>在设置页面</a>订阅。",
+  "subscribe_on_settings_page": "您可以 <a href='https://intervals.icu/settings?sub=true'>在设置页面</a>订阅。",
   "supporter_download_unlimited_blurb": "谢谢您对Intervals.icu的支持!作为支持者，您可以不受限制的从{source}下载历史数据",
   "supporter_feature_requests": "支持者功能请求在待办事项列表中上移！",
   "suunto_upload_filters_blurb": "添加过滤器来选择哪些计划中的训练将被上传到Suunto，下周的训练会被上传",

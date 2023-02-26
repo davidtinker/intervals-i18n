@@ -2066,7 +2066,7 @@
   "strava_description_update_warning": "Vedd figyelembe, hogy a Strava-n olvasható leírás frissülni fog!",
   "strava_elevation_blurb": "A Strava magassági adatai nagyon pontosak még barometrikus magasságmérő nélküli eszközök esetében is, a magassági korrekció használata nem javasolt.",
   "strava_sync_other_activities": "Tartsa szinkronban a nem Strava tevékenységeit a Stravával",
-  "subscribe_on_settings_page": " <a href='https://intervals.icu/settings'>Feliratkozhat a beállítások oldalon</a>.",
+  "subscribe_on_settings_page": " <a href='https://intervals.icu/settings?sub=true'>Feliratkozhat a beállítások oldalon</a>.",
   "supporter_download_unlimited_blurb": "Köszönjük, hogy támogatod az Intervals.icu-t! Támogatóként korlátlan mennyiségű historikus adatot tölthetsz le a(z) {source} szolgáltatásból.",
   "supporter_feature_requests": "A támogatói szolgáltatások kérései feljebb kerülnek a teendők listáján!",
   "suunto_upload_filters_blurb": "Szűrők hozzáadásával kiválaszthatod, hogy mely tervezett edzések kerüljenek feltöltésre a Suuntóra. A következő hétre vonatkozó edzések feltöltésre kerülnek.",

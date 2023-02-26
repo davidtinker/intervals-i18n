@@ -2066,7 +2066,7 @@
   "strava_description_update_warning": "Notez que la description affichée sur Strava sera mise à jour",
   "strava_elevation_blurb": "Les données d'élévation de Strava sont très précises, même pour les appareils dépourvus d'altimètre barométrique. Il n'est pas recommandé d'utiliser la correction d'élévation.",
   "strava_sync_other_activities": "Gardez les activités non Strava synchronisées avec Strava",
-  "subscribe_on_settings_page": "Vous pouvez <a href='https://intervals.icu/settings'>vous abonner sur la page des paramètres</a>.",
+  "subscribe_on_settings_page": "Vous pouvez <a href='https://intervals.icu/settings?sub=true'>vous abonner sur la page des paramètres</a>.",
   "supporter_download_unlimited_blurb": "Merci de soutenir Intervals.icu ! En tant que supporter, vous pouvez télécharger des données historiques illimitées à partir de {source}.",
   "supporter_feature_requests": "Les demandes de fonctionnalités des supporters remontent la liste des tâches !",
   "suunto_upload_filters_blurb": "Ajoutez des filtres pour sélectionner les entraînements planifiés qui seront téléchargés vers Suunto. Les entraînements de la semaine suivante sont téléchargés.",

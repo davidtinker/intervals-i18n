@@ -2066,7 +2066,7 @@
   "strava_description_update_warning": "Merk op dat de beschrijving op Strava zal worden bijgewerkt",
   "strava_elevation_blurb": "Hoogtegegevens van Strava zijn zeer nauwkeurig, zelfs van toestellen zonder barometrische hoogtemeter, het gebruik van hoogtecorrectie wordt niet aanbevolen",
   "strava_sync_other_activities": "Houd niet-Strava-activiteiten gesynchroniseerd met Strava",
-  "subscribe_on_settings_page": "Je kunt je <a href='https://intervals.icu/settings'>abonneren op de instellingenpagina</a>.",
+  "subscribe_on_settings_page": "Je kunt je <a href='https://intervals.icu/settings?sub=true'>abonneren op de instellingenpagina</a>.",
   "supporter_download_unlimited_blurb": "Dank u voor het steunen van Intervals.icu! Als supporter kunt u onbeperkt historische data downloaden van {source}.",
   "supporter_feature_requests": "Supporter-functieverzoeken komen hoger op de todo-lijst!",
   "suunto_upload_filters_blurb": "Voeg filters toe om te selecteren welke geplande trainingen naar Suunto worden geüpload. Workouts voor de volgende week worden geüpload.",

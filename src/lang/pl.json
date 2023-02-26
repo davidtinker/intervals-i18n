@@ -2066,7 +2066,7 @@
   "strava_description_update_warning": "Należy pamiętać, że opis wyświetlany na Strava będzie aktualizowany",
   "strava_elevation_blurb": "Dane o wysokości nad poziomem morza w serwisie Strava są bardzo dokładne, nawet w przypadku urządzeń bez wysokościomierza barometrycznego, nie zaleca się stosowania korekty wysokości nad poziomem morza.",
   "strava_sync_other_activities": "Utrzymuj synchronizację działań innych niż Strava ze Strava",
-  "subscribe_on_settings_page": "Możesz <a href='https://intervals.icu/settings'>zasubskrybować na stronie ustawień</a>.",
+  "subscribe_on_settings_page": "Możesz <a href='https://intervals.icu/settings?sub=true'>zasubskrybować na stronie ustawień</a>.",
   "supporter_download_unlimited_blurb": "Dziękujemy za wsparcie Intervals.icu! Jako wspierający możesz pobierać nieograniczoną ilość danych historycznych z {source}.",
   "supporter_feature_requests": "Prośby o dodanie funkcji wspierających przesuwają się w górę listy rzeczy do zrobienia!",
   "suunto_upload_filters_blurb": "Dodaj filtry, aby wybrać, które zaplanowane treningi zostaną przesłane do Suunto. Przesyłane są treningi na następny tydzień.",
