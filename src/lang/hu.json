@@ -2065,6 +2065,8 @@
   "started_chat_msg_sub": "{0} csevegni kezdett veled",
   "strava_description_update_warning": "Vedd figyelembe, hogy a Strava-n olvasható leírás frissülni fog!",
   "strava_elevation_blurb": "A Strava magassági adatai nagyon pontosak még barometrikus magasságmérő nélküli eszközök esetében is, a magassági korrekció használata nem javasolt.",
+  "strava_sync_disabled": "Nincsenek tevékenységek letöltése a Straváról",
+  "strava_sync_only_supporters": "A Strava szinkronizálás csak a támogatók számára érhető el",
   "strava_sync_other_activities": "Tartsa szinkronban a nem Strava tevékenységeit a Stravával",
   "subscribe_on_settings_page": "Feliratkozhatsz a <a href='https://intervals.icu/settings?sub=true'>beállítások oldalon</a>.",
   "supporter_download_unlimited_blurb": "Köszönjük, hogy támogatod az Intervals.icu-t! Támogatóként korlátlan mennyiségű historikus adatot tölthetsz le a(z) {source} szolgáltatásból.",

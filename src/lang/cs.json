@@ -2065,6 +2065,8 @@
   "started_chat_msg_sub": "{0} s vámi zahájil chat",
   "strava_description_update_warning": "Všimněte si, že popis zobrazený na Stravě bude aktualizován",
   "strava_elevation_blurb": "Údaje o nadmořské výšce ze Stravy jsou velmi přesné i ze zařízení bez barometrického výškoměru, použití korekce nadmořské výšky se nedoporučuje.",
+  "strava_sync_disabled": "Ze Stravy se nestahují žádné aktivity",
+  "strava_sync_only_supporters": "Synchronizace Strava je dostupná pouze pro příznivce",
   "strava_sync_other_activities": "Udržujte aktivity mimo Stravu synchronizované se Stravou",
   "subscribe_on_settings_page": "Můžete se <a href='https://intervals.icu/settings?sub=true'>přihlásit k odběru na stránce nastavení</a>.",
   "supporter_download_unlimited_blurb": "Děkujeme za podporu Intervals.icu! Jako podporovatel si můžete stáhnout neomezené množství historických dat z {source}.",

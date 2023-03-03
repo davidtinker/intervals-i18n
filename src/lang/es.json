@@ -2065,6 +2065,8 @@
   "started_chat_msg_sub": "{0} comenzó un chat contigo",
   "strava_description_update_warning": "Tenga en cuenta que la descripción mostrada en Strava se actualizará",
   "strava_elevation_blurb": "Los datos de elevación de Strava son muy precisos incluso desde dispositivos sin altímetro barométrico, no se recomienda utilizar la corrección de elevación",
+  "strava_sync_disabled": "No se descargan actividades de Strava",
+  "strava_sync_only_supporters": "La sincronización de Strava solo está disponible para los seguidores",
   "strava_sync_other_activities": "Mantenga las actividades que no son de Strava sincronizadas con Strava",
   "subscribe_on_settings_page": "Puede <a href='https://intervals.icu/settings?sub=true'>suscribirse en la página de configuración</a>.",
   "supporter_download_unlimited_blurb": "¡Gracias por apoyar a Intervals.icu! Como partidario puede descargar datos históricos ilimitados de {source}.",

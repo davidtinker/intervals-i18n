@@ -2065,6 +2065,8 @@
   "started_chat_msg_sub": "{0} rozpoczął z tobą czat",
   "strava_description_update_warning": "Należy pamiętać, że opis wyświetlany na Strava będzie aktualizowany",
   "strava_elevation_blurb": "Dane o wysokości nad poziomem morza w serwisie Strava są bardzo dokładne, nawet w przypadku urządzeń bez wysokościomierza barometrycznego, nie zaleca się stosowania korekty wysokości nad poziomem morza.",
+  "strava_sync_disabled": "Żadne działania nie są pobierane ze Strava",
+  "strava_sync_only_supporters": "Synchronizacja Strava jest dostępna tylko dla wspierających",
   "strava_sync_other_activities": "Utrzymuj synchronizację działań innych niż Strava ze Strava",
   "subscribe_on_settings_page": "Możesz <a href='https://intervals.icu/settings?sub=true'>zasubskrybować na stronie ustawień</a>.",
   "supporter_download_unlimited_blurb": "Dziękujemy za wsparcie Intervals.icu! Jako wspierający możesz pobierać nieograniczoną ilość danych historycznych z {source}.",

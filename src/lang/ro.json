@@ -2065,6 +2065,8 @@
   "started_chat_msg_sub": "{0} a inițiat un chat cu tine.",
   "strava_description_update_warning": "Reține că descrierea afișată pe Strava va fi actualizată",
   "strava_elevation_blurb": "Datele de elevație de pe Strava sunt foarte precise chiar și de pe dispozitive fără altimetru barometric, utilizarea corecției de elevație nu este recomandată",
+  "strava_sync_disabled": "Nicio activitate nu este descărcată din Strava",
+  "strava_sync_only_supporters": "Sincronizarea Strava este disponibilă numai pentru suporteri",
   "strava_sync_other_activities": "Păstrarea activităților non-Strava sincronizate cu Strava",
   "subscribe_on_settings_page": "Vă puteți <a href='https://intervals.icu/settings?sub=true'>abona pe pagina de setări</a>.",
   "supporter_download_unlimited_blurb": "Vă mulțumim pentru că susții Intervals.icu! În calitate de susținător, poți descărca date istorice nelimitate de la {source}.",
