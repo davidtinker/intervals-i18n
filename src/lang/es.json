@@ -1983,6 +1983,7 @@
   "must_crop_on_strava": "Las actividades de Strava deben ser recortadas en Strava",
   "mute_this_chat": "Silenciar este chat",
   "mutual_follow": "Tú los sigues y ellos te siguen a ti",
+  "nice_ride": "¡Bien {0}!",
   "no_calendars_blurb": "Intervals.icu puede mostrar y analizar los programas de entrenamiento de las aplicaciones que soportan la exportación de calendarios para Google, Microsoft, Apple y otros",
   "no_coaches_blurb": "No tienes ningún entrenador, haz clic en cualquiera de tus seguidores para convertirlo en entrenador",
   "no_forecasts": "No se ha encontrado ninguna previsión, haga clic en Añadir previsión para crear una",
