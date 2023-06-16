@@ -1799,6 +1799,8 @@
   "comment_on_activity": "Comentează la această activitate pentru a ajuta lui {name} cu antrenamentul său.",
   "commented_on_activity_msg_sub": "{0} a comentat la {1}",
   "commented_on_other_activity_msg_sub": "{0} a comentat {2} lui {1}",
+  "commute_not_shown": "1 navetă nu este afișată",
+  "commutes_not_shown": "{n} navetă nu sunt afișate",
   "compound_score_5m": "Scorul compus este puterea absolută (w) x putere relativă (w/kg) pentru o durată dată (aici 5 minute). S-a dovedit a fi mai predictivă decât puterea absolută sau relativă de 5 m numai pentru succesul unei curse pro-continentale U23 - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "configure_pace_zones": "Configurați zonele de ritm pentru acest sport în setări pentru a vedea timpul în zonele de ritm",
   "confirm_clear_intervals": "Sigur dorești să elimini toate intervalele?",

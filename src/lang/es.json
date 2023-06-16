@@ -1799,6 +1799,8 @@
   "comment_on_activity": "Comenta esta actividad para ayudar a {name} en su formación.",
   "commented_on_activity_msg_sub": "{0} comentó sobre {1}",
   "commented_on_other_activity_msg_sub": "{0} comentó sobre {1}'s {2}",
+  "commute_not_shown": "1 trayecto no se muestra",
+  "commutes_not_shown": "{n} viajes diarios no se muestran",
   "compound_score_5m": "La puntuación compuesta es potencia absoluta (w) x potencia relativa (w/kg) durante un tiempo determinado (aquí 5 minutos). Se ha descubierto que es más predictivo que la potencia absoluta o relativa de 5 m por sí sola, extraído del éxito en carreras sub-23 continentales de un día: <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "configure_pace_zones": "Configura las zonas de ritmo para este deporte en los ajustes para ver el tiempo en las zonas de ritmo",
   "confirm_clear_intervals": "¿Estás seguro de que quieres eliminar todos los intervalos?",
