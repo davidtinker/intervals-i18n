@@ -21,6 +21,7 @@ you can take it from there.
 - Rastislav Srnánek (cs)
 - Matjaž Hribljan (sl)
 - Serhii Khrapin (uk)
+- Shingo Kitayama (ja)
 
 (Your name here! Send me a PR!)
 
