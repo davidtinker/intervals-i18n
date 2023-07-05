@@ -2143,6 +2143,7 @@
   "timezone": "一些活动文件(如Zwift的)不包含时区信息，这用于无时区活动的时区",
   "tiz_order": "Intervals.icu根据活动的可用数据，使用从功率、心率或配速中获得的区间时间来计算总数。如果这些数据有几个可用，此设置将决定选择哪个。一般来说，如果一项活动有功率，应该使用它来计算区间时间",
   "training_load": "训练负荷是对某项活动相对于运动员的能力而言有多难的估计。对于带功率的活动，它取决于训练的强度(相对于FTP)和持续时间。在100%的FTP下，1h的训练负荷是100(见 <a href='https://www.bikehub.co.za/features/_/articles/training-nutrition/monitoring-your-training-load-r7477' target='_blank' tabindex='-1'>bikehub.co.za</a>)。Intervals.icu也可以使用心率和按坡度调整的配速来估计训练负荷。不同训练负荷的优先级和模型可在设置中进行配置",
+  "training_plan_help": "计划可以有任意周数。当您将锻炼添加到计划顶部时，会自动添加更多周数。您可以将计划拖放到运动员的日历上来安排锻炼。您还可以将运动员链接到计划，并一键将计划更改应用到他们的所有日历。仅更新从今天开始的锻炼。",
   "trial_ended_p1": "Intervals.icu 可免费使用，但某些功能需要在 {0} 天免费试用期后订阅。您的免费试用期已结束。请订阅以继续使用 Strava 下载等高级功能并支持 Intervals.icu 的开发！",
   "trial_ended_subject": "Intervals.icu 免费试用结束",
   "trial_ending_soon_p1": "Intervals.icu 可免费使用，但某些功能需要在 {0} 天免费试用期后订阅。您的试用将于 {1}结束。请订阅以继续使用 Strava 下载等高级功能并支持 Intervals.icu 的开发！",
