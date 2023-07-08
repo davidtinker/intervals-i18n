@@ -1881,6 +1881,7 @@
   "dev_lang_blurb": "Die Übersetzungen für diese Sprachen können unvollständig oder maschinell erstellt sein und der Text kann an einigen Stellen überlaufen.",
   "dev_lang_help_blurb": "Wenn du Intervals.icu in deiner eigenen Sprache sehen möchtest oder bei der Verbesserung der Übersetzungen helfen kannst, besuch bitte <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>das Forum</a>",
   "disconnected_from": "Getrennt von",
+  "disconnected_from_activities_blurb": "Intervals.icu wurde von {0}getrennt. Wenn Sie weiterhin Aktivitäten von {0} herunterladen möchten, stellen Sie bitte in den <a href=\"https://intervals.icu/settings\">Einstellungen</a>erneut eine Verbindung her.",
   "disconnected_from_training_blurb": "Die Verbindung von Intervals.icu wurde von {0} getrennt. Wenn du weiterhin geplante Trainingseinheiten auf {0} hochladen möchtest, stelle die Verbindung in den <a href=\"https://intervals.icu/settings\">Einstellungen</a>wieder her.",
   "disconnected_from_wellness_blurb": "Die Verbindung von Intervals.icu wurde von {0} getrennt. Wenn du weiterhin Wellnessdaten von {0} herunterladen möchtest, stelle die Verbindung in den <a href=\"https://intervals.icu/settings\">Einstellungen</a>wieder her.",
   "displayed_welless_fields": "Wellnessfelder im Kalender angezeigt",

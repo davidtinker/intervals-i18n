@@ -1881,6 +1881,7 @@
   "dev_lang_blurb": "Tłumaczenia dla tych języków mogą być niekompletne lub generowane maszynowo, a tekst może być miejscami przepełniony",
   "dev_lang_help_blurb": "Jeśli chcesz zobaczyć Intervals.icu w swoim własnym języku lub możesz pomóc w ulepszeniu tłumaczeń, <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>odwiedź fora</a>",
   "disconnected_from": "Odłączony od",
+  "disconnected_from_activities_blurb": "Intervals.icu zostało odłączone od {0}. Jeśli chcesz kontynuować pobieranie aktywności z {0} , połącz się ponownie w <a href=\"https://intervals.icu/settings\">ustawieniach</a>.",
   "disconnected_from_training_blurb": "Intervals.icu został odłączony od {0}. Jeśli chcesz kontynuować wgrywanie zaplanowanych treningów do {0} połącz się ponownie w <a href=\"https://intervals.icu/settings\">ustawieniach</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu został rozłączony z {0}. Jeśli chcą Państwo kontynuować pobieranie danych dotyczących odnowy biologicznej z {0} , prosimy o ponowne połączenie w <a href=\"https://intervals.icu/settings\">ustawieniach</a>.",
   "displayed_welless_fields": "Pola odnowy biologicznej wyświetlane w kalendarzu",

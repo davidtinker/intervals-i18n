@@ -1881,6 +1881,7 @@
   "dev_lang_blurb": "Prevodi za te jezike so lahko nepopolni ali strojno ustvarjeni, besedilo pa se lahko ponekod preliva",
   "dev_lang_help_blurb": "Če si želite ogledati Intervals.icu v svojem jeziku ali lahko pomagate izboljšati prevode, <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>obiščite forum</a>",
   "disconnected_from": "Prekinjena povezava z",
+  "disconnected_from_activities_blurb": "Intervals.icu je bil prekinjen z {0}. Če želite nadaljevati s prenosom dejavnosti iz {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
   "disconnected_from_training_blurb": "Intervals.icu je bila prekinjena z {0}. Če želite še naprej nalagati načrtovane treninge v {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu je bila prekinjena z {0}. Če želite še naprej prenašati podatke o dobrem počutju iz {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
   "displayed_welless_fields": "Polja za dobro počutje, prikazana na koledarju",

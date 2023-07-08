@@ -1881,6 +1881,7 @@
   "dev_lang_blurb": "これらの言語の翻訳は、不完全または機械的に生成されたものであり、テキストが所々でオーバーフローする可能性があります。",
   "dev_lang_help_blurb": "Intervals.icuをあなたの言語で使用したいなら、翻訳の改善をお手伝いすることもできます。<a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>フォーラムを参照ください。</a>",
   "disconnected_from": "接続解除する",
+  "disconnected_from_activities_blurb": "Intervals.icu は {0}から切断されました。 {0} からアクティビティのダウンロードを続ける場合は、 <a href=\"https://intervals.icu/settings\">設定</a>で再接続してください。",
   "disconnected_from_training_blurb": "Intervals.icuは{0}と接続解除しました。{0}にワークアウトの予定をアップロードしたい場合は、<a href=\"https://intervals.icu/settings\">設定</a>から再接続してください。",
   "disconnected_from_wellness_blurb": "Intervals.icuは{0}と接続解除しました。{0}からウェルネスデータをダウンロードしたい場合は、<a href=\"https://intervals.icu/settings\">設定</a>から再接続してください。",
   "displayed_welless_fields": "ウェルネスの項目をカレンダーに表示",

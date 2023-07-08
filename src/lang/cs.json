@@ -1881,6 +1881,7 @@
   "dev_lang_blurb": "Překlady do těchto jazyků mohou být neúplné nebo generované strojem a text může místy přetékat",
   "dev_lang_help_blurb": "Pokud chcete vidět Intervals.icu ve svém vlastním jazyce nebo můžete pomoci zlepšit překlady, <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>navštivte fóra</a>",
   "disconnected_from": "Odpojeno od",
+  "disconnected_from_activities_blurb": "Intervals.icu byl odpojen od {0}. Pokud chcete pokračovat ve stahování aktivit z {0} , znovu se připojte v <a href=\"https://intervals.icu/settings\">nastavení</a>.",
   "disconnected_from_training_blurb": "Intervals.icu byl odpojen od {0}. Pokud chcete pokračovat v nahrávání plánovaných cvičení do {0} , znovu se připojte v <a href=\"https://intervals.icu/settings\">nastavení</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu byl odpojen od {0}. Pokud chcete pokračovat ve stahování údajů o wellness z webu {0} , znovu se připojte v <a href=\"https://intervals.icu/settings\">nastavení</a>.",
   "displayed_welless_fields": "Wellness pole zobrazená v kalendáři",

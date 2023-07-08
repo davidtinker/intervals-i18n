@@ -1881,6 +1881,7 @@
   "dev_lang_blurb": "Traducerile pentru aceste limbi pot fi incomplete sau generate automat, iar textul ar putea să depășească spațiul alocat",
   "dev_lang_help_blurb": "Dacă dorești să vezi Intervals.icu în propria limbă sau ai putea ajuta la îmbunătățirea traducerilor, te rugăm să <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>vizitezi forumurile</a>",
   "disconnected_from": "Deconectat de la",
+  "disconnected_from_activities_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă doriți să continuați să descărcați activități de la {0} , vă rugăm să vă reconectați în <a href=\"https://intervals.icu/settings\">setări</a>.",
   "disconnected_from_training_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă dorești să încarci în continuare antrenamentele planificate în {0} reconectează-te din pagina de <a href=\"https://intervals.icu/settings\">setări</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă doriți să continuați să descărcați date de wellness din {0} reconectați-vă din <a href=\"https://intervals.icu/settings\">setări</a>.",
   "displayed_welless_fields": "Câmpurile de wellness afișate pe calendar",

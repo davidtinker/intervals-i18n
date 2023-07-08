@@ -1881,6 +1881,7 @@
   "dev_lang_blurb": "Deze vertalingen kunnen onvolledig zijn of machinaal gegenereerd en de tekst kan hier en daar overlopen",
   "dev_lang_help_blurb": "Als je Intervals.icu in je eigen taal wil zien of wil helpen om vertalingen te verbeteren, bezoek dan <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>de forums</a>",
   "disconnected_from": "Losgekoppeld van",
+  "disconnected_from_activities_blurb": "Intervals.icu is losgekoppeld van {0}. Als u door wilt gaan met het downloaden van activiteiten van {0} , maakt u opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
   "disconnected_from_training_blurb": "Intervals.icu is losgekoppeld van {0}. Als je wil doorgaan met het uploaden van geplande trainingen naar {0} , maak dan opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu is losgekoppeld van {0}. Als je wil doorgaan met het downloaden van gezondheidsgegevens van {0} , maak dan opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
   "displayed_welless_fields": "Gezondheidsvelden weergegeven op de kalender",

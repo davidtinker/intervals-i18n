@@ -1881,6 +1881,7 @@
   "dev_lang_blurb": "Перевод для этих языков может быть неполным или машинным, и текст может местами переполняться",
   "dev_lang_help_blurb": "Если вы хотите увидеть Intervals.icu на своем родном языке или можете помочь улучшить перевод, пожалуйста, <a href='https://forum.intervals.icu/t/localisation-of-intervals-icu/4634' target='_blank'>посетите форумы</a>",
   "disconnected_from": "Отключен от",
+  "disconnected_from_activities_blurb": "Intervals.icu отключен от {0}. Если вы хотите продолжить загрузку действий из {0} , повторите подключение в настройках <a href=\"https://intervals.icu/settings\"></a>.",
   "disconnected_from_training_blurb": "Intervals.icu был отключен от {0}. Если вы хотите продолжить загрузку запланированных тренировок в {0} , пожалуйста, переподключитесь в настройках <a href=\"https://intervals.icu/settings\"></a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu был отключен от {0}. Если вы хотите продолжить загрузку велнес-данных с {0} , пожалуйста, переподключитесь в настройках <a href=\"https://intervals.icu/settings\"></a>.",
   "displayed_welless_fields": "Поля здоровья отображаются в календаре",
