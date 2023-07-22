@@ -2112,6 +2112,7 @@
   "removed_folder0": "Usunięty folder {0}",
   "removed_plan0": "Usunięty plan treningowy {0}",
   "reply_on_intervals_icu": "Odpowiedz na Interwały.icu",
+  "reprocess_on_new_stream_prompt": "Istniejące działania muszą zostać ponownie przetworzone w celu pobrania danych dla nowych strumieni niestandardowych. Czy chcesz teraz ponownie przetworzyć to działanie?",
   "req_data_from_garmin_after_blurb": "Intervals.icu wyśle Ci wiadomość e-mail, gdy przetwarzanie danych zostanie zakończone. Jeśli nie zaznaczysz żadnego z pól, nic nie zostanie zrobione i będziesz mógł sprawdzić, co zostało znalezione.",
   "req_data_from_garmin_blurb": "Możesz <a href=\"https://www.garmin.com/en-US/account/datamanagement/\" target=\"_blank\">zażądać wszystkich swoich danych od firmy Garmin</a>. Upewnij się, że jesteś zalogowany na właściwym koncie Garmin. Należy pamiętać, że może minąć kilka dni, zanim firma Garmin udzieli odpowiedzi. Skopiuj i wklej łącze do pobierania danych od firmy Garmin w poniższym polu:",
   "req_data_from_polar_blurb": "Postępuj zgodnie z <a href='https://support.polar.com/en/how-to-download-all-your-data-from-polar-flow' target='_blank'>tymi instrukcjami</a> , aby uzyskać wszystkie swoje dane od firmy Polar. Gdy pobieranie jest gotowe, kliknij prawym przyciskiem myszy przycisk \"Pobierz\", wybierz opcję \"Kopiuj łącze\" i wklej je w poniższym polu.",

@@ -2112,6 +2112,7 @@
   "removed_folder0": "Carpeta eliminada {0}",
   "removed_plan0": "Plan de entrenamiento eliminado {0}",
   "reply_on_intervals_icu": "Respuesta en Intervals.icu",
+  "reprocess_on_new_stream_prompt": "Las actividades existentes deben volver a procesarse para recopilar datos para nuevos flujos personalizados. ¿Le gustaría volver a procesar esta actividad ahora?",
   "req_data_from_garmin_after_blurb": "Intervals.icu le enviará un correo electrónico cuando se haya completado el procesamiento. Si no marca ninguna de las casillas no se hará nada y podrá revisar lo encontrado.",
   "req_data_from_garmin_blurb": "Puedes <a href=\"https://www.garmin.com/en-US/account/datamanagement/\" target=\"_blank\">solicitar todos tus datos a Garmin</a>. Asegúrate de que has iniciado sesión en la cuenta de Garmin correcta. Ten en cuenta que Garmin puede tardar varios días en responderte. Copia y pega el enlace de descarga de Garmin en el siguiente campo:",
   "req_data_from_polar_blurb": "Siga <a href='https://support.polar.com/es/how-to-download-all-your-data-from-polar-flow' target='_blank'>estas instrucciones</a> para solicitar todos sus datos a Polar. Cuando la descarga esté lista, haz clic con el botón derecho del ratón en el botón \"Descargar\", elige \"Copiar enlace\" y pégalo en el campo de abajo.",

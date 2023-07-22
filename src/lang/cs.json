@@ -2112,6 +2112,7 @@
   "removed_folder0": "Odebrána složka {0}",
   "removed_plan0": "Byl odstraněn tréninkový plán {0}",
   "reply_on_intervals_icu": "Odpovědět na Intervals.icu",
+  "reprocess_on_new_stream_prompt": "Stávající aktivity je třeba znovu zpracovat, aby bylo možné získat data pro nové vlastní streamy. Chcete nyní tuto aktivitu znovu zpracovat?",
   "req_data_from_garmin_after_blurb": "Po dokončení zpracování vám Intervals.icu zašle e -mail. Pokud nezaškrtnete žádné z polí, nebude nic provedeno a můžete si prohlédnout, co bylo nalezeno.",
   "req_data_from_garmin_blurb": "Můžete <a href=\"https://www.garmin.com/en-US/account/datamanagement/\" target=\"_blank\">požádat o všechna svá data společnost Garmin</a>. Ujistěte se, že jste přihlášeni ke správnému účtu Garmin. Upozorňujeme, že Garmin může trvat několik dní, než se k vám vrátí. Zkopírujte a vložte odkaz ke stažení od společnosti Garmin do níže uvedeného pole:",
   "req_data_from_polar_blurb": "Podle <a href='https://support.polar.com/en/how-to-download-all-your-data-from-polar-flow' target='_blank'>těchto pokynů</a> si vyžádejte všechna data od společnosti Polar. Až bude stahování připraveno, klikněte pravým tlačítkem myši na tlačítko \"Stáhnout\", zvolte \"Kopírovat odkaz\" a vložte jej do níže uvedeného pole.",

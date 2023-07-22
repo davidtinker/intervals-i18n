@@ -2112,6 +2112,7 @@
   "removed_folder0": "Suppression du dossier {0}",
   "removed_plan0": "Plan de formation supprimé {0}",
   "reply_on_intervals_icu": "Réponse sur Intervals.icu",
+  "reprocess_on_new_stream_prompt": "Les activités existantes doivent être retraitées pour récupérer les données des nouveaux flux personnalisés. Souhaitez-vous retraiter cette activité maintenant ?",
   "req_data_from_garmin_after_blurb": "Intervals.icu vous enverra un courriel lorsque le traitement sera terminé. Si vous ne cochez pas l'une des cases, rien ne sera fait et vous pourrez revoir ce qui a été trouvé.",
   "req_data_from_garmin_blurb": "Vous pouvez <a href=\"https://www.garmin.com/en-US/account/datamanagement/\" target=\"_blank\">demander toutes vos données à Garmin</a>. Assurez-vous que vous êtes connecté au bon compte Garmin. Notez que la réponse de Garmin peut prendre plusieurs jours. Copiez et collez le lien de téléchargement de Garmin dans le champ ci-dessous :",
   "req_data_from_polar_blurb": "Suivez <a href='https://support.polar.com/fr/how-to-download-all-your-data-from-polar-flow' target='_blank'>ces instructions</a> pour demander toutes vos données à Polar. Lorsque le téléchargement est prêt, cliquez à droite sur le bouton \"Télécharger\", choisissez \"Copier le lien\" et collez-le dans le champ ci-dessous.",

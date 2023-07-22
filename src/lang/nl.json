@@ -2112,6 +2112,7 @@
   "removed_folder0": "verwijderde map {0}",
   "removed_plan0": "verwijderd trainingsplan {0}",
   "reply_on_intervals_icu": "Reageer op Intervals.icu",
+  "reprocess_on_new_stream_prompt": "Bestaande activiteiten moeten opnieuw worden verwerkt om gegevens op te halen voor nieuwe aangepaste streams. Wilt u deze activiteit nu opnieuw verwerken?",
   "req_data_from_garmin_after_blurb": "Intervals.icu zal je een e-mail sturen wanneer de verwerking voltooid is. Als je geen van de vakjes aanvinkt, wordt er niets gedaan en kan je bekijken wat er is gevonden.",
   "req_data_from_garmin_blurb": "Je kan <a href=\"https://www.garmin.com/en-US/account/datamanagement/\" target=\"_blank\">al je gegevens opvragen bij Garmin</a>. Zorg ervoor dat je bent aangemeld met de juiste Garmin-account. Hou er rekening mee dat het enkele dagen kan duren vooraleer Garmin contact met je opneemt. Kopieer en plak de downloadlink van Garmin in het onderstaande veld:",
   "req_data_from_polar_blurb": "Volg <a href='https://support.polar.com/en/how-to-download-all-your-data-from-polar-flow' target='_blank'>deze instructies</a> om al uw gegevens bij Polar op te vragen. Als de download klaar is, klikt u met de rechtermuisknop op de knop \"Downloaden\", kiest u \"Link kopiëren\" en plakt u deze in het onderstaande veld.",
