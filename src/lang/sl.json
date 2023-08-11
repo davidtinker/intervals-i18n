@@ -2168,6 +2168,7 @@
   "strava_sync_disabled": "Iz Strave se ne prenaša nobena dejavnost",
   "strava_sync_only_supporters": "Sinhronizacija Strava je na voljo samo podpornikom",
   "strava_sync_other_activities": "Naj bodo dejavnosti, ki niso Strava, sinhronizirane s Stravo",
+  "stream_script_blurb": "Koda JavaScript za izračun vrednosti za vsako točko v toku",
   "structure_read_only": "Lahko se premakne ali izbriše, ne pa tudi urejati",
   "subscribe_on_settings_page": "Lahko se <a href='https://intervals.icu/settings?sub=true'>naročite na strani z nastavitvami</a>.",
   "supporter_download_unlimited_blurb": "Hvala, ker podpirate Intervals.icu! Kot podpornik lahko prenesete neomejeno pretekle podatke iz {source}.",

@@ -2168,6 +2168,7 @@
   "strava_sync_disabled": "Никакие активности не загружаются из Strava",
   "strava_sync_only_supporters": "Синхронизация Strava доступна только сторонникам",
   "strava_sync_other_activities": "Синхронизируйте действия, не относящиеся к Strava, со Strava",
+  "stream_script_blurb": "Код JavaScript для вычисления значения для каждой точки в потоке",
   "structure_read_only": "Можно перемещать или удалять, но нельзя редактировать",
   "subscribe_on_settings_page": "Вы можете <a href='https://intervals.icu/settings?sub=true'>подписаться на странице настроек</a>.",
   "supporter_download_unlimited_blurb": "Благодарим вас за поддержку Intervals.icu! В качестве сторонника вы можете загружать неограниченное количество исторических данных с {source}.",

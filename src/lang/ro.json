@@ -2168,6 +2168,7 @@
   "strava_sync_disabled": "Nicio activitate nu este descărcată din Strava",
   "strava_sync_only_supporters": "Sincronizarea Strava este disponibilă numai pentru suporteri",
   "strava_sync_other_activities": "Păstrarea activităților non-Strava sincronizate cu Strava",
+  "stream_script_blurb": "Cod JavaScript pentru a calcula valoarea pentru fiecare punct din flux",
   "structure_read_only": "Poate fi mutat sau șters, dar nu editat",
   "subscribe_on_settings_page": "Vă puteți <a href='https://intervals.icu/settings?sub=true'>abona pe pagina de setări</a>.",
   "supporter_download_unlimited_blurb": "Vă mulțumim pentru că susții Intervals.icu! În calitate de susținător, poți descărca date istorice nelimitate de la {source}.",

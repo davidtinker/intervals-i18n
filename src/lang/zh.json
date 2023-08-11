@@ -2168,6 +2168,7 @@
   "strava_sync_disabled": "没有从 Strava 下载任何活动",
   "strava_sync_only_supporters": "Strava 同步仅供支持者使用",
   "strava_sync_other_activities": "使非 Strava 活动与 Strava 保持同步",
+  "stream_script_blurb": "用于计算流中每个点的值的 JavaScript 代码",
   "structure_read_only": "可以移动或删除，但不能编辑",
   "subscribe_on_settings_page": "您可以 <a href='https://intervals.icu/settings?sub=true'>在设置页面</a>订阅。",
   "supporter_download_unlimited_blurb": "谢谢您对Intervals.icu的支持!作为支持者，您可以不受限制的从{source}下载历史数据",

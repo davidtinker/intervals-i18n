@@ -2168,6 +2168,7 @@
   "strava_sync_disabled": "Ze Stravy se nestahují žádné aktivity",
   "strava_sync_only_supporters": "Synchronizace Strava je dostupná pouze pro příznivce",
   "strava_sync_other_activities": "Udržujte aktivity mimo Stravu synchronizované se Stravou",
+  "stream_script_blurb": "JavaScript kód pro výpočet hodnoty pro každý bod ve streamu",
   "structure_read_only": "Lze přesunout nebo smazat, ale ne upravit",
   "subscribe_on_settings_page": "Můžete se <a href='https://intervals.icu/settings?sub=true'>přihlásit k odběru na stránce nastavení</a>.",
   "supporter_download_unlimited_blurb": "Děkujeme za podporu Intervals.icu! Jako podporovatel si můžete stáhnout neomezené množství historických dat z {source}.",

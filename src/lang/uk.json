@@ -2168,6 +2168,7 @@
   "strava_sync_disabled": "Жодна діяльність не завантажується зі Strava",
   "strava_sync_only_supporters": "Синхронізація Strava доступна лише для прихильників",
   "strava_sync_other_activities": "Синхронізувати активності, не пов’язані зі Strava, із Strava",
+  "stream_script_blurb": "Код JavaScript для обчислення значення для кожної точки в потоці",
   "structure_read_only": "Можна перемістити або видалити, але не можна редагувати",
   "subscribe_on_settings_page": "Ви можете <a href='https://intervals.icu/settings?sub=true'>підписатися на сторінці налаштувань</a>.",
   "supporter_download_unlimited_blurb": "Дякуємо за підтримку Intervals.icu! Як прихильник ви можете завантажити необмежену кількість історичних даних із {source}.",

@@ -2168,6 +2168,7 @@
   "strava_sync_disabled": "Nenhuma atividade está a ser descarregada do Strava",
   "strava_sync_only_supporters": "A sincronização via Strava está disponível apenas para apoiantes.",
   "strava_sync_other_activities": "Mantenha as atividades que não são do Strava sincronizadas com o Strava",
+  "stream_script_blurb": "Código JavaScript para calcular o valor de cada ponto no fluxo",
   "structure_read_only": "Pode ser movido ou excluído, mas não editado",
   "subscribe_on_settings_page": "Você pode <a href='https://intervals.icu/settings?sub=true'>se inscrever na página de configurações</a>.",
   "supporter_download_unlimited_blurb": "Obrigado por apoiar o Intervals.icu! Como apoiante, pode descarregar dados históricos ilimitados a partir de {source}.",

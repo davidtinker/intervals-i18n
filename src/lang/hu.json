@@ -2168,6 +2168,7 @@
   "strava_sync_disabled": "Strava szinkronizáció letiltva",
   "strava_sync_only_supporters": "A Strava szinkronizálás csak támogatók számára érhető el",
   "strava_sync_other_activities": "Tartsa szinkronban a nem Strava tevékenységeit a Stravával",
+  "stream_script_blurb": "JavaScript kód az adatfolyam minden pontjának értékének kiszámításához",
   "structure_read_only": "Áthelyezhető vagy törölhető, de nem szerkeszthető",
   "subscribe_on_settings_page": "Feliratkozhatsz a <a href='https://intervals.icu/settings?sub=true'>beállítások oldalon</a>.",
   "supporter_download_unlimited_blurb": "Köszönjük, hogy támogatod az Intervals.icu-t! Támogatóként korlátlan mennyiségű historikus adatot tölthetsz le a(z) {source} szolgáltatásból.",
