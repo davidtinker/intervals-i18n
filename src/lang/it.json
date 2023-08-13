@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "La parte dell'attività attualmente visibile verrà aggiornata",
   "The purple line shows fatigue": "La linea viola mostra la fatica",
   "This Week": "Questa settimana",
+  "This activity has pace data": "Questa attività contiene dati sul ritmo",
   "This activity has power data": "Questa attività ha dati di potenza",
   "This chart shows": "Questo grafico mostra",
   "This season": "Questa stagione",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "I passi di allenamento all'aperto con obiettivi di potenza esatti sono convertiti in intervalli di più/meno questa percentuale della potenza obiettivo",
   "over time": "nel tempo",
   "pace_load_type": "Intervals.icu può stimare il carico di allenamento dal ritmo per il nuoto e dal passo regolato per la pendenza per la corsa. Questa potrebbe essere una misura migliore del carico dalla frequenza cardiaca. Il calcolo della corsa è spiegato in <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>questo post di Slowtwitch</a>. Il calcolo del nuoto è <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>spiegato qui</a>.",
+  "pace_prompt": "Acquisisci il ritmo di soglia e le zone di andatura per {sportName} nelle impostazioni per abilitare l'analisi dell'andatura",
+  "pace_prompt_other": "Crea un nuovo sport o aggiungi {typeName} a uno sport esistente con andatura nelle impostazioni per abilitare l'analisi dell'andatura",
   "pace_range": "I passi di allenamento con obiettivi precisi di ritmo sono convertiti in intervalli di più/meno questa percentuale del ritmo obiettivo",
   "page_under_development": "Questa pagina è in fase di sviluppo. Se ci sono cose relative al ritmo che vorresti vedere qui, per favore chiedi sul forum <a href=\"https://forum.intervals.icu\" target=\"_blank\"></a>.",
   "password_has_been_reset": "la tua password è stata resettata",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "Non hai condiviso alcun grafico di traccia delle attività",
   "your_coaches_blurb": "I tuoi allenatori (persone che possono modificare le tue attività, il calendario, l'FTP e le impostazioni di allenamento):",
   "your_followers_blurb": "I tuoi follower (persone che possono vedere le tue attività, comprese quelle private, il calendario e dati di potenza, clicca per modificare):",
+  "zones_changed": "Fai clic per applicare le modifiche alle attività esistenti per questo sport",
+  "zones_changed_title": "Hai cambiato le tue zone",
   "zoom_before_crop": "Ingrandisci la parte dell'attività che vuoi mantenere prima di cliccare su ritaglia"
 }

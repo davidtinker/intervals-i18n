@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "Der aktuell sichtbare Teil der Aktivität wird aktualisiert",
   "The purple line shows fatigue": "Die violette Linie zeigt deine Ermüdung",
   "This Week": "Diese Woche",
+  "This activity has pace data": "Für diese Aktivität liegen Geschwindigkeitsdaten vor",
   "This activity has power data": "Diese Aktivität hat Leistungsdaten",
   "This chart shows": "Diese Grafik zeigt",
   "This season": "Diese Saison",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "Outdoor-Trainingsschritte mit genauen Leistungszielen werden in Bereiche von plus/minus diesem Prozentsatz der Zielleistung umgerechnet",
   "over time": "Im Laufe der Zeit",
   "pace_load_type": "Intervals.icu kann die Trainingsbelastung anhand des Tempos beim Schwimmen und des an die Steigung angepassten Tempos beim Laufen schätzen. Dies könnte ein besseres Maß sein als die Belastung anhand der Herzfrequenz. Die Laufberechnung wird in <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>diesem Slowtwitch-Beitrag</a>erklärt. Die Berechnung beim Schwimmen wird <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>hier</a>erklärt.",
+  "pace_prompt": "Erfassen Sie Ihr Schwellentempo und Ihre Tempozonen für {sportName} in den Einstellungen, um die Tempoanalyse zu ermöglichen",
+  "pace_prompt_other": "Erstellen Sie eine neue Sportart oder fügen Sie {typeName} zu einer vorhandenen Sportart mit Tempo in den Einstellungen hinzu, um die Tempoanalyse zu aktivieren",
   "pace_range": "Trainingsschritte mit exakten Tempovorgaben werden in Bereiche von plus/minus diesem Prozentsatz des Zieltempos umgerechnet",
   "page_under_development": "Diese Seite befindet sich in der Entwicklung. Wenn es Dinge gibt, die du hier gerne sehen würdest, frage bitte in den <a href=\"https://forum.intervals.icu\" target=\"_blank\">Foren</a>.",
   "password_has_been_reset": "Dein Passwort wurde zurückgesetzt",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "Du hast keine Aktivitätsverfolgungsdiagramme freigegeben",
   "your_coaches_blurb": "Deine Trainer (Personen, die deine Aktivitäten, deinen Kalender, deine FTP und deine Trainingseinstellungen bearbeiten können):",
   "your_followers_blurb": "Deine Follower (Personen, die deine Aktivitäten sehen können, einschließlich privater Trainingseinheiten, Kalendereinträgen und Leistungsdaten). Klicken zum Bearbeiten:",
+  "zones_changed": "Klicken Sie hier, um die Änderungen auf bestehende Aktivitäten für diese Sportart anzuwenden",
+  "zones_changed_title": "Sie haben Ihre Zonen geändert",
   "zoom_before_crop": "Zoome auf den Teil der Aktivität, den du behalten möchtest, bevor du auf Ausschneiden klickst."
 }

@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "A tevékenység jelenleg látható része frissülni fog",
   "The purple line shows fatigue": "A lila vonal a leterheltséged (fáradtságod) mutatja",
   "This Week": "Ezen a héten",
+  "This activity has pace data": "Ez a tevékenység tempóadatokkal rendelkezik",
   "This activity has power data": "Ez a tevékenység teljesítményadatokkal rendelkezik",
   "This chart shows": "Ez a diagram mutatja",
   "This season": "Ez a szezon",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "A pontos teljesítménycélokkal rendelkező szabadtéri edzéslépéseket a cél teljesítmény plusz/mínusz tartományaiba adjuk meg",
   "over time": "Időtúllépés",
   "pace_load_type": "Az Intervals.icu meg tudja becsülni az edzésterhelést az úszás sebességéből és a futás tempójából. Ez bizonyos esetekben jobb mérés lehet, mint a pulzus alapú edzésterhelés meghatározás. A futó számítást <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>ebben a Slowtwitch -bejegyzésben</a>ismertetjük. Az úszás kiszámítása <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>itt olvasható</a>.",
+  "pace_prompt": "Rögzítse a küszöbértéket és a tempózónákat a(z) {sportName} számára a beállításokban az ütemelemzés engedélyezéséhez",
+  "pace_prompt_other": "Hozzon létre egy új sportot, vagy adja hozzá a(z) {typeName} nevet egy meglévő sporthoz a tempóval a beállításokban a tempóelemzés engedélyezéséhez",
   "pace_range": "A pontos céltempóval végzett edzésfeladatokat a céltempó plusz/mínusz tartományaiba adjuk meg",
   "page_under_development": "Ez az oldal fejlesztés alatt áll. Ha a tempóval kapcsolatos dolgokat szeretnéd itt látni, kérdezd meg a <a href=\"https://forum.intervals.icu\" target=\"_blank\">fórumokat</a>.",
   "password_has_been_reset": "A jelszavad visszaállításra került",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "Nem osztottál meg tevékenység nyomonkövetési diagramokat",
   "your_coaches_blurb": "Edzőid (ők azok, akik szerkeszthetik tevékenységedet, naptárad, FTP-det és edzési beállításaidat):",
   "your_followers_blurb": "Követőid (ők azok, akik láthatják a tevékenységeidet, beleértve a magánjellegűre állított, naptári és teljesítményadataidat, kattints a szerkesztésükhez):",
+  "zones_changed": "Kattintson a módosítások alkalmazásához a sportág meglévő tevékenységeire",
+  "zones_changed_title": "Megváltoztatta a zónáit",
   "zoom_before_crop": "Mielőtt a kivágás gombra kattintasz, nagyíts a tevékenység azon részére, amelyet meg szeretnél tartani"
 }

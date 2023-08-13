@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "Część aktywności, która jest obecnie widoczna, zostanie zaktualizowana",
   "The purple line shows fatigue": "Fioletowa linia pokazuje zmęczenie",
   "This Week": "W tym tygodniu",
+  "This activity has pace data": "Ta aktywność ma dane dotyczące tempa",
   "This activity has power data": "Ta aktywność ma dane dotyczące mocy",
   "This chart shows": "Ten wykres pokazuje",
   "This season": "W tym sezonie",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "Kroki treningu na zewnątrz z dokładnymi celami mocy są przekształcane w zakresy plus/minus tego procentu mocy docelowej",
   "over time": "w czasie",
   "pace_load_type": "Intervals.icu może oszacować obciążenie treningowe na podstawie tempa dla pływania i tempa dostosowanego do nachylenia dla biegania. To może być lepsza miara niż obciążenie z tętna. Obliczanie biegu jest wyjaśnione w <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>tym poście Slowtwitch</a>. Obliczanie pływania jest <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>wyjaśnione tutaj</a>.",
+  "pace_prompt": "Zapisz swoje progowe tempo i strefy tempa dla {sportName} w ustawieniach, aby włączyć analizę tempa",
+  "pace_prompt_other": "Utwórz nowy sport lub dodaj {typeName} do istniejącego sportu z tempem w ustawieniach, aby włączyć analizę tempa",
   "pace_range": "Kroki treningowe z dokładnym tempem docelowym są przeliczane na zakresy plus/minus ten procent tempa docelowego",
   "page_under_development": "Ta strona jest w trakcie rozwoju. Jeśli są rzeczy związane z tempem, które chciałbyś tu zobaczyć, zapytaj na forum <a href=\"https://forum.intervals.icu\" target=\"_blank\"></a>.",
   "password_has_been_reset": "Twoje hasło zostało zresetowane",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "Nie udostępniłeś żadnych wykresów śledzenia aktywności",
   "your_coaches_blurb": "Twoi trenerzy (osoby, które mogą edytować Twoje aktywności, kalendarz, FTP i ustawienia treningowe):",
   "your_followers_blurb": "Twoi obserwujący (osoby, które mogą zobaczyć Twoje aktywności, w tym prywatne, kalendarz i dane dotyczące mocy, kliknij, aby edytować):",
+  "zones_changed": "Kliknij, aby zastosować zmiany do istniejących aktywności dla tego sportu",
+  "zones_changed_title": "Zmieniłeś swoje strefy",
   "zoom_before_crop": "Powiększ część aktywności, którą chcesz zachować, przed kliknięciem przycisku przycinania."
 }

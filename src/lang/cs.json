@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "Část aktivity, která je aktuálně viditelná, bude aktualizována",
   "The purple line shows fatigue": "Fialová čára ukazuje únavu",
   "This Week": "Tento týden",
+  "This activity has pace data": "Tato aktivita má údaje o tempu",
   "This activity has power data": "Tato aktivita má údaje o výkonu",
   "This chart shows": "Tento graf ukazuje",
   "This season": "Tuto sezónu",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "Kroky ve venkovním tréninku s přesnými cíli síly jsou převedeny na rozsahy plus/mínus toto procento cílového výkonu",
   "over time": "přesčas",
   "pace_load_type": "Intervals.icu dokáže odhadnout tréninkovou zátěž z tempa pro plavání a gradientu upraveného tempa pro běh. To může být lepší opatření než zátěž ze srdeční frekvence. Průběžný výpočet je vysvětlen v <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>tomto příspěvku Slowtwitche</a>. Výpočet plavání je <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>vysvětlen zde</a>.",
+  "pace_prompt": "Zachyťte své prahové tempo a zóny tempa pro {sportName} v nastavení, abyste povolili analýzu tempa",
+  "pace_prompt_other": "Vytvořte nový sport nebo přidejte {typeName} ke stávajícímu sportu s tempem v nastavení, abyste umožnili analýzu tempa",
   "pace_range": "Tréninkové kroky s přesnými cíli tempa jsou převedeny na rozsahy plus/mínus toto procento cílového tempa",
   "page_under_development": "Tato stránka je ve vývoji. Pokud byste zde chtěli vidět věci související s tempem, zeptejte se na <a href=\"https://forum.intervals.icu\" target=\"_blank\">fórech</a>.",
   "password_has_been_reset": "Vaše heslo bylo resetováno",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "Nesdíleli jste žádné grafy trasování aktivity",
   "your_coaches_blurb": "Vaši trenéři (lidé, kteří mohou upravovat vaše aktivity, kalendář, FTP a nastavení školení):",
   "your_followers_blurb": "Vaši sledující (lidé, kteří mohou vidět vaše aktivity, včetně soukromých, kalendářních a výkonových údajů, kliknutím upravíte):",
+  "zones_changed": "Kliknutím použijete změny na stávající aktivity pro tento sport",
+  "zones_changed_title": "Změnili jste své zóny",
   "zoom_before_crop": "Před kliknutím na oříznutí zvětšete část aktivity, kterou chcete zachovat"
 }

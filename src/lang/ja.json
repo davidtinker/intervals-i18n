@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "アクティビティの現在表示されている部分が更新されます",
   "The purple line shows fatigue": "紫のラインはファティーグをあらわします。",
   "This Week": "今週",
+  "This activity has pace data": "このアクティビティにはペース データがあります",
   "This activity has power data": "このアクティビティにはパワーデータが含まれています",
   "This chart shows": "このチャートはshows",
   "This season": "今のシーズン",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "具体的な目標パワー値を設定した屋外ワークアウトのステップを、目標パワー値に対する±何％に換算して表示します。r",
   "over time": "経年劣化",
   "pace_load_type": "Intervals.icuは、スイムの場合はペースから、ランニングの場合は勾配を調整したペースからトレーニング負荷を推定することができます。これは、心拍数による負荷よりも優れた指標となる場合があります。ランニングの計算式は<a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>this Slowtwitch post</a>で解説されています。スイムの場合の計算式は<a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>こちらで説明されています</a>。",
+  "pace_prompt": "設定で閾値ペースと {sportName} のペースゾーンをキャプチャして、ペース分析を有効にします",
+  "pace_prompt_other": "新しいスポーツを作成するか、設定でペースを含む既存のスポーツに {typeName} を追加して、ペース分析を有効にします",
   "pace_range": "具体的な目標ペースが設定されているワークアウトステップは、目標ペースに対する±何％という範囲に換算して表示されます。",
   "page_under_development": "このページは開発中です。ペースに関連するもので、こんなものがあったらいいなというものがあれば、ぜひ、<a href=\"https://forum.intervals.icu\" target=\"_blank\">このページ</a>でお尋ねください。",
   "password_has_been_reset": "パスワードがリセットされました",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "まだアクティビティのトレースチャートをシェアしていません",
   "your_coaches_blurb": "あなたのコーチ（あなたのアクティビティ、カレンダー、FTP、トレーニング設定を編集できる人）：",
   "your_followers_blurb": "あなたのフォロワー（プライベート、カレンダー、パワーデータなど、あなたのアクティビティを見ることができる人々：）",
+  "zones_changed": "クリックして、このスポーツの既存のアクティビティに変更を適用します",
+  "zones_changed_title": "ゾーンを変更しました",
   "zoom_before_crop": "トリミングをクリックする前に、アクティビティーの残したい部分にズームしてください。"
 }

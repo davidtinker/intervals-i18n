@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "Del aktivnosti, ki je trenutno viden, bo posodobljen",
   "The purple line shows fatigue": "Vijolična črta kaže utrujenost",
   "This Week": "Ta Teden",
+  "This activity has pace data": "Ta dejavnost ima podatke o tempu",
   "This activity has power data": "Ta aktivnost ima podatke o moči",
   "This chart shows": "Ta graf prikazuje",
   "This season": "Ta sezona",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "Koraki zunanjega treninga z natančnimi cilji moči se pretvorijo v razpone plus/minus ta odstotek ciljne moči",
   "over time": "čez čas",
   "pace_load_type": "Intervals.icu lahko oceni napor treninga iz tempa za plavanje in tempa prilagojenega naklonu za tek. To je morda boljši ukrep kot napor zaradi srčnega utripa. Tekoči izračun je razložen v <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>tej objavi Slowtwitch</a>. Izračun plavanja je <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>razložen tukaj</a>.",
+  "pace_prompt": "Zajemite svoj mejni tempo in območja tempa za {sportName} v nastavitvah, da omogočite analizo tempa",
+  "pace_prompt_other": "Ustvarite nov šport ali dodajte {typeName} obstoječemu športu s tempom v nastavitvah, da omogočite analizo tempa",
   "pace_range": "Koraki treninga z natančnimi cilji tempa se pretvorijo v razpone plus/minus ta odstotek ciljnega tempa",
   "page_under_development": "Ta stran je v razvoju. Če bi radi videli stvari, povezane s tempom, vprašajte na <a href=\"https://forum.intervals.icu\" target=\"_blank\">forumih</a>.",
   "password_has_been_reset": "Vaše geslo je bilo ponastavljeno",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "V skupno rabo niste dali nobenega grafikona sledenja dejavnosti",
   "your_coaches_blurb": "Vaši trenerji (osebe, ki lahko urejajo vaše aktivnosti, koledar, FTP in nastavitve treninga):",
   "your_followers_blurb": "Vaši sledilci (ljudje, ki lahko vidijo vaše aktivnosti, vključno z zasebnimi in koledarskimi podatki ter podatki o moči, kliknite za urejanje):",
+  "zones_changed": "Kliknite, če želite uporabiti spremembe za obstoječe dejavnosti za ta šport",
+  "zones_changed_title": "Spremenili ste svoje cone",
   "zoom_before_crop": "Povečajte del aktivnosti, ki jo želite obdržati, preden kliknete obreži"
 }

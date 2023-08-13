@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "活动当前可见部分将被更新",
   "The purple line shows fatigue": "紫线表示疲劳度",
   "This Week": "本周",
+  "This activity has pace data": "此活动有步速数据",
   "This activity has power data": "该活动有功率数据",
   "This chart shows": "该图表显示",
   "This season": "本赛季",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "有确切功率目标的户外训练步骤被转换为目标功率的正/负这个百分比的范围",
   "over time": "随着时间的推移",
   "pace_load_type": "Intervals.icu可以通过游泳的配速和跑步的按坡度调整配速来估计训练负荷，这可能是一个比用心率更好的衡量标准。跑步的计算方法在<a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>这个Slowtwitch的帖子</a>中有解释。游泳的计算方法是<a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>这里</a>解释的",
+  "pace_prompt": "在设置中捕获 {sportName} 的阈值配速和配速区域以启用配速分析",
+  "pace_prompt_other": "创建一项新运动或将 {typeName} 添加到现有运动中，并在设置中添加配速以启用配速分析",
   "pace_range": "有确切速度目标的训练步骤被转换为目标速度的正/负百分比范围",
   "page_under_development": "本页正在开发中，如果你想在这里看到与配速有关的东西，请在 <a href=\"https://forum.intervals.icu\" target=\"_blank\">论坛</a>上询问",
   "password_has_been_reset": "密码已重置",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "您尚未共享任何活动跟踪图表",
   "your_coaches_blurb": "你的教练(可以编辑你的活动、日历、FTP和训练设置)",
   "your_followers_blurb": "你的关注者(可以看到你的活动，包括非公开的、日历和功率数据，点击可以编辑)",
+  "zones_changed": "单击以将更改应用到该运动的现有活动",
+  "zones_changed_title": "您已更改区域",
   "zoom_before_crop": "在点击剪裁之前，放大到你想保留的活动部分"
 }

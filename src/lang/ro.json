@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "Porțiunea de activitate care este vizibilă acum va fi actualizată",
   "The purple line shows fatigue": "Linia mov prezintă oboseală",
   "This Week": "Săptămâna aceasta",
+  "This activity has pace data": "Această activitate are date de ritm",
   "This activity has power data": "Această activitate are date de putere",
   "This chart shows": "Acest grafic arată",
   "This season": "Acest sezon",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "Secțiunile de antrenament în aer liber cu obiective exacte de putere sunt convertite în intervale de plus/minus acest procent din puterea țintă",
   "over time": "depășire de timp",
   "pace_load_type": "Intervals.icu poate estima efortul de antrenament din ritmul de înot și ritmul ajustat la înclinație pentru alergare. Aceasta ar putea fi o măsură mai bună decât încărcarea derivată din ritmul cardiac. Calculul folosit  este explicat în <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>această postare Slowtwitch</a>. Calculul înotului este <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>explicat aici</a>.",
+  "pace_prompt": "Capturați ritmul pragului și zonele de ritm pentru {sportName} în setări pentru a activa analiza ritmului",
+  "pace_prompt_other": "Creați un sport nou sau adăugați {typeName} la un sport existent cu ritm în setări pentru a activa analiza ritmului",
   "pace_range": "Secțiunile de antrenament cu obiective de ritm exacte sunt convertite în intervale de plus/minus acest procent din ritmul țintă",
   "page_under_development": "Această pagină este în curs de dezvoltare. Dacă dorești să vezi lucruri legate de ritm aici, te rugăm să întrebi pe <a href=\"https://forum.intervals.icu\" target=\"_blank\">forum</a>.",
   "password_has_been_reset": "Parola ta a fost resetată",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "Nu ați distribuit nicio diagramă de urmărire a activității",
   "your_coaches_blurb": "Antrenorii tăi (persoane care îți pot edita activitățile, calendarul, FTP și setările de antrenament):",
   "your_followers_blurb": "Urmăritorii tăi (persoanele care îți pot vedea activitățile, inclusiv datele private, de calendar și de energie - apasă pentru a edita):",
+  "zones_changed": "Faceți clic pentru a aplica modificările activităților existente pentru acest sport",
+  "zones_changed_title": "Ți-ai schimbat zonele",
   "zoom_before_crop": "Mărește partea de activitate pe care dorești să o păstrezi înainte de a apăsa pe decupare"
 }

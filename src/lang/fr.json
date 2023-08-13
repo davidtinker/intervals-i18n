@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "La partie de l'activité actuellement visible sera mise à jour",
   "The purple line shows fatigue": "La ligne violette montre la fatigue",
   "This Week": "Cette semaine",
+  "This activity has pace data": "Cette activité a des données d'allure",
   "This activity has power data": "Cette activité a des données de puissance",
   "This chart shows": "Ce graphique montre",
   "This season": "Cette saison",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "Les étapes de l'entraînement en extérieur avec des objectifs de puissance précis sont converties en plages de plus/moins ce pourcentage de la puissance cible.",
   "over time": "au fil du temps",
   "pace_load_type": "Intervals.icu peut estimer la charge d'entraînement à partir de l'allure pour la natation et de l'allure ajustée selon la pente pour la course. Cela pourrait être une meilleure mesure que la charge à partir de la fréquence cardiaque. Le calcul de la course est expliqué dans <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>ce post de Slowtwitch</a>. Le calcul pour la natation est <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>expliqué ici</a>.",
+  "pace_prompt": "Capturez votre allure seuil et vos zones d'allure pour {sportName} dans les paramètres afin d'activer l'analyse de l'allure",
+  "pace_prompt_other": "Créez un nouveau sport ou ajoutez {typeName} à un sport existant avec allure dans les paramètres pour activer l'analyse de l'allure",
   "pace_range": "Les étapes de l'entraînement avec des objectifs d'allure exacts sont converties en plages de plus/moins ce pourcentage de l'allure cible.",
   "page_under_development": "Cette page est en cours de développement. Si vous souhaitez y voir des éléments liés au rythme, veuillez le demander sur les forums <a href=\"https://forum.intervals.icu\" target=\"_blank\"></a>.",
   "password_has_been_reset": "votre mot de passe a été réinitialisé",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "Vous n'avez partagé aucun graphique de suivi d'activité",
   "your_coaches_blurb": "Vos coachs (les personnes qui peuvent modifier vos activités, votre calendrier, vos paramètres FTP et d'entraînement) :",
   "your_followers_blurb": "Vos abonnés (les personnes qui peuvent voir vos activités, y compris les données privées, le planning et les données de puissance, cliquez pour modifier) :",
+  "zones_changed": "Cliquez pour appliquer les changements aux activités existantes pour ce sport",
+  "zones_changed_title": "Vous avez changé vos zones",
   "zoom_before_crop": "Zoomez sur la partie de l'activité que vous souhaitez conserver avant de cliquer sur le bouton \"Rogner\"."
 }

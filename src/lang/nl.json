@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "Het momenteel zichtbare gedeelte van de activiteit wordt bijgewerkt",
   "The purple line shows fatigue": "De paarse lijn geeft vermoeidheid weer",
   "This Week": "Deze week",
+  "This activity has pace data": "Deze activiteit heeft tempogegevens",
   "This activity has power data": "Deze activiteit heeft vermogendata",
   "This chart shows": "Deze grafiek toont",
   "This season": "Dit seizoen",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "Workoutstappen voor outdoor met exacte vermogensdoelstellingen worden omgezet in bereiken van ongeveer dit percentage van het doelvermogen",
   "over time": "na verloop van tijd",
   "pace_load_type": "Intervals.icu kan de trainingsbelasting schatten aan de hand van het tempo voor zwemmen en het normaal of hellingsgecorrigeerd tempo voor hardlopen. Dit is wellicht een betere schatting dan belasting op basis van hartslag. De berekening voor hardlopen wordt uitgelegd in <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>deze Slowtwitch post</a>. De berekening van het zwemmen wordt <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>hier uitgelegd</a>.",
+  "pace_prompt": "Leg je drempeltempo en tempozones voor {sportName} vast in instellingen om tempoanalyse mogelijk te maken",
+  "pace_prompt_other": "Maak een nieuwe sport of voeg {typeName} toe aan een bestaande sport met tempo in instellingen om tempoanalyse in te schakelen",
   "pace_range": "Workoutstappen met exacte tempodoelen worden omgezet in bereiken van ongeveer dit percentage van het doeltempo",
   "page_under_development": "Deze pagina is in ontwikkeling. Als er tempo gerelateerde dingen zijn die je hier zou willen zien, vraag het dan op de <a href=\"https://forum.intervals.icu\" target=\"_blank\">forums</a>.",
   "password_has_been_reset": "Uw wachtwoord is opnieuw ingesteld",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "U heeft geen activiteitentraceergrafieken gedeeld",
   "your_coaches_blurb": "Je coaches (mensen die je activiteiten, agenda, FTP en trainingsinstellingen kunnen bewerken):",
   "your_followers_blurb": "Je volgers (mensen die je activiteiten kunnen zien, inclusief privé-, agenda- en vermogendata, klik om te bewerken):",
+  "zones_changed": "Klik om de wijzigingen toe te passen op bestaande activiteiten voor deze sport",
+  "zones_changed_title": "Je hebt je zones gewijzigd",
   "zoom_before_crop": "Zoom naar het deel van de activiteit dat je wil behouden voordat je op bijsnijden klikt"
 }

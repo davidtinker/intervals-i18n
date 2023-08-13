@@ -1482,6 +1482,7 @@
   "The portion of the activity that is currently visible will be updated": "A parte da actividade que é actualmente visível será actualizada",
   "The purple line shows fatigue": "A linha roxa mostra cansaço",
   "This Week": "Esta semana",
+  "This activity has pace data": "Esta atividade tem dados de ritmo",
   "This activity has power data": "Esta actividade tem dados de potência",
   "This chart shows": "Este gráfico mostra",
   "This season": "Esta temporada",
@@ -2078,6 +2079,8 @@
   "outdoor_power_range": "Os treinos ao ar livre com alvos de potência exactos são convertidas em intervalos de mais/menos esta percentagem da potência alvo",
   "over time": "ao longo do tempo",
   "pace_load_type": "Intervals.icu pode estimar a carga de treino a partir do ritmo de natação e do ritmo ajustado ao declive para correr. Esta pode ser uma medida melhor do que a carga a partir do ritmo cardíaco. O cálculo da corrida é explicado em <a href='https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Running_TSS_formula_clarification_P5374893/' target='_blank'>este poste de Slowtwitch</a>. O cálculo da natação é <a href='https://www.trainingpeaks.com/learn/articles/calculating-swimming-tss-score/' target='_blank'>explicado aqui</a>.",
+  "pace_prompt": "Capture seu ritmo limite e zonas de ritmo para {sportName} nas configurações para permitir a análise de ritmo",
+  "pace_prompt_other": "Crie um novo esporte ou adicione {typeName} a um esporte existente com ritmo nas configurações para permitir a análise de ritmo",
   "pace_range": "As etapas de treino com o ritmo exacto dos alvos são convertidas em intervalos de mais/menos esta percentagem do ritmo alvo",
   "page_under_development": "Esta página está em desenvolvimento. Se há alguma funcionalidade que gostasse de ver implementada, peça nos fóruns <a href=\"https://forum.intervals.icu\" target=\"_blank\"></a>.",
   "password_has_been_reset": "A sua palavra-passe foi redefinida",
@@ -2241,5 +2244,7 @@
   "you_have_not_shared_trace_charts": "Você não partilhou nenhum gráfico de actividade.",
   "your_coaches_blurb": "Os seus treinadores (pessoas que podem editar as suas actividades, calendário, FTP e definições de treino):",
   "your_followers_blurb": "Os seus seguidores (pessoas que podem ver as suas actividades, incluindo dados privados, calendário e potência, clique para editar):",
+  "zones_changed": "Clique para aplicar as alterações às atividades existentes para este esporte",
+  "zones_changed_title": "Você mudou suas zonas",
   "zoom_before_crop": "Zoom para a parte da actividade que deseja manter antes de cortar"
 }
