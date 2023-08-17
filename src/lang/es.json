@@ -2127,6 +2127,7 @@
   "puncheur_blurb": "Lo tuyo es el terreno ondulado con subidas cortas y empinadas, nadie puede igualarte durante 5 minutos (Alaphilippe)",
   "ramp_rate": "La tasa de rampa semanal es la cantidad de cambios en su estado físico de una semana a otra. Si es positivo, estás mejorando tu forma física. Durante las semanas de recuperación será negativo. Si su índice de rampa es demasiado alto, corre el riesgo de sobreentrenarse - <a href='https://joefrielsblog.com/the-ctl-ramp-rate/' target='_blank'>joefrielsblog.com</a> ",
   "record_blurb": "Transmisión creada a partir de valores de campo en mensajes de registro",
+  "recording_time_for_moving_time": "El tiempo de grabación del dispositivo se utilizará para mover el tiempo. Esto es útil para deportes como el tenis y el alpinismo, donde los datos de velocidad del GPS no son útiles.",
   "reminder_blurb": "Los recordatorios le notifican cuando ha pasado una determinada cantidad de uso o número de días",
   "reminder_usage_since": "Uso calculado desde {d}",
   "removed_folder0": "Carpeta eliminada {0}",

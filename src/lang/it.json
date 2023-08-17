@@ -2127,6 +2127,7 @@
   "puncheur_blurb": "I terreni ondulati con brevi salite ripide sono la tua specialità, nessuno può eguagliarti per 5 minuti (Alaphilippe)",
   "ramp_rate": "Il ramp rate settimanale è quanto cambia la tua forma fisica da una settimana all'altra. Se è positivo, stai diventando più in forma. Durante le settimane di recupero sarà negativo. Se il tuo ramp rate è troppo alto corri il rischio di diventare sovrallenato - <a href='https://joefrielsblog.com/the-ctl-ramp-rate/' target='_blank'>joefrielsblog.com</a> ",
   "record_blurb": "Flusso creato dai valori dei campi nei messaggi dei record",
+  "recording_time_for_moving_time": "Il tempo di registrazione del dispositivo verrà utilizzato per il tempo di spostamento. Ciò è utile per sport come il tennis e l'alpinismo in cui i dati sulla velocità GPS non sono utili",
   "reminder_blurb": "I promemoria ti avvisano dopo che è passata una certa quantità di utilizzo o un certo numero di giorni",
   "reminder_usage_since": "Uso calcolato da {d}",
   "removed_folder0": "Rimossa la cartella {0}",

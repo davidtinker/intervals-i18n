@@ -2127,6 +2127,7 @@
   "puncheur_blurb": "Rolling terrain with short steep climbs is your thing, no-one can match you for 5 minutes (Alaphilippe)",
   "ramp_rate": "Weekly ramp rate is how much your fitness changes from week to week. If it is positive, you are getting fitter. During recovery weeks it will be negative. If your ramp rate is too high you run the risk of becoming overtrained - <a href='https://joefrielsblog.com/the-ctl-ramp-rate/' target='_blank'>joefrielsblog.com</a> ",
   "record_blurb": "Stream created from field values in record messages",
+  "recording_time_for_moving_time": "The recording time of the device will be used for moving time. This is useful for sports like tennis and mountain climbing where GPS speed data is not useful",
   "reminder_blurb": "Reminders notify you after a certain amount of usage or number of days has passed",
   "reminder_usage_since": "Usage calculated since {d}",
   "removed_folder0": "Removed folder {0}",
