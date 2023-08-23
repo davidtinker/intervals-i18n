@@ -2137,6 +2137,7 @@
   "removed_folder0": "Dosar eliminat {0}",
   "removed_plan0": "Plan de instruire eliminat {0}",
   "reply_on_intervals_icu": "Răspunde pe Intervals.icu",
+  "reprocess_file_blurb": "Toate fluxurile de activitate (putere, ritm cardiac, ritm etc.) vor fi recalculate și orice modificări sau decupări vor fi anulate",
   "reprocess_on_new_stream_prompt": "Activitățile existente trebuie reprocesate pentru a prelua date pentru noile fluxuri personalizate. Doriți să reprocesați această activitate acum?",
   "req_data_from_garmin_after_blurb": "Intervals.icu îți va trimite un e-mail la finalizarea procesării. Dacă nu bifezi niciuna dintre căsuțe, nu se va întreprinde nimic și poți examina ceea ce a fost găsit.",
   "req_data_from_garmin_blurb": "Poți <a href=\"https://www.garmin.com/en-US/account/datamanagement/\" target=\"_blank\">solicita toate datele tale de la Garmin</a>. Asigură-te că ești conectat la contul Garmin Connect. Reține că poate dura câteva zile până când Garmin te va contacta din nou. Copiază și lipește linkul de descărcare de la Garmin în câmpul de mai jos:",
