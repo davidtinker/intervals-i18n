@@ -2070,6 +2070,7 @@
   "must_crop_on_strava": "来自Strava的活动必须在Strava上进行剪裁",
   "mute_this_chat": "将此聊天静音",
   "mutual_follow": "你们正在相互关注",
+  "name_code_required_for_scripts": "您必须填写名称和代码字段才能运行脚本",
   "nice_ride": "不错的 {0}！",
   "no_calendars_blurb": "Intervals.icu可以显示和分析来自支持谷歌、微软、苹果等日历导出的应用程序的训练项目",
   "no_coaches_blurb": "你没有教练，点击你的一个关注者，让他成为教练",

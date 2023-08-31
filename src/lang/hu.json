@@ -2070,6 +2070,7 @@
   "must_crop_on_strava": "A Strava rendszerben rögzített tevékenységeit a Strava-n kell módosítani (levágni)",
   "mute_this_chat": "Csevegés némítása",
   "mutual_follow": "Követed a következőt: {obj} és {sub} ",
+  "name_code_required_for_scripts": "A szkriptek futtatásához ki kell töltenie a név és kód mezőket",
   "nice_ride": "Kedves {0}!",
   "no_calendars_blurb": "Az Intervals.icu megjelenítheti és elemezheti a Google, a Microsoft, az Apple és más naptárexportálást támogató alkalmazásokból származó programokat",
   "no_coaches_blurb": "Nincs edződ, kattints valamelyik követődre, hogy az edződ legyen",

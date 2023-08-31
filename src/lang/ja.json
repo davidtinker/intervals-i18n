@@ -2070,6 +2070,7 @@
   "must_crop_on_strava": "StravaのアクティビティはStravaでトリミングする必要があります。",
   "mute_this_chat": "このチャットをみゅーとする",
   "mutual_follow": "彼らと相互フォローになりました",
+  "name_code_required_for_scripts": "スクリプトを実行するには、名前とコードのフィールドに入力する必要があります",
   "nice_ride": "Nice {0}!",
   "no_calendars_blurb": "Intervals.icuは、Google、Microsoft、Appleなどのカレンダー書き出しに対応したアプリからトレーニングプログラムを表示したり、分析することができます。",
   "no_coaches_blurb": "コーチがいない場合は、フォロワーの誰かをクリックしてコーチにすることができます。",

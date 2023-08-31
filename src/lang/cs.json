@@ -2070,6 +2070,7 @@
   "must_crop_on_strava": "Aktivity ze Stravy musí být na Stravě oříznuty",
   "mute_this_chat": "Ignorovat tento chat",
   "mutual_follow": "Sledujete je a oni vás",
+  "name_code_required_for_scripts": "Chcete-li spustit skripty, musíte vyplnit pole názvu a kódu",
   "nice_ride": "Pěkné {0}!",
   "no_calendars_blurb": "Intervals.icu může zobrazovat a analyzovat školicí programy z aplikací, které podporují export kalendáře pro Google, Microsoft, Apple a další",
   "no_coaches_blurb": "Nemáte žádné trenéry, kliknutím na některého ze svých sledujících z nich uděláte kouče",

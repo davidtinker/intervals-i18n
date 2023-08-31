@@ -2070,6 +2070,7 @@
   "must_crop_on_strava": "Activities from Strava must be cropped on Strava",
   "mute_this_chat": "Mute this chat",
   "mutual_follow": "You are following them and they follow you",
+  "name_code_required_for_scripts": "You must complete the name and code fields to run scripts",
   "nice_ride": "Nice {0}!",
   "no_calendars_blurb": "Intervals.icu can show and analyze training programs from apps that support calendar export for Google, Microsoft, Apple and others",
   "no_coaches_blurb": "You do not have any coaches, click any of your followers to make them a coach",

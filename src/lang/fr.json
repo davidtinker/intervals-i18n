@@ -2070,6 +2070,7 @@
   "must_crop_on_strava": "Les activités provenant de Strava doivent être rognées sur Strava.",
   "mute_this_chat": "Mettre ce chat en sourdine",
   "mutual_follow": "Vous les suivez et ils vous suivent",
+  "name_code_required_for_scripts": "Vous devez renseigner les champs nom et code pour exécuter des scripts",
   "nice_ride": "Joli {0} !",
   "no_calendars_blurb": "Intervals.icu peut afficher et analyser des programmes d'entraînement à partir d'applications qui prennent en charge l'exportation de calendriers pour Google, Microsoft, Apple et autres.",
   "no_coaches_blurb": "Vous n'avez pas de coachs, cliquez sur l'un ou l'une de vos abonné(e) pour en faire un(e) coach.",
