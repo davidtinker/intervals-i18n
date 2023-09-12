@@ -1940,6 +1940,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu byl odpojen od {0}. Pokud chcete pokračovat ve stahování údajů o wellness z webu {0} , znovu se připojte v <a href=\"https://intervals.icu/settings\">nastavení</a>.",
   "displayed_welless_fields": "Wellness pole zobrazená v kalendáři",
   "distance": "Pokud vzdálenost nebyla vypočítána správně, můžete to změnit.",
+  "do_not_delete_workouts_before": "Nemazat cvičení před {d}",
   "do_not_send_me_mails_like_this": "Neposílejte mi takové maily",
   "donate_blurb": "Vaše předplatné pomůže pokrýt náklady na hostování a financovat průběžný vývoj platformy. Odběr můžete kdykoli zrušit.",
   "donate_please_support": "Pokud se vám líbí Intervals.icu, zvažte prosím podporu projektu předplatným 4 $/měsíc. Měsíční náklady na hostování jsou značné, stejně jako doba nutná k tomu, aby vše fungovalo. Požadavky na funkce podporovatele se pohybují v seznamu úkolů výše!",

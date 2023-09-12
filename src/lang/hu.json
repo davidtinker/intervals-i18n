@@ -1940,6 +1940,7 @@
   "disconnected_from_wellness_blurb": "Az Intervals.icu leválasztva a (z) {0}webhelyről. Ha továbbra is szeretnéd letölteni a wellness-adatokat {0} , csatlakozz újra a <a href=\"https://intervals.icu/settings\">beállításokban</a>.",
   "displayed_welless_fields": "Wellness mezők megjelennek a naptárban",
   "distance": "Érdemes átírni az értéket beltéri edzéseken, ha a távolságot nem megfelelően mérted.",
+  "do_not_delete_workouts_before": "Ne törölje az edzéseket {d}előtt",
   "do_not_send_me_mails_like_this": "Ne küldj nekem ilyen leveleket",
   "donate_blurb": "Az előfizetés fedezi a tárhely költségeit és finanszírozza a platform folyamatos fejlesztését. Bármikor lemondhatod.",
   "donate_please_support": "Ha tetszik az Intervals.icu weboldal, fontold meg a projekt támogatását 4 USD/hó előfizetéssel. A havi tárhelyköltség és a ráfordított idő is jelentős, ami az oldal megfelelő működéshez szükséges. A támogatók által kért fejlesztések előrébb kerülnek a fejlesztési rangsorban!",

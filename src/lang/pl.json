@@ -1940,6 +1940,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu został rozłączony z {0}. Jeśli chcą Państwo kontynuować pobieranie danych dotyczących odnowy biologicznej z {0} , prosimy o ponowne połączenie w <a href=\"https://intervals.icu/settings\">ustawieniach</a>.",
   "displayed_welless_fields": "Pola odnowy biologicznej wyświetlane w kalendarzu",
   "distance": "Jeśli dystans nie został poprawnie obliczony, możesz edytować to dla jazdy na krytym trenażerze.",
+  "do_not_delete_workouts_before": "Nie usuwaj treningów przed {d}",
   "do_not_send_me_mails_like_this": "Nie wysyłaj mi takich maili",
   "donate_blurb": "Twoja subskrypcja pomoże pokryć koszty hostingu i sfinansować ciągły rozwój platformy. Możesz zrezygnować w każdej chwili.",
   "donate_please_support": "Jeśli podoba Ci się Intervals.icu, rozważ wsparcie projektu subskrypcją 4 USD na miesiąc. Miesięczne koszty hostingu są znaczne, podobnie jak czas potrzebny na utrzymanie wszystkiego w ruchu. Prośby o nowe funkcje przesuwają się w górę listy rzeczy do zrobienia!",

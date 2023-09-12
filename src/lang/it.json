@@ -1940,6 +1940,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu è stato disconnesso da {0}. Se volete continuare a scaricare i dati del benessere da {0} , ricollegatevi nelle impostazioni <a href=\"https://intervals.icu/settings\"></a>.",
   "displayed_welless_fields": "Campi benessere visualizzati sul calendario",
   "distance": "Se la distanza non è stata calcolata correttamente, potresti voler modificare questo per una corsa con il trainer indoor.",
+  "do_not_delete_workouts_before": "Non eliminare gli allenamenti prima del {d}",
   "do_not_send_me_mails_like_this": "Non inviatemi mail come questa",
   "donate_blurb": "Il tuo abbonamento aiuterà a coprire i costi di hosting e a finanziare lo sviluppo continuo della piattaforma. Puoi cancellarti in qualsiasi momento.",
   "donate_please_support": "Se ti piace Intervals.icu, potresti supportare il progetto con un abbonamento di 4 dollari al mese. I costi mensili di hosting sono notevoli, così come il tempo dedicato a mantenere tutto in funzione. Le richieste di funzionalità dei sostenitori hanno maggiore priorità nella lista delle cose da fare!",

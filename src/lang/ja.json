@@ -1940,6 +1940,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icuは{0}と連携解除しました。{0}からウェルネスデータをダウンロードしたい場合は、<a href=\"https://intervals.icu/settings\">設定</a>から再接続してください。",
   "displayed_welless_fields": "ウェルネスの項目をカレンダーに表示",
   "distance": "距離が正しく計算されていない場合、室内トレーナーでのライド用に編集したほうがよい場合があります。",
+  "do_not_delete_workouts_before": " {d}より前にワークアウトを削除しないでください",
   "do_not_send_me_mails_like_this": "このようなメールは不要です",
   "donate_blurb": "あなたのサブスクリプションは、ホスティング費用とプラットフォームの継続的な開発資金を賄うのに役立ちます。いつでも解約可能です。",
   "donate_please_support": "Intervals.icuを楽しんでいる場合は、4ドル/月のサブスクリプションでプロジェクトをサポートすることをご検討ください。毎月のホスティングコストは、すべての機能の動作を維持するために必要とされる時間とともに、かなりのコストとなっています。サポーターの機能要求は、Todoリストで繰り上げします！",

@@ -1940,6 +1940,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă doriți să continuați să descărcați date de wellness din {0} reconectați-vă din <a href=\"https://intervals.icu/settings\">setări</a>.",
   "displayed_welless_fields": "Câmpurile de wellness afișate pe calendar",
   "distance": "S-ar putea să dorești să modifici acest antrenament într-o sesiune de ciclism de interior, dacă distanța nu a fost calculată corect.",
+  "do_not_delete_workouts_before": "Nu ștergeți antrenamentele înainte de {d}",
   "do_not_send_me_mails_like_this": "Nu-mi trimiteți astfel de mesaje",
   "donate_blurb": "Subscripţia ta ne va ajuta să acoperim costurile de găzduire și să finanțăm dezvoltarea continuă a platformei. O poţi anula oricând.",
   "donate_please_support": "Dacă îţi place Intervals.icu, te rugăm să iei în considerare sprijinirea proiectului cu un abonament de 4 USD / lună. Costurile lunare de găzduire sunt substanțiale, precum și timpul necesar pentru ca totul să funcționeze. Solicitările de îmbunătăţire ale celor subscrişi devin prioritare!",

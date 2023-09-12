@@ -1940,6 +1940,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu is losgekoppeld van {0}. Als je wil doorgaan met het downloaden van gezondheidsgegevens van {0} , maak dan opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
   "displayed_welless_fields": "Gezondheidsvelden weergegeven op de kalender",
   "distance": "Je kan dit aanpassen voor een indoor trainer rit waarvan de afstand niet juist is berekend.",
+  "do_not_delete_workouts_before": "Verwijder geen trainingen vóór {d}",
   "do_not_send_me_mails_like_this": "Stuur me geen vergelijkbare mails meer",
   "donate_blurb": "Jouw abonnement zal helpen om de hostingkosten te dekken en de lopende ontwikkeling van het platform te financieren. Je kan op elk moment opzeggen.",
   "donate_please_support": "Als je Intervals.icu leuk vindt, overweeg dan om het project te ondersteunen met een abonnement van $4 per maand. De maandelijkse hostingkosten zijn aanzienlijk evenals de tijd die nodig is om alles draaiende te houden. Verzoeken van steunende leden stijgen op de takenlijst!",

@@ -1940,6 +1940,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu已经从 {0} 断开连接。如果想继续从 {0} 下载健康数据，请在 <a href=\"https://intervals.icu/settings\">设置</a>重新连接",
   "displayed_welless_fields": "日历上显示的健康字段",
   "distance": "如果距离计算不正确，可能需要为室内骑行台骑行编辑这里",
+  "do_not_delete_workouts_before": "不要删除 {d}之前的锻炼",
   "do_not_send_me_mails_like_this": "请不要给我发这样的邮件",
   "donate_blurb": "你的订阅将有助于支付托管费用并资助平台的持续发展，你可以在任何时候取消",
   "donate_please_support": "如果你喜欢Intervals.icu，请考虑用4美元/月的订阅来支持这个项目。网站每月的托管费用是不少的，因为维持一切良好运行需要时间，支持者的功能需求将会优先处理!",
