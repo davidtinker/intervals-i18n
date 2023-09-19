@@ -104,7 +104,7 @@
   "Add Calendar Entry": "Dodaj wpis do kalendarza",
   "Add Chart": "Dodaj wykres",
   "Add Coach": "Dodaj trenera",
-  "Add Coached": "Dodaj Trenowane",
+  "Add Coached": "Dodaj trenowanych",
   "Add Component": "Dodaj składnik",
   "Add Components": "Dodaj komponenty",
   "Add Date Range": "Dodaj zakres dat",
@@ -126,7 +126,7 @@
   "Add Season": "Dodaj sezon",
   "Add Step": "dodaj krok",
   "Add Stream": "Dodaj strumień",
-  "Add Sweet Spot": "Dodaj idealny punkt",
+  "Add Sweet Spot": "Dodaj punkt pod progiem (SS)",
   "Add Tab": "Dodaj kartę",
   "Add Tags": "Dodaj tagi",
   "Add To Library": "Dodaj do biblioteki",
@@ -172,7 +172,7 @@
   "App": "App",
   "Apparel": "odzież",
   "Apply Changes": "Zatwierdź zmiany",
-  "Apply zones to existing activities": "Zastosuj strefy do istniejących działań",
+  "Apply zones to existing activities": "Zastosuj strefy do istniejących aktywności",
   "Apps that can connect to Intervals_icu": "Aplikacje, które mogą łączyć się z Intervals.icu",
   "Are you sure you want do disconnect from Dropbox?": "Czy na pewno chcesz odłączyć się od Dropbox?",
   "Are you sure you want to delete this entry?": "Czy na pewno chcesz usunąć ten wpis?",
@@ -273,15 +273,11 @@
   "Avg power / HR in HR Z2": "Średnia moc / HR w HR Z2",
   "Avg sleeping HR": "Średnia HR snu",
   "Avg w/kg": "Avg w/kg",
-<<<<<<< HEAD
   "Avg w:alt": "Śr w:alt",
   "Avg w:alt acc": "Śr w:alt acc",
   "Axel": "Axel",
   "Axis": "oś",
-  "B Race": "B Wyścigi",
-=======
   "B Race": "Wyścig B",
->>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Backcountry Ski": "Narciarstwo backcountry",
   "Bad": "Zły",
   "Badminton": "Badminton",
@@ -334,7 +330,7 @@
   "Calories": "Kalorie",
   "Calories burned": "Spalone kalorie",
   "Calories burned ": "Spalone kalorie",
-  "Calories consumed": "Zużyte kalorie",
+  "Calories consumed": "Spożyte kalorie",
   "Can I follow you?": "Mogę cię śledzić?",
   "Cancel": "Anuluj",
   "Cancel Subscription": "Anuluj subskrypcje",
@@ -371,13 +367,9 @@
   "Clear": "Wyczyść",
   "Clear Intervals": "Wyczyść interwały",
   "Clear Plan": "Wyczyść plan",
-<<<<<<< HEAD
-  "Clear week": "yczyść tydzień",
-  "Cleats": "Knagi",
-  "Click Add": "Kliknij Dodaj",
-=======
   "Clear week": "Wyczyść tydzień",
->>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
+  "Cleats": "bloki",
+  "Click Add": "Kliknij Dodaj",
   "Click To Signup": "Kliknij, aby się zarejestrować",
   "Click to add options": "Kliknij, aby dodać opcje",
   "Click to configure zones": "Kliknij, aby skonfigurować strefy",
@@ -831,7 +823,7 @@
   "Import wellness data": "Importuj dane kondycji",
   "Include commutes": "Uwzględnij dojazdy",
   "Include fitness in CSV": "Włączanie wytrenowania do CSV",
-  "Indoor": "Wnętrz",
+  "Indoor": "Wewnątrz",
   "Indoor / Outdoor": "Wewnątrz / na zewnątrz",
   "Indoor FTP": "Wewnętrzny FTP",
   "Indoor Functional Threshold Power": "Wewnętrzna funkcjonalna moc progowa",
@@ -1297,11 +1289,7 @@
   "Retry": "Spróbować ponownie",
   "Retry Analysis": "Ponów analizę",
   "Revoke Access": "Odwołaj dostęp",
-<<<<<<< HEAD
   "Ride": "Jazda szosowa",
-=======
-  "Ride": "Kolarstwo",
->>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Ride eCP": "eCP jazdy",
   "Ride eFTP": "eFTP jazdy",
   "Ride pMax": "pMax jazdy",
@@ -1316,14 +1304,10 @@
   "Rollout": "Rollout",
   "Rotor": "Rotor",
   "Rowing": "Wioślarstwo",
-<<<<<<< HEAD
-  "Rowing Machine": "Wioślarz",
+  "Rowing Machine": "Ergometr",
   "Rugby": "Rugby",
-  "Run": "BIEG",
-  "S-RPE": "S-RPE",
-=======
   "Run": "Bieganie",
->>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
+  "S-RPE": "S-RPE",
   "SPI": "SPI",
   "SS": "Ss",
   "Saddle": "Siodło",
@@ -1572,12 +1556,8 @@
   "Total work": "Praca ogółem",
   "Totals": "Ogółem",
   "Track": "Tor",
-<<<<<<< HEAD
   "Trail Run": "Bieg szlakiem",
-  "Trainer": "trener",
-=======
   "Trainer": "trenażer",
->>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Training": "Trening",
   "Training Load": "Obciążenie treningowe",
   "Training Load Priority": "Priorytet obciążenia treningowego",
@@ -1692,12 +1672,8 @@
   "W'bal End": "W'bal End",
   "W'bal Start": "W'bal Start",
   "W-prime (anaerobic capacity)": "W-prime (wydajność beztlenowa)",
-<<<<<<< HEAD
   "Wahoo": "Wahoo",
-  "Walk": "Spacerować",
-=======
   "Walk": "Spacer",
->>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Want to see your group here? Just ask!": "Chcesz zobaczyć swoją grupę tutaj? Po prostu zapytaj!",
   "Warmup": "Rozgrzewka",
   "Warmup time": "Czas na rozgrzewkę",
@@ -1776,7 +1752,7 @@
   "Work done in kilojoules": "Praca wykonana w kilodżulach",
   "Work or recovery": "Praca lub regeneracja",
   "Work>FTP": "Praca>FTP",
-  "Workout": "Ćwiczyć",
+  "Workout": "Trening",
   "Workout Folders": "Foldery treningowe",
   "Workout Heartrate": "Tętno treningowe",
   "Workout Pace": "Tempo treningu",
@@ -1864,7 +1840,7 @@
   "best_power_for_season_0": "Najlepsza moc na sezon: {0}w za {1}!",
   "bio": "Bio",
   "calendar_export_blurb": "Możesz przeglądać zaplanowane treningi, wyścigi, święta i notatki w dowolnym zewnętrznym kalendarzu, który obsługuje subskrypcję adresu URL kalendarza (Google, Microsoft, Apple itp.). Kliknij na poniższy link, aby skopiować go do schowka:",
-  "calendar_export_blurb2": "Następnie postępuj zgodnie z <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">instrukcjami manualnej konfiguracji TrainerRoad</a> , aby dodać link kalendarza do swojego zewnętrznego kalendarza. Należy pamiętać, że zakończone zajęcia i zaplanowane treningi sprzed ponad tygodnia nie są uwzględniane.",
+  "calendar_export_blurb2": "Następnie postępuj zgodnie z <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">instrukcjami manualnej konfiguracji TrainerRoad</a> , aby dodać link kalendarza do swojego zewnętrznego kalendarza. Należy pamiętać, że zakończone aktywności i zaplanowane treningi sprzed ponad tygodnia nie są uwzględniane.",
   "calories": "Liczba kilokalorii spalonych podczas aktywności. Jest to dostarczane przez Strava, która z kolei korzysta z wartości dostarczonych przez swoich partnerów.",
   "can_only_del_empty": "Można usunąć tylko puste {type}",
   "cant_find_friends_blurb": "Nie możesz znaleźć swoich przyjaciół i sportowców? Wyślij im <a>link, aby dołączyli do</a> Intervals.icu",
@@ -1956,8 +1932,8 @@
   "decoupling": "odsprzęganie",
   "decoupling_blurb": "Wraz z poprawą wytrenowania wytwarzasz więcej mocy przy danym HR. Sprawność aerobowa zmniejsza dryf serca, ale wpływ na to ma również temperatura, poziom nawodnienia i pora dnia.",
   "decoupling_help": "Odłączenie aerobowe % porównuje stosunek mocy do HR w pierwszej połowie jazdy do drugiej. Zazwyczaj Twoja moc dla danego HR będzie wyższa w pierwszej połowie jazdy niż w drugiej, a wartość procentowa jest dodatnia. Trening bazowy poprawi (zmniejszy) Twoje odsprzężenie aerobowe. Należy pamiętać, że istnieje wiele czynników wpływających na tętno i ta miara ma zastosowanie do jazd wytrzymałościowych. Zobacz <a href='https://tailwind-coaching.com/2017/03/30/what-is-aerobic-decoupling/' target='_blank'>tailwind-coaching.com</a>.",
-  "default_gear": "Nowe zajęcia dla tej dyscypliny sportu zostaną przypisane do tego sprzętu",
-  "default_indoor_gear": "Nowe zajęcia halowe dla tej dyscypliny sportu zostaną przypisane do tego sprzętu",
+  "default_gear": "Nowe aktywności dla tej dyscypliny sportu zostaną przypisane do tego sprzętu",
+  "default_indoor_gear": "Nowe aktywności halowe dla tej dyscypliny sportu zostaną przypisane do tego sprzętu",
   "default_power_target": "W poszczególnych krokach treningowych wykorzystujących moc można określić sposób interpretacji docelowej mocy (moc na okrążeniu, moc natychmiastowa, moc 3 sekundowa itd.) To ustawienie definiuje wartość domyślną.",
   "del_from_ext_cal_note": "Jest on z '{name}' i może powrócić przy następnym odświeżeniu tego kalendarza.",
   "del_workout_others_note": "Możesz również usunąć inne treningi, które zostały dodane w tym samym czasie, wybierając opcję 'Tak i inne'.",
