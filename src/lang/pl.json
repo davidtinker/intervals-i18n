@@ -62,7 +62,7 @@
   "7d exponentially weighted moving avg of load": "7d wykładniczo ważona średnia krocząca obciążenia",
   "8 hours": "8 godzin",
   "90 days": "90 dni",
-  "A Race": "Wyścig",
+  "A Race": "Wyścig A",
   "ACWR": "ACWR",
   "API Key": "Klucz API",
   "Abdomen": "Brzuch",
@@ -273,11 +273,15 @@
   "Avg power / HR in HR Z2": "Średnia moc / HR w HR Z2",
   "Avg sleeping HR": "Średnia HR snu",
   "Avg w/kg": "Avg w/kg",
+<<<<<<< HEAD
   "Avg w:alt": "Śr w:alt",
   "Avg w:alt acc": "Śr w:alt acc",
   "Axel": "Axel",
   "Axis": "oś",
   "B Race": "B Wyścigi",
+=======
+  "B Race": "Wyścig B",
+>>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Backcountry Ski": "Narciarstwo backcountry",
   "Bad": "Zły",
   "Badminton": "Badminton",
@@ -367,9 +371,13 @@
   "Clear": "Wyczyść",
   "Clear Intervals": "Wyczyść interwały",
   "Clear Plan": "Wyczyść plan",
+<<<<<<< HEAD
   "Clear week": "yczyść tydzień",
   "Cleats": "Knagi",
   "Click Add": "Kliknij Dodaj",
+=======
+  "Clear week": "Wyczyść tydzień",
+>>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Click To Signup": "Kliknij, aby się zarejestrować",
   "Click to add options": "Kliknij, aby dodać opcje",
   "Click to configure zones": "Kliknij, aby skonfigurować strefy",
@@ -394,7 +402,7 @@
   "Comfortable": "Nieco ciężki wysiłek, głęboki oddech",
   "Comment": "Komentarz",
   "Comments": "Komentarze",
-  "Commute": "Dojeżdżać",
+  "Commute": "przejażdżka",
   "Commutes": "Dojazdy",
   "Compact": "Kompaktowy",
   "Compare": "Porównanie",
@@ -1227,7 +1235,7 @@
   "RPE": "RPE",
   "RPM": "RPM",
   "RPM Range": "Zakres obrotów",
-  "Race": "Wyścigi",
+  "Race": "wyścig",
   "Race / Commute": "Wyścig / dojazd do pracy",
   "Racquetball": "racquetball",
   "Radius": "promień",
@@ -1289,7 +1297,11 @@
   "Retry": "Spróbować ponownie",
   "Retry Analysis": "Ponów analizę",
   "Revoke Access": "Odwołaj dostęp",
+<<<<<<< HEAD
   "Ride": "Jazda szosowa",
+=======
+  "Ride": "Kolarstwo",
+>>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Ride eCP": "eCP jazdy",
   "Ride eFTP": "eFTP jazdy",
   "Ride pMax": "pMax jazdy",
@@ -1304,10 +1316,14 @@
   "Rollout": "Rollout",
   "Rotor": "Rotor",
   "Rowing": "Wioślarstwo",
+<<<<<<< HEAD
   "Rowing Machine": "Wioślarz",
   "Rugby": "Rugby",
   "Run": "BIEG",
   "S-RPE": "S-RPE",
+=======
+  "Run": "Bieganie",
+>>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "SPI": "SPI",
   "SS": "Ss",
   "Saddle": "Siodło",
@@ -1556,8 +1572,12 @@
   "Total work": "Praca ogółem",
   "Totals": "Ogółem",
   "Track": "Tor",
+<<<<<<< HEAD
   "Trail Run": "Bieg szlakiem",
   "Trainer": "trener",
+=======
+  "Trainer": "trenażer",
+>>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Training": "Trening",
   "Training Load": "Obciążenie treningowe",
   "Training Load Priority": "Priorytet obciążenia treningowego",
@@ -1672,8 +1692,12 @@
   "W'bal End": "W'bal End",
   "W'bal Start": "W'bal Start",
   "W-prime (anaerobic capacity)": "W-prime (wydajność beztlenowa)",
+<<<<<<< HEAD
   "Wahoo": "Wahoo",
   "Walk": "Spacerować",
+=======
+  "Walk": "Spacer",
+>>>>>>> 5b005034c87422e3f0469728ccbe75e51aba7f65
   "Want to see your group here? Just ask!": "Chcesz zobaczyć swoją grupę tutaj? Po prostu zapytaj!",
   "Warmup": "Rozgrzewka",
   "Warmup time": "Czas na rozgrzewkę",
