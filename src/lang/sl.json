@@ -2225,6 +2225,7 @@
   "tte": "Čas do izčrpanosti (TTE), kot je uporabljen tukaj, je največji čas, v katerem se lahko zadržuje FTP ali kritična moč (CP). To je dragoceno samo, če ste dejansko poskušali videti, kako dolgo lahko vozite na svojem FTP ali CP - <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>The-TTE-Metric</a>",
   "unsub_update_email_settings": "Odjavite se ali posodobite e-poštne nastavitve Intervals.icu",
   "update_email_settings": "Posodobite e-poštne nastavitve Intervals.icu",
+  "update_specific_activities_blurb": "Če morate posodobiti določene dejavnosti ali dejavnosti, ki se ujemajo z datumskim obdobjem, uporabite <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">pogled seznama dejavnosti</a>.",
   "upload_activity_blurb": "Kliknite, da izberete datoteke FIT, GPX, TCX, GZ in/ali ZIP ali jih povlecite in spustite sem. Za zip datoteke se uvozijo vse podprte vrste datotek, ki jih najdemo v arhivu. Izberete lahko ali spustite več datotek.",
   "upload_activity_problems_blurb": "Upoštevajte, da lahko datoteke .fit vsebujejo vse vrste nenavadnosti. Prosimo, prijavite težave na <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>forumih</a>.",
   "upload_filters_blurb": "Dodajte filtre, da izberete, katere načrtovane vadbe bodo naložene v {n}.",

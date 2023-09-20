@@ -2225,6 +2225,7 @@
   "tte": "力竭时间(TTE)是以FTP或临界功率(CP)能够保持的最大时间。这只有在你真正尝试过以FTP或CP骑行多长时间时才有价值 - <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>The-TTE-Mric</a>The-TTE-Mric",
   "unsub_update_email_settings": "取消订阅或更新Intervals.icu的电子邮件首选项",
   "update_email_settings": "更新Intervals.icu电子邮件首选项",
+  "update_specific_activities_blurb": "如果您需要更新特定活动或与日期范围匹配的活动，请使用 <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">活动列表视图</a>。",
   "upload_activity_blurb": "点击选择FIT、GPX、TCX、GZ和/或ZIP文件，或将它们拖放到这里。对于ZIP文件，压缩包中的所有支持的文件类型都被导入。你可以选择或拖放多个文件",
   "upload_activity_problems_blurb": "请注意，.fit文件可能包含各种各样的奇怪错误，请在<a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>论坛</a>上报告问题",
   "upload_filters_blurb": "添加过滤器以选择将哪些计划锻炼上传到 {n}。",

@@ -2225,6 +2225,7 @@
   "tte": "Czas do wyczerpania (TTE) to maksymalny czas, przez jaki można utrzymać FTP lub moc krytyczną (CP). Jest to wartościowe tylko wtedy, gdy rzeczywiście próbowałeś sprawdzić, jak długo możesz jechać z FTP lub CP - <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>The-TTE-Metric</a>",
   "unsub_update_email_settings": "Zrezygnuj z subskrypcji lub zaktualizuj ustawienia poczty elektronicznej Intervals.icu",
   "update_email_settings": "Aktualizacja interwałów.preferencje e-mail icu",
+  "update_specific_activities_blurb": "Jeśli chcesz zaktualizować określone działania lub działania pasujące do zakresu dat, skorzystaj z <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">widoku listy działań</a>.",
   "upload_activity_blurb": "Kliknij, aby wybrać pliki FIT, GPX, TCX, GZ i/lub ZIP lub przeciągnij i upuść je tutaj. W przypadku plików zip importowane są wszystkie obsługiwane typy plików znajdujące się w archiwum. Możesz wybrać lub upuścić wiele plików.",
   "upload_activity_problems_blurb": "Należy pamiętać, że pliki .fit mogą zawierać różnego rodzaju dziwactwa. Prosimy o zgłaszanie problemów na forum <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop></a>.",
   "upload_filters_blurb": "Dodaj filtry, aby wybrać, które zaplanowane treningi zostaną przesłane do {n}.",

@@ -2225,6 +2225,7 @@
   "tte": "Время до истощения (TTE), используемое здесь, - это максимальная продолжительность поддержания FTP или критической мощности (CP). Этот показатель ценен только в том случае, если вы действительно пытались проверить, как долго вы можете ехать при своем FTP или CP - <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>The-TTE-Metric</a>",
   "unsub_update_email_settings": "Отказаться от подписки или обновить настройки электронной почты Intervals.icu",
   "update_email_settings": "Обновление интервалов.icu предпочтения электронной почты",
+  "update_specific_activities_blurb": "Если вам необходимо обновить определенные действия или действия, соответствующие диапазону дат, воспользуйтесь <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">представлением списка действий</a>.",
   "upload_activity_blurb": "Нажмите для выбора файлов FIT, GPX, TCX, GZ и/или ZIP или перетащите их сюда. Для zip-файлов импортируются все поддерживаемые типы файлов, найденные в архиве. Можно выбрать или перетащить несколько файлов.",
   "upload_activity_problems_blurb": "Обратите внимание, что файлы .fit могут содержать всевозможные странности. Пожалуйста, сообщайте о проблемах на форумах <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop></a>.",
   "upload_filters_blurb": "Добавьте фильтры, чтобы выбрать, какие запланированные тренировки будут загружены в {n}.",

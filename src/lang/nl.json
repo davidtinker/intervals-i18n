@@ -2225,6 +2225,7 @@
   "tte": "Tijd tot uitputting (TTE) zoals hier gebruikt, is de maximale duur dat FTP of kritisch vermogen (CP) kan worden gehandhaafd. Dit is alleen waardevol als je daadwerkelijk hebt geprobeerd hoe lang je op je FTP of CP kunt rijden - <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>The-TTE-Metric</a>",
   "unsub_update_email_settings": "Uitschrijven of Intervals.icu e-mail voorkeuren bijwerken",
   "update_email_settings": "Intervals.icu e-mail voorkeuren bijwerken",
+  "update_specific_activities_blurb": "Als u specifieke activiteiten of activiteiten die overeenkomen met een bepaalde periode wilt bijwerken, gebruikt u de <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">activiteitenlijstweergave</a>.",
   "upload_activity_blurb": "Klik om FIT, GPX, TCX, GZ en/of ZIP bestanden te selecteren of sleep ze hierheen. Voor zip-bestanden worden alle ondersteunde bestandstypen in het archief geïmporteerd. Je kan meerdere bestanden selecteren of neerzetten.",
   "upload_activity_problems_blurb": "Merk op dat .fit bestanden allerlei rare dingen kunnen bevatten. Meld problemen op de <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>forums</a>.",
   "upload_filters_blurb": "Voeg filters toe om te selecteren welke geplande trainingen worden geüpload naar {n}. ",

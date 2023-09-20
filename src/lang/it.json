@@ -2225,6 +2225,7 @@
   "tte": "Il tempo fino all'esaurimento (TTE), come usato qui, è la durata massima che l'FTP o la potenza critica (CP) può essere mantenuta. Questo ha valore solo se hai effettivamente provato a vedere per quanto tempo puoi pedalare al tuo FTP o CP - <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>Il parametro TTE</a>",
   "unsub_update_email_settings": "Annullare o aggiornare le preferenze e-mail di Intervals.icu",
   "update_email_settings": "Aggiorna le preferenze e-mail di Intervals.icu",
+  "update_specific_activities_blurb": "Se è necessario aggiornare attività specifiche o attività corrispondenti a un intervallo di date, utilizzare la <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">visualizzazione elenco attività</a>.",
   "upload_activity_blurb": "Clicca per selezionare i file FIT, GPX, TCX, GZ e/o ZIP o trascinali qui. Dai file zip vengono importati tutti i tipi di file supportati trovati nell'archivio. È possibile selezionare o trascinare più di un file.",
   "upload_activity_problems_blurb": "I file .fit possono contenere ogni sorta di stranezze. Per favore segnalate i problemi sui forum <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop></a>.",
   "upload_filters_blurb": "Aggiungi filtri per selezionare quali allenamenti pianificati verranno caricati su {n}.",

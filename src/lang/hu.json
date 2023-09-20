@@ -2225,6 +2225,7 @@
   "tte": "A kimerülésig eltelt idő (TTE) ebben a szövegkörnyezetben az a maximális időtartam, ameddig az FTP vagy a kritikus teljesítmény (CP) fenntartható. Ez csak akkor értékes számodra, ha ténylegesen megkísérelted lemérni, mennyi ideig vagy képes az FTP-den vagy a CP-den tekerni - a <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>TTE mérőszámról</a>",
   "unsub_update_email_settings": "Iratkozz le vagy frissítsd az Intervals.icu e-mail beállításaid",
   "update_email_settings": "Frissítsd az Intervals.icu e-mail beállításaid",
+  "update_specific_activities_blurb": "Ha frissítenie kell bizonyos tevékenységeket vagy egy dátumtartományhoz tartozó tevékenységeket, használja a <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">tevékenységlista nézetet</a>.",
   "upload_activity_blurb": "Kattints ide a FIT, GPX, TCX, GZ és/vagy ZIP fájlok kiválasztásához, vagy húzd ide őket. Zip fájlok esetén az archívumban található összes támogatott fájltípus importálva van. Több fájlt is kijelölhetsz vagy behúzhatsz.",
   "upload_activity_problems_blurb": "Számíts rá, hogy a .fit fájlok mindenféle furcsaságokat is tartalmazhatnak. Kérjük jelentsd az esetleges problémákat a <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>fórumokon</a>.",
   "upload_filters_blurb": "Adj hozzá szűrőket annak kiválasztásához, hogy mely tervezett edzések legyenek feltöltve a(z) {n} webhelyre.",

@@ -2225,6 +2225,7 @@
   "tte": "ここで使用されるTTE（Time to Exhaustion）とは、FTPまたはCP（Critical Power）を維持できる最大持続時間のことです。これは、自分のFTPまたはCPで実際にどれくらいの時間走れるかを試してみた場合にのみ参考になる値です。 - <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>The-TTE-Metric</a>",
   "unsub_update_email_settings": "Intervals.icuからのメールマガジン購読を解除または更新する",
   "update_email_settings": "Intervals.icuのメール設定を更新する",
+  "update_specific_activities_blurb": "特定のアクティビティ、または日付範囲に一致するアクティビティを更新する必要がある場合は、 <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">アクティビティ リスト ビュー</a>を使用してください。",
   "upload_activity_blurb": "ここをクリックしてFIT/GPX/TCX/GZ/ZIPファイルを選択するか、ファイルをここにドラッグ＆ドロップします。複数のファイルを選択またはドロップすることができます。",
   "upload_activity_problems_blurb": ".fitファイルには様々な問題が含まれている可能性があることに注意してください。問題が見つかったら<a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>フォーラム</a>にてご報告ください。",
   "upload_filters_blurb": "フィルタを追加して、{n}にアップロードするワークアウトを選択します。",

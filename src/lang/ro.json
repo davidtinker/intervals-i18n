@@ -2225,6 +2225,7 @@
   "tte": "Timpul până la epuizare (TTE), așa cum este utilizat aici, este durata maximă pe care FTP sau puterea critică (CP) poate fi menținută. Acest lucru este valoros numai dacă ai încercat efectiv să vezi cât timp poți menține efortul la FTP sau CP - <a target='_blank' href='https://help.trainingpeaks.com/hc/en-us/articles/360030945391-Introduction-To-The-Time-To-Exhaustion-TTE-Metric-In-WKO'>The-TTE-Metric</a>",
   "unsub_update_email_settings": "Dezabonare sau actualizare preferințele de e-mail Intervals.icu",
   "update_email_settings": "Actualizați preferințele de e-mail Intervals.icu",
+  "update_specific_activities_blurb": "Dacă trebuie să actualizați anumite activități sau activități care corespund unui interval de date, vă rugăm să utilizați <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">vizualizarea listei de activități</a>.",
   "upload_activity_blurb": "Fă clic pentru a selecta fișierele FIT, GPX, TCX, GZ și / sau ZIP sau „drag and drop” aici. Pentru fișierele zip, toate tipurile de fișiere acceptate găsite în arhivă sunt importate. Poți selecta sau plasa mai multe fișiere.",
   "upload_activity_problems_blurb": "De reținut că fișierele .fit pot conține tot felul de ciudățenii. Vă rugăm să raportați problemele pe <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>forumuri</a>.",
   "upload_filters_blurb": "Adăugare filtre pentru a selecta antrenamentele planificate care vor fi încărcate în {n}.",
