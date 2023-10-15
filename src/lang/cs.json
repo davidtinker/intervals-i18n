@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "Nepoužívejte HR pro tréninkovou zátěž, křivky HR nebo celkové hodnoty.",
   "ignore_pace_blurb": "Nepoužívejte údaje o tempu pro nejlepší výkony nebo křivky tempa",
   "ignore_power_blurb": "Nepoužívejte výkon pro tréninkovou zátěž, odhad FTP, výkonové křivky nebo celkové hodnoty.",
+  "ignore_strava_gear": "Nepoužívejte zařízení od Stravy",
   "ignore_time_blurb": "Do celkových hodnot nezapočítávejte čas, vzdálenost, tréninkovou zátěž a kalorie.",
   "ignore_velocity_blurb": "Nepoužívejte údaje o rychlosti pro výpočet doby pohybu nebo doby v energetických zónách.",
   "import_in_progress": "{n} import probíhá",

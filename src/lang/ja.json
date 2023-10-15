@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "トレーニング負荷・HRカーブ・合計に心拍数を使用しない",
   "ignore_pace_blurb": "ベストエフォートやペースカーブにペースデータを使用しない",
   "ignore_power_blurb": "トレーニング負荷・推定FTP・パワーカーブや合計にパワーデータを使用しない",
+  "ignore_strava_gear": "Strava のギアを使用しないでください",
   "ignore_time_blurb": "時間、距離、トレーニング負荷、カロリーは集計に含めない",
   "ignore_velocity_blurb": "移動時間やパワーゾーン経過時間の計算に速度データを使用しない",
   "import_in_progress": "{n}のインポート中です",

@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "A pulzus figyelmen kívül hagyása az edzésterhelésnél, a pulzus-görbéknél és az összesítéseknél.",
   "ignore_pace_blurb": "A tempóadatok figyelmen kívül hagyása a legjobb erőfeszítések és tempógörbék kiszámításánál",
   "ignore_power_blurb": "A teljesítmény (watt) figyelmen kívül hagyása az edzésterhelésnél, FTP becslésnél, teljesítménygörbéknél és az összesítéseknél.",
+  "ignore_strava_gear": "Ne használjon Strava felszerelést",
   "ignore_time_blurb": "Az idő, a távolság, az edzésterhelés és a kalória adatok kihagyása az összesítésekből.",
   "ignore_velocity_blurb": "A sebességadatok figyelmen kívül hagyása a mozgással töltött idő, illetve a teljesítményzónákban töltött idő kiszámításánál.",
   "import_in_progress": "{n} import folyamatban",

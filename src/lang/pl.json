@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "Nie należy używać HR do obliczania obciążenia treningowego, krzywych HR ani sumy.",
   "ignore_pace_blurb": "Nie należy wykorzystywać danych dotyczących tempa dla najlepszych wysiłków lub krzywych tempa",
   "ignore_power_blurb": "Nie należy używać mocy do obliczania obciążenia treningowego, szacowania FTP, krzywych mocy lub sumy.",
+  "ignore_strava_gear": "Nie używaj sprzętu ze Stravy",
   "ignore_time_blurb": "Nie należy uwzględniać czasu, dystansu, obciążenia treningowego i kalorii w łącznych wynikach.",
   "ignore_velocity_blurb": "Nie należy używać danych o prędkości do obliczania czasu przemieszczania się lub czasu w strefach zasilania",
   "import_in_progress": "{n} import jest w toku",

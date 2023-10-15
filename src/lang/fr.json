@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "N'utilisez pas la FC pour la charge d'entraînement, les courbes de FC ou les totaux.",
   "ignore_pace_blurb": "N'utilisez pas les données de rythme pour les meilleurs efforts ou les courbes de rythme",
   "ignore_power_blurb": "N'utilisez pas la puissance pour la charge d'entraînement, l'estimation de la FTP, les courbes de puissance ou les totaux.",
+  "ignore_strava_gear": "N'utilisez pas d'équipement Strava",
   "ignore_time_blurb": "Ne pas inclure le temps, la distance, la charge d'entraînement et les calories dans les totaux.",
   "ignore_velocity_blurb": "N'utilisez pas les données de vitesse pour calculer le temps de déplacement ou le temps dans les zones de puissance.",
   "import_in_progress": "{n} l'importation est en cours",

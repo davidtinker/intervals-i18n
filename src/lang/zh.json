@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "不要用HR来计算训练负荷、HR曲线或总数",
   "ignore_pace_blurb": "不要将速度数据用于最佳努力或速度曲线",
   "ignore_power_blurb": "不要用功率来计算训练负荷、FTP估算、功率曲线或总成绩",
+  "ignore_strava_gear": "请勿使用 Strava 的装备",
   "ignore_time_blurb": "总数中不包括时间、距离、训练负荷和卡路里。",
   "ignore_velocity_blurb": "不要使用速度数据来计算移动时间或动力区的时间",
   "import_in_progress": "{n} 导入正在进行中",

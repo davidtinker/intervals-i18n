@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "Nu folosi pulsul pentru calculul sarcinii de antrenament, curbelor de puls sau a totalurilor.",
   "ignore_pace_blurb": "Nu folosi datele de ritm pentru cele mai bune eforturi sau curbe de ritm",
   "ignore_power_blurb": "Nu folosi puterea pentru sarcina de antrenament, estimarea FTP, curbele sau totalurile de putere.",
+  "ignore_strava_gear": "Nu folosiți echipament de la Strava",
   "ignore_time_blurb": "Nu include timpul, distanța, sarcina de antrenament și caloriile în totaluri.",
   "ignore_velocity_blurb": "Nu folosi datele privind viteza pentru a calcula timpul de deplasare sau timpul în zonele de putere.",
   "import_in_progress": "{n} importul este în curs de desfășurare",

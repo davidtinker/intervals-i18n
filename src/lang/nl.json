@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "Gebruik HR niet voor trainingsbelasting, HR-curves of totalen",
   "ignore_pace_blurb": "Gebruik geen tempodata voor beste inspanningen of tempocurves",
   "ignore_power_blurb": "Gebruik geen vermogen voor trainingsbelasting, FTP-schatting, vermogenscurves of totalen",
+  "ignore_strava_gear": "Gebruik geen spullen van Strava",
   "ignore_time_blurb": "Neem tijd, afstand, trainingsbelasting en calorieën niet op in de totalen",
   "ignore_velocity_blurb": "Gebruik de snelheidsgegevens niet om de bewegende tijd of de tijd in de vermogenszones te berekenen",
   "import_in_progress": "{n} import is bezig",

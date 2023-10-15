@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "Do not use HR for training load, HR curves or totals",
   "ignore_pace_blurb": "Do not use pace data for best efforts or pace curves",
   "ignore_power_blurb": "Do not use power for training load, FTP estimation, power curves or totals",
+  "ignore_strava_gear": "Do not use gear from Strava",
   "ignore_time_blurb": "Do not include time, distance, training load and calories in totals",
   "ignore_velocity_blurb": "Do not use velocity data to calculate moving time or time in power zones",
   "import_in_progress": "{n} import is in progress",

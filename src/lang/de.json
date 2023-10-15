@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "Verwende die HF nicht für die Trainingsbelastung, HF-Kurven oder Gesamtwerte.",
   "ignore_pace_blurb": "Verwende keine Tempo-Daten für Bestleistungen oder Tempo-Kurven",
   "ignore_power_blurb": "Verwende die Leistung nicht für Trainingsbelastungen, FTP-Schätzungen, Leistungskurven oder Gesamtwerte.",
+  "ignore_strava_gear": "Verwenden Sie keine Ausrüstung von Strava",
   "ignore_time_blurb": "Zeit, Entfernung, Trainingsbelastung und Kalorien nicht in die Gesamtwerte einbeziehen",
   "ignore_velocity_blurb": "Verwende keine Geschwindigkeitsdaten zur Berechnung der Bewegungszeit oder der Zeit in Leistungsbereichen.",
   "import_in_progress": "{n} Import ist im Gange",

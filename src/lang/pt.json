@@ -2055,6 +2055,7 @@
   "ignore_hr_blurb": "Não utilizar HR para carga de formação, curvas de HR ou totais",
   "ignore_pace_blurb": "Não utilizar dados de ritmo para melhores esforços ou curvas de ritmo",
   "ignore_power_blurb": "Não utilizar potência para carga de formação, estimativa FTP, curvas de potência ou totais",
+  "ignore_strava_gear": "Não use equipamentos do Strava",
   "ignore_time_blurb": "Não incluir tempo, distância, carga de treino e calorias no total",
   "ignore_velocity_blurb": "Não utilizar dados de velocidade para calcular o tempo de deslocação ou tempo em zonas de potência",
   "import_in_progress": "{n} a importação está em curso",
