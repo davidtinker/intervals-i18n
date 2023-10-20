@@ -1827,6 +1827,7 @@
   "activity": "activity",
   "activity_filtered_out": "{n} activity not shown",
   "activity_fitness_fatigue_factors": "Intervals.icu calculates training load for activities without power using heart rate data. Certain activity types, though they may raise your heart rate, do not increase cardiovascular fitness. The table shows the contribution of each activity type to fitness and fatigue. Types not shown contribute 100% of training load to fitness and fatigue. Activities with zero fitness contribution do not count towards time in HR zones totals. These settings are not used for activities with real power data",
+  "activity_notes_help": "Visible to your followers. Not synced to Strava.",
   "activity_power_hr_load": "This activity has power data so its training load ({power_load}) has been calculated using the standard Coggan formula. If power was not available, the training load from HR data would be {hr_load} (based on the model).",
   "activity_time_at_hr_blurb": "This chart shows the total time accumulated at or above the indicated heartrate. Useful to check that your VO2 max intervals are working!",
   "activity_timeline_chart_help": "Press 'A' to add interval or 'S' to split interval at the marker. Click interval header text to edit name etc.. Edit intervals by dragging the edges, this is best done zoomed in. Click on the chart to zoom out.",

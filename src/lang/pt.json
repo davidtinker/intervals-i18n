@@ -1827,6 +1827,7 @@
   "activity": "Actividade",
   "activity_filtered_out": "{n} atividade não mostrada",
   "activity_fitness_fatigue_factors": "Intervals.icu calcula a carga de treino para actividades sem energia utilizando dados de frequência cardíaca. Alguns tipos de actividades, embora possam aumentar a frequência cardíaca, não aumentam a aptidão cardiovascular. A tabela mostra a contribuição de cada tipo de actividade para a aptidão e fadiga. Os tipos não apresentados contribuem a 100% da carga de treino para a aptidão e fadiga. As actividades com contribuição zero para a aptidão física não contam para o tempo nos totais das zonas de FC. Estas definições não são utilizadas para actividades com dados de potência real",
+  "activity_notes_help": "Visível para seus seguidores. Não sincronizado com o Strava.",
   "activity_power_hr_load": "Esta actividade tem dados de potência, pelo que a sua carga de treino ({power_load}) foi calculada utilizando a fórmula padrão de Coggan. Se não houvesse potência disponível, a carga de treino pelo Ritmo Cardiaco seria {hr_load} (com base no modelo).",
   "activity_time_at_hr_blurb": "Este gráfico mostra o tempo total acumulado no ou acima do ritmo cardíaco. Útil para verificar se os seus intervalos máximos de VO2 estão a funcionar!",
   "activity_timeline_chart_help": "Prima 'A' para adicionar intervalo ou 'S' para dividir o intervalo no marcador. Clique no texto de cabeçalho do intervalo para editar o nome, etc. Edite intervalos arrastando as margens, a melhor forma de o fazer é ampliar. Clique no gráfico para fazer zoom out.",

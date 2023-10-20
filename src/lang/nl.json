@@ -1827,6 +1827,7 @@
   "activity": "activiteit",
   "activity_filtered_out": "{n} activiteit niet weergegeven",
   "activity_fitness_fatigue_factors": "Intervals.icu berekent de trainingsbelasting voor activiteiten zonder vermogen aan de hand van hartslagdata. Bepaalde types activiteiten, alhoewel ze je hartslag verhogen, verhogen de cardiovasculaire conditie niet. De tabel toont de bijdrage van elk type activiteit aan fitness en vermoeidheid. Niet getoonde types dragen 100% van de trainingsbelasting bij aan fitness en vermoeidheid. Activiteiten zonder fitnessbijdrage tellen niet mee voor de Tijd-In-Zones totalen. Deze instellingen worden niet gebruikt voor activiteiten met echte vermogendata",
+  "activity_notes_help": "Zichtbaar voor je volgers. Niet gesynchroniseerd met Strava.",
   "activity_power_hr_load": "Deze activiteit beschikt over vermogendata, de trainingsbelasting ({power_load}) is berekend met de standaard Coggan-formule. Als er geen vermogen beschikbaar was, zou de trainingsbelasting op basis van HR-data {hr_load} bedragen (gebaseerd op het model).",
   "activity_time_at_hr_blurb": "Deze grafiek toont de totale tijd gespendeerd aan of boven de aangegeven hartslag. Handig om de efficientie van je VO2 max-intervallen te controleren!",
   "activity_timeline_chart_help": "Druk op 'A' om een interval toe te voegen of op 'S' om het te splitsen bij de markering. Klik op de koptekst van het interval om de naam enz. te bewerken. Wijzig intervallen door de randen te verslepen. Dit werkt het eenvoudigst bij ingezoomd beeld. Klik op de grafiek om uit te zoomen.",
