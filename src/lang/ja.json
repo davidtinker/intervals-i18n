@@ -509,6 +509,7 @@
   "Distance in  kilometers": "距離（km）",
   "Distance in kilometers": "距離（km）",
   "Distance in miles": "距離（マイル）",
+  "Distance in yards": "距離（ヤード）",
   "Do not compress files": "ファイルを圧縮しない",
   "Do not convert percentages into watt and bpm values": "%をワット・BPMに変換しない",
   "Do not plot null values": "NULL 値をプロットしない",
