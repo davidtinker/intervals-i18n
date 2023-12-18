@@ -1216,6 +1216,8 @@
   "LTHR": "LTHR",
   "lthr_up_0": "Je HRdrempel is gestegen tot {1} bpm van {2}",
   "lthr_up_delta_0": "Je HRdrempel is gestegen met {0} tot {1} bpm van {2}",
+  "lthr_up_message": "{0}% van 20 m bij {1} bpm",
+  "lthr_up_message2": "1 uur bij {0} bpm",
   "maintenance_apology": "Onze excuses voor het ongemak",
   "maintenance_check_forum": "Bezoek het <a href='https://forum.intervals.icu' target='_blank'>forum</a> voor meer informatie",
   "maintenance_title": "Intervals.icu is niet beschikbaar voor onderhoud",

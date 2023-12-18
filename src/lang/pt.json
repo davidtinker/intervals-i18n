@@ -1216,6 +1216,8 @@
   "LTHR": "LTHR",
   "lthr_up_0": "O seu limiar HR aumentou para {1} bpm a partir de {2}.",
   "lthr_up_delta_0": "O seu limiar RC aumentou em {0} para {1} bpm de {2}",
+  "lthr_up_message": "{0}% de 20m a {1} bpm",
+  "lthr_up_message2": "1h às {0} bpm",
   "maintenance_apology": "Pedimos desculpas pelo inconveniente",
   "maintenance_check_forum": "Visite o <a href='https://forum.intervals.icu' target='_blank'>fórum</a> para obter mais informações",
   "maintenance_title": "Intervals.icu está em manutenção",

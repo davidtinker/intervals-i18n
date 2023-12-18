@@ -1216,6 +1216,8 @@
   "LTHR": "LTHR",
   "lthr_up_0": "Tu umbral de FC ha aumentado a {1} lpm desde {2}",
   "lthr_up_delta_0": "Tu umbral de FC ha aumentado en {0} a {1} lpm desde {2}",
+  "lthr_up_message": "{0}% de 20 min a {1} bpm",
+  "lthr_up_message2": "1 hora a {0} bpm",
   "maintenance_apology": "Pedimos disculpas por las molestias",
   "maintenance_check_forum": "Visite el <a href='https://forum.intervals.icu' target='_blank'>foro</a> para obtener más información.",
   "maintenance_title": "Intervals.icu está fuera de servicio por mantenimiento",

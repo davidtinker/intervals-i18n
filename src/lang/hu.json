@@ -1216,6 +1216,8 @@
   "LTHR": "LTHR",
   "lthr_up_0": "A küszöbérték HR -je {1} ütés / percre nőtt {2}értékről",
   "lthr_up_delta_0": "A küszöbérték HR {0} értékkel {1} ütés / percre emelkedett a következőről: {2}",
+  "lthr_up_message": " 20 m{0}%-a {1} bpm-nél",
+  "lthr_up_message2": "1 óra {0} bpm-nél",
   "maintenance_apology": "Elnézést kérünk a kellemetlenségért",
   "maintenance_check_forum": "További információért keresse fel a <a href='https://forum.intervals.icu' target='_blank'>fórumot</a> ",
   "maintenance_title": "Az Intervals.icu karbantartás miatt nem működik",

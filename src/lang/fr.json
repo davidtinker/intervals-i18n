@@ -1216,6 +1216,8 @@
   "LTHR": "LTHR",
   "lthr_up_0": "Votre seuil de fréquence cardiaque est passé de {2} à {1} bpm.",
   "lthr_up_delta_0": "Votre seuil de fréquence cardiaque a augmenté de {0} à {1} bpm par rapport à {2}.",
+  "lthr_up_message": "{0} % de 20 min à {1}  bpm",
+  "lthr_up_message2": "1h à {0}  bpm",
   "maintenance_apology": "Nous nous excusons pour la gêne occasionnée",
   "maintenance_check_forum": "Veuillez visiter le <a href='https://forum.intervals.icu' target='_blank'>forum</a> pour plus d'informations",
   "maintenance_title": "Intervals.icu est en maintenance",

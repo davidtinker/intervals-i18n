@@ -1216,6 +1216,8 @@
   "LTHR": "LTHR",
   "lthr_up_0": "LTHRが{2}から{1}bpmに上がりました！",
   "lthr_up_delta_0": "LTHRが｛2｝から{0}上がって{1}bpmになりました",
+  "lthr_up_message": " {1} bpm で 20 分間の{0}%",
+  "lthr_up_message2": " {0} bpmで1時間",
   "maintenance_apology": "ご不便をおかけして申し訳ございません",
   "maintenance_check_forum": "詳細については、 <a href='https://forum.intervals.icu' target='_blank'>フォーラム</a> をご覧ください。",
   "maintenance_title": "Intervals.icu はメンテナンスのため停止しています",

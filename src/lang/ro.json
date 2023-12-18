@@ -1216,6 +1216,8 @@
   "LTHR": "LTHR",
   "lthr_up_0": "Pragul tău LTHR a crescut la {1} bpm de la {2}",
   "lthr_up_delta_0": "Pragul tău LTHR a crescut cu {0} la {1} bpm de la {2}",
+  "lthr_up_message": "{0}% din 20 m la {1} bpm",
+  "lthr_up_message2": "1 oră la {0} bpm",
   "maintenance_apology": "Ne cerem scuze pentru inconvenient",
   "maintenance_check_forum": "Vă rugăm să vizitaţi <a href='https://forum.intervals.icu' target='_blank'>forumul</a> pentru mai multe informaţii",
   "maintenance_title": "Intervals.icu este oprit pentru întreținere",
