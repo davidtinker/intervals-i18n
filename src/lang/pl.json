@@ -889,6 +889,8 @@
   "FTP/kg": "FTP/kg",
   "ftp_est_min_secs": "Szacunkowe FTP jest obliczane poprzez umieszczenie użytkownika na krzywej mocy przy użyciu pojedynczego maksymalnego wysiłku trwającego od 180 sekund do 30 minut. Jeśli Twoja moc beztlenowa (krótki czas trwania) jest bardzo dobra, możesz chcieć użyć dłuższych czasów trwania, aby uniknąć przeszacowania Twojego FTP.",
   "ftp_up_0": "Twoje szacunkowe FTP wzrosło o {0}w do {1}w!",
+  "ftp_up_from_ui": "FTP +{delta} do {value}w od {time} w {watts}w",
+  "ftp_up_ui": "FTP +{delta} do {{value}}z",
   "Full activity data has not yet been downloaded from Strava": "Pełne dane dotyczące aktywności nie zostały jeszcze pobrane ze Strava",
   "full_strava_history": "Pobierz pełną historię Strava (ograniczona do 3 miesięcy podczas bezpłatnego okresu próbnego)",
   "Functional Threshold Power": "Funkcjonalna moc progowa",

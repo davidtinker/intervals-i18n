@@ -889,6 +889,8 @@
   "FTP/kg": "FTP/kg",
   "ftp_est_min_secs": "A becsült FTP kiszámítása úgy történik, hogy egyetlen, maximális erőfeszítéssel elvégzett, 180 másodperc és 30 perc közé eső erőfeszítésed adataira a rendszer egy teljesítménygörbét illeszt. Ha az anaerob (rövid időtartamú) teljesítményed nagyon jó, érdemes hosszabb időtartamokat mérned, hogy elkerüld az FTP-d felülbecslését.",
   "ftp_up_0": "A becsült FTP értéke {0}w -val {1}w -ra nőtt!",
+  "ftp_up_from_ui": "FTP +{delta} - {value}w, {time} , {watts}w",
+  "ftp_up_ui": "FTP +{delta} - {{value}}w",
   "Full activity data has not yet been downloaded from Strava": "Az összes tevékenységedet még nem töltődött le a Strava-ról",
   "full_strava_history": "Töltsd le a teljes Strava-történetet (3 hónapra korlátozva az ingyenes próbaidőszak alatt)",
   "Functional Threshold Power": "Funkcionális teljesítményküszöb (FTP)",

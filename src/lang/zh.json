@@ -889,6 +889,8 @@
   "FTP/kg": "FTP/kg",
   "ftp_est_min_secs": "通过在一个功率曲线上，使用180s到30min间的一次全力输出可以估计FTP。如果你的无氧(短时)功率非常好，你可能想使用更长的持续时间，以避免过高估计你的FTP",
   "ftp_up_0": "你的估计FTP增加了{0}W，现在为{1}W!",
+  "ftp_up_from_ui": "FTP +{delta} 从 {time} 到 {value}，时间为 {watts}",
+  "ftp_up_ui": "FTP +{delta} 至 {{value}}w",
   "Full activity data has not yet been downloaded from Strava": "尚未从Strava下载全部活动数据",
   "full_strava_history": "下载完整的 Strava 历史记录（免费试用期间限制为 3 个月）",
   "Functional Threshold Power": "功能阈值功率",

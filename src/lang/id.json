@@ -889,6 +889,8 @@
   "FTP/kg": "FTP/kg",
   "ftp_est_min_secs": "Estimasi FTP dihitung dengan menempatkan Anda pada kurva daya menggunakan satu upaya maksimal antara 180 detik dan 30 menit. Jika daya anaerobik (durasi pendek) Anda sangat bagus, Anda mungkin ingin menggunakan durasi yang lebih lama untuk menghindari perkiraan FTP yang berlebihan.",
   "ftp_up_0": "Perkiraan FTP Anda telah meningkat sebesar {0}w menjadi {1}w!",
+  "ftp_up_from_ui": "FTP +{delta} ke {value}w dari {time} di {watts}w",
+  "ftp_up_ui": "FTP +{delta} ke {{value}}w",
   "Full activity data has not yet been downloaded from Strava": "Data aktivitas lengkap belum diunduh dari Strava",
   "full_strava_history": "Unduh riwayat lengkap Strava (terbatas hingga 3 bulan selama uji coba gratis)",
   "Functional Threshold Power": "Daya Ambang Batas Fungsional",

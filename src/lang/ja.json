@@ -889,6 +889,8 @@
   "FTP/kg": "パワーウェイトレシオ",
   "ftp_est_min_secs": "推定FTPは、180秒～30分間の限界強度の運動データを用いて、パワーカーブ上に配置することで算出されます。嫌気性（短時間）パワーが非常に優れている場合はeFTPが過大な値に推定される場合がありますので、長時間の設定で使用することをおすすめします。",
   "ftp_up_0": "推定FTPが{0}Wから{1}Wに増えました！",
+  "ftp_up_from_ui": "FTP +{delta} から {value}w、 {time} 、 {watts}w",
+  "ftp_up_ui": "FTP +{delta} から {{value}}w",
   "Full activity data has not yet been downloaded from Strava": "アクティビティ全体はまだStravaからダウンロードされていません",
   "full_strava_history": "Stravaの全履歴をダウンロード（無料ユーザーは3ヶ月間に制限されます）",
   "Functional Threshold Power": "機能閾値パワー(FTP)",

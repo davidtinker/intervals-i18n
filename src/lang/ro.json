@@ -889,6 +889,8 @@
   "FTP/kg": "FTP/kg",
   "ftp_est_min_secs": "FTP-ul estimat se calculează plasându-vă pe o curbă de putere folosind un singur efort maxim între 180 de secunde și 30 de minute. Dacă puterea ta anaerobă (de scurtă durată) este foarte bună, îți recomandăm să utilizezi durate mai lungi pentru a evita supraestimarea FTP.",
   "ftp_up_0": "FTP estimat a crescut cu {0}w la {1}w!",
+  "ftp_up_from_ui": "FTP +{delta} la {value}w de la {time} la {watts}w",
+  "ftp_up_ui": "FTP +{delta} la {{value}}w",
   "Full activity data has not yet been downloaded from Strava": "Datele complete despre activități nu au fost încă descărcate de pe Strava",
   "full_strava_history": "Descărcați istoricul complet Strava (limitat la 3 luni în timpul perioadei de încercare gratuită)",
   "Functional Threshold Power": "Prag funcțional de putere ",

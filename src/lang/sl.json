@@ -889,6 +889,8 @@
   "FTP/kg": "FTP/kg",
   "ftp_est_min_secs": "Ocenjeni FTP se izračuna tako, da vas postavimo na krivuljo moči z enim največjim naporom med 180 sekundami in 30 minutami. Če je vaša anaerobna (kratkotrajna) moč zelo dobra, boste morda želeli uporabiti daljše trajanje, da se izognete precenjevanju vašega FTPja.",
   "ftp_up_0": "Vaš ocenjeni FTP se je povečal za {0}w na {1}w!",
+  "ftp_up_from_ui": "FTP +{delta} na {value}w od {time} ob {watts}w",
+  "ftp_up_ui": "FTP +{delta} do {{value}}w",
   "Full activity data has not yet been downloaded from Strava": "Celotni podatki o aktivnosti še niso bili naloženi iz Strave",
   "full_strava_history": "Prenesite celotno zgodovino Strava (omejeno na 3 mesece med brezplačnim preskusom)",
   "Functional Threshold Power": "Funkcionalni Prag Moči",

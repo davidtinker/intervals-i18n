@@ -889,6 +889,8 @@
   "FTP/kg": "FTP/kg",
   "ftp_est_min_secs": "eFTP wordt geschat door je op een bestaande vermogen-curve te plaatsen met één enkele maximale inspanning van 180 seconden tot 30 minuten lang. Als je anaërobe (korte duur) vermogen erg goed is, wil je misschien langere intervallen gebruiken om te voorkomen dat je eFTP te hoog wordt ingeschat.",
   "ftp_up_0": "Je geschatte eFTP is gestegen met {0}w tot {1}w!",
+  "ftp_up_from_ui": "FTP +{delta} naar {value}w van {time} bij {watts}w",
+  "ftp_up_ui": "FTP +{delta} tot {{value}}w",
   "Full activity data has not yet been downloaded from Strava": "Volledige activiteit-data is nog niet gedownload van Strava",
   "full_strava_history": "Volledige Strava-geschiedenis downloaden (beperkt tot 3 maanden tijdens gratis proefperiode)",
   "Functional Threshold Power": "Functioneel drempelvermogen",
