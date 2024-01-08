@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Bewerk aslabels, min, max en grafiektitel",
   "edit_best_efforts_pace_blurb": "Welke afstanden wil je opvolgen?",
   "edit_intervals_blurb": "Individuele intervallen kan je bewerken door op de hoofding te klikken die de intervalstatistieken toont",
+  "edit_tab_blurb": "Hernoem, verplaats of verwijder het actieve tabblad",
   "Editing": "Bewerken",
   "editing_n_intervals": "Bewerken van {n} zichtbare intervallen in de grafiek",
   "Editor": "Editor",

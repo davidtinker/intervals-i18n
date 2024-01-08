@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Uredite oznake osi, min, maks in naslov grafikona",
   "edit_best_efforts_pace_blurb": "Katere razdalje te zanimajo za sledenje?",
   "edit_intervals_blurb": "Upoštevajte, da lahko posamezne intervale urejate s klikom na glavo, ki prikazuje statistiko intervalov",
+  "edit_tab_blurb": "Preimenujte, premaknite ali izbrišite aktivni zavihek",
   "Editing": "Urejanje",
   "editing_n_intervals": "Urejanje {n} intervalov, vidnih na grafikonu",
   "Editor": "Urednik",

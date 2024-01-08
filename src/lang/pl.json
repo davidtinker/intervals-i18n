@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Edytuj etykiety osi, min, max i tytuł wykresu",
   "edit_best_efforts_pace_blurb": "Jakie odległości są interesujące dla użytkownika?",
   "edit_intervals_blurb": "Pamiętaj, że możesz edytować poszczególne interwały, klikając nagłówek pokazujący statystyki interwałów",
+  "edit_tab_blurb": "Zmień nazwę, przenieś lub usuń aktywną kartę",
   "Editing": "Edytowanie",
   "editing_n_intervals": "Edycja {n} interwałów widocznych na wykresie",
   "Editor": "Redaktor",

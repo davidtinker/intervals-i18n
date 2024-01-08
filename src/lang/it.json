@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Modifica le etichette degli assi, il minimo, il massimo e il titolo del grafico",
   "edit_best_efforts_pace_blurb": "Quali sono le distanze che vi interessa tracciare?",
   "edit_intervals_blurb": "Nota che puoi modificare i singoli intervalli facendo clic sull'intestazione che mostra le statistiche dell'intervallo",
+  "edit_tab_blurb": "Rinomina, sposta o elimina la scheda attiva",
   "Editing": "Modifica di",
   "editing_n_intervals": "Modifica di {n} intervalli visibili sul grafico",
   "Editor": "Editor",

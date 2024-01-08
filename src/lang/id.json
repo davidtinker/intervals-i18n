@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Mengedit label sumbu, min, maks, dan judul grafik",
   "edit_best_efforts_pace_blurb": "Jarak berapa yang ingin Anda lacak?",
   "edit_intervals_blurb": "Perhatikan bahwa Anda dapat mengedit interval individual dengan mengklik tajuk yang menunjukkan statistik interval",
+  "edit_tab_blurb": "Ganti nama, pindahkan atau hapus tab aktif",
   "Editing": "Pengeditan",
   "editing_n_intervals": "Mengedit interval {n} yang terlihat pada grafik",
   "Editor": "Editor",

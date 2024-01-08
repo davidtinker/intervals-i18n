@@ -736,6 +736,7 @@
   "edit_axis_blurb": "编辑轴标签、最小值、最大值和图表标题",
   "edit_best_efforts_pace_blurb": "你对追踪哪些距离感兴趣？",
   "edit_intervals_blurb": "请注意，您可以通过单击显示间隔统计信息的标题来编辑单个间隔",
+  "edit_tab_blurb": "重命名、移动或删除活动选项卡",
   "Editing": "正在编辑",
   "editing_n_intervals": "编辑图表上可见的 {n} 个区间",
   "Editor": "编辑器",

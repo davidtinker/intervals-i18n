@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Edite os rótulos dos eixos, mínimo, máximo e título do gráfico",
   "edit_best_efforts_pace_blurb": "Que distâncias está interessado em seguir?",
   "edit_intervals_blurb": "Observe que você pode editar intervalos individuais clicando no cabeçalho que mostra as estatísticas do intervalo",
+  "edit_tab_blurb": "Renomear, mover ou excluir guia ativa",
   "Editing": "Edição",
   "editing_n_intervals": "Editando {n} intervalos visíveis no gráfico",
   "Editor": "Editor",

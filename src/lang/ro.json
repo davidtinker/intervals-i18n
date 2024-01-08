@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Editați etichetele axei, min, max și titlul diagramei",
   "edit_best_efforts_pace_blurb": "Ce distanțe te interesează să urmărești?",
   "edit_intervals_blurb": "Reține că poți edita intervale individuale făcând clic pe antetul care arată statisticile intervalului",
+  "edit_tab_blurb": "Redenumiți, mutați sau ștergeți fila activă",
   "Editing": "Editare",
   "editing_n_intervals": "Se editează {n} intervale vizibile pe diagramă",
   "Editor": "Editor",

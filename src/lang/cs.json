@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Upravit popisky os, min, max a název grafu",
   "edit_best_efforts_pace_blurb": "Jaké vzdálenosti chcete sledovat?",
   "edit_intervals_blurb": "Všimněte si, že jednotlivé intervaly můžete upravit kliknutím na záhlaví zobrazující statistiky intervalů",
+  "edit_tab_blurb": "Přejmenovat, přesunout nebo odstranit aktivní kartu",
   "Editing": "Úpravy",
   "editing_n_intervals": "Úprava {n} intervalů zobrazených v grafu",
   "Editor": "Editor",

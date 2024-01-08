@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Szerkessze a tengelycímkéket, min, max és diagram címét",
   "edit_best_efforts_pace_blurb": "Milyen távok nyomonkövetését szeretnéd?",
   "edit_intervals_blurb": "Az egyes intervallumokat az azok statisztikai adatait mutató fejlécre kattintva szerkesztheted",
+  "edit_tab_blurb": "Az aktív lap átnevezése, áthelyezése vagy törlése",
   "Editing": "Szerkesztés",
   "editing_n_intervals": "A diagramon látható {n} intervallum szerkesztése",
   "Editor": "Szerkesztő",

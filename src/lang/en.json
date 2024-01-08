@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Edit axis labels, min, max and chart title",
   "edit_best_efforts_pace_blurb": "What distances are you interested in tracking?",
   "edit_intervals_blurb": "Note that you can edit individual intervals by clicking on the header showing the interval stats",
+  "edit_tab_blurb": "Rename, move or delete active tab",
   "Editing": "Editing",
   "editing_n_intervals": "Editing {n} intervals visible on the chart",
   "Editor": "Editor",

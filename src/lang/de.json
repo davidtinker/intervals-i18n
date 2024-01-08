@@ -736,6 +736,7 @@
   "edit_axis_blurb": "Bearbeiten Sie Achsenbeschriftungen, Min., Max. und Diagrammtitel",
   "edit_best_efforts_pace_blurb": "An welchen Entfernungen bist du interessiert?",
   "edit_intervals_blurb": "Beachte, dass du einzelne Intervalle bearbeiten kannst, indem du auf die Kopfzeile mit den Intervallstatistiken klickst",
+  "edit_tab_blurb": "Aktive Registerkarte umbenennen, verschieben oder löschen",
   "Editing": "Bearbeiten",
   "editing_n_intervals": "Bearbeiten von {n} im Diagramm sichtbaren Intervallen",
   "Editor": "Editor",
