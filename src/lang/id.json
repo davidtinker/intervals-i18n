@@ -913,6 +913,7 @@
   "garmin_connect_replace_strava": "Aktivitas yang diunduh dari Garmin Connect akan menggantikan aktivitas dari Strava",
   "garmin_download_activities_blurb": "Aktivitas yang dibuat pada atau setelah tanggal ini diunduh dari Garmin Connect. Ini mungkin memerlukan waktu beberapa saat. Data tidak boleh lebih dari satu tahun terakhir karena pembatasan API Garmin. Harap diperhatikan bahwa aktivitas dari perangkat non-Garmin (misalnya TrainerRoad) tidak diberikan ke Intervals.icu. Gunakan Dropbox untuk ini.",
   "garmin_import_complete": "Impor data Garmin selesai",
+  "garmin_sync_activity_types_blurb": "Hanya unduh jenis aktivitas tertentu dari Garmin. Tolong hati-hati. Garmin tidak mengizinkan panggilan duplikat untuk mengambil data lama sehingga Anda tidak dapat memulihkan jenis aktivitas yang salah kecuali menggunakan tombol unduh data lama. Jika ini terjadi, Anda perlu mengunduh file FIT secara manual dari Garmin Connect dan mengunggahnya ke halaman kalender.",
   "garmin_upload_filters_blurb": "Tambahkan filter untuk memilih latihan terencana mana yang akan diunggah ke Garmin Connect. Latihan untuk minggu berikutnya diunggah.",
   "Gauge": "Pengukur",
   "gauge_blurb": "Rata-rata bergerak hanya menghitung hari dengan pengukuran",

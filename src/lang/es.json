@@ -913,6 +913,7 @@
   "garmin_connect_replace_strava": "Las actividades descargadas de Garmin Connect reemplazarán a las de Strava",
   "garmin_download_activities_blurb": "Las actividades creadas a partir de esta fecha se descargan de Garmin Connect. Esto puede llevar un tiempo. Los datos no pueden tener más de un año de antigüedad debido a las restricciones de la API de Garmin. Ten en cuenta que las actividades de los dispositivos que no son de Garmin (por ejemplo, TrainerRoad) no se suministran a Intervals.icu. Utiliza Dropbox para ello.",
   "garmin_import_complete": "Importación de datos de Garmin completa",
+  "garmin_sync_activity_types_blurb": "Descargue únicamente tipos de actividad específicos de Garmin. Por favor tenga cuidado. Garmin no permite llamadas duplicadas para recuperar datos antiguos, por lo que no puedes recuperarte de tipos de actividad excluidos incorrectamente mediante el botón de descarga de datos antiguos. Si esto sucede, deberás descargar manualmente los archivos FIT de Garmin Connect y cargarlos en la página del calendario.",
   "garmin_upload_filters_blurb": "Añade filtros para seleccionar los entrenamientos planificados que se cargarán en Garmin Connect. Se cargan los entrenamientos de la semana siguiente.",
   "Gauge": "Calibre",
   "gauge_blurb": "El promedio móvil solo cuenta los días con una medición",

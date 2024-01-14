@@ -913,6 +913,7 @@
   "garmin_connect_replace_strava": "A Garmin Connectről letöltött tevékenységek lecserélik a Strava-ról letöltötteket",
   "garmin_download_activities_blurb": "A Garmin Connect webhelyről az adott dátumon és az azt követő dátumokon levő tevékenységek letöltésre kerülnek. Ez eltarthat egy ideig. A Garmin API korlátozásai miatt a letöltött adatok nem ölelhetnek át egy évnél hosszab időtartományt. Felhívjuk figyelmedet, hogy a nem Garmin eszközökkel (pl. TrainerRoad) rögzített tevékenységek nem elérhetők az Intervals.icu számára. Azokhoz használd a Dropboxot közvetítőnek.",
   "garmin_import_complete": "A Garmin adatok importálása befejeződött",
+  "garmin_sync_activity_types_blurb": "Csak meghatározott tevékenységtípusokat töltsön le a Garminról. Kérjük, legyen óvatos. A Garmin nem engedélyezi a duplikált hívások régi adatok lekérését, így nem tudja helyreállítani a tevékenységtípusok helytelen kizárását a régi adatok letöltése gombbal. Ha ez megtörténik, manuálisan kell letöltenie a FIT fájlokat a Garmin Connect webhelyről, és fel kell töltenie a naptároldalra.",
   "garmin_upload_filters_blurb": "Szűrők hozzáadásával kiválaszthatod, hogy mely tervezett edzéseket töltsd fel a Garmin Connect szolgáltatásba. A következő hét edzései feltöltésre kerülnek.",
   "Gauge": "Nyomtáv",
   "gauge_blurb": "A mozgóátlag csak a napokat számolja a méréssel",

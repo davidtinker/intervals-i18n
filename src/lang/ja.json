@@ -913,6 +913,7 @@
   "garmin_connect_replace_strava": "Garmin Connectからダウンロードしたアクティビティは、Stravaからのものに置き換わります。",
   "garmin_download_activities_blurb": "この日以降に作成されたアクティビティは、Garmin Connectからダウンロードされます。ダウンロードにはしばらく時間がかかる場合があります。Garmin APIの制限により、1年以上前のデータは使用できません。Garmin以外のデバイス（TrainerRoadなど）のアクティビティはIntervals.icuに取り込まれないことにはご注意ください。それらのデータの取り込みにはDropboxをご利用ください。",
   "garmin_import_complete": "Garminデータのインポートが完了しました",
+  "garmin_sync_activity_types_blurb": "Garmin からは特定のアクティビティ タイプのみをダウンロードしてください。お気をつけください。 Garmin では古いデータを取得するための重複呼び出しは許可されていないため、古いデータのダウンロード ボタンを使用してアクティビティ タイプを誤って除外した場合は回復できません。この問題が発生した場合は、Garmin Connect から FIT ファイルを手動でダウンロードし、カレンダー ページにアップロードする必要があります。",
   "garmin_upload_filters_blurb": "フィルタを追加して、どのワークアウト計画をGarmin Connectにアップロードするかを選択しましょう。",
   "Gauge": "ゲージ",
   "gauge_blurb": "移動平均は計測データがある日数のみカウントする",

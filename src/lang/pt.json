@@ -913,6 +913,7 @@
   "garmin_connect_replace_strava": "As actividades descarregadas da Garmin Connect substituirão as da Strava",
   "garmin_download_activities_blurb": "As actividades criadas nesta ou após esta data são descarregadas de Garmin Connect. Isto pode demorar algum tempo. Os dados não podem ser mais de um ano no passado, devido às restrições API da Garmin. As actividades de dispositivos não-Garmin (por exemplo, TrainerRoad) não são fornecidas a Intervals.icu. Utilize o Dropbox para estes.",
   "garmin_import_complete": "Importação de dados Garmin completa",
+  "garmin_sync_activity_types_blurb": "Baixe apenas tipos de atividades específicos da Garmin. Por favor, seja cuidadoso. A Garmin não permite chamadas duplicadas para buscar dados antigos, portanto você não pode se recuperar da exclusão incorreta de tipos de atividades usando o botão de download de dados antigos. Se isso acontecer, você precisará baixar manualmente os arquivos FIT do Garmin Connect e carregá-los na página do calendário.",
   "garmin_upload_filters_blurb": "Adicionar filtros para seleccionar quais os treinos planeados que serão carregados no Garmin Connect. Os treinos para a próxima semana serão carregados.",
   "Gauge": "Calibre",
   "gauge_blurb": "A média móvel conta apenas os dias com uma medição",
