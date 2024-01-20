@@ -2105,6 +2105,7 @@
   "Update zones to match current settings": "Mettre à jour les zones à partir des paramètres actuels",
   "update_email_settings": "Intervalles de mise à jour.icu préférences e-mail",
   "update_specific_activities_blurb": "Si vous devez mettre à jour des activités spécifiques ou des activités correspondant à une plage de dates, veuillez utiliser la <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">vue de liste d'activités</a>.",
+  "update_strava_name": "Mettre à jour le nom et la description Strava",
   "Updating settings": "Mise à jour des paramètres",
   "Updating zones": "Mise à jour des zones",
   "Upload": "Téléverser",
