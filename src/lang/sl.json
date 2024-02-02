@@ -2024,6 +2024,7 @@
   "timezone": "Nekatere datoteke aktivnosti (npr. iz Zwifta) ne vsebujejo informacij o časovnem pasu. To je časovni pas, ki se uporablja za aktivnosti brez časovnih pasov.",
   "Timezone": "Časovni pas",
   "Title": "Naslov",
+  "tiz_class_title": "Razvrstitev časa v cone",
   "tiz_order": "Intervals.icu uporablja čas v conah od moči, srčnega utripa ali tempa za skupne vrednosti, odvisno od podatkov, ki so na voljo za aktivnost. Če je na voljo več teh, ta nastavitev določa, katera je izbrana. Na splošno, če ima aktivnost moč, jo uporabite za čas v pasovih.",
   "Today": "Danes",
   "Today as % of total for the week": "Danes kot % celotnega tedna",

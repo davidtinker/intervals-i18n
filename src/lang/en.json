@@ -2024,6 +2024,7 @@
   "timezone": "Some activity files (e.g. from Zwift) do not contain timezone information. This is the timezone used for activities without timezones.",
   "Timezone": "Timezone",
   "Title": "Title",
+  "tiz_class_title": "Time in zones classification",
   "tiz_order": "Intervals.icu uses time in zones from from power, heart rate or pace for totals depending on the data available for the activity. If several of these are available then this setting determines which is selected. Generally if an activity has power you should use that for time in zones.",
   "Today": "Today",
   "Today as % of total for the week": "Today as % of total for the week",

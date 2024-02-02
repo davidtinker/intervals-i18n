@@ -2024,6 +2024,7 @@
   "timezone": "一些活动文件(如Zwift的)不包含时区信息，这用于无时区活动的时区",
   "Timezone": "时区",
   "Title": "标题",
+  "tiz_class_title": "区域时间分类",
   "tiz_order": "Intervals.icu根据活动的可用数据，使用从功率、心率或配速中获得的区间时间来计算总数。如果这些数据有几个可用，此设置将决定选择哪个。一般来说，如果一项活动有功率，应该使用它来计算区间时间",
   "Today": "今天",
   "Today as % of total for the week": "今天占本周总数的百分比",

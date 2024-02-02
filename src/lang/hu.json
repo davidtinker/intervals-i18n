@@ -2024,6 +2024,7 @@
   "timezone": "Egyes tevékenység-fájlok (például a Zwift fájljai) nem tartalmaznak időzóna-információkat. Ez a választott időzóna az időzónák nélküli tevékenységekhez.",
   "Timezone": "Időzóna",
   "Title": "Cím",
+  "tiz_class_title": "Idő zónák besorolása",
   "tiz_order": "Az Intervals.icu a zónákban töltött időt vagy a teljesítményből, vagy a pulzusszámból vagy a tempóból számolja ki a tevékenységhez rendelkezésre álló adatok függvényében. Ha ezek közül több is elérhető, akkor ez a beállítás határozza meg, hogy melyik lesz kiválasztva. Általában ha egy tevékenységhez van teljesítmény (watt) adat, akkor a zónákban töltött idők számításához azt érdemes használnod.",
   "Today": "Ma",
   "Today as % of total for the week": "Ma a hét összességének %-a",
