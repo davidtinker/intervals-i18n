@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "Reageer op Intervals.icu",
   "Reprocess File": "Bestand opnieuw verwerken",
   "Reprocess original file": "Oorspronkelijk bestand opnieuw verwerken",
-  "Reprocess original file (non-Strava)": "Oorspronkelijk bestand opnieuw verwerken (niet-Strava)",
   "reprocess_file_blurb": "Alle datareeksen (vermogen, hartslag, tempo, enz.) worden opnieuw berekend en eventuele bewerkingen of bijsnijden worden ongedaan gemaakt",
   "reprocess_on_new_stream_prompt": "Bestaande activiteiten moeten opnieuw worden verwerkt om gegevens op te halen voor de nieuwe aangepaste datareeks. Wilt u deze activiteit nu opnieuw verwerken?",
   "Reprocessing": "Opnieuw verwerken",

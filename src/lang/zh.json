@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "在Intervals.icu答复",
   "Reprocess File": "重新处理文件",
   "Reprocess original file": "重新处理原始文件",
-  "Reprocess original file (non-Strava)": "重新处理原始文件(非Strava)",
   "reprocess_file_blurb": "所有活动流（功率、心率、配速等）都将重新计算，任何编辑或裁剪都将被撤消",
   "reprocess_on_new_stream_prompt": "需要重新处理现有活动以获取新自定义流的数据。您现在想重新处理此活动吗？",
   "Reprocessing": "重新处理",

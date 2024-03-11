@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "Odpowiedz na Interwały.icu",
   "Reprocess File": "Przeprocesuj plik",
   "Reprocess original file": "Ponowne przetwarzanie oryginalnego pliku",
-  "Reprocess original file (non-Strava)": "Ponowne przetwarzanie oryginalnego pliku (non-Strava)",
   "reprocess_file_blurb": "Wszystkie strumienie aktywności (moc, tętno, tempo itp.) zostaną ponownie obliczone, a wszelkie zmiany i przycinanie zostaną cofnięte",
   "reprocess_on_new_stream_prompt": "Istniejące działania muszą zostać ponownie przetworzone w celu pobrania danych dla nowych strumieni niestandardowych. Czy chcesz teraz ponownie przetworzyć to działanie?",
   "Reprocessing": "Reprocesowanie",

@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "Odpovědět na Intervals.icu",
   "Reprocess File": "Znovu zpracovat soubor",
   "Reprocess original file": "Znovu zpracovat původní soubor",
-  "Reprocess original file (non-Strava)": "Znovu zpracovat původní soubor (jiný než Strava)",
   "reprocess_file_blurb": "Všechny toky aktivit (výkon, srdeční frekvence, tempo atd.) budou přepočítány a veškeré úpravy nebo oříznutí budou vráceny",
   "reprocess_on_new_stream_prompt": "Stávající aktivity je třeba znovu zpracovat, aby bylo možné získat data pro nové vlastní streamy. Chcete nyní tuto aktivitu znovu zpracovat?",
   "Reprocessing": "Přepracování",

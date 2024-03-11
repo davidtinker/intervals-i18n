@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "Respuesta en Intervals.icu",
   "Reprocess File": "Reprocesar el archivo",
   "Reprocess original file": "Reprocesar el archivo original",
-  "Reprocess original file (non-Strava)": "Reprocesar el archivo original (no-Strava)",
   "reprocess_file_blurb": "Se volverán a calcular todos los flujos de actividad (potencia, frecuencia cardíaca, ritmo, etc.) y se deshará cualquier edición o recorte.",
   "reprocess_on_new_stream_prompt": "Las actividades existentes deben volver a procesarse para recopilar datos para nuevos flujos personalizados. ¿Le gustaría volver a procesar esta actividad ahora?",
   "Reprocessing": "Reprocesamiento",

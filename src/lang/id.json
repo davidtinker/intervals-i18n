@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "Balas di Intervals.icu",
   "Reprocess File": "Proses Ulang File",
   "Reprocess original file": "Proses ulang file asli",
-  "Reprocess original file (non-Strava)": "Proses ulang file asli (non-Strava)",
   "reprocess_file_blurb": "Semua stream aktivitas (daya, denyut jantung, kecepatan, dll.) akan dihitung ulang dan semua pengeditan atau pemangkasan akan dibatalkan",
   "reprocess_on_new_stream_prompt": "Aktivitas yang sudah ada perlu diproses ulang untuk mengambil data untuk aliran kustom yang baru. Apakah Anda ingin memproses ulang aktivitas ini sekarang?",
   "Reprocessing": "Sedang memproses ulang",

@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "Válasz az Intervals.icu webhelyen",
   "Reprocess File": "Fájl újrafeldolgozása",
   "Reprocess original file": "Eredeti fájl újrafeldolgozása",
-  "Reprocess original file (non-Strava)": "Eredeti fájl újrafeldolgozása (nem Strava)",
   "reprocess_file_blurb": "Minden tevékenységfolyam (teljesítmény, pulzusszám, tempó stb.) újraszámításra kerül, és minden szerkesztés vagy kivágás visszavonásra kerül.",
   "reprocess_on_new_stream_prompt": "A meglévő tevékenységeket újra fel kell dolgozni az új egyéni adatfolyamok adatainak felvételéhez. Szeretné most újra feldolgozni ezt a tevékenységet?",
   "Reprocessing": "Feldolgozás",

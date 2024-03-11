@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "Odgovorite na Intervals.icu",
   "Reprocess File": "Ponovno obdelajte Datoteko",
   "Reprocess original file": "Ponovno obdelajte izvirno datoteko",
-  "Reprocess original file (non-Strava)": "Ponovno obdelaj izvirno datoteko (ne iz Strave)",
   "reprocess_file_blurb": "Vsi tokovi dejavnosti (moč, srčni utrip, tempo itd.) bodo znova izračunani in vsa urejanja ali obrezovanje bodo razveljavljeni",
   "reprocess_on_new_stream_prompt": "Obstoječe dejavnosti je treba ponovno obdelati za prevzem podatkov za nove tokove po meri. Ali želite zdaj znova obdelati to dejavnost?",
   "Reprocessing": "Ponovna obdelava",

@@ -1700,7 +1700,6 @@
   "reply_on_intervals_icu": "Reply on Intervals.icu",
   "Reprocess File": "ファイルの再読み込み",
   "Reprocess original file": "オリジナルファイルの再読み込み",
-  "Reprocess original file (non-Strava)": "オリジナルファイルの再読み込み(Strava以外)",
   "reprocess_file_blurb": "すべてのアクティビティ ストリーム (パワー、心拍数、ペースなど) が再計算され、編集やトリミングはすべて元に戻されます。",
   "reprocess_on_new_stream_prompt": "新しいカスタム ストリームのデータを取得するには、既存のアクティビティを再処理する必要があります。このアクティビティを今すぐ再処理しますか?",
   "Reprocessing": "再読込中",
