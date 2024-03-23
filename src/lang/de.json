@@ -2201,6 +2201,7 @@
   "visibility_public_blurb": "{n} ist für alle sichtbar und erscheint in deinem Profil",
   "Visible to non-members": "Sichtbar für Nicht-Mitglieder",
   "VO2 Max": "VO2 MAX",
+  "VO2 max from 5m power": "VO2 max aus 5m Leistung",
   "vo2max_5m": "V̇O2 max ist die maximale Rate des Sauerstoffverbrauchs und wird normalerweise in ml pro kg Körpergewicht angegeben. Eine genaue Messung der VO2 max erfordert einen abgestuften Belastungstest in einem Labor mit einem Stoffwechselwagen. Die hier angezeigte Schätzung wird von der 5-Minuten-Spitzenleistung abgeleitet, wobei eine Formel aus <a href='https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml' target='_blank'>5 min Test to Predict Maximal Oxygen Consumption in Road Cycling</a>",
   "W (anaerobic work capacity)": "W (anaerobe Arbeitsfähigkeit)",
   "W / Anaerobic Work Capacity": "W' / Anaerobe Arbeitsfähigkeit",

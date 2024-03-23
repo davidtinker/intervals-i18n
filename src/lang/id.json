@@ -2201,6 +2201,7 @@
   "visibility_public_blurb": "{n} dapat dilihat oleh semua orang dan akan muncul di profil Anda",
   "Visible to non-members": "Dapat dilihat oleh non-anggota",
   "VO2 Max": "VO2 Max",
+  "VO2 max from 5m power": "VO2 max dari daya 5m",
   "vo2max_5m": "VO2 max adalah tingkat konsumsi oksigen maksimum dan biasanya ditampilkan dalam ml per kg berat badan. Pengukuran VO2 max yang akurat memerlukan tes latihan bertahap di laboratorium dengan kereta metabolik. Perkiraan yang ditampilkan di sini berasal dari output daya puncak selama 5 menit dengan menggunakan rumus dari <a href='https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml' target='_blank'>Tes 5 menit untuk Memprediksi Konsumsi Oksigen Maksimal dalam Bersepeda di Jalan Raya</a>",
   "W (anaerobic work capacity)": "W' (kapasitas kerja anaerobik)",
   "W / Anaerobic Work Capacity": "W '/ Kapasitas Kerja Anaerobik",

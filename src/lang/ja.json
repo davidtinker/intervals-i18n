@@ -2201,6 +2201,7 @@
   "visibility_public_blurb": "{n}は誰でも見ることができ、あなたのプロフィールにも表示されます",
   "Visible to non-members": "メンバー以外からも見ることが出来る",
   "VO2 Max": "VO2 Max",
+  "VO2 max from 5m power": "5 メートルのパワーで最大 VO2",
   "vo2max_5m": "V̇O2Maxは酸素消費量の最大値を表す値で、体重1kgあたりのml単位で表示されるのが一般的です。正確なVO2Maxの値を求めるにはメタボリックカートという装置があるラボで、漸増運動テストを行わなければ測定できません。ここで表示されている値は5分間の最大パワー出力をもとに、<a href='https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml' target='_blank'>5 min Test to Predict Maximal Oxygen Consumption in Road Cycling</a>の計算式を用いて算出した推定値です。",
   "W (anaerobic work capacity)": "W'(無酸素運動許容量)",
   "W / Anaerobic Work Capacity": "W'/無酸素運動許容量",

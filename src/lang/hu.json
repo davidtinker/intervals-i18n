@@ -2201,6 +2201,7 @@
   "visibility_public_blurb": "{n} mindenki számára látható és megjelenik a profilodon",
   "Visible to non-members": "Nem tagok számára látható",
   "VO2 Max": "VO2 Max",
+  "VO2 max from 5m power": "VO2 max a 5m-es teljesítményből",
   "vo2max_5m": "A VO2max a szervezet maximális oxigénfelvételi képességének mértéke, amelyet általában testsúlykilogrammonként számolt ml-ben adnak meg (relatív VO2max). A VO2max pontos méréséhez lépcsőzetes-terhelés vizsgálatra van szükség egy anyagcsere folyamatokat vizsgáló mérőkocsival ellátott laboratóriumban. Az itt feltüntetett becslés az 5 perces csúcsteljesítményből származik, a következő képlet segítségével: <a href='https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml' target='_blank'>5 min Test to Predict Maximal Oxygen Consumption in Road Cycling</a>",
   "W (anaerobic work capacity)": "W '(anaerob kapacitás)",
   "W / Anaerobic Work Capacity": "W ' / Anaerob kapacitás",

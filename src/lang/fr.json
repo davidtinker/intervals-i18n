@@ -2201,6 +2201,7 @@
   "visibility_public_blurb": "{n} est visible par tous et apparaîtra sur votre profil",
   "Visible to non-members": "Visible par les non-membres",
   "VO2 Max": "VO2 max",
+  "VO2 max from 5m power": "VO2 max à partir de la puissance de 5m",
   "vo2max_5m": "V̇O2 max est le taux maximal de consommation d'oxygène et est généralement affiché en ml par kg de poids corporel. La mesure précise de la VO2 max nécessite un test d'exercice gradué dans un laboratoire équipé d'un chariot métabolique. L'estimation affichée ici est dérivée de la puissance de sortie maximale sur 5 minutes à l'aide d'une formule tirée de <a href='https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml' target='_blank'>5 min Test to Predict Maximal Oxygen Consumption in Road Cycling</a>",
   "W (anaerobic work capacity)": "W' (capacité de travail anaérobie)",
   "W / Anaerobic Work Capacity": "W' / Capacité de travail anaérobie",

@@ -2201,6 +2201,7 @@
   "visibility_public_blurb": "{n} 对所有人可见，并将显示在您的个人资料中",
   "Visible to non-members": "对非会员可见",
   "VO2 Max": "VO2最大值",
+  "VO2 max from 5m power": "5m功率的VO2 max",
   "vo2max_5m": "V̇O2 max是最大耗氧率，通常以每公斤体重的毫升数显示。准确测量VO2 max需要在实验室中用代谢车进行分级运动测试。这里显示的估计值是由5分钟的峰值功率输出得出的，使用的公式是 <a href='https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml' target='_blank'>5分钟测试预测公路自行车的最大耗氧量</a>",
   "W (anaerobic work capacity)": "W'(无氧能力)",
   "W / Anaerobic Work Capacity": "W'/无氧能力",
