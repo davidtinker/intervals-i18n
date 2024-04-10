@@ -490,6 +490,7 @@
   "compound_score_5m": "Die zusammengesetzte Punktzahl ist absolute Leistung (w) x relative Leistung (W/kg) für eine bestimmte Dauer (hier 5 Minuten). Es hat sich als aussagekräftiger herausgestellt als 5 m absolute oder relative Leistung allein für den Erfolg eines pro-kontinentalen U23-Rennens an einem Tag - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Computer",
   "configure_pace_zones": "Konfiguriere Tempo-Zonen für diese Sportart in den Einstellungen, um die Zeit in Tempo-Zonen anzuzeigen.",
+  "confirm_change_code": "Sind Sie sicher, dass Sie den Code von {old} auf {new} ändern möchten? Dadurch werden alle bereits gespeicherten Daten als {old} ausgeblendet.",
   "confirm_clear_intervals": "Bist du sicher, dass du alle Intervalle entfernen möchtest?",
   "confirm_clear_plan": "Bist du sicher, dass du den Trainingsplan löschen möchtest? Alle zukünftig geplanten Trainingseinheiten werden gelöscht! Wenn du eine Trainingseinheit behalten möchtest, kopiere sie zuerst in deine Bibliothek. Beachte, dass Rennen und Trainingseinheiten aus externen Kalendern und andere Einträge nicht gelöscht werden.",
   "confirm_clear_week": "Bist du sicher, dass du alle Trainingseinheiten in dieser Woche löschen möchtest?",

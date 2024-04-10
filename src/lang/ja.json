@@ -490,6 +490,7 @@
   "compound_score_5m": "複合スコアは、所定の時間（ここでは5分間）の実測パワー（W）× 相対パワー（w/kg）を表します。 この指標は、プロコンチネンタルU23のワンデーレースの成績を、同じ時間の実測パワーや相対パワーだけで予測するよりも精度が高いことが判明しています。<a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>\n",
   "Computer": "コンピューター",
   "configure_pace_zones": "設定メニューでこのスポーツのペースゾーンを設定すると、ペースゾーンでのタイムが表示されます",
+  "confirm_change_code": "コードを {old} から {new}に変更してもよろしいですか? これにより、 {old}として既に保存されているデータは非表示になります。 ",
   "confirm_clear_intervals": "本当にすべてのインターバルを削除しますか？",
   "confirm_clear_plan": "本当にトレーニングプランをクリアしますか？今後予定されているトレーニングはすべて削除されます！もし、ワークアウトを残したい場合は、まずライブラリにコピーしてください。レース、外部カレンダーからのワークアウト、その他のエントリーは削除されませんのでご注意ください。",
   "confirm_clear_week": "本当にこの週のワークアウトをすべて削除しますか？",

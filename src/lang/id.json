@@ -490,6 +490,7 @@
   "compound_score_5m": "Skor gabungan adalah daya absolut (w) x daya relatif (w/kg) untuk durasi tertentu (di sini 5 menit). Skor ini terbukti lebih prediktif dibandingkan dengan kekuatan absolut atau relatif 5m saja dalam memprediksi kesuksesan balap satu hari pro-kontinental U23 - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>Skor Gabungan dalam balap sepeda jalan raya elit</a>",
   "Computer": "Komputer",
   "configure_pace_zones": "Konfigurasikan zona pace untuk olahraga ini dalam pengaturan untuk melihat waktu dalam zona pace",
+  "confirm_change_code": "Apakah Anda yakin ingin mengubah kode dari {old} menjadi {new}? Ini akan menyembunyikan data yang sudah disimpan sebagai {old}",
   "confirm_clear_intervals": "Apakah Anda yakin ingin menghapus semua interval?",
   "confirm_clear_plan": "Apakah Anda yakin ingin menghapus rencana latihan? Semua rencana latihan di masa mendatang akan dihapus! Jika Anda ingin menyimpan latihan apa pun, salinlah terlebih dahulu ke perpustakaan Anda. Perhatikan bahwa lomba, latihan dari kalender eksternal dan entri lainnya tidak akan dihapus.",
   "confirm_clear_week": "Apakah Anda yakin ingin menghapus semua latihan dalam minggu ini?",

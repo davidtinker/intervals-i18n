@@ -490,6 +490,7 @@
   "compound_score_5m": "Scorul compus este puterea absolută (w) x putere relativă (w/kg) pentru o durată dată (aici 5 minute). S-a dovedit a fi mai predictivă decât puterea absolută sau relativă de 5 m numai pentru succesul unei curse pro-continentale U23 - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Computer",
   "configure_pace_zones": "Configurați zonele de ritm pentru acest sport în setări pentru a vedea timpul în zonele de ritm",
+  "confirm_change_code": "Sunteți sigur că doriți să schimbați codul de la {old} la {new}? Aceasta va ascunde orice date deja salvate ca {old}",
   "confirm_clear_intervals": "Sigur dorești să elimini toate intervalele?",
   "confirm_clear_plan": "Sigur dorești să ștergi planul de antrenament? Toate antrenamentele planificate vor fi șterse! Dacă dorești să păstrezi oricare antrenament, copiază-l mai întâi în biblioteca ta. Nu uita, cursele, antrenamentele din calendarele externe și alte intrări nu se vor șterge.",
   "confirm_clear_week": "Ești sigur că dorești să ștergi toate antrenamentele din această săptămână?",

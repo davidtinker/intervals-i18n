@@ -490,6 +490,7 @@
   "compound_score_5m": "De Compound Score is absoluut vermogen (w) x relatief vermogen (w/kg) voor een bepaalde duur (hier 5 minuten). Er is gebleken dat dit een betere voorspelling is dan 5m absolute of relatieve kracht alleen, voor ééndags-race-succes van pro-continentaal U23 rijders - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Computer",
   "configure_pace_zones": "Configureer tempo-zones voor deze sport in instellingen om de tijd in tempo-zones te zien",
+  "confirm_change_code": "Weet u zeker dat u de code van {old} naar {new} wilt wijzigen? Hierdoor wordt alle al opgeslagen data als {old} verborgen.",
   "confirm_clear_intervals": "Weet u zeker dat u alle intervallen wilt verwijderen?",
   "confirm_clear_plan": "Weet je zeker dat je dit trainingsplan wil wissen? Alle geplande workouts worden gewist! Als je workouts wil behouden, kopieer ze dan eerst naar je bibliotheek. Merk op dat wedstrijden, workouts van externe agenda's en andere items niet worden gewist.",
   "confirm_clear_week": "Weet je zeker dat je alle workouts van deze week wilt verwijderen?",

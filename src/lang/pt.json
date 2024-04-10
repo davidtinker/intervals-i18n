@@ -490,6 +490,7 @@
   "compound_score_5m": "A pontuação composta é potência absoluta (w) x potência relativa (w/kg) para uma determinada duração (aqui 5 minutos). Descobriu-se que é mais preditivo do que 5m de potência absoluta ou relativa sozinho do sucesso de corrida pró-continental U23 de um dia - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Ciclocomputador",
   "configure_pace_zones": "Configurar zonas de ritmo para este desporto em definições para ver o tempo em zonas de ritmo",
+  "confirm_change_code": "Tem a certeza de que deseja alterar o código de {old} para {new}? Isso ocultará quaisquer dados já salvos como {old}",
   "confirm_clear_intervals": "Tem a certeza de que quer remover todos os intervalos?",
   "confirm_clear_plan": "Tem a certeza de que quer limpar o plano de treino? Todos os futuros treinos planeados serão eliminados! Se quiser manter algum treino, copie-o primeiro para a sua biblioteca. Atenção que as provas, treinos de calendários externos e outras entradas não serão apagados.",
   "confirm_clear_week": "Tem a certeza de que quer eliminar todos os treinos desta semana?",
