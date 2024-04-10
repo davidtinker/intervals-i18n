@@ -1947,6 +1947,7 @@
   "Subjective fatigue": "主観的なファティーグ",
   "subscribe_on_settings_page": "<a href='https://intervals.icu/settings?sub=true'>設定ページでサブスクリプションに加入できます</a>.",
   "Subscription": "サブスクリプション",
+  "subscription_past_due_banner": "サブスクリプションの支払い期限が過ぎています。 <a>請求ポータル</a>でお支払いの詳細をご確認ください。ご協力ありがとうございます。",
   "Suffix": "Suffix",
   "Sum": "合計",
   "Sun": "太陽",
