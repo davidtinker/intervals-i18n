@@ -1791,6 +1791,7 @@
   "Send": "Senden",
   "Send failed, click to retry": "Senden fehlgeschlagen, klicken zum Wiederholen",
   "Send files in chat": "Dateien im Chat senden",
+  "send_coach_tick": "Wenn ein Trainer eine meiner Aktivitäten ankreuzt",
   "send_link_blurb": "Sende ihnen <a>einen Link zum Beitritt zu</a> Intervals.icu",
   "send_link_long_blurb": "Lade deine Freunde ein, dir auf Intervals.icu zu folgen, indem du ihnen diesen Link schicken. Du erhälst eine Nachricht, wenn sie sich anmelden, und sie können beantragen, dir zu folgen",
   "send_msg_to_ask_coach_for_help": "Wenn du eine Nachricht sendest, kannst er oder sie deine Intervals.icu-Daten sehen und dir vielleicht helfen.",
