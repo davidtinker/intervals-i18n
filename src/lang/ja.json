@@ -410,6 +410,7 @@
   "Change Password": "パスワードの変更",
   "Chart": "チャート",
   "Chart has been copied to the clipboard": "チャートがクリップボードにコピーされました",
+  "Chart Height": "チャートの高さ",
   "Chart legend": "チャートの凡例",
   "chart_extras_blurb": "「アイテムを追加」をクリックすると、斜線やラインなどでカスタマイズする事ができます",
   "chart_script_blurb": "チャートを作成するJavaScriptコード",

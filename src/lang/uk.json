@@ -410,6 +410,7 @@
   "Change Password": "Змінити пароль",
   "Chart": "Діаграма",
   "Chart has been copied to the clipboard": "Діаграму скопійовано в буфер обміну",
+  "Chart Height": "Висота діаграми",
   "Chart legend": "Легенда діаграми",
   "chart_extras_blurb": "Натисніть «Додати елемент», щоб налаштувати фон діаграми з затіненими зонами, лініями тощо",
   "chart_script_blurb": "Код JavaScript для побудови діаграми",

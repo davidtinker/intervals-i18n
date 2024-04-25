@@ -410,6 +410,7 @@
   "Change Password": "Cambia la contraseña",
   "Chart": "Gráfico",
   "Chart has been copied to the clipboard": "El gráfico se ha copiado en el portapapeles",
+  "Chart Height": "Altura del gráfico",
   "Chart legend": "Leyenda del gráfico",
   "chart_extras_blurb": "Haga clic en 'Agregar elemento' para personalizar el fondo del gráfico con zonas sombreadas, líneas, etc.",
   "chart_script_blurb": "Código JavaScript para construir el gráfico",

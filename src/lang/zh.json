@@ -410,6 +410,7 @@
   "Change Password": "更改密码",
   "Chart": "图表",
   "Chart has been copied to the clipboard": "图表已复制到剪贴板",
+  "Chart Height": "图表高度",
   "Chart legend": "图表图例",
   "chart_extras_blurb": "单击“添加项目”以自定义带有阴影区域、线条等的图表背景。",
   "chart_script_blurb": "用于构建图表的 JavaScript 代码",
