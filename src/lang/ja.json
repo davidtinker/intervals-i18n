@@ -532,6 +532,7 @@
   "confirm_replace_gear": "本当に{n}を置き換えますか？距離と時間がゼロのコピーが割り当てられ、同じリマインダーが設定されます。置き換えられたアイテムは引退になります。",
   "confirm_reprocess_activities": "本当に{n}のファイルを再処理してよろしいですか？編集した内容はすべて元に戻ります。",
   "confirm_reset_reminder": "このリマインダーをリセットしてよろしいですか？",
+  "confirm_restore_default_colors": "本当にデフォルトの色を復元しますか?",
   "confirm_retire_component": "本当に{n}を引退させますか？デフォルトで表示されなくなり、割り当てられていたギアからも削除されます。",
   "confirm_retire_gear": "本当に{n}を引退させますか？デフォルトで表示されなくなります。",
   "confirm_share_folder_with_all": "このフォルダを、指導中のアスリート全員と共有します。よろしいですか？",

@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Biztos vagy benne, hogy a(z) {n} alkatrészre akarod cserélni? A régi(ek) le lesz(nek) selejtezve és másolat(ok) lesz(nek) helyett(ük) zéró megtett távolsággal és idővel ezekhez az alkatrészfajtá(k)hoz rendelve, ugyanolyan beállított emlékeztetőkkel.",
   "confirm_reprocess_activities": "Biztosan újra fel szeretnéd dolgozni a (z) {n} fájljait? Minden szerkesztés visszavonásra kerül.",
   "confirm_reset_reminder": "Biztos, hogy vissza akarja állítani ezt az emlékeztetőt?",
+  "confirm_restore_default_colors": "Biztosan vissza akarja állítani az alapértelmezett színeket?",
   "confirm_retire_component": "Biztos benne, hogy le akarod selejetezni ezt az alkatrészt: {n}? Többé nem fog megjelenni, mint alapértelmezett, és el lesz távolítva minden olyan felszerelésből, amelyhez hozzá van rendelve.",
   "confirm_retire_gear": "Biztos, hogy le akarod selejtezni a(z) {n} felszerelést? Többé nem fog megjelenni, mint alapértelmezett.",
   "confirm_share_folder_with_all": "Biztosan megosztod ezt a mappát az összes edzett sportolóval?",

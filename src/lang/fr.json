@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Etes-vous sûr(e) de vouloir remplacer {n}? Il sera retiré et une copie sans distance et sans temps sera attribuée aux mêmes engins, avec les mêmes rappels.",
   "confirm_reprocess_activities": "Etes-vous sûr(e) de vouloir retraiter les fichiers pour {n}? Toutes les modifications seront annulées.",
   "confirm_reset_reminder": "Êtes-vous sûr(e) de vouloir réinitialiser ce rappel ?",
+  "confirm_restore_default_colors": "Êtes-vous sûr de vouloir restaurer les couleurs par défaut?",
   "confirm_retire_component": "Etes-vous sûr(e) de vouloir retirer {n}? Il ne sera plus affiché par défaut et sera supprimé de tous les engins auxquels il a été affecté.",
   "confirm_retire_gear": "Etes-vous sûr(e) de vouloir retirer {n}? Il ne sera plus affiché par défaut.",
   "confirm_share_folder_with_all": "Êtes-vous sûr(e) de vouloir partager ce dossier avec tous les athlètes que vous entraînez ?",

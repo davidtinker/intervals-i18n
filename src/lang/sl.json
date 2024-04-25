@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Ali ste prepričani, da želite zamenjati {n}? Bo umaknjen in kopija brez razdalje ter časa bo dodeljena istim elementom orodja, z enakimi opomniki.",
   "confirm_reprocess_activities": "Ali ste prepričani, da želite znova obdelati datoteke za {n}? Vse spremembe bodo razveljavljene.",
   "confirm_reset_reminder": "Ali ste prepričani, da želite ponastaviti ta opomnik?",
+  "confirm_restore_default_colors": "Ali ste prepričani, da želite obnoviti privzete barve?",
   "confirm_retire_component": "Ali ste prepričani, da želite upokojiti {n}? Privzeto ne bo več prikazano in bo odstranjen iz katere koli opreme, ki ji je bila dodeljena.",
   "confirm_retire_gear": "Ali ste prepričani, da se želite upokojiti {n}? Privzeto ne bo več prikazano.",
   "confirm_share_folder_with_all": "Ali ste prepričani, da želite to mapo deliti z vsemi športniki, ki jih trenirate?",

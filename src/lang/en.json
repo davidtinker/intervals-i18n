@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Are you sure you want to replace {n}? It will be retired and a copy with no distance and time assigned to the same gear items, with the same reminders.",
   "confirm_reprocess_activities": "Are you sure you want to reprocess the files for {n}? All edits will be undone.",
   "confirm_reset_reminder": "Are you sure you want to reset this reminder?",
+  "confirm_restore_default_colors": "Are you sure you want to restore the default colors?",
   "confirm_retire_component": "Are you sure you want to retire {n}? It will no longer be displayed by default and will be removed from any gear it has been assigned to.",
   "confirm_retire_gear": "Are you sure you want to retire {n}? It will no longer be displayed by default.",
   "confirm_share_folder_with_all": "Are you sure you want to share this folder with all the athletes you coach?",

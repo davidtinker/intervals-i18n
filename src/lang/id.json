@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Apakah Anda yakin ingin mengganti {n}? Ini akan dipensiunkan dan salinan tanpa jarak dan waktu yang ditetapkan ke item perlengkapan yang sama, dengan pengingat yang sama.",
   "confirm_reprocess_activities": "Apakah Anda yakin ingin memproses ulang file untuk {n}? Semua pengeditan akan dibatalkan.",
   "confirm_reset_reminder": "Apakah Anda yakin ingin mengatur ulang pengingat ini?",
+  "confirm_restore_default_colors": "Apakah Anda yakin ingin mengembalikan warna default?",
   "confirm_retire_component": "Apakah Anda yakin ingin menghentikan {n}? Ini tidak akan lagi ditampilkan secara default dan akan dihapus dari gigi mana pun yang telah ditetapkan.",
   "confirm_retire_gear": "Apakah Anda yakin ingin pensiun {n}? Ini tidak akan lagi ditampilkan secara default.",
   "confirm_share_folder_with_all": "Apakah Anda yakin ingin membagikan folder ini dengan semua atlet yang Anda latih?",

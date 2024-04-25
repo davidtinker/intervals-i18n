@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Czy na pewno chcesz zastąpić {n}? Zostanie on usunięty, a jego kopia bez odległości i czasu zostanie przypisana do tych samych elementów ekwipunku, z tymi samymi przypomnieniami.",
   "confirm_reprocess_activities": "Czy na pewno chcesz ponownie przetworzyć pliki dla {n}? Wszystkie edycje zostaną cofnięte.",
   "confirm_reset_reminder": "Czy na pewno chcesz zresetować to przypomnienie?",
+  "confirm_restore_default_colors": "Czy na pewno chcesz przywrócić domyślne kolory?",
   "confirm_retire_component": "Czy na pewno chcesz wycofać {n}? Nie będzie on już wyświetlany domyślnie i zostanie usunięty z każdego sprzętu, do którego został przypisany.",
   "confirm_retire_gear": "Czy na pewno chcesz wycofać {n}? Nie będzie on już wyświetlany domyślnie.",
   "confirm_share_folder_with_all": "Czy jesteś pewien, że chcesz udostępnić ten folder wszystkim sportowcom, których trenujesz?",

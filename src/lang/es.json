@@ -532,6 +532,7 @@
   "confirm_replace_gear": "¿Está seguro de que quiere sustituir a {n}? Se retirará y se asignará una copia sin distancia y tiempo a los mismos elementos de la marcha, con los mismos recordatorios.",
   "confirm_reprocess_activities": "¿Está seguro de que quiere volver a procesar los archivos para {n}? Todas las ediciones se desharán.",
   "confirm_reset_reminder": "¿Estás seguro de que quieres restablecer este recordatorio?",
+  "confirm_restore_default_colors": "¿Estás seguro de que quieres restaurar los colores predeterminados?",
   "confirm_retire_component": "¿Está seguro de que quiere retirar {n}? Ya no se mostrará por defecto y se eliminará de cualquier equipo al que haya sido asignado.",
   "confirm_retire_gear": "¿Seguro que quiere retirar {n}? Ya no se mostrará por defecto.",
   "confirm_share_folder_with_all": "¿Estás seguro de que quieres compartir esta carpeta con todos los atletas que entrenas?",

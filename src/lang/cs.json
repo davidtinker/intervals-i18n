@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Jste si jisti, že chcete nahradit {n}? Bude vyřazen a jeho kopie bez vzdálenosti a času bude přiřazena ke stejným položkám výbavy se stejnými připomínkami.",
   "confirm_reprocess_activities": "Opravdu chcete znovu zpracovat soubory pro {n}? Všechny úpravy budou vráceny zpět.",
   "confirm_reset_reminder": "Opravdu chcete tuto připomínku resetovat?",
+  "confirm_restore_default_colors": "Jste si jisti, že chcete obnovit výchozí barvy?",
   "confirm_retire_component": "Jste si jistý, že chcete odejít do důchodu {n}? Ve výchozím nastavení se již nebude zobrazovat a bude odstraněn ze všech zařízení, ke kterým byl přiřazen.",
   "confirm_retire_gear": "Jste si jistý, že chcete odejít do důchodu {n}? Ve výchozím nastavení se již nebude zobrazovat.",
   "confirm_share_folder_with_all": "Opravdu chcete tuto složku sdílet se všemi sportovci, které trénujete?",

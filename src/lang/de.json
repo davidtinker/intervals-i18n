@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Bist du sicher, dass du {n} ersetzen möchtest? Der Ausrüstungsgegenstand wird aus dem Verkehr gezogen und eine Kopie ohne Entfernung und Zeit wird denselben Ausrüstungsgegenständen zugewiesen, mit denselben Erinnerungen.",
   "confirm_reprocess_activities": "Bist du sicher, dass du die Dateien für {n} erneut bearbeiten möchtest? Alle Bearbeitungen werden rückgängig gemacht.",
   "confirm_reset_reminder": "Bist du sicher, dass du diese Erinnerung zurücksetzen möchtest?",
+  "confirm_restore_default_colors": "Möchten Sie wirklich die Standardfarben wiederherstellen?",
   "confirm_retire_component": "Bist du sicher, dass du {n} ausmustern möchtest? Es wird dann standardmäßig nicht mehr angezeigt und aus allen Geräten, denen es zugewiesen wurde, entfernt.",
   "confirm_retire_gear": "Bist du sicher, dass du {n} abschaffen möchtest? Sie wird dann standardmäßig nicht mehr angezeigt.",
   "confirm_share_folder_with_all": "Bist du sicher, dass du diesen Ordner allen Athleten, die du betreust, zur Verfügung stellen möchtest?",

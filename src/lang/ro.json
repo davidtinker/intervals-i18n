@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Sigur dorești să înlocuiești {n}? Acesta va fi retras și o copie fără distanță și timp va fi atribuită acelorași echipamente, cu aceleași memento-uri.",
   "confirm_reprocess_activities": "Sigur dorești să reprocesezi fișierele pentru {n}? Toate modificările vor fi anulate.",
   "confirm_reset_reminder": "Sigur că doriți să resetați acest memento?",
+  "confirm_restore_default_colors": "Sunteți sigur că doriți să restaurați culorile implicite?",
   "confirm_retire_component": "Sigur că vrei să retragi {n}? Acesta nu va mai fi afișat în mod implicit și va fi eliminat din toate uneltele la care a fost atribuit.",
   "confirm_retire_gear": "Ești sigur că vrei să te retragi {n}? Acesta nu va mai fi afișat ca implicit.",
   "confirm_share_folder_with_all": "Sigur dorești să partajezi acest dosar tuturor sportivilor pe care îi antrenezi?",

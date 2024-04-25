@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Weet je zeker dat je {n} wil vervangen? Dit zal 'buiten dienst' gaan en een kopie zonder afstand en tijd wordt toegewezen aan dezelfde uitrusting, met dezelfde herinneringen.",
   "confirm_reprocess_activities": "Weet je zeker dat je de bestanden voor {n} opnieuw wil verwerken? Alle manuele aanpassingen zullen ongedaan gemaakt worden.",
   "confirm_reset_reminder": "Weet je zeker dat je deze herinnering opnieuw wilt instellen?",
+  "confirm_restore_default_colors": "Weet u zeker dat u de standaardkleuren wilt herstellen?",
   "confirm_retire_component": "Weet je zeker dat je {n} buiten dienst wil stellen? Dit zal niet langer standaard worden getoond en wordt verwijderd uit elke uitrusting waaraan het is toegewezen.",
   "confirm_retire_gear": "Weet je zeker dat je {n} buiten dienst wil stellen? Dit zal niet langer standaard worden getoond.",
   "confirm_share_folder_with_all": "Weet je zeker dat je deze map wil delen met alle atleten die je coacht?",

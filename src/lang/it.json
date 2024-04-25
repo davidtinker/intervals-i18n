@@ -532,6 +532,7 @@
   "confirm_replace_gear": "Sei sicuro di voler sostituire {n}? Sarà ritirato e una copia senza distanza e tempo sarà assegnata agli stessi elementi dell'equipaggiamento, con gli stessi promemoria.",
   "confirm_reprocess_activities": "Sei sicuro di voler rielaborare i file per {n}? Tutte le modifiche saranno annullate.",
   "confirm_reset_reminder": "Sei sicuro di voler resettare questo promemoria?",
+  "confirm_restore_default_colors": "Sei sicuro di voler ripristinare i colori predefiniti?",
   "confirm_retire_component": "Sei sicuro di voler ritirare {n}? Non sarà più visualizzato di default e sarà rimosso da qualsiasi attrezzo a cui è stato assegnato.",
   "confirm_retire_gear": "Sei sicuro di voler ritirare {n}? Non sarà più visualizzato di default.",
   "confirm_share_folder_with_all": "Sei sicuro di voler condividere questa cartella con tutti gli atleti che alleni?",

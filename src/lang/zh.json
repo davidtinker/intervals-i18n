@@ -532,6 +532,7 @@
   "confirm_replace_gear": "你确定你要替换 {n}吗？它将被退役，而一个没有距离和时间的副本将被分配给相同的装备项目，并有相同的提醒。",
   "confirm_reprocess_activities": "确定重新处理 {n}的文件？所有的编辑都将被撤销",
   "confirm_reset_reminder": "你确定要重置这个提醒吗？",
+  "confirm_restore_default_colors": "您确定要恢复默认颜色吗？",
   "confirm_retire_component": "你确定你要退出 {n}吗？默认情况下，它将不再显示，并将从它被分配到的任何装备中删除。",
   "confirm_retire_gear": "你确定你要退出 {n}吗？它将不再被默认显示。",
   "confirm_share_folder_with_all": "确定与你的所有运动员分享这个文件夹？",
