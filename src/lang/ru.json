@@ -1710,6 +1710,8 @@
   "Remove from": "Удалить из {n}",
   "Remove Plan": "Удалить план",
   "Remove Tags": "Удалить теги",
+  "Remove Unselected": "Удалить не выбранные",
+  "Remove unticked activities": "Удалить неотмеченные действия",
   "removed_folder0": "Удалена папка {0}",
   "removed_plan0": "Удален план тренировок {0}",
   "Repeats": "Повторяется",

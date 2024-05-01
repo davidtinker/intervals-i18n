@@ -1710,6 +1710,8 @@
   "Remove from": "Remove from {n}",
   "Remove Plan": "Remove Plan",
   "Remove Tags": "Remove Tags",
+  "Remove Unselected": "Remove Unselected",
+  "Remove unticked activities": "Remove unticked activities",
   "removed_folder0": "Removed folder {0}",
   "removed_plan0": "Removed training plan {0}",
   "Repeats": "Repeats",

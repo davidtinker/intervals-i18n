@@ -1710,6 +1710,8 @@
   "Remove from": "Odstrani iz {n}",
   "Remove Plan": "Odstranite Plan",
   "Remove Tags": "Odstrani oznake",
+  "Remove Unselected": "Odstrani neizbrano",
+  "Remove unticked activities": "Odstrani neoznačene dejavnosti",
   "removed_folder0": "Odstranjena mapa {0}",
   "removed_plan0": "Odstranjen načrt treniranja {0}",
   "Repeats": "Ponovitve",

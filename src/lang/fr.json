@@ -1710,6 +1710,8 @@
   "Remove from": "Supprimer depuis",
   "Remove Plan": "Supprimer le plan",
   "Remove Tags": "Supprimer les balises",
+  "Remove Unselected": "Supprimer les non sélectionnés",
+  "Remove unticked activities": "Supprimer les activités non cochées",
   "removed_folder0": "Suppression du dossier {0}",
   "removed_plan0": "Plan de formation supprimé {0}",
   "Repeats": "Répétitions",

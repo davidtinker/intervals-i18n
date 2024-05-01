@@ -1710,6 +1710,8 @@
   "Remove from": "Odebrat z {n}",
   "Remove Plan": "Odebrat plán",
   "Remove Tags": "Odebrat značky",
+  "Remove Unselected": "Odstranit nevybrané",
+  "Remove unticked activities": "Odstranit nezaškrtnuté aktivity",
   "removed_folder0": "Odebrána složka {0}",
   "removed_plan0": "Byl odstraněn tréninkový plán {0}",
   "Repeats": "Opakování",

@@ -1710,6 +1710,8 @@
   "Remove from": "从 {n}中删除",
   "Remove Plan": "删除计划",
   "Remove Tags": "删除标签",
+  "Remove Unselected": "删除未选择的",
+  "Remove unticked activities": "删除未选中的活动",
   "removed_folder0": "已删除文件夹 {0}",
   "removed_plan0": "已删除训练计划 {0}",
   "Repeats": "重复次数",

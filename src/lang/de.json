@@ -1710,6 +1710,8 @@
   "Remove from": "Aus {n} entfernen",
   "Remove Plan": "Plan entfernen",
   "Remove Tags": "Markierungen entfernen",
+  "Remove Unselected": "Auswahl entfernen",
+  "Remove unticked activities": "Nicht angekreuzte Aktivitäten entfernen",
   "removed_folder0": "Ordner entfernt {0}",
   "removed_plan0": "Trainingsplan entfernt {0}",
   "Repeats": "Wiederholungen",

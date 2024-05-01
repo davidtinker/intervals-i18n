@@ -1710,6 +1710,8 @@
   "Remove from": "Hapus dari {n}",
   "Remove Plan": "Hapus Rencana",
   "Remove Tags": "Hapus tag",
+  "Remove Unselected": "Hapus yang Tidak Dipilih",
+  "Remove unticked activities": "Hapus kegiatan yang tidak dicentang",
   "removed_folder0": "Folder yang dihapus {0}",
   "removed_plan0": "Rencana pelatihan yang dihapus {0}",
   "Repeats": "Jumlah ulangan",

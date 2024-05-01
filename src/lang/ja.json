@@ -1710,6 +1710,8 @@
   "Remove from": "{n}から取り除く",
   "Remove Plan": "プランを取り除く",
   "Remove Tags": "タグを削除する",
+  "Remove Unselected": "選択していないものを削除",
+  "Remove unticked activities": "チェックされていないアクティビティを削除する",
   "removed_folder0": "フォルダ {0} を削除しました。",
   "removed_plan0": "トレーニングプラン{0}を削除しました。",
   "Repeats": "リピート",

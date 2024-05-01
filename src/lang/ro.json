@@ -1710,6 +1710,8 @@
   "Remove from": "Eliminare din {n}",
   "Remove Plan": "Eliminare plan",
   "Remove Tags": "Eliminați etichetele",
+  "Remove Unselected": "Eliminați neselectat",
+  "Remove unticked activities": "Eliminați activitățile nebifate",
   "removed_folder0": "Dosar eliminat {0}",
   "removed_plan0": "Plan de instruire eliminat {0}",
   "Repeats": "Repetări",

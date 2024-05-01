@@ -1710,6 +1710,8 @@
   "Remove from": "Remover de {n}",
   "Remove Plan": "Remover Plano",
   "Remove Tags": "Remover Marcas",
+  "Remove Unselected": "Remover Não Selecionado",
+  "Remove unticked activities": "Remover atividades não marcadas",
   "removed_folder0": "Pasta removida {0}",
   "removed_plan0": "Removido plano de treino {0}",
   "Repeats": "Repetir",

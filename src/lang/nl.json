@@ -1710,6 +1710,8 @@
   "Remove from": "Verwijderen uit {n}",
   "Remove Plan": "Plan verwijderen",
   "Remove Tags": "Tags verwijderen",
+  "Remove Unselected": "Verwijder niet-geselecteerde",
+  "Remove unticked activities": "Verwijder niet-aangevinkte activiteiten",
   "removed_folder0": "verwijderde map {0}",
   "removed_plan0": "verwijderd trainingsplan {0}",
   "Repeats": "Herhalingen",

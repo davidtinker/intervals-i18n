@@ -1710,6 +1710,8 @@
   "Remove from": "Eltávolítás innen: {n}",
   "Remove Plan": "Terv eltávolítása",
   "Remove Tags": "Címkék eltávolítása",
+  "Remove Unselected": "Kijelöletlen eltávolítása",
+  "Remove unticked activities": "Kijelöletlen tevékenységek eltávolítása",
   "removed_folder0": "{0} mappa eltávolítva",
   "removed_plan0": "Edzési terv eltávolítva {0}",
   "Repeats": "Ismétlések",
