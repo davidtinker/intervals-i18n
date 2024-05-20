@@ -2276,6 +2276,7 @@
   "Wednesday": "Rabu",
   "week": "Minggu",
   "Week": "Minggu",
+  "week_in_plan": "Minggu {n} dari rencana",
   "Week_short": "Minggu",
   "Weekly": "Mingguan",
   "Weekly Average": "Rata-rata Mingguan",

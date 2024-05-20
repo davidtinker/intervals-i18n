@@ -2276,6 +2276,7 @@
   "Wednesday": "Mercredi",
   "week": "La semaine",
   "Week": "Semaine",
+  "week_in_plan": "Semaine {n} du plan",
   "Week_short": "Sem.",
   "Weekly": "Hebdomadaire",
   "Weekly Average": "Moyenne hebdomadaire",

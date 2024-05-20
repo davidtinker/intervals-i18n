@@ -2276,6 +2276,7 @@
   "Wednesday": "Wednesday",
   "week": "week",
   "Week": "Week",
+  "week_in_plan": "Week {n} of plan",
   "Week_short": "Week",
   "Weekly": "Weekly",
   "Weekly Average": "Weekly Average",
