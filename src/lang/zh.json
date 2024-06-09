@@ -2420,7 +2420,9 @@
   "zones_changed": "单击以将更改应用到该运动的现有活动",
   "zones_changed_title": "您已更改区域",
   "Zoom": "缩放",
+  "Zoom Avg": "缩放平均值",
   "Zoom Trend": "趋势缩放",
+  "zoom_avg_blurb": "可见部分的平均值",
   "zoom_before_crop": "在点击剪裁之前，放大到你想保留的活动部分",
   "zoom_trend_blurb": "可见部分的线性趋势线（y=mx+c）"
 }

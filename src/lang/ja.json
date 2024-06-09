@@ -2420,7 +2420,9 @@
   "zones_changed": "このスポーツの既存のアクティビティに変更を適用します",
   "zones_changed_title": "ゾーンを変更しました",
   "Zoom": "ズーム",
+  "Zoom Avg": "ズーム平均",
   "Zoom Trend": "ズームトレンド",
+  "zoom_avg_blurb": "可視部分の平均",
   "zoom_before_crop": "トリミングをクリックする前に、アクティビティーの残したい部分にズームしてください。",
   "zoom_trend_blurb": "可視部分の線形トレンドライン（y=mx+c）"
 }

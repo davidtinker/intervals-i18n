@@ -2420,7 +2420,9 @@
   "zones_changed": "Kattintson a módosítások alkalmazásához a sportág meglévő tevékenységeire",
   "zones_changed_title": "Megváltoztatta a zónáit",
   "Zoom": "Nagyítás",
+  "Zoom Avg": "Zoom Átlag",
   "Zoom Trend": "Zoom Trend",
+  "zoom_avg_blurb": "Átlag a látható részre",
   "zoom_before_crop": "Mielőtt a kivágás gombra kattintasz, nagyíts a tevékenység azon részére, amelyet meg szeretnél tartani",
   "zoom_trend_blurb": "Lineáris trendvonal (y=mx+c) a látható részre"
 }

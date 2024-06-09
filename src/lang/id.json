@@ -2420,7 +2420,9 @@
   "zones_changed": "Klik untuk menerapkan perubahan pada aktivitas yang ada untuk olahraga ini",
   "zones_changed_title": "Anda telah mengubah zona Anda",
   "Zoom": "Zoom",
+  "Zoom Avg": "Zoom Rata-rata",
   "Zoom Trend": "Tren Zoom",
+  "zoom_avg_blurb": "Rata-rata untuk bagian yang terlihat",
   "zoom_before_crop": "Zoom ke bagian aktivitas yang ingin Anda pertahankan sebelum mengeklik krop",
   "zoom_trend_blurb": "Garis tren linear (y=mx+c) untuk bagian yang terlihat"
 }

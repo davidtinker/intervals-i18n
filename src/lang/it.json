@@ -2420,7 +2420,9 @@
   "zones_changed": "Fai clic per applicare le modifiche alle attività esistenti per questo sport",
   "zones_changed_title": "Hai cambiato le tue zone",
   "Zoom": "Zoom",
+  "Zoom Avg": "Zoom Medio",
   "Zoom Trend": "Tendenza Zoom",
+  "zoom_avg_blurb": "Media per la porzione visibile",
   "zoom_before_crop": "Ingrandisci la parte dell'attività che vuoi mantenere prima di cliccare su ritaglia",
   "zoom_trend_blurb": "Linea di tendenza lineare (y=mx+c) per la porzione visibile"
 }

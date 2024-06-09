@@ -2420,7 +2420,9 @@
   "zones_changed": "Cliquez pour appliquer les changements aux activités existantes pour ce sport",
   "zones_changed_title": "Vous avez changé vos zones",
   "Zoom": "Zoom",
+  "Zoom Avg": "Zoom Moyen",
   "Zoom Trend": "Tendance de zoom",
+  "zoom_avg_blurb": "Moyenne pour la partie visible",
   "zoom_before_crop": "Zoomez sur la partie de l'activité que vous souhaitez conserver avant de cliquer sur le bouton \"Rogner\".",
   "zoom_trend_blurb": "Ligne de tendance linéaire (y=mx+c) pour la portion visible"
 }

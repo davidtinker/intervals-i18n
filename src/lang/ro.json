@@ -2420,7 +2420,9 @@
   "zones_changed": "Faceți clic pentru a aplica modificările activităților existente pentru acest sport",
   "zones_changed_title": "Ți-ai schimbat zonele",
   "Zoom": "Zoom",
+  "Zoom Avg": "Zoom Mediu",
   "Zoom Trend": "Tendința Zoom",
+  "zoom_avg_blurb": "Medie pentru porțiunea vizibilă",
   "zoom_before_crop": "Mărește partea de activitate pe care dorești să o păstrezi înainte de a apăsa pe decupare",
   "zoom_trend_blurb": "Linia de tendință liniară (y=mx+c) pentru porțiunea vizibilă"
 }
