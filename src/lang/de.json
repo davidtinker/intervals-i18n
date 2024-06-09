@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Watt / bpm",
   "Watts Range": "Watt-Bereich",
   "Watts/kg": "Watt/kg",
+  "watts_30s_blurb": "30s gleitender Durchschnitt auf einer logarithmischen Skala",
   "wattsBpm": "Auch bekannt als Leistungs-/Eingangsverhältnis, ein Maß dafür, wie viel Leistung (Watt) du für einen bestimmten Eingang (Herzfrequenz gemessen in Schlägen/Minute) erbringst. Je fitter du wirst, desto höher sollte diese Zahl sein, obwohl es viele Faktoren gibt, die die Herzfrequenz beeinflussen. Am besten ist es, dies bei Ausdauerfahrten zu berücksichtigen. Siehe <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>Joe Friels Blog</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Klicken Sie hier, um die Änderungen auf bestehende Aktivitäten für diese Sportart anzuwenden",
   "zones_changed_title": "Sie haben Ihre Zonen geändert",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Zoome auf den Teil der Aktivität, den du behalten möchtest, bevor du auf Ausschneiden klickst."
+  "Zoom Trend": "Zoom-Trend",
+  "zoom_before_crop": "Zoome auf den Teil der Aktivität, den du behalten möchtest, bevor du auf Ausschneiden klickst.",
+  "zoom_trend_blurb": "Lineare Trendlinie (y=mx+c) für den sichtbaren Bereich"
 }

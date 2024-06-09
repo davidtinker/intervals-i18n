@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Wattů / min",
   "Watts Range": "Rozsah Watts",
   "Watts/kg": "Watty/kg",
+  "watts_30s_blurb": "30s pohyblivý průměr na logaritmické stupnici",
   "wattsBpm": "Také známý jako poměr výstupu / vstupu, míra toho, kolik výstupu (wattů) produkujete pro daný vstup (srdeční frekvence měřená v úderech za minutu). Jakmile budete fit, toto číslo by se mělo zvyšovat, i když existuje mnoho matoucích faktorů, které ovlivňují HR. Nejlepší je sledovat pro vytrvalostní jízdy. Podívejte se na <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>blog Joe Friela</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Kliknutím použijete změny na stávající aktivity pro tento sport",
   "zones_changed_title": "Změnili jste své zóny",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Před kliknutím na oříznutí zvětšete část aktivity, kterou chcete zachovat"
+  "Zoom Trend": "Trend Zoom",
+  "zoom_before_crop": "Před kliknutím na oříznutí zvětšete část aktivity, kterou chcete zachovat",
+  "zoom_trend_blurb": "Lineární trendová čára (y=mx+c) pro viditelnou část"
 }

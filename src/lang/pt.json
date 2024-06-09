@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Watts / bpm",
   "Watts Range": "Intervalo Watts",
   "Watts/kg": "Watts/kg",
+  "watts_30s_blurb": "Média móvel de 30 segundos numa escala logarítmica",
   "wattsBpm": "Também conhecido como rácio saída / entrada, uma medida de quanta saída (watts) produz para uma dada entrada (frequência cardíaca medida em batimentos/minuto). À medida que se vai ficando mais apto, este número deve aumentar, embora haja muitos factores de confusão que influenciam a FC. Esta métrica é mais útil para provas de endurance. Ver <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>o blog de Joe Friel</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Delta de Wbal",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Clique para aplicar as alterações às atividades existentes para este esporte",
   "zones_changed_title": "Você mudou suas zonas",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Zoom para a parte da actividade que deseja manter antes de cortar"
+  "Zoom Trend": "Tendência de Zoom",
+  "zoom_before_crop": "Zoom para a parte da actividade que deseja manter antes de cortar",
+  "zoom_trend_blurb": "Linha de tendência linear (y=mx+c) para a parte visível"
 }

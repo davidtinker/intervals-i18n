@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Vati / bpm",
   "Watts Range": "Razpon Vatov",
   "Watts/kg": "Vati/kg",
+  "watts_30s_blurb": "30s premično povprečje na logaritemski lestvici",
   "wattsBpm": "Znano tudi kot razmerje izhoda / vhoda, merilo, koliko izhodne moči (vatov) proizvedete za dani vhod (srčni utrip, merjen v utripih/minuto). Ko postanete boljši, bi se ta številka morala povečati, čeprav obstaja veliko zmedenih dejavnikov, ki vplivajo na HR. Najbolje je, da si to ogledate za vzdržljivostne vožnje. Oglejte si <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>blog Joeja Friela</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Kliknite, če želite uporabiti spremembe za obstoječe dejavnosti za ta šport",
   "zones_changed_title": "Spremenili ste svoje cone",
   "Zoom": "Povečavajte",
-  "zoom_before_crop": "Povečajte del aktivnosti, ki jo želite obdržati, preden kliknete obreži"
+  "Zoom Trend": "Trend Zoom",
+  "zoom_before_crop": "Povečajte del aktivnosti, ki jo želite obdržati, preden kliknete obreži",
+  "zoom_trend_blurb": "Linearni trendna črta (y=mx+c) za vidni del"
 }

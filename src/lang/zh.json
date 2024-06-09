@@ -2264,6 +2264,7 @@
   "Watts / bpm": "W/bpm",
   "Watts Range": "功率范围",
   "Watts/kg": "W/kg",
+  "watts_30s_blurb": "对数尺度上的30秒移动平均值",
   "wattsBpm": "也被称为输出/输入比，衡量在给定的输入(以bpm为单位的心率)下产生多少输出(功率)。随着你越来越健康，这个数字应该会上升，尽管有许多影响心率的因素。最好在耐力骑行中看一看这个数字。见 <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>Joe Friel的博客</a>",
   "Wbal": "W'平衡",
   "Wbal delta": "W平衡变化",
@@ -2419,5 +2420,7 @@
   "zones_changed": "单击以将更改应用到该运动的现有活动",
   "zones_changed_title": "您已更改区域",
   "Zoom": "缩放",
-  "zoom_before_crop": "在点击剪裁之前，放大到你想保留的活动部分"
+  "Zoom Trend": "趋势缩放",
+  "zoom_before_crop": "在点击剪裁之前，放大到你想保留的活动部分",
+  "zoom_trend_blurb": "可见部分的线性趋势线（y=mx+c）"
 }

@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Watts / bpm",
   "Watts Range": "Watts Range",
   "Watts/kg": "Watts/kg",
+  "watts_30s_blurb": "30s moving average on a log scale",
   "wattsBpm": "Also known as output / input ratio, a measure of how much output (watts) you produce for a given input (heart rate measured in beats/minute). As you get fitter this number should go up though there are many confounding factors that influence HR. Best to look at this for endurance rides. See <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>Joe Friel's blog</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Click to apply the changes to existing activities for this sport",
   "zones_changed_title": "You have changed your zones",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Zoom to the part of the activity you want to keep before clicking crop"
+  "Zoom Trend": "Zoom Trend",
+  "zoom_before_crop": "Zoom to the part of the activity you want to keep before clicking crop",
+  "zoom_trend_blurb": "Linear trend line (y=mx+c) for visible portion"
 }

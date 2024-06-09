@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Waty / bpm",
   "Watts Range": "Watts Range",
   "Watts/kg": "Waty/kg",
+  "watts_30s_blurb": "Średnia ruchoma 30s na skali logarytmicznej",
   "wattsBpm": "Znany również jako stosunek mocy wyjściowej do mocy wejściowej, jest miarą tego, ile mocy wyjściowej (watów) produkujesz dla danego wkładu (tętno mierzone w uderzeniach/minutę). Wraz z poprawą wytrewnowania liczba ta powinna wzrastać, choć istnieje wiele czynników wpływających na HR. Najlepiej przyjrzeć się temu podczas jazdy wytrzymałościowej. Zobacz <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>blog Joe Friela</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Kliknij, aby zastosować zmiany do istniejących aktywności dla tego sportu",
   "zones_changed_title": "Zmieniłeś swoje strefy",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Powiększ część aktywności, którą chcesz zachować, przed kliknięciem przycisku przycinania."
+  "Zoom Trend": "Trend Zoom",
+  "zoom_before_crop": "Powiększ część aktywności, którą chcesz zachować, przed kliknięciem przycisku przycinania.",
+  "zoom_trend_blurb": "Liniowa linia trendu (y=mx+c) dla widocznej części"
 }

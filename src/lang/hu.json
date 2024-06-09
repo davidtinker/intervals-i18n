@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Watt / pulzus",
   "Watts Range": "Watt tartomány",
   "Watts/kg": "Watt/Kg",
+  "watts_30s_blurb": "30 napos mozgóátlag logaritmik skálán",
   "wattsBpm": "Kimeneti / bemeneti arány néven is ismert. Annak a mértéke, hogy mennyi kimenetet adsz le (wattban mérve) egy adott bemenethez képest (ami a pulzusod szívverés/percben mérve). Ahogy egyre fittebb leszel, ennek a számnak növekednie kell, bár sok egyéb zavaró tényező is befolyásolja a pulzusod. Ezt elsősorban az állóképességi tekeréseid kapcsán érdemes figyelned. Lásd <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>Joe Friel blogját</a>.",
   "Wbal": "W' e.súly",
   "Wbal delta": "W' e.súly változás",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Kattintson a módosítások alkalmazásához a sportág meglévő tevékenységeire",
   "zones_changed_title": "Megváltoztatta a zónáit",
   "Zoom": "Nagyítás",
-  "zoom_before_crop": "Mielőtt a kivágás gombra kattintasz, nagyíts a tevékenység azon részére, amelyet meg szeretnél tartani"
+  "Zoom Trend": "Zoom Trend",
+  "zoom_before_crop": "Mielőtt a kivágás gombra kattintasz, nagyíts a tevékenység azon részére, amelyet meg szeretnél tartani",
+  "zoom_trend_blurb": "Lineáris trendvonal (y=mx+c) a látható részre"
 }

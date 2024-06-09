@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Vatios / ppm",
   "Watts Range": "Gama de Vatios",
   "Watts/kg": "Vatios / kg",
+  "watts_30s_blurb": "Media móvil de 30 segundos en una escala logarítmica",
   "wattsBpm": "También conocido como ratio de salida/entrada, es una medida de la cantidad de salida (vatios) que produces para una entrada determinada (frecuencia cardíaca medida en latidos/minuto). A medida que te pones en forma, este número debería aumentar, aunque hay muchos factores que influyen en la FC. Lo mejor es mirar esto para los paseos de resistencia. Ver <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>el blog de Joe Friel</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Haga clic para aplicar los cambios a las actividades existentes para este deporte",
   "zones_changed_title": "Has cambiado tus zonas",
   "Zoom": "zoom",
-  "zoom_before_crop": "Haz zoom en la parte de la actividad que quieres conservar antes de hacer clic en recortar"
+  "Zoom Trend": "Tendencia de zoom",
+  "zoom_before_crop": "Haz zoom en la parte de la actividad que quieres conservar antes de hacer clic en recortar",
+  "zoom_trend_blurb": "Línea de tendencia lineal (y=mx+c) para la porción visible"
 }

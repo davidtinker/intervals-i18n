@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Watt / bpm",
   "Watts Range": "Wattbereik",
   "Watts/kg": "Watt/kg",
+  "watts_30s_blurb": "30s voortschrijdend gemiddelde op een logaritmische schaal",
   "wattsBpm": "Ook bekend als Output / Input verhouding, een maat voor hoeveel output (watt) je produceert voor een bepaalde input (hartslag gemeten in slagen/minuut). Naarmate je fitter wordt, zou dit getal moeten stijgen, hoewel er veel factoren zijn die HR beïnvloeden. Dit is best enkel op te volgen voor uithoudingsritten. Zie <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>de blog van Joe Friel</a>.",
   "Wbal": "Wbal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Klik om de wijzigingen toe te passen op bestaande activiteiten voor deze sport",
   "zones_changed_title": "Je hebt je zones gewijzigd",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Zoom naar het deel van de activiteit dat je wil behouden vooraleer op bijsnijden te klikken"
+  "Zoom Trend": "Zoom Trend",
+  "zoom_before_crop": "Zoom naar het deel van de activiteit dat je wil behouden vooraleer op bijsnijden te klikken",
+  "zoom_trend_blurb": "Lineaire trendlijn (y=mx+c) voor zichtbaar deel"
 }

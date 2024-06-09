@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Watt / bpm",
   "Watts Range": "Intervallo di Watt",
   "Watts/kg": "Watt/kg",
+  "watts_30s_blurb": "Media mobile a 30 giorni su scala logaritmica",
   "wattsBpm": "Conosciuto anche come rapporto output / input, una misura di quanto output (watt) si produce per un dato input (frequenza cardiaca misurata in battiti/minuto). Man mano che si diventa più in forma questo numero dovrebbe salire, anche se ci sono molti fattori di confusione che influenzano la frequenza cardiaca. È meglio guardare questo per le corse di resistenza. Vedi <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>il blog di Joe Friel</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Fai clic per applicare le modifiche alle attività esistenti per questo sport",
   "zones_changed_title": "Hai cambiato le tue zone",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Ingrandisci la parte dell'attività che vuoi mantenere prima di cliccare su ritaglia"
+  "Zoom Trend": "Tendenza Zoom",
+  "zoom_before_crop": "Ingrandisci la parte dell'attività che vuoi mantenere prima di cliccare su ritaglia",
+  "zoom_trend_blurb": "Linea di tendenza lineare (y=mx+c) per la porzione visibile"
 }

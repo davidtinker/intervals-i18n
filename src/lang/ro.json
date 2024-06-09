@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Wați / bpm",
   "Watts Range": "Gama de wați",
   "Watts/kg": "Wați/kg",
+  "watts_30s_blurb": "Media mobilă de 30 de secunde pe o scară logaritmică",
   "wattsBpm": "Este de asemenea, cunoscut sub numele de raport ieșire/intrare, o măsură a cantității de ieșire (wați) pe care o produceți pentru o intrare dată (pulsul măsurat în bătăi/minut). Pe măsură ce devii mai fit, acest număr ar trebui să crească, deși există mulți factori confuzi care influențează pulsul. Cel mai bine este să te uiți la asta pentru anduranță. Vezi <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>blogul lui Joe Friel</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal delta",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Faceți clic pentru a aplica modificările activităților existente pentru acest sport",
   "zones_changed_title": "Ți-ai schimbat zonele",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Mărește partea de activitate pe care dorești să o păstrezi înainte de a apăsa pe decupare"
+  "Zoom Trend": "Tendința Zoom",
+  "zoom_before_crop": "Mărește partea de activitate pe care dorești să o păstrezi înainte de a apăsa pe decupare",
+  "zoom_trend_blurb": "Linia de tendință liniară (y=mx+c) pentru porțiunea vizibilă"
 }

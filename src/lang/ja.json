@@ -2264,6 +2264,7 @@
   "Watts / bpm": "W/心拍",
   "Watts Range": "Wレンジ",
   "Watts/kg": "W/kg",
+  "watts_30s_blurb": "対数スケールの 30 秒移動平均",
   "wattsBpm": "入出力比とも呼ばれ、与えられた入力（１分の心拍数）に対してどれだけの出力（ワット）が出せたかを示す指標です。 フィットネス値が向上すればこの数値も向上するはずですが、心拍数は様々な複雑な要因に影響を受けます。長距離ライドの能力を測るには最適です。詳しくは<a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>Joe Friel's blog</a>を参照してください",
   "Wbal": "W'bal",
   "Wbal delta": "Wbalの差",
@@ -2419,5 +2420,7 @@
   "zones_changed": "このスポーツの既存のアクティビティに変更を適用します",
   "zones_changed_title": "ゾーンを変更しました",
   "Zoom": "ズーム",
-  "zoom_before_crop": "トリミングをクリックする前に、アクティビティーの残したい部分にズームしてください。"
+  "Zoom Trend": "ズームトレンド",
+  "zoom_before_crop": "トリミングをクリックする前に、アクティビティーの残したい部分にズームしてください。",
+  "zoom_trend_blurb": "可視部分の線形トレンドライン（y=mx+c）"
 }

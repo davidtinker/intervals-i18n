@@ -2264,6 +2264,7 @@
   "Watts / bpm": "Watts / bpm",
   "Watts Range": "Plage de Watts",
   "Watts/kg": "Watts/kg",
+  "watts_30s_blurb": "Moyenne mobile de 30 secondes sur une échelle logarithmique",
   "wattsBpm": "Également connu sous le nom de ratio sortie/entrée, il s'agit d'une mesure de la quantité de sortie (watts) que vous produisez pour une entrée donnée (fréquence cardiaque mesurée en battements/minute). Plus vous êtes en forme, plus ce chiffre devrait augmenter, bien que de nombreux facteurs confondants influencent la FC. Il est préférable d'examiner ce chiffre pour les courses d'endurance. Voir <a href='https://joefrielsblog.com/speed-power-heart-rate-and-fitness/' target='_blank'>le blog de Joe Friel</a>.",
   "Wbal": "W'bal",
   "Wbal delta": "Wbal différence",
@@ -2419,5 +2420,7 @@
   "zones_changed": "Cliquez pour appliquer les changements aux activités existantes pour ce sport",
   "zones_changed_title": "Vous avez changé vos zones",
   "Zoom": "Zoom",
-  "zoom_before_crop": "Zoomez sur la partie de l'activité que vous souhaitez conserver avant de cliquer sur le bouton \"Rogner\"."
+  "Zoom Trend": "Tendance de zoom",
+  "zoom_before_crop": "Zoomez sur la partie de l'activité que vous souhaitez conserver avant de cliquer sur le bouton \"Rogner\".",
+  "zoom_trend_blurb": "Ligne de tendance linéaire (y=mx+c) pour la portion visible"
 }
