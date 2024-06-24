@@ -1026,6 +1026,7 @@
   "him": "他",
   "his": "他的",
   "Histogram": "直方图",
+  "histogram_bucket_trim_blurb": "删除头部和尾部的桶，其总量少于总量的%",
   "Hockey": "曲棍球",
   "Holiday": "假日",
   "Home page": "首页",

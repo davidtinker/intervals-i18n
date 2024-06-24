@@ -1026,6 +1026,7 @@
   "him": "jego",
   "his": "jego",
   "Histogram": "histogram",
+  "histogram_bucket_trim_blurb": "Usuń wiadra głowy i ogona z mniej niż tego % całkowitej wartości",
   "Hockey": "Hokej",
   "Holiday": "WAKACJE",
   "Home page": "Strona główna",

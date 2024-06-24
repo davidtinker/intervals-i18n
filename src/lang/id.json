@@ -1026,6 +1026,7 @@
   "him": "dia",
   "his": "dia",
   "Histogram": "Histogram",
+  "histogram_bucket_trim_blurb": "Hapus ember kepala dan ekor dengan kurang dari % dari total",
   "Hockey": "Olahraga Hoki",
   "Holiday": "Liburan",
   "Home page": "Halaman beranda",

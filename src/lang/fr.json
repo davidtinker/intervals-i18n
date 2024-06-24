@@ -1026,6 +1026,7 @@
   "him": "lui",
   "his": "son",
   "Histogram": "histogramme",
+  "histogram_bucket_trim_blurb": "Supprimer les seaux de tête et de queue avec moins de ce % du total",
   "Hockey": "Hockey",
   "Holiday": "Vacances",
   "Home page": "Page d'accueil",

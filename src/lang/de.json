@@ -1026,6 +1026,7 @@
   "him": "ihm",
   "his": "seine",
   "Histogram": "Histogramm",
+  "histogram_bucket_trim_blurb": "Entfernen Sie Kopf- und Schwanz-Eimer mit weniger als diesem % des Gesamtbetrags",
   "Hockey": "Eishockey",
   "Holiday": "Urlaub",
   "Home page": "Startseite",

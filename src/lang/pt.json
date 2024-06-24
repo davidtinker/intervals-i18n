@@ -1026,6 +1026,7 @@
   "him": "ele",
   "his": "Seu",
   "Histogram": "Histograma",
+  "histogram_bucket_trim_blurb": "Remover baldes de cabeça e cauda com menos de %{percentage} do total",
   "Hockey": "Hóquei",
   "Holiday": "Férias",
   "Home page": "Página inicial",

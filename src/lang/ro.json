@@ -1026,6 +1026,7 @@
   "him": "-l",
   "his": "a lui",
   "Histogram": "histogramă",
+  "histogram_bucket_trim_blurb": "Eliminați găleți de început și de sfârșit cu mai puțin de acest % din total",
   "Hockey": "hochei",
   "Holiday": "Vacanță",
   "Home page": "Pagina principala",

@@ -1026,6 +1026,7 @@
   "him": "彼",
   "his": "彼の",
   "Histogram": "ヒストグラム",
+  "histogram_bucket_trim_blurb": "合計のこの%未満の先頭バケットと末尾バケットを削除します",
   "Hockey": "ホッケー",
   "Holiday": "休暇",
   "Home page": "ホームページ",

@@ -1026,6 +1026,7 @@
   "him": "mu",
   "his": "jeho",
   "Histogram": "histogram",
+  "histogram_bucket_trim_blurb": "Odstraňte hlavu a ocasové kbelíky s méně než tímto % z celkového",
   "Hockey": "Hokej",
   "Holiday": "Dovolená",
   "Home page": "Domovská stránka",

@@ -1026,6 +1026,7 @@
   "him": "Él",
   "his": "Su",
   "Histogram": "histograma",
+  "histogram_bucket_trim_blurb": "Eliminar los buckets de inicio y final con menos del %{percentage} del total",
   "Hockey": "Hockey",
   "Holiday": "Fiesta",
   "Home page": "Página de inicio",

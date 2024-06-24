@@ -1026,6 +1026,7 @@
   "him": "njega",
   "his": "njegovega",
   "Histogram": "histogram",
+  "histogram_bucket_trim_blurb": "Odstranite glavo in rep vedra z manj kot toliko % od skupnega",
   "Hockey": "hokej",
   "Holiday": "Počitnice",
   "Home page": "Domača stran",

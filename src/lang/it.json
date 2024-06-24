@@ -1026,6 +1026,7 @@
   "him": "lui",
   "his": "suo",
   "Histogram": "Istogramma",
+  "histogram_bucket_trim_blurb": "Rimuovere i secchi testa e coda con meno di questo % del totale",
   "Hockey": "Hockey",
   "Holiday": "Vacanza",
   "Home page": "Pagina iniziale",
