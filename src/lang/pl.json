@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Bezpłatny okres próbny Intervals.icu dobiegł końca",
   "trial_ending_soon_p1": "Korzystanie z Intervals.icu jest bezpłatne, ale niektóre funkcje wymagają subskrypcji po {0} -dniowym bezpłatnym okresie próbnym. Twój okres próbny zakończy się {1}. Subskrybuj, aby nadal korzystać z funkcji premium, takich jak pobieranie Strava i wspierać rozwój Intervals.icu!",
   "trial_ending_soon_subject": "Bezpłatny okres próbny Intervals.icu wkrótce się skończy",
+  "Trim %": "Obcięte %",
   "trimp": "Punkty impulsu treningowego według Mortona/Banistera ze współczynnikiem Greena i wsp. Jest to miara obciążenia treningowego obliczana na podstawie średniego HR dla danej aktywności w stosunku do HR spoczynkowego i HR maksymalnego oraz czasu ruchu - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modelowanie wydajności człowieka w bieganiu</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "Punkty TRIMP",

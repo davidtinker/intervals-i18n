@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Intervals.icu 免费试用结束",
   "trial_ending_soon_p1": "Intervals.icu 可免费使用，但某些功能需要在 {0} 天免费试用期后订阅。您的试用将于 {1}结束。请订阅以继续使用 Strava 下载等高级功能并支持 Intervals.icu 的开发！",
   "trial_ending_soon_subject": "Intervals.icu 免费试用即将结束",
+  "Trim %": "修剪 %",
   "trimp": "根据Morton/Banister与Green等人的系数，训练冲力点。这是一个衡量训练负荷的标准，由活动的平均心率相对于静息心率和最大心率以及移动时间得出-- <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>模拟人类跑步的表现</a>。",
   "TRIMP": "TRIMP",
   "TRIMP points": "TRIMP点",

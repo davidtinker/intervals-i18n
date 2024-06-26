@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Uji coba gratis Intervals.icu berakhir",
   "trial_ending_soon_p1": "Intervals.icu gratis untuk digunakan tetapi beberapa fitur memerlukan langganan setelah periode uji coba gratis selama {0} hari. Uji coba Anda akan berakhir pada tanggal {1}. Silakan berlangganan untuk terus menggunakan fitur-fitur premium seperti unduhan Strava dan untuk mendukung pengembangan Intervals.icu!",
   "trial_ending_soon_subject": "Uji coba gratis Intervals.icu segera berakhir",
+  "Trim %": "Potong %",
   "trimp": "Titik impuls latihan menurut Morton/Banister dengan koefisien Green et al. Ini adalah ukuran beban latihan yang berasal dari HR rata-rata untuk aktivitas relatif terhadap HR istirahat dan HR maksimal dan waktu bergerak - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Pemodelan kinerja manusia dalam berlari</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "Poin TRIMP",

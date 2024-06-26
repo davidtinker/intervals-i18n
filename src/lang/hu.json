@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Az Intervals.icu ingyenes próbaverziója véget ért",
   "trial_ending_soon_p1": "Az Intervals.icu ingyenesen használható, de egyes funkciókhoz {0} napos ingyenes próbaidőszak után előfizetés szükséges. A próbaidőszak a következő napon ér véget: {1}. Kérjük, iratkozzon fel, hogy továbbra is használhassa a prémium funkciókat, például a Strava letöltését, és támogassa az Intervals.icu fejlesztését!",
   "trial_ending_soon_subject": "Az Intervals.icu ingyenes kipróbálása hamarosan véget ér",
+  "Trim %": "Vágd le %",
   "trimp": "Edzés-impulzus pontok (Training Impulse Points, TRIMP) mérőszám (koefficiens). A TRIMP az edzésterhelést méri a tevékenység átlagos pulzusszámából, amelyet a nyugalmi pulzusszámhoz, a maximális pulzusszámhoz, valamint a mozgással töltött időhöz viszonyít --- bővebben lásd <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Morton, Banister, Green et al.: Modeling human performance in running</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "TRIMP pontok",

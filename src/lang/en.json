@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Intervals.icu free trial ended",
   "trial_ending_soon_p1": "Intervals.icu is free to use but some features require a subscription after a {0} day free trial period. Your trial will be ending on {1}. Please subscribe to continue using premium features like Strava download and to support the development of Intervals.icu!",
   "trial_ending_soon_subject": "Intervals.icu free trial ending soon",
+  "Trim %": "Trim %",
   "trimp": "Training Impulse points according to Morton/Banister with Green et al coefficient. This is a measure of training load derived from the average HR for the activity relative to resting HR and max HR and the moving time - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modelling human performance in running</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "TRIMP points",

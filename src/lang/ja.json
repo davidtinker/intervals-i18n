@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Intervals.icuの無料試用期間は終了しました",
   "trial_ending_soon_p1": "Intervals.icuは無料でご利用いただけますが、いくつかの機能は{0}日の無料試用期間の後にサブスクリプションが必要です。あなたのトライアルは{1}日に終了します。Stravaダウンロードのようなプレミアム機能を使用し続けるため、そしてIntervals.icuの開発をサポートするために、サブスクリプション加入をお願いします！",
   "trial_ending_soon_subject": "Intervals.icuの無料試用期間はもうすぐ終了します",
+  "Trim %": "トリム %",
   "trimp": "モートン/バニスターとグリーンらによる「Training Impulse」係数です。安静時HRと最大HRに対して、アクティビティの平均HRと活動時間から算出される指標で、トレーニング負荷を表します。 - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modelling human performance in running</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "TRIMPポイント",

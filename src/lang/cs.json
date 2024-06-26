@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Bezplatná zkušební verze Intervals.icu skončila",
   "trial_ending_soon_p1": "Intervals.icu je možné používat zdarma, ale některé funkce vyžadují předplatné po {0} denním bezplatném zkušebním období. Vaše zkušební období skončí dne {1}. Chcete-li pokračovat v používání prémiových funkcí, jako je stahování Strava, a podporovat vývoj Intervals.icu, přihlaste se prosím!",
   "trial_ending_soon_subject": "Bezplatná zkušební verze Intervals.icu brzy skončí",
+  "Trim %": "Oříznout %",
   "trimp": "Tréninkové impulzní body podle Mortona/Banistera s koeficientem Green et al. Jedná se o míru tréninkové zátěže odvozenou z průměrného HR pro danou aktivitu vzhledem ke klidovému HR a maximálnímu HR a pohybovému času - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modelování lidského výkonu při běhu</a>.",
   "TRIMP": "TRIMP",
   "TRIMP points": "Body TRIMP",

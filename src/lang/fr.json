@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Fin de l'essai gratuit d'Intervals.icu",
   "trial_ending_soon_p1": "Intervals.icu est gratuit, mais certaines fonctionnalités nécessitent un abonnement après une période d'essai gratuite de {0}  jours. Votre essai se terminera le {1}. Veuillez vous abonner pour continuer à utiliser les fonctionnalités premium telles que le téléchargement de Strava et pour soutenir le développement d'Intervals.icu !",
   "trial_ending_soon_subject": "L'essai gratuit d'Intervals.icu se termine bientôt",
+  "Trim %": "Couper %",
   "trimp": "Valeur \"Training Impulse\" selon Morton/Banister avec le coefficient de Green et al. Il s'agit d'une mesure de la charge d'entraînement dérivée de la FC moyenne pour l'activité par rapport à la FC au repos et à la FC maximale et de la durée de l'activité - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modélisation de la performance humaine en course à pied</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "Points TRIMP",

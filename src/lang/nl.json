@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "De gratis proefperiode van Intervals.icu is afgelopen",
   "trial_ending_soon_p1": "Intervals.icu is gratis te gebruiken, maar voor sommige functies is een bijdrage vereist na een gratis proefperiode van {0} dagen. Je proefperiode eindigt op {1}. Abonneer je om premiumfuncties zoals Strava-download te blijven gebruiken en om de ontwikkeling van Intervals.icu te ondersteunen!",
   "trial_ending_soon_subject": "De gratis proefperiode van Intervals.icu loopt binnenkort af",
+  "Trim %": "Trimmen %",
   "trimp": "Trainingsimpulspunten volgens Morton/Banister met Green et al coëfficiënt. Dit is een maat voor de trainingsbelasting, afgeleid uit de gemiddelde HR voor de activiteit ten opzichte van de hartslagreserve (HRmax - HRrust) en de bewogen tijd - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modelleren van menselijke prestaties bij hardlopen</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "TRIMP punten",

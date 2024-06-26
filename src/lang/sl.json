@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Brezplačna preskusna različica Intervals.icu se je končala",
   "trial_ending_soon_p1": "Intervals.icu je brezplačen za uporabo, vendar je za nekatere funkcije potrebna naročnina po {0} -dnevnem brezplačnem preskusnem obdobju. Vaše preskusno obdobje se bo končalo {1}. Naročite se, če želite še naprej uporabljati vrhunske funkcije, kot je prenos Strava, in podpirati razvoj Intervals.icu!",
   "trial_ending_soon_subject": "Brezplačna preskusna različica Intervals.icu se bo kmalu končala",
+  "Trim %": "Obreži %",
   "trimp": "Trening impulzne točke po Mortonu/Banisterju s koeficientom Green et al. To je merilo obremenitve treninga, ki izhaja iz povprečnega HR za dejavnost glede na HR v mirovanju in najvišji HR ter čas gibanja – <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modeliranje človeške zmogljivosti pri teku</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "TRIMP točke",

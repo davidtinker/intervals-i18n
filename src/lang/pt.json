@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "O teste gratuito do Intervals.icu terminou",
   "trial_ending_soon_p1": "O uso do Intervals.icu é gratuito, mas alguns recursos exigem uma assinatura após um período de teste gratuito de {0} dias. Seu teste terminará em {1}. Assine para continuar usando recursos premium como o download do Strava e para apoiar o desenvolvimento do Intervals.icu!",
   "trial_ending_soon_subject": "A avaliação gratuita do Intervals.icu termina em breve",
+  "Trim %": "Cortar %",
   "trimp": "Pontos de Impulso de treino de acordo com Morton/Banister com coeficiente Green et al. Esta é uma medida da carga de treino derivada do HR médio para a actividade relativa ao HR em repouso e ao HR máximo e o tempo em movimento - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modelar o desempenho humano em corrida</a>.",
   "TRIMP": "TRIMP",
   "TRIMP points": "Pontos TRIMP",

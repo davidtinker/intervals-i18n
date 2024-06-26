@@ -2130,6 +2130,7 @@
   "trial_ended_subject": "Die kostenlose Testversion von Intervals.icu ist beendet",
   "trial_ending_soon_p1": "Intervals.icu kann kostenlos verwendet werden, aber für einige Funktionen ist nach einer kostenlosen Probezeit von {0} Tagen ein Abonnement erforderlich. Ihre Testversion endet am {1}. Bitte abonnieren Sie, um weiterhin Premium-Funktionen wie den Strava-Download zu nutzen und die Entwicklung von Intervals.icu zu unterstützen!",
   "trial_ending_soon_subject": "Die kostenlose Testversion von Intervals.icu endet bald",
+  "Trim %": "Beschneiden %",
   "trimp": "Trainingsimpulspunkte nach Morton/Banister mit Koeffizient von Green et al. Dies ist ein Maß für die Trainingsbelastung, das sich aus der durchschnittlichen Herzfrequenz für die Aktivität im Verhältnis zur Ruheherzfrequenz und der maximalen Herzfrequenz sowie der Bewegungszeit ergibt - <a href='https://www.researchgate.net/publication/20910238_Modeling_human_performance_in_running' target='_blank'>Modellierung der menschlichen Leistung beim Laufen</a>",
   "TRIMP": "TRIMP",
   "TRIMP points": "TRIMP-Punkte",
