@@ -553,6 +553,7 @@
   "Console": "コンソール",
   "Continuous eFTP with decay": "連続eFTP（減衰あり）",
   "Continuous estimated critical power with decay": "推定連続クリティカルパワー（減衰あり）",
+  "Contours": "輪郭",
   "Convert": "コンバート",
   "convert_distance": "メートルで記録されているフィールドは他の距離単位に変換されます（例：km、マイル など）",
   "convert_time": "秒で記録されているフィールドは様々なフォーマットに変換されます。",

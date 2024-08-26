@@ -553,6 +553,7 @@
   "Console": "Console",
   "Continuous eFTP with decay": "Continuous eFTP with decay",
   "Continuous estimated critical power with decay": "Continuous estimated critical power with decay",
+  "Contours": "Contours",
   "Convert": "Convert",
   "convert_distance": "Fields that are in meters can be converted to other distance units (e.g. km or miles).",
   "convert_time": "Fields that are in seconds can be converted into durations in various formats.",
