@@ -1640,6 +1640,7 @@
   "power_alt_acc_help": "运动员产生的功率高度较低，因为可用的氧气较少。这条迹线对此进行了调整，以显示在海平面可能产生的能量。假定运动员已适应环境（在高海拔地区数周）。 <a href='https://alex-cycle.blogspot.com/2014/12/' target='_blank'>Bassett 等人的公式</a>",
   "power_alt_help": "运动员产生的功率高度较低，因为可用的氧气较少。这条迹线对此进行了调整，以显示在海平面可能产生的能量。假定运动员未适应环境（海拔 1-7 天）。 <a href='https://alex-cycle.blogspot.com/2014/12/' target='_blank'>Bassett 等人的公式</a>",
   "power_field_blurb": "Activity fit 文件可能包含带有功率数据的几个不同字段（例如 Garmin 运行功率和 Stryd 功率）。选择用于此活动的字段，也可选择用于同一运动的未来活动。",
+  "power_field_title": "电源数据来源",
   "power_hr_chart_blurb": "这张图显示了相同的心率和功率数据，但X轴是每分钟的功率，Y轴是相应的心率。曲线显示了前半程和后半程的功率和心率之间的关系",
   "power_hr_chart_blurb2": "这个图表显示了每分钟的功率/心率比。考虑到降低功率时，心率反应会有延迟(滞后)，每个功率点的心率都有偏移",
   "power_hr_curve_chart_blurb": "随着身体越来越好，在给定的心率下所能产生的功率将增加。这从图表中向右的曲线可以看出，如果你比较两条曲线，在相同的心率下，它们之间的功率差异将显示在标记上",
