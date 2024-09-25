@@ -22,6 +22,7 @@ you can take it from there.
 - Matjaž Hribljan (sl)
 - Serhii Khrapin (uk)
 - Shingo Kitayama (ja)
+- Frederik (da)
 
 (Your name here! Send me a PR!)
 
