@@ -2112,6 +2112,7 @@
   "Time Trialist": "タイムトライアリスト",
   "time_in_zones_hr_load_blurb": "これまでのパワーと心拍数が含まれたアクティビティを用いて線形回帰モデルを構築し、トレーニング負荷を推定しています。",
   "time_trialist_blurb": "You can do kilometer after kilometer on the front and do not feel pain (Tony Martin)",
+  "Timeline": "タイムライン",
   "timezone": "一部のアクティビティファイル（Zwiftなど）にはタイムゾーン情報が含まれていません。そのようなデータを取り込む際に使用されるタイムゾーンをここで設定できます。",
   "Timezone": "タイムゾーン",
   "Title": "タイトル",

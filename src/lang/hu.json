@@ -2112,6 +2112,7 @@
   "Time Trialist": "Időfutammenő",
   "time_in_zones_hr_load_blurb": "Az edzésterhelés becslésére lineáris regressziós modell készül a korábbi, teljesítmény- és pulzus-adattal rögzített tevékenységeid alapján.",
   "time_trialist_blurb": "Kilométert kilométerre halmozhatsz az élen haladva fájdalom nélkül (Tony Martin)",
+  "Timeline": "Idővonal",
   "timezone": "Egyes tevékenység-fájlok (például a Zwift fájljai) nem tartalmaznak időzóna-információkat. Ez a választott időzóna az időzónák nélküli tevékenységekhez.",
   "Timezone": "Időzóna",
   "Title": "Cím",
