@@ -2112,6 +2112,7 @@
   "Time Trialist": "Spécialiste du CLM",
   "time_in_zones_hr_load_blurb": "Vos activités précédentes avec la puissance et la fréquence cardiaque sont utilisées pour construire un modèle de régression linéaire afin d'estimer la charge d'entraînement",
   "time_trialist_blurb": "Vous aimez les efforts en solitaire et pouvez avaler les kilomètres sans douleur (Tony Martin)",
+  "Timeline": "Chronologie",
   "timezone": "Certains fichiers d'activité (provenant de Zwift, par exemple) ne contiennent pas d'informations sur le fuseau horaire. C'est le fuseau horaire utilisé pour ces activités.",
   "Timezone": "Fuseau horaire",
   "Title": "Titre",

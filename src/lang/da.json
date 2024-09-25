@@ -2112,6 +2112,7 @@
   "Time Trialist": "Time Trialist",
   "time_in_zones_hr_load_blurb": "Dine tidligere aktiviteter med effekt og puls bruges til at bygge en lineær regressionsmodel til at estimere træningsbelastning.",
   "time_trialist_blurb": "Du kan køre forrest kilometer efter kilometer og føler ikke smerte (Tony Martin)",
+  "Timeline": "Tidslinje",
   "timezone": "Nogle aktivitetsfiler (f.eks. fra Zwift) indeholder ikke tidszoneoplysninger. Dette er den tidszone, der bruges til aktiviteter uden tidszoner.",
   "Timezone": "Tidszone",
   "Title": "Titel",
