@@ -936,6 +936,7 @@
   "ftp_up_0": "Din estimerede FTP er steget med {0}w til {1}w!",
   "ftp_up_from_ui": "FTP +{delta} til {value}w fra {time} ved {watt}w",
   "ftp_up_ui": "FTP +{delta} til {{value}}w",
+  "Full": "Fuldt",
   "Full activity data has not yet been downloaded from Strava": "Fuld aktivitetsdata er endnu ikke blevet downloadet fra Strava",
   "full_strava_history": "Download fuld Strava-historik (begrænset til 3 måneder under gratis prøveperiode)",
   "Functional Threshold Power": "Funktionel tærskeleffekt",

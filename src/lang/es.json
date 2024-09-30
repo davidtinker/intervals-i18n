@@ -936,6 +936,7 @@
   "ftp_up_0": "¡Tu FTP estimado ha aumentado en {0}w a {1}w!",
   "ftp_up_from_ui": "FTP +{delta} a {value}w desde {time} en {watts}w",
   "ftp_up_ui": "FTP +{delta} a {{value}}w",
+  "Full": "Completo",
   "Full activity data has not yet been downloaded from Strava": "Los datos completos de la actividad aún no se han descargado de Strava",
   "full_strava_history": "Descargue el historial completo de Strava (limitado a 3 meses durante la prueba gratuita)",
   "Functional Threshold Power": "Umbral de potencia funcional",

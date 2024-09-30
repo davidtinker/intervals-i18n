@@ -936,6 +936,7 @@
   "ftp_up_0": "Váš odhadovaný FTP se zvýšil o {0}w na {1}w!",
   "ftp_up_from_ui": "FTP +{delta} na {value}w od {time} v {watts}w",
   "ftp_up_ui": "FTP +{delta} až {{value}}w",
+  "Full": "Úplný",
   "Full activity data has not yet been downloaded from Strava": "Data o plné aktivitě ještě nebyla stažena ze Stravy",
   "full_strava_history": "Stáhnout celou historii Strava (omezeno na 3 měsíce během bezplatné zkušební verze)",
   "Functional Threshold Power": "Funkční prahový výkon",
