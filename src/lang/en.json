@@ -848,6 +848,7 @@
   "features_only_for_subscribers": "Features only available to subscribers:",
   "feel": "How did you feel?",
   "Feel": "Feel",
+  "Feels like": "Feels like",
   "Female": "Female",
   "Field": "Field",
   "field_pace_units": "Fields that are in meters/second can be formatted as pace instead of using the number format or speed (still uses number format).",
