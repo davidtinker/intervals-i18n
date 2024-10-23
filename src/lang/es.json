@@ -2433,6 +2433,7 @@
   "Wind": "viento",
   "Wind direction": "Dirección del viento",
   "Wind speed": "Velocidad del viento",
+  "wind_arrows_windy_com": "Las flechas de viento van a {link}",
   "wind_deg": "Viento °",
   "Windsurf": "Windsurf",
   "Word or #tag": "Palabra o #etiqueta",

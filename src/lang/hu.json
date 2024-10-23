@@ -2433,6 +2433,7 @@
   "Wind": "Szél",
   "Wind direction": "Szélirány",
   "Wind speed": "Szélsebesség",
+  "wind_arrows_windy_com": "A szél nyilai ide mennek: {link}",
   "wind_deg": "Szél °",
   "Windsurf": "Szörf",
   "Word or #tag": "Word vagy #tag",
