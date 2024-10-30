@@ -1752,6 +1752,7 @@
   "Read": "Číst",
   "Readiness": "Připravenost",
   "Real Avg Power": "Skutečná průměrná síla",
+  "reanalyze_for_weather": "Tato aktivita musí být znovu analyzována pro analýzu počasí. To může provést {name} nebo jeden z jejich trenérů.",
   "Recalculate": "Přepočítat",
   "Recent Athletes": "Nedávní sportovci",
   "Reconnect Delay": "Zpoždění opětovného připojení",

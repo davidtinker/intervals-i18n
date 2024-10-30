@@ -1752,6 +1752,7 @@
   "Read": "Olvas",
   "Readiness": "Készenlét",
   "Real Avg Power": "Valódi átlagteljesítmény",
+  "reanalyze_for_weather": "Ezt a tevékenységet újra kell elemezni az időjárás elemzése érdekében. Ezt {name} vagy az egyik edzője végezheti el.",
   "Recalculate": "Számolj újra",
   "Recent Athletes": "Újabb sportolók",
   "Reconnect Delay": "Újrakapcsolódási késleltetés",

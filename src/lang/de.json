@@ -1752,6 +1752,7 @@
   "Read": "Lesen",
   "Readiness": "Bereitschaft",
   "Real Avg Power": "Tatsächliche ⌀ Leistung",
+  "reanalyze_for_weather": "Diese Aktivität muss für die Wetteranalyse erneut analysiert werden. Dies kann von {name} oder einem ihrer Trainer durchgeführt werden.",
   "Recalculate": "Neu berechnen",
   "Recent Athletes": "Aktuelle Athleten",
   "Reconnect Delay": "Wiederverbindungs-Verzögerung",

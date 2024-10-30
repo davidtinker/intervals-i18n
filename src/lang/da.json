@@ -1752,6 +1752,7 @@
   "Read": "Læs",
   "Readiness": "Beredskab",
   "Real Avg Power": "Virkelig gennemsnitseffekt",
+  "reanalyze_for_weather": "Denne aktivitet skal genanalyseres til vejranalyse. Dette kan gøres af {name} eller en af deres trænere.",
   "Recalculate": "Genberegn",
   "Recent Athletes": "Nylige atleter",
   "Reconnect Delay": "Genopret forsinkelse",

@@ -1752,6 +1752,7 @@
   "Read": "レディネス",
   "Readiness": "レディネス",
   "Real Avg Power": "実際の平均パワー",
+  "reanalyze_for_weather": "このアクティビティは、気象分析のために再分析する必要があります。これは、 {name} または彼らのコーチの1人が行うことができます",
   "Recalculate": "再計算",
   "Recent Athletes": "最近見たアスリート",
   "Reconnect Delay": "再接続遅延",

@@ -1752,6 +1752,7 @@
   "Read": "Read",
   "Readiness": "Readiness",
   "Real Avg Power": "Real Avg Power",
+  "reanalyze_for_weather": "This activity needs to be re-analyzed for weather analysis. This can be done by {name} or one of their coaches",
   "Recalculate": "Recalculate",
   "Recent Athletes": "Recent Athletes",
   "Reconnect Delay": "Reconnect Delay",

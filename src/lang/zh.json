@@ -1752,6 +1752,7 @@
   "Read": "阅读",
   "Readiness": "准备度(Readiness)",
   "Real Avg Power": "实际平均功率",
+  "reanalyze_for_weather": "此活动需要重新分析以进行天气分析。这可以由{name}或他们的教练之一完成",
   "Recalculate": "重新计算",
   "Recent Athletes": "最近的运动员",
   "Reconnect Delay": "重新连接延迟",

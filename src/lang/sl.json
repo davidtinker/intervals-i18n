@@ -1752,6 +1752,7 @@
   "Read": "Preberite",
   "Readiness": "Pripravljenost",
   "Real Avg Power": "Realna Povp Moč",
+  "reanalyze_for_weather": "To dejavnost je treba ponovno analizirati za analizo vremena. To lahko stori {name} ali eden od njihovih trenerjev.",
   "Recalculate": "Preračunaj",
   "Recent Athletes": "Nedavni Športniki",
   "Reconnect Delay": "Zakasnitev ponovne povezave",
