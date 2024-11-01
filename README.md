@@ -6,6 +6,10 @@ If you would like to see your home language available in Intervals.icu or spot a
 please send me a pull request. For new languages I can do an initial Google Translate pass on the English text and
 you can take it from there.
 
+Please note that you can't add new keys or rename existing keys. Only change the values. I need to add new keys to
+all files at once and make corresponding changes to the code. Also please do not re-order keys. That makes it hard
+to see what has actually changed.
+
 ## Thanks To
 
 - CEscorcio (pt)
