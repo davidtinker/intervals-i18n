@@ -424,7 +424,7 @@
   "carbs_ingested": "CHO Ingestat",
   "carbs_ingested_title": "Carbohidrați ingestați în grame",
   "carbs_used": "CHO Utilizat",
-  "carbs_used_blurb": "Utilizarea carbohidraților este calculată folosind modelul TSS din\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">această lucrare de Rothschild et al</a>. VO2 la VT2 este estimat din FTP. Un suport mai bun pentru alergare este în dezvoltare.",
+  "carbs_used_blurb": "Utilizarea carbohidraților este calculată folosind modelul TSS din\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">această lucrare de Rothschild et al</a>. Pentru mai multe informații, consultați <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">această postare de pe forum</a>.",
   "carbs_used_title": "Utilizarea carbohidraților în grame",
   "Card": "card",
   "Cassette": "Casetă",

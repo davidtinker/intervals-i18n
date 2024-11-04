@@ -424,7 +424,7 @@
   "carbs_ingested": "CHO摄入量",
   "carbs_ingested_title": "摄入的碳水化合物（克）",
   "carbs_used": "CHO使用量",
-  "carbs_used_blurb": "碳水化合物利用率是使用 TSS 模型计算的，来自\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">Rothschild 等人的这篇论文</a>。VT2 时的 VO2 是根据 FTP 估算的。更好的跑步支持正在开发中。",
+  "carbs_used_blurb": "碳水化合物利用率是使用 TSS 模型计算的，来自\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">Rothschild 等人的这篇论文</a>。有关更多信息，请查看 <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">这个论坛帖子</a>。",
   "carbs_used_title": "碳水化合物利用量（克）",
   "Card": "卡片",
   "Cassette": "卡带式",

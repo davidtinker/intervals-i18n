@@ -424,7 +424,7 @@
   "carbs_ingested": "CHO Fogyasztva",
   "carbs_ingested_title": "Fogyasztott szénhidrátok grammban",
   "carbs_used": "CHO Felhasználva",
-  "carbs_used_blurb": "A szénhidrát-használat a TSS modell segítségével van kiszámítva\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">ebben a Rothschild et al. által írt cikkben</a>. A VO2 a VT2-nél az FTP-ből van megbecsülve. Jobb támogatás a futáshoz fejlesztés alatt áll.",
+  "carbs_used_blurb": "A szénhidrát-használat a TSS modell alapján kerül kiszámításra\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">ebben a Rothschild et al. által írt cikkben</a>. További információkért nézd meg <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">ezt a fórum bejegyzést</a>.",
   "carbs_used_title": "Szénhidrát felhasználás grammban",
   "Card": "Kártya",
   "Cassette": "Fogaskoszorú",

@@ -424,7 +424,7 @@
   "carbs_ingested": "CHO Ingenomen",
   "carbs_ingested_title": "Koolhydraten ingenomen in grammen",
   "carbs_used": "CHO Gebruikt",
-  "carbs_used_blurb": "De benutting van koolhydraten wordt berekend met behulp van het TSS-model uit\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">dit artikel van Rothschild et al</a>. VO2 bij VT2 wordt geschat op basis van FTP. Betere ondersteuning voor hardlopen is in ontwikkeling.",
+  "carbs_used_blurb": "De koolhydraatutilisatie wordt berekend met behulp van het TSS-model uit\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">dit artikel van Rothschild et al</a>. Voor meer informatie kijk op <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">dit forumbericht</a>.",
   "carbs_used_title": "Koolhydraatverbruik in grammen",
   "Card": "Kaart",
   "Cassette": "Cassette",

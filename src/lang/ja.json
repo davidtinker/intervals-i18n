@@ -424,7 +424,7 @@
   "carbs_ingested": "摂取されたCHO",
   "carbs_ingested_title": "グラム単位で摂取された炭水化物",
   "carbs_used": "使用されるCHO",
-  "carbs_used_blurb": "炭水化物の利用は、Rothschild et al</a>によるこの論文\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">のTSSモデルを使用して計算されます。VT2 の VO2 は FTP から推定されます。ランニングのサポートは改善中です。",
+  "carbs_used_blurb": "炭水化物の利用は、Rothschild et al</a>によるこの論文\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">のTSSモデルを使用して計算されます。詳細については、このフォーラムの投稿</a> <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">を参照してください。",
   "carbs_used_title": "グラム単位の炭水化物利用",
   "Card": "カード",
   "Cassette": "カセット",

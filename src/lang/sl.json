@@ -424,7 +424,7 @@
   "carbs_ingested": "CHO Vneseni",
   "carbs_ingested_title": "Vneseni ogljikovi hidrati v gramih",
   "carbs_used": "CHO Uporabljeni",
-  "carbs_used_blurb": "Izračunavanje uporabe ugljikohidrata temelji se na TSS modelu iz\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">ovog rada Rothschilda i sur.<\\/a>. VO2 na VT2 procjenjuje se iz FTP-a. Bolja podrška za trčanje je u razvoju.",
+  "carbs_used_blurb": "Izračun porabe ogljikovih hidratov se izvede z uporabo modela TSS iz\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">tega članka avtorjev Rothschild in drugi</a>. Za več informacij si oglejte <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">to objavo na forumu</a>.",
   "carbs_used_title": "Izraba ogljikovih hidratov v gramih",
   "Card": "Kartica",
   "Cassette": "Kaseta",

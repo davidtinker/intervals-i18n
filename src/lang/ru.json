@@ -424,7 +424,7 @@
   "carbs_ingested": "CHO Потребляемый",
   "carbs_ingested_title": "Углеводы, потребляемые в граммах",
   "carbs_used": "CHO Используемый",
-  "carbs_used_blurb": "Использование углеводов рассчитывается с использованием модели TSS из\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">этой статьи Ротшильда и др.<\\/a>. VO2 на VT2 оценивается по FTP. Улучшенная поддержка для бега находится в разработке.",
+  "carbs_used_blurb": "Использование углеводов рассчитывается с использованием модели TSS из\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">этой статьи Ротшильда и др.<\\/a>. Для получения дополнительной информации смотрите <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">этот пост на форуме<\\/a>.",
   "carbs_used_title": "Использование углеводов в граммах",
   "Card": "Карта",
   "Cassette": "Кассета",

@@ -424,7 +424,7 @@
   "carbs_ingested": "CHO Dicerna",
   "carbs_ingested_title": "Karbohidrat yang dicerna dalam gram",
   "carbs_used": "CHO Digunakan",
-  "carbs_used_blurb": "Penggunaan karbohidrat dihitung menggunakan model TSS dari\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">makalah ini oleh Rothschild et al</a>. VO2 pada VT2 diperkirakan dari FTP. Dukungan yang lebih baik untuk lari sedang dalam pengembangan.",
+  "carbs_used_blurb": "Penggunaan karbohidrat dihitung menggunakan model TSS dari\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">makalah ini oleh Rothschild et al</a>. Untuk informasi lebih lanjut lihat <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">posting forum ini</a>.",
   "carbs_used_title": "Pemanfaatan karbohidrat dalam gram",
   "Card": "Kartu",
   "Cassette": "Kaset",

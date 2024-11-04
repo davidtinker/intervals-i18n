@@ -424,7 +424,7 @@
   "carbs_ingested": "CHO aufgenommen",
   "carbs_ingested_title": "Kohlenhydrate in Gramm aufgenommen",
   "carbs_used": "CHO verwendet",
-  "carbs_used_blurb": "Die Kohlenhydratausnutzung wird mit dem TSS-Modell aus\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">diesem Artikel von Rothschild et al</a> berechnet. VO2 bei VT2 wird aus FTP geschätzt. Eine bessere Unterstützung für das Laufen wird entwickelt.",
+  "carbs_used_blurb": "Die Kohlenhydratnutzung wird mit dem TSS-Modell aus\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">diesem Artikel von Rothschild et al.<\\/a> berechnet. Für weitere Informationen siehe <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">diesen Forum-Beitrag<\\/a>.",
   "carbs_used_title": "Kohlenhydratnutzung in Gramm",
   "Card": "Karte",
   "Cassette": "Kassette",
