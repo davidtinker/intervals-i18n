@@ -2198,6 +2198,7 @@
   "Title": "Titolo",
   "tiz_class_title": "Orario nella classificazione delle zone",
   "tiz_order": "Intervals.icu usa il tempo in zone dalla potenza, dalla frequenza cardiaca o dal passo per i totali a seconda dei dati disponibili per l'attività. Se diversi di questi sono disponibili, questa impostazione determina quale viene selezionato. In generale, se un'attività ha potenza, si dovrebbe usare quella per il tempo in zone.",
+  "to": "a",
   "Today": "Oggi",
   "Today as % of total for the week": "Oggi come % del totale della settimana",
   "Top": "Top",

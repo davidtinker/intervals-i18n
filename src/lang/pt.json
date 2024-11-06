@@ -2198,6 +2198,7 @@
   "Title": "Título",
   "tiz_class_title": "Classificação de tempo em zonas",
   "tiz_order": "Intervals.icu utiliza o tempo em zonas a partir da potência, ritmo cardíaco ou ritmo para totais, dependendo dos dados disponíveis para a actividade. Se vários destes estiverem disponíveis, então esta configuração determina qual é seleccionada. Geralmente, se uma actividade tem potência, deverá utilizá-la por defeito.",
+  "to": "a",
   "Today": "Hoje",
   "Today as % of total for the week": "Hoje como % do total da semana",
   "Top": "Cima",

@@ -2198,6 +2198,7 @@
   "Title": "Titel",
   "tiz_class_title": "Tijd in zonesclassificatie",
   "tiz_order": "Intervalls.icu berekent totalen voor Tijd-In-Zones aan de hand van de beschikbare data voor de activiteit zoals vermogen, hartslag of tempo. Als meerdere datareeksen beschikbaar zijn, bepaalt deze instelling welke wordt gebruikt. Over het algemeen wordt vermogen prioritair gebruikt voor Tijd-In-Zones.",
+  "to": "tot",
   "Today": "Vandaag",
   "Today as % of total for the week": "Vandaag als % van weektotaal",
   "Top": "Boven",

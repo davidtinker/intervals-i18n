@@ -2198,6 +2198,7 @@
   "Title": "Titel",
   "tiz_class_title": "Klassificering af tid i zone",
   "tiz_order": "Intervals.icu bruger tid i zoner fra effekt, puls eller tempo for totaler afhængigt af de tilgængelige data for aktiviteten. Hvis flere af disse er tilgængelige, bestemmer denne indstilling, hvilken der vælges. Generelt, hvis en aktivitet har måling af effekt, skal du bruge det til tid i zoner.",
+  "to": "til",
   "Today": "I dag",
   "Today as % of total for the week": "I dag som % af alt for ugen",
   "Top": "Top",

@@ -2198,6 +2198,7 @@
   "Title": "Titul",
   "tiz_class_title": "Klasifikace času v zónách",
   "tiz_order": "Intervals.icu používá čas v zónách od energie, tepové frekvence nebo tempa k součtům v závislosti na datech dostupných pro aktivitu. Pokud je k dispozici několik z nich, pak toto nastavení určuje, které je vybráno. Obecně platí, že pokud má nějaká aktivita sílu, měli byste ji použít pro čas v zónách.",
+  "to": "do",
   "Today": "Dnes",
   "Today as % of total for the week": "Dnes jako % z celkového počtu za týden",
   "Top": "Horní",

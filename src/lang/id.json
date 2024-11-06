@@ -2198,6 +2198,7 @@
   "Title": "Judul",
   "tiz_class_title": "Klasifikasi waktu berdasarkan zona",
   "tiz_order": "Intervals.icu menggunakan waktu dalam zona dari mulai daya, denyut jantung atau kecepatan untuk total tergantung pada data yang tersedia untuk aktivitas tersebut. Jika beberapa di antaranya tersedia, maka pengaturan ini menentukan mana yang dipilih. Umumnya jika aktivitas memiliki daya, Anda harus menggunakannya untuk waktu dalam zona.",
+  "to": "ke",
   "Today": "Hari ini",
   "Today as % of total for the week": "Hari ini sebagai % dari total untuk minggu ini",
   "Top": "Atas",

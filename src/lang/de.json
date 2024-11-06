@@ -2198,6 +2198,7 @@
   "Title": "Titel",
   "tiz_class_title": "Zeiteinteilung in Zonen",
   "tiz_order": "Intervals.icu verwendet die Zeit in Zonen aus Leistung, Herzfrequenz oder Tempo für die Gesamtwerte, je nachdem, welche Daten für die Aktivität verfügbar sind. Wenn mehrere dieser Daten verfügbar sind, bestimmt diese Einstellung, welche ausgewählt wird. Wenn für eine Aktivität Leistung verfügbar ist, solltest du diese für die Zeit in Zonen verwenden.",
+  "to": "bis",
   "Today": "Heute",
   "Today as % of total for the week": "Heute als % der Gesamtsumme der Woche",
   "Top": "Top",

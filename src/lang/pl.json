@@ -2198,6 +2198,7 @@
   "Title": "Tytuł",
   "tiz_class_title": "Czas w klasyfikacji stref",
   "tiz_order": "Interwały.icu wykorzystuje czas w strefach z mocy, tętna lub tempa do sumowania w zależności od danych dostępnych dla danej aktywności. Jeśli dostępnych jest kilka z nich, to ustawienie określa, które z nich zostanie wybrane. Generalnie, jeśli aktywność ma moc, należy jej użyć do określenia czasu w strefach.",
+  "to": "do",
   "Today": "Dziś",
   "Today as % of total for the week": "Dzisiaj jako % sumy na tydzień",
   "Top": "Top",

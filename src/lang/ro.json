@@ -2198,6 +2198,7 @@
   "Title": "Titlu",
   "tiz_class_title": "Clasificarea timpului în zone",
   "tiz_order": "Intervals.icu utilizează timpul în zone de la putere, puls sau ritm pentru totaluri, în funcție de datele disponibile pentru activitate. Dacă mai multe dintre acestea sunt disponibile, atunci această setare determină care este selectată. În general, dacă o activitate are putere, ar trebui să o folosiți pentru timp în zone.",
+  "to": "la",
   "Today": "Astăzi",
   "Today as % of total for the week": "Astăzi ca % din totalul săptămânii",
   "Top": "Top",
