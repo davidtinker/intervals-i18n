@@ -27,6 +27,7 @@ to see what has actually changed.
 - Serhii Khrapin (uk)
 - Shingo Kitayama (ja)
 - Frederik (da)
+- Rodrigo Chogri Galli (pt-BR)
 
 (Your name here! Send me a PR!)
 
