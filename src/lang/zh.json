@@ -113,7 +113,7 @@
   "acwr": "短期:长期负荷比是用健康度(fitness)除以疲劳(fatigue)。一般的，0.80 - 1.30为安全区(最佳负荷和最低相对损伤风险安全区，高于1.50时有超负荷和最高的相对损伤风险 - <a href=\"https://www.sportsinjurybulletin.com/the-acutechronic-workload-ratio-science-or-religion/\" target=\"_blank\">短期:长期负荷比 - 科学还是迷信？</a>",
   "ACWR": "ACWR",
   "Add": "新增",
-  "Add an interval at the marker": "在标记处新增一个分段(interval)",
+  "Add an interval at the marker": "在标记处新增一个分段",
   "Add an interval at the marker matching the segment": "在标记处新增一个与路段(segment)对应的分段(interval)",
   "Add and remove tags": "添加和删除标签",
   "Add Athlete": "新增运动员",
