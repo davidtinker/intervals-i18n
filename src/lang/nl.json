@@ -1342,7 +1342,7 @@
   "lthr_up_message2": "1 uur bij {0} bpm",
   "maintenance_apology": "Onze excuses voor het ongemak",
   "maintenance_check_forum": "Bezoek het <a href='https://forum.intervals.icu' target='_blank'>forum</a> voor meer informatie",
-  "maintenance_title": "Intervals.icu is niet beschikbaar voor onderhoud",
+  "maintenance_title": "Intervals.icu is niet beschikbaar vanwege onderhoud",
   "maintenance_until": "Het onderhoud moet zijn voltooid tegen {t}",
   "Make Admin": "Beheerder maken",
   "Male": "Man",
