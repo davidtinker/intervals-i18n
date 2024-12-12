@@ -2355,6 +2355,7 @@
   "Use laps for intervals": "インターバルにラップを使用する",
   "Use laps instead of detecting intervals": "インターバルの自動検出の代わりにラップデータを使用します",
   "Use paired workout color": "連携されたワークアウトのカラーを使用する",
+  "Use paired workout steps for laps": "ラップ用にペアのワークアウトステップを使用する",
   "Use plan start week": "プランの開始週を使用する",
   "Use the slider to exclude warmup and cooldown time": "ウォームアップ・クールダウンを除外するのにスライダーを使用する",
   "Use value as is": "データの値をそのまま使用する",
