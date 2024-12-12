@@ -102,6 +102,8 @@
   "Activity Type": "Jenis Kegiatan",
   "Activity Types": "Jenis Kegiatan",
   "activity_added_to_compare": "Aktivitas telah ditambahkan ke daftar perbandingan",
+  "activity_count": "Jumlah Aktivitas",
+  "activity_count_title": "Jumlah kegiatan pada hari itu",
   "activity_filtered_out": "{n} aktivitas yang tidak ditampilkan",
   "activity_fitness_fatigue_factors": "Intervals.icu menghitung beban latihan untuk aktivitas tanpa daya menggunakan data denyut jantung. Untuk jenis aktivitas tertentu, meskipun dapat meningkatkan denyut jantung Anda, tidak meningkatkan kebugaran kardiovaskular. Tabel ini menunjukkan kontribusi setiap jenis aktivitas terhadap kebugaran dan kelelahan. Jenis yang tidak ditampilkan memberikan kontribusi 100% dari beban latihan terhadap kebugaran dan kelelahan. Aktivitas dengan kontribusi kebugaran nol tidak dihitung sebagai total waktu dalam zona HR. Pengaturan ini tidak digunakan untuk aktivitas dengan data daya nyata",
   "activity_notes_help": "Terlihat oleh pengikut Anda. Tidak disinkronkan ke Strava.",

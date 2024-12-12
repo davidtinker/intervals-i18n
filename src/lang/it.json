@@ -102,6 +102,8 @@
   "Activity Type": "Tipo di attività",
   "Activity Types": "Tipi di attività",
   "activity_added_to_compare": "Attività è stata aggiunta alla lista di confronto",
+  "activity_count": "Conteggio attività",
+  "activity_count_title": "Numero di attività del giorno",
   "activity_filtered_out": "{n} attività non mostrata",
   "activity_fitness_fatigue_factors": "Intervals.icu calcola il carico di allenamento per le attività senza potenza utilizzando i dati della frequenza cardiaca. Alcuni tipi di attività, sebbene possano aumentare la frequenza cardiaca, non aumentano la forma cardiovascolare. La tabella mostra il contributo di ogni tipo di attività al fitness e alla fatica. I tipi non mostrati contribuiscono al 100% del carico di allenamento al fitness e alla fatica. Le attività con contributo fitness pari a zero non contano per il tempo nei totali delle zone FC. Queste impostazioni non vengono utilizzate per attività con dati di potenza reale",
   "activity_notes_help": "Visibile ai tuoi follower. Non sincronizzato con Strava.",

@@ -102,6 +102,8 @@
   "Activity Type": "活动类型",
   "Activity Types": "活动类型",
   "activity_added_to_compare": "已将活动添加到比较列表",
+  "activity_count": "活动计数",
+  "activity_count_title": "当天的活动数量",
   "activity_filtered_out": "{n} 活动未显示",
   "activity_fitness_fatigue_factors": "Intervals.icu利用心率数据计算无功率活动的训练负荷。某些活动类型虽然可以提高你的心率，但并不能改善心血管的健康。该表显示了每种活动类型对健康度(fitness)和疲劳度(fatigue)的贡献。没有显示的类型对健康度和疲劳度的贡献是100%。健康度贡献为零的活动不计入心率区间的总时间。这些设置不适用于有实际功率数据的活动",
   "activity_notes_help": "对您的关注者可见。未同步到 Strava。",

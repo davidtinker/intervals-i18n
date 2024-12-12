@@ -102,6 +102,8 @@
   "Activity Type": "Type activiteit",
   "Activity Types": "Activiteit types",
   "activity_added_to_compare": "Activiteit is toegevoegd aan de vergelijkingslijst",
+  "activity_count": "Aantal activiteiten",
+  "activity_count_title": "Aantal activiteiten op de dag",
   "activity_filtered_out": "{n} activiteit wordt niet getoond",
   "activity_fitness_fatigue_factors": "Intervals.icu berekent de trainingsbelasting voor activiteiten zonder vermogen aan de hand van hartslagdata. Hoewel sommige activiteiten de hartslag kunnen verhogen, leiden ze niet noodzakelijkerwijs tot een verbetering van de cardiovasculaire conditie. De tabel toont de bijdrage van elk type activiteit aan conditie en vermoeidheid. Niet getoonde types dragen 100% van de trainingsbelasting bij aan conditie en vermoeidheid. Activiteiten zonder conditiebijdrage tellen niet mee voor de Tijd-In-Zones totalen. Deze instellingen worden niet gebruikt voor activiteiten met echte vermogendata.",
   "activity_notes_help": "Zichtbaar voor je volgers. Niet gesynchroniseerd met Strava.",

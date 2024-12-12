@@ -102,6 +102,8 @@
   "Activity Type": "Activity Type",
   "Activity Types": "Activity Types",
   "activity_added_to_compare": "Activity has been added to the compare list",
+  "activity_count": "Activity Count",
+  "activity_count_title": "Number of activities on day",
   "activity_filtered_out": "{n} activity not shown",
   "activity_fitness_fatigue_factors": "Intervals.icu calculates training load for activities without power using heart rate data. Certain activity types, though they may raise your heart rate, do not increase cardiovascular fitness. The table shows the contribution of each activity type to fitness and fatigue. Types not shown contribute 100% of training load to fitness and fatigue. Activities with zero fitness contribution do not count towards time in HR zones totals. These settings are not used for activities with real power data",
   "activity_notes_help": "Visible to your followers. Not synced to Strava.",

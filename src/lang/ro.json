@@ -102,6 +102,8 @@
   "Activity Type": "Tip activitate",
   "Activity Types": "Tipuri de activități",
   "activity_added_to_compare": "Activitatea a fost adăugată la lista de comparare",
+  "activity_count": "Număr de activități",
+  "activity_count_title": "Numărul de activități pe zi",
   "activity_filtered_out": "{n} activitate nu este afișată",
   "activity_fitness_fatigue_factors": "Intervals.icu calculează efortul din antrenament folosind datele de puls pentru activități fără contor de putere. Anumite tipuri de activități, deși pot crește pulsul, nu măresc fitnessul cardiovascular. Tabelul prezintă contribuția fiecărui tip de activitate la fitness și oboseală. Tipurile care nu apar contribuie cu 100% din efortul antrenamentului la fitness și oboseală. Activitățile fără contribuție la fitness nu sunt incluse în calculul de timp al totalurilor zonelor HR. Aceste setări nu sunt utilizate pentru activități cu date reale de putere",
   "activity_notes_help": "Vizibil pentru urmăritorii tăi. Nu este sincronizat cu Strava.",

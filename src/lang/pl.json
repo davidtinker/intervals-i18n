@@ -102,6 +102,8 @@
   "Activity Type": "Rodzaj aktywności",
   "Activity Types": "Rodzaje aktywności",
   "activity_added_to_compare": "Aktywność została dodana do listy porównań",
+  "activity_count": "Liczba aktywności",
+  "activity_count_title": "Liczba zajęć w ciągu dnia",
   "activity_filtered_out": " Nie pokazano aktywności{n} ",
   "activity_fitness_fatigue_factors": "Intervals.icu oblicza obciążenie treningowe dla aktywności bez mocy na podstawie danych dotyczących tętna. Niektóre rodzaje aktywności, chociaż mogą zwiększać tętno, nie zwiększają sprawności układu krążenia. Tabela pokazuje wpływ każdego rodzaju aktywności na wytrenowanie i zmęczenie. Niepokazane typy przyczyniają się do 100% obciążenia treningowego wytrenowaniem i zmęczeniem. Aktywności z zerowym wkładem wytrenowania nie są wliczane do czasu w sumie stref HR. Te ustawienia nie są używane do aktywności z rzeczywistymi danymi mocy",
   "activity_notes_help": "Widoczne dla Twoich obserwujących. Brak synchronizacji ze Stravą.",

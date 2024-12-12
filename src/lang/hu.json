@@ -102,6 +102,8 @@
   "Activity Type": "Tevékenységtípus",
   "Activity Types": "Tevékenységtípusok",
   "activity_added_to_compare": "Az aktivitás hozzá lett adva a összehasonlítási listához",
+  "activity_count": "Tevékenységek száma",
+  "activity_count_title": "Napi tevékenységek száma",
   "activity_filtered_out": "{n} tevékenység nem látható",
   "activity_fitness_fatigue_factors": "Az Intervals.icu pulzusadatok segítségével kiszámítja az edzésterhelést az energia nélküli tevékenységeknél. Bizonyos típusú tevékenységek, bár növelhetik a pulzusszámot, nem növelik a szív- és érrendszer fejlettségét. A táblázat bemutatja az egyes tevékenységi típusok hozzájárulását az erőnléthez és a fáradtsághoz. A nem feltüntetett típusok az edzésterhelés 100%-ban hozzájárulnak az erőnléthez és a fáradtsághoz. A nulla edzettség hozzájárulással végzett tevékenységek nem számítanak bele a HR zónák összesítésének idejébe. Ezek a beállítások nem használhatók valós teljesítményű adatokkal végzett tevékenységekhez",
   "activity_notes_help": "Látható a követői számára. Nincs szinkronizálva a Stravával.",

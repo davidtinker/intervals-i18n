@@ -102,6 +102,8 @@
   "Activity Type": "Tipo de actividad",
   "Activity Types": "Tipos de actividad",
   "activity_added_to_compare": "Se ha añadido la actividad a la lista de comparación",
+  "activity_count": "Recuento de actividades",
+  "activity_count_title": "Número de actividades en el día",
   "activity_filtered_out": "{n} actividad no mostrada",
   "activity_fitness_fatigue_factors": "Intervals.icu calcula la carga de entrenamiento para actividades sin potencia usando datos de frecuencia cardíaca. Ciertos tipos de actividades, aunque pueden aumentar la frecuencia cardíaca, no aumentan la capacidad cardiovascular. La tabla muestra la contribución de cada tipo de actividad al fitness y la fatiga. Los tipos que no se muestran contribuyen con el 100% de la carga de entrenamiento al fitness y la fatiga. Las actividades con contribución de fitness cero no cuentan para el tiempo en los totales de las zonas de FC. Estos ajustes no se utilizan para actividades con datos de energía reales.",
   "activity_notes_help": "Visible para tus seguidores. No sincronizado con Strava.",

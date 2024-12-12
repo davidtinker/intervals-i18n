@@ -102,6 +102,8 @@
   "Activity Type": "Aktivní typ",
   "Activity Types": "Typy aktivit",
   "activity_added_to_compare": "Aktivita byla přidána do seznamu porovnání",
+  "activity_count": "Počet aktivit",
+  "activity_count_title": "Počet aktivit za den",
   "activity_filtered_out": " Aktivita{n} se nezobrazuje",
   "activity_fitness_fatigue_factors": "Intervals.icu vypočítává tréninkovou zátěž pro činnosti bez energie pomocí údajů o srdečním tepu. Některé typy aktivit, i když mohou zvýšit váš srdeční tep, kardiovaskulární kondici nezvyšují. Tabulka ukazuje příspěvek každého druhu aktivity k kondici a únavě. Neznázorněné typy přispívají 100% tréninkové zátěže k kondici a únavě. Aktivity s nulovým příspěvkem do fitness se nezapočítávají do času v součtech zón HR. Tato nastavení se nepoužívají pro činnosti s údaji o skutečném výkonu",
   "activity_notes_help": "Viditelné pro vaše následovníky. Nesynchronizováno se Stravou.",

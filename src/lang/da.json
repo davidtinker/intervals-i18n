@@ -102,6 +102,8 @@
   "Activity Type": "Aktivitetstype",
   "Activity Types": "Aktivitetstyper",
   "activity_added_to_compare": "Aktivitet er blevet tilføjet til sammenligningslisten",
+  "activity_count": "Antal aktiviteter",
+  "activity_count_title": "Antal aktiviteter på dagen",
   "activity_filtered_out": "{n} aktivitet ikke vist",
   "activity_fitness_fatigue_factors": "Intervals.icu beregner træningsbelastning for aktiviteter uden effekmåling ved hjælp af pulsdata. Visse aktivitetstyper, selvom de kan hæve din puls, øger ikke din kardiovaskulære kondition. Tabellen viser hver aktivitetstypes bidrag til kondition og træthed. Aktiviteter der ikke er vist, bidrager 100 % af træningsbelastningen til kondition og træthed. Aktiviteter med nul fitnessbidrag tæller ikke med i total tiderne for HR-zoner. Disse indstillinger bruges ikke til aktiviteter med effektdata",
   "activity_notes_help": "Synlig for dine følgere. Ikke synkroniseret til Strava.",
