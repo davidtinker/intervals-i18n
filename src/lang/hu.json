@@ -810,7 +810,7 @@
   "edit_tab_blurb": "Az aktív lap átnevezése, áthelyezése vagy törlése",
   "Editing": "Szerkesztés",
   "Editing tags": "Címkék szerkesztése",
-  "editing_n_intervals": "A diagramon látható {n} intervallum szerkesztése",
+  "editing_n_intervals": "A {n} kiválasztott intervallum szerkesztése látható a diagramon",
   "Editor": "Szerkesztő",
   "Efficiency": "Hatékonyság",
   "Efficiency Factor": "Hatékonysági faktor",

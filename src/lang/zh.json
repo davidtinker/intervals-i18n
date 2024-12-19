@@ -810,7 +810,7 @@
   "edit_tab_blurb": "重命名、移动或删除活动选项卡",
   "Editing": "正在编辑",
   "Editing tags": "编辑标签",
-  "editing_n_intervals": "编辑图表上可见的 {n} 个区间",
+  "editing_n_intervals": "在图表上编辑 {n} 个选定的区间可见",
   "Editor": "编辑器",
   "Efficiency": "效率",
   "Efficiency Factor": "效率系数",

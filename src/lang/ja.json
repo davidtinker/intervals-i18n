@@ -810,7 +810,7 @@
   "edit_tab_blurb": "アクティブなタブの名前変更、移動、削除",
   "Editing": "編集中",
   "Editing tags": "タグの編集",
-  "editing_n_intervals": "チャートの{n}インターバルを編集する",
+  "editing_n_intervals": "グラフ {n} 表示されている選択した間隔の編集",
   "Editor": "編集者",
   "Efficiency": "効率",
   "Efficiency Factor": "効率係数",
