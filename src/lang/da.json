@@ -2397,6 +2397,7 @@
   "Virtual Rowing": "Virtuel roning",
   "Virtual Run": "Virtuelt løb",
   "Visibility": "Sigtbarhed",
+  "visibility_blurb": "Intervals.icu-konti er som standard private. Folk på platformen skal anmode om at følge dig for at se dine data. Dog vises dit navn, profilbillede og placering i atlet-søgninger, så folk kan finde hinanden. Hvis du ændrer din synlighed til Skjult, vises du kun i søgninger for dem, der allerede følger dig, og for personer med fælles grupper med dig.",
   "visibility_followers_blurb": "{n} er kun synlig for dine følgere",
   "visibility_private_blurb": "{n} er kun synlig for atleter, du deler den med",
   "visibility_private_hidden_blurb": "{n} er kun synlig for dig selv",

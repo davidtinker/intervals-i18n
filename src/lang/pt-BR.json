@@ -2397,6 +2397,7 @@
   "Virtual Rowing": "Remo Virtual",
   "Virtual Run": "Corrida Virtual",
   "Visibility": "Visibilidade",
+  "visibility_blurb": "As contas do Intervals.icu são privadas por padrão. As pessoas na plataforma precisam pedir para seguir você para ver seus dados. No entanto, seu nome, foto de perfil e localização são exibidos nas buscas de atletas para que as pessoas possam se encontrar. Se você mudar sua visibilidade para Oculto, você só aparecerá nas buscas para aqueles que já estão te seguindo e para pessoas com grupos em comum com você.",
   "visibility_followers_blurb": "{n} é visível apenas para seus seguidores",
   "visibility_private_blurb": "{n} é visível apenas para os atletas com quem você compartilha",
   "visibility_private_hidden_blurb": "{n} é visível apenas para você",

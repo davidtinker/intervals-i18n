@@ -2397,6 +2397,7 @@
   "Virtual Rowing": "Wirtualne wioślarstwo",
   "Virtual Run": "Wirtualny bieg",
   "Visibility": "widoczność",
+  "visibility_blurb": "Konta Intervals.icu są domyślnie prywatne. Osoby na platformie muszą poprosić o obserwowanie cię, aby zobaczyć twoje dane. Jednak twoje imię, zdjęcie profilowe i lokalizacja są wyświetlane w wyszukiwaniach sportowców, aby ludzie mogli się odnaleźć. Jeśli zmienisz swoją widoczność na Ukrytą, wtedy pojawiasz się w wyszukiwaniach tylko dla tych, którzy już cię obserwują oraz dla osób z grupami wspólnymi.",
   "visibility_followers_blurb": "{n} jest widoczny tylko dla Twoich obserwatorów",
   "visibility_private_blurb": "{n} jest widoczny tylko dla sportowców, którym go udostępniasz",
   "visibility_private_hidden_blurb": "{n} jest widoczny tylko dla Ciebie",

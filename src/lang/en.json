@@ -2397,6 +2397,7 @@
   "Virtual Rowing": "Virtual Rowing",
   "Virtual Run": "Virtual Run",
   "Visibility": "Visibility",
+  "visibility_blurb": "Intervals.icu accounts are private by default. People on the platform have to ask to follow you to see your data. However your name, profile picture and location are displayed in athlete searches so people can find each other. If you change your visibility to Hidden then you only appear in searches to those already following you and people with groups in common with you.",
   "visibility_followers_blurb": "{n} is only visible to your followers",
   "visibility_private_blurb": "{n} is only visible to athletes you share it with",
   "visibility_private_hidden_blurb": "{n} is only visible to yourself",
