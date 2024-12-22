@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Apakah Anda yakin ingin memutuskan tautan folder ini dari Intervals.icu?",
   "confirm_update_zones_activities": "Apakah Anda yakin ingin memperbarui zona pada {n}? Nilai FTP, W' dan ambang batas kecepatan yang ada akan tetap dipertahankan, hanya zona yang diperbarui. Jika olahraga memiliki zona HR, maka ambang batas HR dan HR maksimal akan diperbarui.",
   "Connect": "Hubungkan",
+  "Connect Instructions": "Petunjuk Koneksi",
   "connect_strava": "Hubungkan akun Strava Anda untuk menganalisa aktivitas Anda di Intervals.icu.",
   "connect_strava_warning": "Perhatikan bahwa jika Anda mencabut akses Intervals.icu atau Strava meminta kami melakukannya, maka Intervals.icu akan menghapus semua data yang berasal dari Strava.",
   "Connected": "Terhubung",

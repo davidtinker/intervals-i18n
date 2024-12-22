@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Are you sure you want to unlink this folder from Intervals.icu?",
   "confirm_update_zones_activities": "Are you sure you want to update zones on {n}? Any existing FTP, W' and threshold pace values are kept, only the zones are updated. If the sport has HR zones then threshold HR and max HR are updated.",
   "Connect": "Connect",
+  "Connect Instructions": "Connect Instructions",
   "connect_strava": "Connect your Strava account to analyse your activities on Intervals.icu.",
   "connect_strava_warning": "Note that if you revoke Intervals.icu access or Strava requires us to do so, then Intervals.icu will delete all data originating from Strava.",
   "Connected": "Connected",

@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Bist du sicher, dass du die Verknüpfung dieses Ordners mit Intervals.icu aufheben möchtest?",
   "confirm_update_zones_activities": "Bist du sicher, dass du die Zonen auf {n} aktualisieren möchtest? Alle vorhandenen FTP-, W'- und Schwellenwerte bleiben erhalten, nur die Zonen werden aktualisiert. Wenn die Sportart über HF-Zonen verfügt, werden Schwellen-HF und maximale HF aktualisiert.",
   "Connect": "Verbinden",
+  "Connect Instructions": "Verbindungsanweisungen",
   "connect_strava": "Verbinde deine Strava-Konto, um deine Aktivitäten auf Intervals.icu zu analysieren.",
   "connect_strava_warning": "Beachte, dass Intervals.icu alle von Strava stammenden Daten löscht, wenn du den Zugang zu Intervals.icu widerrufst oder Strava uns dazu auffordert.",
   "Connected": "Verbunden",

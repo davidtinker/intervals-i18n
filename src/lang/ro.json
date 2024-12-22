@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Sigur dorești să deconectezi acest folder de la Intervals.icu?",
   "confirm_update_zones_activities": "Sigur dorești să actualizezi zonele din {n}? Se păstrează toate valorile existente ale FTP, W’ și ale pragului, doar zonele sunt actualizate. Dacă sportul are zone HR atunci pragul HR și max HR sunt actualizate.",
   "Connect": "Conectare",
+  "Connect Instructions": "Instrucțiuni de conectare",
   "connect_strava": "Conectează-ți contul Strava pentru a-ți analiza activitățile pe Intervals.icu.",
   "connect_strava_warning": "Nu uita, dacă revoci accesul la Intervals.icu sau Strava ne cere să facem acest lucru, atunci Intervals.icu va șterge toate datele provenind de la Strava.",
   "Connected": "Conectat",

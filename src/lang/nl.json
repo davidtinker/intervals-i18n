@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Weet je zeker dat je deze map wilt ontkoppelen van Intervals.icu?",
   "confirm_update_zones_activities": "Weet je zeker dat je de zones op {n} wilt bijwerken ? Alle bestaande FTP, W' en drempeltempo waarden blijven behouden, alleen de zones worden bijgewerkt. Als de sport HR-zones heeft, worden drempel-HR en HRmax bijgewerkt.",
   "Connect": "Verbinden",
+  "Connect Instructions": "Verbindingsinstructies",
   "connect_strava": "Verbind je Strava account om je activiteiten te analyseren op Intervals.icu.",
   "connect_strava_warning": "Let op: als je de toegang tot Intervals.icu intrekt of indien Strava ons hiertoe verplicht, zal Intervals.icu alle gegevens afkomstig van Strava verwijderen.",
   "Connected": "Verbonden",

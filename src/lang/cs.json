@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Opravdu chcete odpojit tuto složku od Intervals.icu?",
   "confirm_update_zones_activities": "Opravdu chcete aktualizovat zóny v doméně {n}? Jakékoli stávající hodnoty FTP, W 'a prahového tempa jsou zachovány, pouze zóny jsou aktualizovány. Pokud má sport zóny HR, aktualizuje se práh HR a max. HR.",
   "Connect": "Připojit",
+  "Connect Instructions": "Pokyny k připojení",
   "connect_strava": "Připojte svůj účet Strava k analýze svých aktivit na Intervals.icu.",
   "connect_strava_warning": "Všimněte si toho, že pokud zrušíte přístup k Intervals.icu nebo Strava to vyžaduje, Intervals.icu odstraní všechna data pocházející ze Stravy.",
   "Connected": "Připojeno",

@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Sei sicuro di voler scollegare questa cartella da Intervals.icu?",
   "confirm_update_zones_activities": "Sei sicuro di voler aggiornare le zone su {n}? Tutti i valori esistenti di FTP, W' e passo di soglia vengono mantenuti, solo le zone vengono aggiornate. Se lo sport ha zone FC, allora la soglia FC e la FC massima vengono aggiornate.",
   "Connect": "Collega",
+  "Connect Instructions": "Istruzioni di connessione",
   "connect_strava": "Collega il tuo account Strava per analizzare le tue attività su Intervals.icu.",
   "connect_strava_warning": "Si noti che se si revoca l'accesso a Intervals.icu o Strava ci richiede di farlo, allora Intervals.icu cancellerà tutti i dati provenienti da Strava.",
   "Connected": "Connesso",

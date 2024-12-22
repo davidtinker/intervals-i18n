@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Ali ste prepričani, da želite prekiniti povezavo te mape z Intervals.icu?",
   "confirm_update_zones_activities": "Ali ste prepričani, da želite posodobiti območja na {n}? Vse obstoječe vrednosti FTP, W' in prag tempa se ohranijo, posodobijo se samo območja. Če ima šport HR cone, se posodobita HR prag in maksimalni HR.",
   "Connect": "Povežite",
+  "Connect Instructions": "Navodila za povezovanje",
   "connect_strava": "Povežite svoj račun Strava, da analizirate svoje aktivnosti na Intervals.icu.",
   "connect_strava_warning": "Upoštevajte, da če prekličete dostop do Intervals.icu ali Strava od nas zahteva, da to storimo, bo Intervals.icu izbrisal vse podatke, ki izvirajo iz Strave.",
   "Connected": "Povezano",

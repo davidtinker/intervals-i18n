@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "Czy na pewno chcesz odłączyć ten folder od Intervals.icu?",
   "confirm_update_zones_activities": "Czy na pewno chcesz zaktualizować strefy na {n}? Wszelkie istniejące wartości FTP, W' i tempa progowego są zachowywane, tylko strefy są aktualizowane. Jeśli sport ma strefy HR, wtedy HR progowe i max HR są aktualizowane.",
   "Connect": "Połączyć",
+  "Connect Instructions": "Instrukcje połączenia",
   "connect_strava": "Połącz swoje konto Strava, aby analizować swoją aktywność na Intervals.icu.",
   "connect_strava_warning": "Należy pamiętać, że jeśli cofną Państwo dostęp do Intervals.icu lub Strava zażąda tego od nas, wówczas Intervals.icu usunie wszystkie dane pochodzące ze Strava.",
   "Connected": "Połączono",

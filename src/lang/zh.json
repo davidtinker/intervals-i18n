@@ -585,6 +585,7 @@
   "confirm_unlink_folder": "确定从Intervals.icu中取消这个文件夹的链接？",
   "confirm_update_zones_activities": "确定更新 {n} 区间？任何现有FTP、W'和阈值配速都将被保留，只有区间被更新。如果该运动有心率区间，阈值心率和最大心率将被更新",
   "Connect": "连接",
+  "Connect Instructions": "连接说明",
   "connect_strava": "连接您的Strava账户，在Intervals.icu上分析活动",
   "connect_strava_warning": "请注意，如果您撤销了Intervals.icu的Strava访问权限或Strava要求这样做，Intervals.icu将删除所有源自Strava的数据",
   "Connected": "已连接",
