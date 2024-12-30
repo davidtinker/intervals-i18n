@@ -1072,6 +1072,7 @@
   "Help": "Pomoč",
   "her": "njo",
   "hidden": "Skrit",
+  "Hidden": "Skrito",
   "hidden_strava_activity": "Skrita Strava aktivnost",
   "hidden_strava_activity_blurb": "Pogoji uporabe API-ja Strava prepovedujejo, da bi Intervals.icu prikazoval dejavnosti, pridobljene prek API-ja, sledilcem Intervals.icu. Le trenerji jih lahko vidijo.",
   "hidden_strava_activity_list_blurb": "Obstaja {n} aktivnosti iz Strave, ki niso prikazane na seznamu",

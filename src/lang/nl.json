@@ -1072,6 +1072,7 @@
   "Help": "Help",
   "her": "Haar",
   "hidden": "Verborgen",
+  "Hidden": "Verborgen",
   "hidden_strava_activity": "Verborgen Strava-activiteit",
   "hidden_strava_activity_blurb": "De gebruiksvoorwaarden van de Strava API verbieden Intervals.icu om activiteiten die via de API zijn verkregen aan Intervals.icu-volgers te tonen. Alleen coaches kunnen ze zien.",
   "hidden_strava_activity_list_blurb": "Er zijn {n} activiteiten van Strava die niet in de lijst worden weergegeven",

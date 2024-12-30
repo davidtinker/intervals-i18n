@@ -1072,6 +1072,7 @@
   "Help": "Help",
   "her": "her",
   "hidden": "hidden",
+  "Hidden": "Hidden",
   "hidden_strava_activity": "Hidden Strava activity",
   "hidden_strava_activity_blurb": "The Strava API terms of service prohibit Intervals.icu from showing activities obtained via the API to Intervals.icu followers. Only coaches can see them.",
   "hidden_strava_activity_list_blurb": "There are {n} activities from Strava that are not shown in the the list",

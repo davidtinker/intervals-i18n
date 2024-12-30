@@ -1072,6 +1072,7 @@
   "Help": "Hjælp",
   "her": "hende",
   "hidden": "skjult",
+  "Hidden": "Skjult",
   "hidden_strava_activity": "Skjult Strava-aktivitet",
   "hidden_strava_activity_blurb": "Strava API's servicevilkår forbyder Intervals.icu at vise aktiviteter, der er opnået via API'en, til Intervals.icu-følgere. Kun trænere kan se dem.",
   "hidden_strava_activity_list_blurb": "Der er {n} aktiviteter fra Strava, som ikke vises på listen",

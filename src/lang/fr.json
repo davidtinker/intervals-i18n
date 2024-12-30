@@ -1072,6 +1072,7 @@
   "Help": "Aide",
   "her": "son",
   "hidden": "caché",
+  "Hidden": "Caché",
   "hidden_strava_activity": "Activité Strava cachée",
   "hidden_strava_activity_blurb": "Les conditions d'utilisation de l'API Strava interdisent à Intervals.icu de montrer les activités obtenues via l'API aux abonnés d'Intervals.icu. Seuls les entraîneurs peuvent les voir.",
   "hidden_strava_activity_list_blurb": "Il y a {n} activités de Strava qui ne sont pas affichées dans la liste",

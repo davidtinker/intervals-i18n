@@ -1072,6 +1072,7 @@
   "Help": "ヘルプ",
   "her": "彼女",
   "hidden": "非表示中",
+  "Hidden": "隠れた",
   "hidden_strava_activity": "Hidden Stravaアクティビティ",
   "hidden_strava_activity_blurb": "Strava APIの利用規約では、Intervals.icu がAPIを介して取得したアクティビティを Intervals.icu フォロワーに表示することを禁じています。コーチだけが見ることができます",
   "hidden_strava_activity_list_blurb": "Stravaのアクティビティには、リストにないものが {n} つあります",

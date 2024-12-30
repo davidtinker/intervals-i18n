@@ -1072,6 +1072,7 @@
   "Help": "Bantuan",
   "her": "dia",
   "hidden": "Tersembunyi",
+  "Hidden": "Tersembunyi",
   "hidden_strava_activity": "Aktivitas Strava Tersembunyi",
   "hidden_strava_activity_blurb": "Ketentuan layanan API Strava melarang Intervals.icu untuk menampilkan aktivitas yang diperoleh melalui API kepada pengikut Intervals.icu. Hanya pelatih yang dapat melihatnya.",
   "hidden_strava_activity_list_blurb": "Ada {n} aktivitas dari Strava yang tidak ditampilkan dalam daftar",

@@ -1072,6 +1072,7 @@
   "Help": "Ajutor",
   "her": "a ei",
   "hidden": "Ascuns",
+  "Hidden": "Ascuns",
   "hidden_strava_activity": "Activitate Strava ascunsă",
   "hidden_strava_activity_blurb": "Termenii de utilizare ai API-ului Strava interzic Intervals.icu să afișeze activitățile obținute prin API pentru urmăritorii Intervals.icu. Numai antrenorii le pot vedea.",
   "hidden_strava_activity_list_blurb": "Există {n} activități de la Strava care nu sunt afișate în listă",

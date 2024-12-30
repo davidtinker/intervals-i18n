@@ -1072,6 +1072,7 @@
   "Help": "Pomoc",
   "her": "její",
   "hidden": "Skrytý",
+  "Hidden": "Skryté",
   "hidden_strava_activity": "Skrytá aktivita Strava",
   "hidden_strava_activity_blurb": "Podmínky služby API Strava zakazují Intervals.icu zobrazovat aktivity získané prostřednictvím API následovníkům Intervals.icu. Pouze trenéři je mohou vidět.",
   "hidden_strava_activity_list_blurb": "Existuje {n} aktivit ze Stravy, které nejsou zobrazeny v seznamu",
