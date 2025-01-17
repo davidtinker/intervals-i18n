@@ -668,6 +668,8 @@
   "default_gear": "Novas atividades para este esporte serão atribuídas a este equipamento",
   "default_indoor_gear": "Novas atividades internas para este esporte serão atribuídas a este equipamento",
   "default_power_target": "Passos individuais do treino usando potência podem especificar como o alvo de potência é interpretado (potência da volta, potência instantânea, potência de 3 segundos, etc.). Esta configuração define o valor padrão.",
+  "default_workout_time": "Hora de Início do Treino",
+  "default_workout_time_blurb": "Os treinos criados sem um horário de início (ou à meia-noite) para este esporte recebem este horário de início",
   "Defaults": "Padrões",
   "Define Curve": "Definir Curva",
   "Define Power Curve": "Definir Curva de Potência",

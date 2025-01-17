@@ -668,6 +668,8 @@
   "default_gear": "Noile activități pentru acest sport vor fi atribuite acestui echipament",
   "default_indoor_gear": "Noile activități indoor pentru acest sport vor fi atribuite acestui echipament",
   "default_power_target": "Segmentele de antrenament individuale pe bază de putere pot conține specificația modului în care este interpretat obiectivul de putere (puterea pe tură, puterea instantanee, puterea la 3 secunde etc.). Această setare definește valoarea implicită.",
+  "default_workout_time": "Ora de început a antrenamentului",
+  "default_workout_time_blurb": "Antrenamentele create fără o oră de început (sau la miezul nopții) pentru acest sport primesc această oră de început",
   "Defaults": "Implicite",
   "Define Curve": "Definiți curba",
   "Define Power Curve": "Definiți curba de putere",

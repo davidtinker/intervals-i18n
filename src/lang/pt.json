@@ -668,6 +668,8 @@
   "default_gear": "Novas actividades para este desporto serão atribuídas a este equipamento",
   "default_indoor_gear": "Novas actividades em recintos fechados para este desporto serão atribuídas a este equipamento",
   "default_power_target": "Os exercícios de treino utilizando a potência podem especificar como o objectivo o intervalo potência (potência por volta, potência instantânea, potência de 3 segundos, etc.). Esta definição define o valor por defeito.",
+  "default_workout_time": "Hora de Início do Treino",
+  "default_workout_time_blurb": "Os treinos criados sem uma hora de início (ou à meia-noite) para este desporto recebem esta hora de início",
   "Defaults": "Por defeito",
   "Define Curve": "Definir Curva",
   "Define Power Curve": "Definir Curva de Potência",

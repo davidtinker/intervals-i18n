@@ -668,6 +668,8 @@
   "default_gear": "New activities for this sport will be assigned this gear",
   "default_indoor_gear": "New indoor activities for this sport will be assigned this gear",
   "default_power_target": "Individual workout steps using power can specify how the power target is interpreted (lap power, instant power, 3 second power etc.). This setting defines the default value.",
+  "default_workout_time": "Workout Start Time",
+  "default_workout_time_blurb": "Workouts created without a start time (or at midnight) for this sport are given this start time",
   "Defaults": "Defaults",
   "Define Curve": "Define Curve",
   "Define Power Curve": "Define Power Curve",

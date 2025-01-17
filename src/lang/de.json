@@ -668,6 +668,8 @@
   "default_gear": "Neue Aktivitäten für diese Sportart werden dieser Ausrüstung zugewiesen",
   "default_indoor_gear": "Neue Indoor-Aktivitäten für diese Sportart werden diesem Gang zugewiesen",
   "default_power_target": "In den einzelnen Trainingsschritten, in denen die Leistung verwendet wird, kann festgelegt werden, wie das Leistungsziel interpretiert wird (Rundenleistung, Sofortleistung, 3-Sekunden-Leistung usw.). Diese Einstellung legt den Standardwert fest.",
+  "default_workout_time": "Trainingsbeginn",
+  "default_workout_time_blurb": "Workouts, die ohne eine Startzeit (oder um Mitternacht) für diesen Sport erstellt wurden, erhalten diese Startzeit.",
   "Defaults": "Zurücksetzen",
   "Define Curve": "Kurve definieren",
   "Define Power Curve": "Leistungskurve definieren",

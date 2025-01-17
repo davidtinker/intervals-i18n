@@ -668,6 +668,8 @@
   "default_gear": "Nieuwe activiteiten voor deze sport zullen deze uitrusting toegewezen krijgen",
   "default_indoor_gear": "Nieuwe Indoor-activiteiten voor deze sport zullen deze uitrusting toegewezen krijgen",
   "default_power_target": "Individuele workout-stappen op basis van vermogen kunnen specifieren hoe het vermogensdoel wordt geïnterpreteerd (rondevermogen, instant vermogen, 3 seconden vermogen enz.). Deze instelling bepaalt de standaardwaarde.",
+  "default_workout_time": "Starttijd training",
+  "default_workout_time_blurb": "Workouts die zijn gemaakt zonder een starttijd (of om middernacht) voor deze sport krijgen deze starttijd",
   "Defaults": "Standaard",
   "Define Curve": "Definieer curve",
   "Define Power Curve": "Definieer vermogen-curve",

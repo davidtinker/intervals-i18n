@@ -668,6 +668,8 @@
   "default_gear": "Las nuevas actividades para este deporte se asignarán a esta marcha",
   "default_indoor_gear": "Las nuevas actividades de interior para este deporte se asignarán a esta marcha",
   "default_power_target": "Los pasos de entrenamiento individuales que utilizan la potencia pueden especificar cómo se interpreta el objetivo de potencia (potencia de vuelta, potencia instantánea, potencia de 3 segundos, etc.). Este ajuste define el valor por defecto.",
+  "default_workout_time": "Hora de inicio del entrenamiento",
+  "default_workout_time_blurb": "Los entrenamientos creados sin una hora de inicio (o a medianoche) para este deporte tienen esta hora de inicio",
   "Defaults": "Valores predeterminados",
   "Define Curve": "Definir curva",
   "Define Power Curve": "Definir curva de potencia",
