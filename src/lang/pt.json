@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Tags para adicionar às atividades",
   "route_has_been_deleted": "Esta rota foi eliminada e substituída por {replacedBy}",
   "route_rename_activities": "Utilize o nome para as atividades nesta rota",
+  "route_replaces": "Esta rota substitui as seguintes rotas",
   "routes": "Rastreamento de rota de atividade",
   "Routes": "Rotas",
   "routes_not_similar_enough": "Estas rotas são apenas {p} semelhantes, o que não é próximo o suficiente para as fundir",

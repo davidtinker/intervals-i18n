@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "アクティビティに追加するタグ",
   "route_has_been_deleted": "このルートは削除され、 {{replacedBy}}に置き換えられました",
   "route_rename_activities": "このルートのアクティビティに名前を使用",
+  "route_replaces": "このルートは、次のルートに代わるものです",
   "routes": "アクティビティルートの追跡",
   "Routes": "ルート",
   "routes_not_similar_enough": "これらのルートは {p} 似ているだけで、マージするほど近くはありません",

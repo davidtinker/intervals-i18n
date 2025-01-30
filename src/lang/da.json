@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Tags, der skal føjes til aktiviteter",
   "route_has_been_deleted": "Denne rute er blevet slettet og erstattet af {replacedBy}",
   "route_rename_activities": "Brug navn til aktiviteter på denne rute",
+  "route_replaces": "Denne rute erstatter følgende ruter",
   "routes": "Sporing af aktivitetsruter",
   "Routes": "Ruter",
   "routes_not_similar_enough": "Disse ruter er kun {p} ens, det er ikke tæt nok til at fusionere dem",

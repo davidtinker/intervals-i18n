@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Tagi do dodania do działań",
   "route_has_been_deleted": "Ta trasa została usunięta i zastąpiona przez {replacedBy}",
   "route_rename_activities": "Użyj nazwy dla działań na tej trasie",
+  "route_replaces": "Ta trasa zastępuje następujące trasy",
   "routes": "Śledzenie trasy aktywności",
   "Routes": "Trasy",
   "routes_not_similar_enough": "Te trasy są tylko {p} podobne, co nie jest wystarczająco bliskie, aby je połączyć",

@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Tags om toe te voegen aan activiteiten",
   "route_has_been_deleted": "Deze route is verwijderd en vervangen door {replacedBy}",
   "route_rename_activities": "Gebruik de naam voor activiteiten op deze route",
+  "route_replaces": "Deze route vervangt de volgende routes",
   "routes": "Activiteit route volgen",
   "Routes": "Routes",
   "routes_not_similar_enough": "Deze routes zijn slechts {p} vergelijkbaar, dat is niet dicht genoeg om ze samen te voegen",

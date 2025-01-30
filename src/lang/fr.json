@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Tags à ajouter aux activités",
   "route_has_been_deleted": "Cet itinéraire a été supprimé et remplacé par {replacedBy}",
   "route_rename_activities": "Utilisez le nom pour les activités sur cet itinéraire",
+  "route_replaces": "Cet itinéraire remplace les itinéraires suivants",
   "routes": "Suivi de l’itinéraire d’activité",
   "Routes": "Itinéraires",
   "routes_not_similar_enough": "Ces itinéraires ne sont que {p} similaires, ce qui n'est pas assez proche pour les fusionner.",

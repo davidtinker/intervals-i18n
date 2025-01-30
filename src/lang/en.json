@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Tags to add to activities",
   "route_has_been_deleted": "This route has been deleted and replaced by {replacedBy}",
   "route_rename_activities": "Use name for activities on this route",
+  "route_replaces": "This route replaces the following routes",
   "routes": "Activity route tracking",
   "Routes": "Routes",
   "routes_not_similar_enough": "These routes are only {p} similar, that is not close enough to merge them",

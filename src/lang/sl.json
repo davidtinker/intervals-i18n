@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Oznake za dodajanje v dejavnosti",
   "route_has_been_deleted": "Ta pot je bila izbrisana in nadomeščena z {replacedBy}",
   "route_rename_activities": "Uporabi ime za dejavnosti na tej poti",
+  "route_replaces": "Ta pot vodi na naslednje poti",
   "routes": "Sledenje poti dejavnosti",
   "Routes": "Poti",
   "routes_not_similar_enough": "Te poti so le {p} podobne, kar ni dovolj blizu, da bi jih združili.",

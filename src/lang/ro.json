@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Etichete de adăugat la activități",
   "route_has_been_deleted": "Această rută a fost ștearsă și înlocuită de {replacedBy}",
   "route_rename_activities": "Utilizați numele pentru activitățile de pe acest traseu",
+  "route_replaces": "Această rută înlocuiește rutele următoare",
   "routes": "Urmărirea traseului de activitate",
   "Routes": "Rute",
   "routes_not_similar_enough": "Aceste rute sunt doar {p} similare, ceea ce nu este suficient de aproape pentru a le fuziona",

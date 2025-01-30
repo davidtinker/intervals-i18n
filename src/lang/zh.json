@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "要添加到活动的标记",
   "route_has_been_deleted": "此路线已被删除，并被{replacedBy}替代",
   "route_rename_activities": "对此路线上的活动使用名称",
+  "route_replaces": "此路线替代以下路线",
   "routes": "活动路线跟踪",
   "Routes": "路线",
   "routes_not_similar_enough": "这些路线只有 {p} 相似，这还不够接近以合并它们",

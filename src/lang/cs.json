@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Štítky pro přidání k aktivitám",
   "route_has_been_deleted": "Tato trasa byla smazána a nahrazena {replacedBy}",
   "route_rename_activities": "Použít název pro aktivity na této trase",
+  "route_replaces": "Tato trasa nahrazuje následující trasy",
   "routes": "Sledování trasy aktivity",
   "Routes": "Trasy",
   "routes_not_similar_enough": "Tyto trasy jsou pouze {p} podobné, což není dost blízko na to, aby je bylo možné sloučit.",

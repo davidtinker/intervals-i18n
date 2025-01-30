@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "A tevékenységekhez hozzáadandó címkék",
   "route_has_been_deleted": "Ez az útvonal törölve lett, és a(z) {replacedBy} váltotta fel.",
   "route_rename_activities": "Név használata az útvonalon végzett tevékenységekhez",
+  "route_replaces": "Ez az útvonal helyettesíti a következő útvonalakat",
   "routes": "Tevékenység útvonalának nyomon követése",
   "Routes": "Útvonalak",
   "routes_not_similar_enough": "Ezek az útvonalak csak {p} hasonlóak, ami nem elég közeli ahhoz, hogy egyesítsük őket.",

@@ -1917,6 +1917,7 @@
   "route_add_tags_to_activities": "Tag untuk ditambahkan ke aktivitas",
   "route_has_been_deleted": "Rute ini telah dihapus dan digantikan oleh {replacedBy}",
   "route_rename_activities": "Gunakan nama untuk aktivitas di rute ini",
+  "route_replaces": "Rute ini menggantikan rute berikut",
   "routes": "Pelacakan rute aktivitas",
   "Routes": "Rute",
   "routes_not_similar_enough": "Rute-rute ini hanya {p} mirip, yang tidak cukup dekat untuk digabungkan",
