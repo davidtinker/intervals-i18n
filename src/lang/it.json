@@ -1920,6 +1920,7 @@
   "route_replaces": "Questo percorso sostituisce i seguenti percorsi",
   "routes": "Monitoraggio del percorso dell'attività",
   "Routes": "Percorsi",
+  "routes_blurb": "Corrispondenza del percorso. Tieni traccia dei tuoi progressi, segnala automaticamente gli spostamenti e rinomina le attività",
   "routes_not_similar_enough": "Queste rotte sono solo {p} simili, il che non è abbastanza vicino per fonderle",
   "Rowing": "Canottaggio",
   "Rowing Machine": "Vogatore",

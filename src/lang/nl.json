@@ -1920,6 +1920,7 @@
   "route_replaces": "Deze route vervangt de volgende routes",
   "routes": "Activiteit route volgen",
   "Routes": "Routes",
+  "routes_blurb": "Route matchen. Houd je voortgang bij, markeer automatisch woon-werkverkeer en hernoem activiteiten",
   "routes_not_similar_enough": "Deze routes zijn slechts {p} vergelijkbaar, dat is niet dicht genoeg om ze samen te voegen",
   "Rowing": "Roeien",
   "Rowing Machine": "Roeimachine",

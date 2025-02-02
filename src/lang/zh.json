@@ -1920,6 +1920,7 @@
   "route_replaces": "此路线替代以下路线",
   "routes": "活动路线跟踪",
   "Routes": "路线",
+  "routes_blurb": "路由匹配。跟踪您的进度、自动标记通勤和重命名活动",
   "routes_not_similar_enough": "这些路线只有 {p} 相似，这还不够接近以合并它们",
   "Rowing": "赛艇",
   "Rowing Machine": "划船机",

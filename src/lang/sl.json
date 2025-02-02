@@ -1920,6 +1920,7 @@
   "route_replaces": "Ta pot vodi na naslednje poti",
   "routes": "Sledenje poti dejavnosti",
   "Routes": "Poti",
+  "routes_blurb": "Ujemanje poti. Spremljajte napredek, samodejno označite vožnjo in preimenujte dejavnosti",
   "routes_not_similar_enough": "Te poti so le {p} podobne, kar ni dovolj blizu, da bi jih združili.",
   "Rowing": "Veslanje",
   "Rowing Machine": "Stroj za veslanje",

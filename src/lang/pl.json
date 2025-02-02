@@ -1920,6 +1920,7 @@
   "route_replaces": "Ta trasa zastępuje następujące trasy",
   "routes": "Śledzenie trasy aktywności",
   "Routes": "Trasy",
+  "routes_blurb": "Dopasowywanie tras. Śledź swoje postępy, automatycznie oznaczaj dojazdy do pracy i zmieniaj nazwy działań",
   "routes_not_similar_enough": "Te trasy są tylko {p} podobne, co nie jest wystarczająco bliskie, aby je połączyć",
   "Rowing": "Wioślarstwo",
   "Rowing Machine": "Ergometr",

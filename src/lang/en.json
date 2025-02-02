@@ -1920,6 +1920,7 @@
   "route_replaces": "This route replaces the following routes",
   "routes": "Activity route tracking",
   "Routes": "Routes",
+  "routes_blurb": "Route matching. Track your progress, auto flag commutes and rename activities",
   "routes_not_similar_enough": "These routes are only {p} similar, that is not close enough to merge them",
   "Rowing": "Rowing",
   "Rowing Machine": "Rowing Machine",

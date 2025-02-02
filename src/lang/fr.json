@@ -1920,6 +1920,7 @@
   "route_replaces": "Cet itinéraire remplace les itinéraires suivants",
   "routes": "Suivi de l’itinéraire d’activité",
   "Routes": "Itinéraires",
+  "routes_blurb": "Correspondance d’itinéraire. Suivez votre progression, signalez automatiquement les trajets et renommez les activités",
   "routes_not_similar_enough": "Ces itinéraires ne sont que {p} similaires, ce qui n'est pas assez proche pour les fusionner.",
   "Rowing": "Aviron",
   "Rowing Machine": "Rameur",

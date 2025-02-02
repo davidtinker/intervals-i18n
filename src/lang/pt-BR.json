@@ -1920,6 +1920,7 @@
   "route_replaces": "Esta rota substitui as seguintes rotas",
   "routes": "Rastreamento de rota de atividade",
   "Routes": "Rotas",
+  "routes_blurb": "Correspondência de rota. Acompanhe seu progresso, sinalize automaticamente os deslocamentos e renomeie atividades",
   "routes_not_similar_enough": "Essas rotas são apenas {p} semelhantes, o que não é próximo o suficiente para mesclá-las",
   "Rowing": "Remo",
   "Rowing Machine": "Máquina de Remo",

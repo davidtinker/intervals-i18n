@@ -1920,6 +1920,7 @@
   "route_replaces": "Această rută înlocuiește rutele următoare",
   "routes": "Urmărirea traseului de activitate",
   "Routes": "Rute",
+  "routes_blurb": "Potrivirea rutelor. Urmăriți-vă progresul, semnalizați automat naveta și redenumiți activitățile",
   "routes_not_similar_enough": "Aceste rute sunt doar {p} similare, ceea ce nu este suficient de aproape pentru a le fuziona",
   "Rowing": "Canotaj",
   "Rowing Machine": "Mașină de vâslit",

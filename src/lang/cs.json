@@ -1920,6 +1920,7 @@
   "route_replaces": "Tato trasa nahrazuje následující trasy",
   "routes": "Sledování trasy aktivity",
   "Routes": "Trasy",
+  "routes_blurb": "Párování tras. Sledujte svůj pokrok, automaticky označujte dojíždění a přejmenovávejte aktivity",
   "routes_not_similar_enough": "Tyto trasy jsou pouze {p} podobné, což není dost blízko na to, aby je bylo možné sloučit.",
   "Rowing": "veslování",
   "Rowing Machine": "Veslovací stroj",

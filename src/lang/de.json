@@ -1920,6 +1920,7 @@
   "route_replaces": "Diese Route ersetzt die folgenden Routen",
   "routes": "Verfolgung von Aktivitätsrouten",
   "Routes": "Routen",
+  "routes_blurb": "Abgleich von Routen. Verfolgen Sie Ihren Fortschritt, markieren Sie automatisch Pendelstrecken und benennen Sie Aktivitäten um",
   "routes_not_similar_enough": "Diese Routen sind nur {p} ähnlich, das ist nicht nah genug, um sie zusammenzuführen.",
   "Rowing": "Rudern",
   "Rowing Machine": "Rudermaschine",

@@ -1920,6 +1920,7 @@
   "route_replaces": "Rute ini menggantikan rute berikut",
   "routes": "Pelacakan rute aktivitas",
   "Routes": "Rute",
+  "routes_blurb": "Pencocokan rute. Lacak kemajuan Anda, tandai perjalanan secara otomatis, dan ganti nama aktivitas",
   "routes_not_similar_enough": "Rute-rute ini hanya {p} mirip, yang tidak cukup dekat untuk digabungkan",
   "Rowing": "Mendayung",
   "Rowing Machine": "Mesin Dayung",

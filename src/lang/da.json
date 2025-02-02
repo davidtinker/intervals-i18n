@@ -1920,6 +1920,7 @@
   "route_replaces": "Denne rute erstatter følgende ruter",
   "routes": "Sporing af aktivitetsruter",
   "Routes": "Ruter",
+  "routes_blurb": "Rutematchning. Spor dine fremskridt, marker automatisk pendling, og omdøb aktiviteter",
   "routes_not_similar_enough": "Disse ruter er kun {p} ens, det er ikke tæt nok til at fusionere dem",
   "Rowing": "Roning",
   "Rowing Machine": "Romaskine",
