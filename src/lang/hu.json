@@ -1898,6 +1898,7 @@
   "reset_eftp_description": "Állítsd vissza a becsült FTP-t. Ez hasznos lehet hosszú kihagyás után, amikor tudod, hogy az FTP-d a szokásosnál nagyobb mértékben csökkent, és újra látni szeretnéd az FTP-eredményeket!",
   "Respiration": "Légzés",
   "Respiration rate": "Légzésszám",
+  "Respiration Rate": "Légzési sebesség",
   "Rest": "Pihenés",
   "Resting": "Pihenő",
   "Resting heart rate": "Nyugalmi pulzusszám",

@@ -1898,6 +1898,7 @@
   "reset_eftp_description": "Reset your estimated FTP. This is useful after a long break when you know your FTP has dropped by more than the usual decay rate and you want to start seeing FTP up achievements again!",
   "Respiration": "Respiration",
   "Respiration rate": "Respiration rate",
+  "Respiration Rate": "Respiration Rate",
   "Rest": "Rest",
   "Resting": "Resting",
   "Resting heart rate": "Resting heart rate",

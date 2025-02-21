@@ -1898,6 +1898,7 @@
   "reset_eftp_description": "Stel je geschatte eFTP opnieuw in. Dit is handig na een lange pauze als je weet dat je FTP met meer dan de gebruikelijke vervalsnelheid is gedaald en je opnieuw FTP-prestaties wil opvolgen!",
   "Respiration": "Ademhaling",
   "Respiration rate": "Ademhalingsfrequentie",
+  "Respiration Rate": "Ademhalingssnelheid",
   "Rest": "Rust",
   "Resting": "Rust",
   "Resting heart rate": "Rusthartslag",

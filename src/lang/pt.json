@@ -1898,6 +1898,7 @@
   "reset_eftp_description": "Redefinir o seu FTP estimado. Isto é útil após uma longa pausa, quando sabe que o seu FTP baixou mais do que a taxa de decadência habitual e quer começar a ver os resultados do FTP novamente!",
   "Respiration": "Respiração",
   "Respiration rate": "Taxa de respiraçâo",
+  "Respiration Rate": "Taxa de Respiração",
   "Rest": "Descanso",
   "Resting": "Descanso",
   "Resting heart rate": "RC em repouso",

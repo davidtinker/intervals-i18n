@@ -1898,6 +1898,7 @@
   "reset_eftp_description": "Setze deinen geschätzten FTP-Wert zurück. Dies ist nach einer langen Pause nützlich, wenn du weißt, dass deine FTP um mehr als die übliche Abklingrate gesunken ist und du wieder FTP-Up-Erfolge sehen möchtest!",
   "Respiration": "Atmung",
   "Respiration rate": "Atmungsrate",
+  "Respiration Rate": "Atemfrequenz",
   "Rest": "Ruhe",
   "Resting": "Ausruhen",
   "Resting heart rate": "Ruhepuls",

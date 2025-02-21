@@ -1898,6 +1898,7 @@
   "reset_eftp_description": "Réinitialisez votre FTP estimé. C'est utile après une longue pause lorsque vous savez que votre FTP a baissé plus que le taux de décroissance habituel et que vous voulez recommencer à voir les réalisations d'augmentation de la FTP !",
   "Respiration": "Respiration",
   "Respiration rate": "Fréquence respiratoire",
+  "Respiration Rate": "Fréquence respiratoire",
   "Rest": "Repos",
   "Resting": "Repos",
   "Resting heart rate": "Fréquence cardiaque au repos",

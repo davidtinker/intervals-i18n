@@ -1898,6 +1898,7 @@
   "reset_eftp_description": "推定FTPをリセットします。これは長い休養の後などでFTPが通常の減衰率よりも下がったことが分かっていて、再びFTPアップの実績を見始めたいときに便利です！",
   "Respiration": "呼吸",
   "Respiration rate": "呼吸数",
+  "Respiration Rate": "呼吸数",
   "Rest": "休む",
   "Resting": "休憩",
   "Resting heart rate": "安静時心拍数",
