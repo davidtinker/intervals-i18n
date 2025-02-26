@@ -999,7 +999,7 @@
   "FTP/kg": "FTP/kg",
   "ftp_est_min_secs": "L'FTP stimato viene calcolato collocandoti su una curva di potenza utilizzando un singolo sforzo massimale tra 180 secondi e 30 minuti. Se la tua potenza anaerobica (di breve durata) è molto buona, potresti voler usare durate più lunghe per evitare di sovrastimare il tuo FTP.",
   "ftp_up_0": "Il tuo FTP stimato è aumentato di {0}w a {1}w!",
-  "ftp_up_from_ui": "FTP + da{delta} a {value}w da {time} a {watts}w",
+  "ftp_up_from_ui": "FTP + {delta}w a {value}w da {time} a {watts}w",
   "ftp_up_ui": "FTP + da{delta} a {{value}}w",
   "Full": "Completo",
   "Full activity data has not yet been downloaded from Strava": "I dati completi dell'attività non sono ancora stati scaricati da Strava",
