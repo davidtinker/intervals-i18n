@@ -168,7 +168,7 @@
   "add_weather": "Kliknutím zobrazíte analýzu vetra",
   "add_weather_to_strava_blurb": "Pridanie informácií o počasí do popisu vašich aktivít na Strave",
   "add_weather_to_strava_prompt": "Chcete do popisov aktivít na Strave pridať prehľad počasia?",
-  "added_to_group_chat_msg_sub": "{0} vás pridal k "{1}"",
+  "added_to_group_chat_msg_sub": "{0} vás pridal k {1}",
   "added_to_library": " User{name} bol pridaný do vašej knižnice",
   "Additional information": "Ďalšie informácie",
   "Address": "Adresa",
@@ -589,7 +589,7 @@
   "confirm_share_folder_with_all": "Naozaj chcete tento súbor zdieľať so všetkými športovcami, ktorých trénujete",
   "confirm_share_folder_with_tag": "Tento priečinok naozaj chcete zdieľať so športovcami, ktorých trénujete, pomocou značky {tag}",
   "confirm_stop_import_from_file": "Ste si istí, že chcete ukončiť import z tohto súboru?",
-  "confirm_strava_disconnect": "Ste si istí, že chcete zrušiť prístup Intervals.icu k vašim údajom zo Stravy? <span class=\red--text\">Podmienky služby Strava API vyžadujú, aby boli všetky údaje Strava na Intervals.icu odstránené.</span> Zadajte 'áno' do políčka nižšie a kliknite na 'OK', aby ste zrušili prístup a odstránili svoje údaje Strava zo stránky Intervals.icu."
+  "confirm_strava_disconnect": "Ste si istí, že chcete zrušiť prístup Intervals.icu k vašim údajom zo Stravy? <span class=\red--text\">Podmienky služby Strava API vyžadujú, aby boli všetky údaje Strava na Intervals.icu odstránené.</span> Zadajte 'áno' do políčka nižšie a kliknite na 'OK', aby ste zrušili prístup a odstránili svoje údaje Strava zo stránky Intervals.icu.",
   "confirm_undelete_activities": "Naozaj chcete zrušiť vymazanie {n}?",
   "confirm_unlink_folder": "Naozaj chcete tento priečinok odpojiť od Intervals.icu?",
   "confirm_update_zones_activities": "Naozaj chcete aktualizovať zóny v doméne {n}? Všetky existujúce hodnoty FTP, W' a prahové hodnoty tempa sa zachovajú, aktualizujú sa len zóny. Ak má šport zóny HR, aktualizujú sa prahové hodnoty HR a max. HR.",
@@ -976,7 +976,7 @@
   "Form Average %": "Priemerné % formy",
   "Form chart": "Tabuľka formulárov",
   "form_as_percent": "Forma je vaša kondícia, menej únavy. Môže byť zobrazená ako absolútne číslo (napr. -10) alebo ako percento vašej aktuálnej kondície (napr. -20 %). Percentuálna možnosť upravuje zóny (napr. Optimálny tréning) tak, aby zodpovedali vašej aktuálnej kondícií, a je pravdepodobne lepšou voľbou",
-  "form_blurb": "Ak chcete byť fit, musíte vytvárať stres zvyšovaním tréningovej záťaže, t. j. udržiavať fialovú čiaru nad modrou čiarou. Vaša forma je vaša kondícia. Keď je vaša forma v <b class='optimal'>optimálnej</b> , získavate kondíciu. Keď je vaša forma <b class='fresh'>svieža</b> a ste fit, môžete pretekať. Vyhnite sa dlhodobému pobytu v <b class='highRisk'>vysoko rizikovej zóne</b>, inak by ste mohli byť pretrénovaní. Do tréningu musíte zaradiť týždne pravidelného odpočinku, aby ste sa zotavili z únavy a boli na pretekoch v čo najlepšej forme."
+  "form_blurb": "Ak chcete byť fit, musíte vytvárať stres zvyšovaním tréningovej záťaže, t. j. udržiavať fialovú čiaru nad modrou čiarou. Vaša forma je vaša kondícia. Keď je vaša forma v <b class='optimal'>optimálnej</b> , získavate kondíciu. Keď je vaša forma <b class='fresh'>svieža</b> a ste fit, môžete pretekať. Vyhnite sa dlhodobému pobytu v <b class='highRisk'>vysoko rizikovej zóne</b>, inak by ste mohli byť pretrénovaní. Do tréningu musíte zaradiť týždne pravidelného odpočinku, aby ste sa zotavili z únavy a boli na pretekoch v čo najlepšej forme.",
   "Format": "Formát",
   "Forum": "Fórum",
   "Frame": "Rám",
@@ -2694,5 +2694,5 @@
   "Zoom Trend": "Priblíženie trendu",
   "zoom_avg_blurb": "Priemer viditeľnej časti",
   "zoom_before_crop": "Pred kliknutím na orezanie priblížte časť aktivity, ktorú chcete zachovať",
-  "zoom_trend_blurb": "Lineárna trendová čiara (y=mx+c) pre viditeľnú časť",
+  "zoom_trend_blurb": "Lineárna trendová čiara (y=mx+c) pre viditeľnú časť"
 }
