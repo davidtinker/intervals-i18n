@@ -2696,6 +2696,7 @@
   "Zoom": "Zoom",
   "Zoom Avg": "Zoom Durchschnitt",
   "Zoom Trend": "Zoom-Trend",
+  "Zoom Y-Axis": "Zoom Y-Achse",
   "zoom_avg_blurb": "Durchschnitt für sichtbaren Bereich",
   "zoom_before_crop": "Zoome auf den Teil der Aktivität, den du behalten möchtest, bevor du auf Ausschneiden klickst.",
   "zoom_trend_blurb": "Lineare Trendlinie (y=mx+c) für den sichtbaren Bereich"

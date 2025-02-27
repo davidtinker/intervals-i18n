@@ -2696,6 +2696,7 @@
   "Zoom": "Zoom",
   "Zoom Avg": "Zoom Gemiddeld",
   "Zoom Trend": "Zoom Trend",
+  "Zoom Y-Axis": "Zoom Y-as",
   "zoom_avg_blurb": "Gemiddelde voor zichtbaar gedeelte",
   "zoom_before_crop": "Zoom in op het gedeelte van de activiteit dat je wilt behouden voordat je op bijsnijden klikt",
   "zoom_trend_blurb": "Lineaire trendlijn (y=mx+c) voor zichtbaar deel"

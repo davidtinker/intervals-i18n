@@ -2696,6 +2696,7 @@
   "Zoom": "Zoom",
   "Zoom Avg": "Zoom Gns",
   "Zoom Trend": "Zoom trend",
+  "Zoom Y-Axis": "Zoom Y-akse",
   "zoom_avg_blurb": "Gennemsnit for synlig del",
   "zoom_before_crop": "Zoom til den del af aktiviteten, du vil beholde, før du klikker på beskær",
   "zoom_trend_blurb": "Lineær trendlinje (y=mx+c) for synlig del"

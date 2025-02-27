@@ -2696,6 +2696,7 @@
   "Zoom": "ズーム",
   "Zoom Avg": "ズーム平均",
   "Zoom Trend": "ズームトレンド",
+  "Zoom Y-Axis": "ズームY軸",
   "zoom_avg_blurb": "可視部分の平均",
   "zoom_before_crop": "トリミングをクリックする前に、アクティビティーの残したい部分にズームしてください。",
   "zoom_trend_blurb": "可視部分の線形トレンドライン（y=mx+c）"

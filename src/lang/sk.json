@@ -2696,6 +2696,7 @@
   "Zoom": "Zoom",
   "Zoom Avg": "Priem. priblíženie",
   "Zoom Trend": "Priblíženie trendu",
+  "Zoom Y-Axis": "Priblížiť os Y",
   "zoom_avg_blurb": "Priemer viditeľnej časti",
   "zoom_before_crop": "Pred kliknutím na orezanie priblížte časť aktivity, ktorú chcete zachovať",
   "zoom_trend_blurb": "Lineárna trendová čiara (y=mx+c) pre viditeľnú časť"

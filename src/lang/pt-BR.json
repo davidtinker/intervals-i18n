@@ -2696,6 +2696,7 @@
   "Zoom": "Zoom",
   "Zoom Avg": "Média de Zoom",
   "Zoom Trend": "Tendência de Zoom",
+  "Zoom Y-Axis": "Zoom no Eixo Y",
   "zoom_avg_blurb": "Média para a parte visível",
   "zoom_before_crop": "Amplie a parte da atividade que deseja manter antes de clicar em cortar",
   "zoom_trend_blurb": "Linha de tendência linear (y=mx+c) para a porção visível"

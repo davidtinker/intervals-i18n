@@ -2696,6 +2696,7 @@
   "Zoom": "Povečavajte",
   "Zoom Avg": "Povprečje Zooma",
   "Zoom Trend": "Trend Zoom",
+  "Zoom Y-Axis": "Povečava Y-os",
   "zoom_avg_blurb": "Povprečje za vidni del",
   "zoom_before_crop": "Povečajte del aktivnosti, ki jo želite obdržati, preden kliknete obreži",
   "zoom_trend_blurb": "Linearni trendna črta (y=mx+c) za vidni del"

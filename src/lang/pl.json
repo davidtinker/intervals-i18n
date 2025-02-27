@@ -2696,6 +2696,7 @@
   "Zoom": "Zoom",
   "Zoom Avg": "Zoom Średnia",
   "Zoom Trend": "Trend Zoom",
+  "Zoom Y-Axis": "Oś Y Zoom",
   "zoom_avg_blurb": "Średnia dla widocznej części",
   "zoom_before_crop": "Powiększ część aktywności, którą chcesz zachować, przed kliknięciem przycisku przycinania.",
   "zoom_trend_blurb": "Liniowa linia trendu (y=mx+c) dla widocznej części"

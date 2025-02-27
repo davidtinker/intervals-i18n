@@ -2696,6 +2696,7 @@
   "Zoom": "Zoom",
   "Zoom Avg": "Zoom moyen",
   "Zoom Trend": "Tendance de zoom",
+  "Zoom Y-Axis": "Zoom de l'axe Y",
   "zoom_avg_blurb": "Moyenne pour la partie visible",
   "zoom_before_crop": "Zoomez sur la partie de l'activité que vous souhaitez conserver avant de cliquer sur le bouton \"Rogner\"",
   "zoom_trend_blurb": "Ligne de tendance linéaire (y=mx+c) pour la portion visible"

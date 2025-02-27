@@ -2696,6 +2696,7 @@
   "Zoom": "Nagyítás",
   "Zoom Avg": "Zoom Átlag",
   "Zoom Trend": "Zoom Trend",
+  "Zoom Y-Axis": "Zoom Y-tengely",
   "zoom_avg_blurb": "Átlag a látható részre",
   "zoom_before_crop": "Mielőtt a kivágás gombra kattintasz, nagyíts a tevékenység azon részére, amelyet meg szeretnél tartani",
   "zoom_trend_blurb": "Lineáris trendvonal (y=mx+c) a látható részre"

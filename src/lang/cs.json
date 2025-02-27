@@ -2696,6 +2696,7 @@
   "Zoom": "Zoom",
   "Zoom Avg": "Průměr Zoomu",
   "Zoom Trend": "Trend Zoom",
+  "Zoom Y-Axis": "Zoom Y-osa",
   "zoom_avg_blurb": "Průměr pro viditelnou část",
   "zoom_before_crop": "Před kliknutím na oříznutí zvětšete část aktivity, kterou chcete zachovat",
   "zoom_trend_blurb": "Lineární trendová čára (y=mx+c) pro viditelnou část"
