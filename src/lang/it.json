@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Tasso di sforzo percepito",
   "Raw HR": "FC grezza",
   "Raw Power": "Potenza grezza",
+  "raw_watts_blurb": "Potenza senza correzione dei picchi",
   "Re-analyze activity": "Rianalizzare l'attività",
   "Re-detect intervals etc": "Rilevare gli intervalli ecc.",
   "Read": "Leggere",

@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Уровень воспринимаемой нагрузки",
   "Raw HR": "Исх. ЧСС",
   "Raw Power": "Исх. Мощность",
+  "raw_watts_blurb": "Энергия без коррекции пиков",
   "Re-analyze activity": "Повторный анализ активности",
   "Re-detect intervals etc": "Повторно обнаружить интервалы и т.д.",
   "Read": "Читать",

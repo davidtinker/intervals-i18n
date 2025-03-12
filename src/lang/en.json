@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Rate of Perceived Exertion",
   "Raw HR": "Raw HR",
   "Raw Power": "Raw Power",
+  "raw_watts_blurb": "Power without spike correction",
   "Re-analyze activity": "Re-analyze activity",
   "Re-detect intervals etc": "Re-detect intervals etc",
   "Read": "Read",

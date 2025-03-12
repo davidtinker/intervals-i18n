@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "感知疲劳率",
   "Raw HR": "原始心率",
   "Raw Power": "原始功率",
+  "raw_watts_blurb": "无尖峰修正的功率",
   "Re-analyze activity": "重新分析活动",
   "Re-detect intervals etc": "重新检测分段等",
   "Read": "阅读",

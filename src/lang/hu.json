@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Az észlelt erőfeszítés nagysága",
   "Raw HR": "Nyers pulzusadat",
   "Raw Power": "Nyers teljesítményadat",
+  "raw_watts_blurb": "Teljesítmény csúcsjavítás nélkül",
   "Re-analyze activity": "A tevékenység újraelemzése",
   "Re-detect intervals etc": "Újra észleli az intervallumokat, stb.",
   "Read": "Olvas",

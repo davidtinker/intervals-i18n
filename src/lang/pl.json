@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Wskaźnik odczuwanego wysiłku",
   "Raw HR": "Surowy HR",
   "Raw Power": "Surowa moc",
+  "raw_watts_blurb": "Moc bez korekcji szczytów",
   "Re-analyze activity": "Ponownie przeanalizuj aktywność",
   "Re-detect intervals etc": "Częstotliwość ponownych pomiarów itp.",
   "Read": "Czytać",
