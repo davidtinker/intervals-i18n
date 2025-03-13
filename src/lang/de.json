@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Subjektive Anstrengung",
   "Raw HR": "HF (roh)",
   "Raw Power": "Leistung (roh)",
+  "raw_watts_blurb": "Leistung ohne Spitzenkorrektur",
   "Re-analyze activity": "Aktivität erneut analysieren",
   "Re-detect intervals etc": "Intervalle zur erneuten Erkennung usw.",
   "Read": "Lesen",

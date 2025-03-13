@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Opfattet anstrengelse",
   "Raw HR": "Rå puls",
   "Raw Power": "Rå effekt",
+  "raw_watts_blurb": "Strøm uden spidsekorrektion",
   "Re-analyze activity": "Genanalysere aktivitet",
   "Re-detect intervals etc": "Genopdag intervaller osv",
   "Read": "Læs",

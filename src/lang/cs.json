@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Míra vnímané námahy",
   "Raw HR": "Surový HR",
   "Raw Power": "Surová síla",
+  "raw_watts_blurb": "Energie bez korekce špiček",
   "Re-analyze activity": "Znovu analyzujte aktivitu",
   "Re-detect intervals etc": "Znovu detekovat intervaly atd",
   "Read": "Číst",

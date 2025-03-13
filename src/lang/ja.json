@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "主観的運動強度",
   "Raw HR": "Raw HR",
   "Raw Power": "Raw Power",
+  "raw_watts_blurb": "スパイク補正なしのパワー",
   "Re-analyze activity": "アクティビティを再分析",
   "Re-detect intervals etc": "インターバルを再検知",
   "Read": "レディネス",

@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Taxa de Esforço Percebido",
   "Raw HR": "FC Bruta",
   "Raw Power": "Potência Bruta",
+  "raw_watts_blurb": "Potência sem correção de pico",
   "Re-analyze activity": "Reanalisar atividade",
   "Re-detect intervals etc": "Redetectar intervalos etc.",
   "Read": "Ler",

@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Rata efortului perceput",
   "Raw HR": "HR brut",
   "Raw Power": "Putere brută",
+  "raw_watts_blurb": "Putere fără corecție de vârf",
   "Re-analyze activity": "Reanalizați activitatea",
   "Re-detect intervals etc": "Re-detectați intervale etc.",
   "Read": "Citire",

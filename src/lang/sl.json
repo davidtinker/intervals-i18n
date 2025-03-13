@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Stopnja Zaznanega Napora",
   "Raw HR": "Čisti HR",
   "Raw Power": "Čista Moč",
+  "raw_watts_blurb": "Moč brez popravka vrha",
   "Re-analyze activity": "Ponovno analizirajte dejavnost",
   "Re-detect intervals etc": "Ponovno odkrivanje intervalov itd",
   "Read": "Preberite",

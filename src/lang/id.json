@@ -1846,6 +1846,7 @@
   "Rate of Perceived Exertion": "Tingkat Pengerahan Tenaga yang Dirasakan",
   "Raw HR": "HR baku",
   "Raw Power": "Daya Baku",
+  "raw_watts_blurb": "Daya tanpa koreksi lonjakan",
   "Re-analyze activity": "Analisa ulang aktivitas",
   "Re-detect intervals etc": "Deteksi ulang interval, dll.",
   "Read": "Baca",
