@@ -1346,6 +1346,7 @@
   "List": "Lista",
   "Load": "Carga",
   "Load/h": "Carga/h",
+  "Load/week": "Carga/semana",
   "load_order": "Intervals.icu calcula la carga de entrenamiento a partir de los datos de potencia, frecuencia cardíaca y ritmo en función de los datos disponibles para la actividad. Si se dispone de varios de ellos, este ajuste determina cuál se selecciona. Por lo general, si una actividad tiene potencia, debería utilizarla para la carga.",
   "Local date": "Fecha local",
   "Local time": "Hora local",

@@ -1346,6 +1346,7 @@
   "List": "Seznam",
   "Load": "Zatížení",
   "Load/h": "Zatížení/h",
+  "Load/week": "Náklad/tyden",
   "load_order": "Intervals.icu odhaduje tréninkovou zátěž z údajů o výkonu, tepové frekvenci a tempu v závislosti na datech dostupných pro danou aktivitu. Pokud je k dispozici několik z nich, pak toto nastavení určuje, který je vybrán. Obecně platí, že pokud má nějaká aktivita sílu, měli byste ji použít pro zátěž.",
   "Local date": "Místní datum",
   "Local time": "místní čas",

@@ -1346,6 +1346,7 @@
   "List": "Liste",
   "Load": "Charge",
   "Load/h": "Charge/h",
+  "Load/week": "Charger/semaine",
   "load_order": "Intervals.icu estime la charge d'entraînement à partir des données de puissance, de fréquence cardiaque et d'allure, en fonction des données disponibles pour l'activité. Si plusieurs de ces données sont disponibles, ce paramètre détermine celle qui est sélectionnée. En général, si une activité dispose de la puissance, vous devez l'utiliser pour la charge.",
   "Local date": "Date locale",
   "Local time": "Heure locale",

@@ -1346,6 +1346,7 @@
   "List": "Daftar",
   "Load": "Memuat",
   "Load/h": "Beban/jam",
+  "Load/week": "Muat/minggu",
   "load_order": "Intervals.icu memperkirakan beban latihan dari data daya, denyut jantung dan kecepatan tergantung pada data yang tersedia untuk aktivitas tersebut. Jika beberapa data tersebut tersedia, maka pengaturan ini menentukan data mana yang dipilih. Umumnya jika aktivitas memiliki daya, Anda harus menggunakannya untuk beban.",
   "Local date": "Tanggal lokal",
   "Local time": "Waktu lokal",

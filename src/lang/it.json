@@ -1346,6 +1346,7 @@
   "List": "Elenco",
   "Load": "Carico",
   "Load/h": "Carico/h",
+  "Load/week": "Carico/settimana",
   "load_order": "Intervals.icu stima il carico di allenamento dai dati di potenza, frequenza cardiaca e passo a seconda dei dati disponibili per l'attività. Se sono disponibili diversi di questi dati, questa impostazione determina quale viene selezionato. In genere, se un'attività ha la potenza, si dovrebbe usare quella per il carico.",
   "Local date": "data locale",
   "Local time": "Ora locale",

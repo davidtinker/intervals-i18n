@@ -1346,6 +1346,7 @@
   "List": "Lista",
   "Load": "Terh.",
   "Load/h": "Terh./óra",
+  "Load/week": "Betöltés/hét",
   "load_order": "Az Intervals.icu az edzésterhelés, teljesítmény, pulzus és tempó adatok alapján becsüli meg a tevékenységhez rendelkezésre álló adatok függvényében. Ha ezek közül több elérhető, akkor a beállítás határozza meg, hogy melyik alapján. Általában, ha egy tevékenység rendelkezik teljesítménnyel, akkor az alapján lesz az edzésterhelés kiszámolva.",
   "Local date": "Helyi dátum",
   "Local time": "Helyi idő",

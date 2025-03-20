@@ -1346,6 +1346,7 @@
   "List": "Listă",
   "Load": "Efort",
   "Load/h": "Efort/h",
+  "Load/week": "Încărcare/săptămână",
   "load_order": "Intervals.icu estimează efortul de antrenament din datele de putere, puls și ritm în funcție de datele disponibile pentru activitate. Dacă mai multe dintre acestea sunt disponibile, atunci această setare determină care este selectată. În general, dacă o activitate are datele de putere, ar trebui să le folosiți pentru calculul încărcării.",
   "Local date": "Data locală",
   "Local time": "Ora locală",

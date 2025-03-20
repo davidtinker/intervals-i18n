@@ -1346,6 +1346,7 @@
   "List": "Liste",
   "Load": "Belastning",
   "Load/h": "Belastning/t",
+  "Load/week": "Indlæsning/uge",
   "load_order": "Intervals.icu estimerer træningsbelastning ud fra effekt-, puls- og tempodata afhængigt af de tilgængelige data for aktiviteten. Hvis flere af disse er tilgængelige, bestemmer denne indstilling, hvilken der vælges. Generelt, hvis en aktivitet har effekt, skal du bruge den til belastning.",
   "Local date": "Lokal dato",
   "Local time": "Lokal tid",

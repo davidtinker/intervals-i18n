@@ -1346,6 +1346,7 @@
   "List": "Lista",
   "Load": "Obciążenie",
   "Load/h": "Ładuj/h",
+  "Load/week": "Ładunek/tydzień",
   "load_order": "Intervals.icu szacuje obciążenie treningowe na podstawie danych dotyczących mocy, tętna i tempa, w zależności od danych dostępnych dla danej aktywności. Jeżeli dostępnych jest kilka z nich, to ustawienie określa, które z nich zostaną wybrane. Generalnie, jeżeli aktywność ma moc, należy jej użyć do określenia obciążenia.",
   "Local date": "Data lokalna",
   "Local time": "Czas lokalny",

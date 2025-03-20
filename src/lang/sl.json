@@ -1346,6 +1346,7 @@
   "List": "Seznam",
   "Load": "Napor",
   "Load/h": "Napor/uro",
+  "Load/week": "Obremenitev/teden",
   "load_order": "Intervals.icu ocenjuje napor treninga na podlagi podatkov o moči, srčnem utripu in tempu, odvisno od podatkov, ki so na voljo za aktivnost. Če je na voljo več teh, ta nastavitev določa, katera je izbrana. Na splošno, če ima aktivnost moč, jo morate uporabiti za napor.",
   "Local date": "Lokalni datum",
   "Local time": "Lokalni čas",

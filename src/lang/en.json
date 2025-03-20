@@ -1346,6 +1346,7 @@
   "List": "List",
   "Load": "Load",
   "Load/h": "Load/h",
+  "Load/week": "Load/week",
   "load_order": "Intervals.icu estimates training load from power, heart rate and pace data depending on the data available for the activity. If several of these are available then this setting determines which one is selected. Generally if an activity has power you should use that for load.",
   "Local date": "Local date",
   "Local time": "Local time",

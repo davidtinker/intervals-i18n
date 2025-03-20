@@ -1346,6 +1346,7 @@
   "List": "Lijstweergave",
   "Load": "Belasting",
   "Load/h": "Last/h",
+  "Load/week": "Laden/week",
   "load_order": "Intervals.icu schat de trainingsbelasting aan de hand van de beschikbare data voor de activiteit zoals vermogen, hartslag of tempo. Als meerdere datareeksen beschikbaar zijn, bepaalt deze instelling welke data gebruikt wordt. Over het algemeen wordt vermogen prioritair gebruikt voor de berekening van de belasting.",
   "Local date": "Lokale datum",
   "Local time": "Lokale tijd",

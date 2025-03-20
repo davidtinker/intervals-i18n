@@ -1346,6 +1346,7 @@
   "List": "Liste",
   "Load": "Belastung",
   "Load/h": "Belastung/h",
+  "Load/week": "Laden/Woche",
   "load_order": "Intervals.icu schätzt die Trainingsbelastung anhand von Leistungs-, Herzfrequenz- und Tempodaten, je nachdem, welche Daten für die Aktivität verfügbar sind. Wenn mehrere dieser Daten verfügbar sind, bestimmt diese Einstellung, welche davon ausgewählt wird. Wenn für eine Aktivität Leistungsdaten vorliegen, solltest du diese bevorzugt verwenden.",
   "Local date": "Lokales Datum",
   "Local time": "Ortszeit",
