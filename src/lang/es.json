@@ -995,7 +995,7 @@
   "from_app": "Desde {n}",
   "ftp": "FTP son las siglas de Functional Threshold Power, que se define comúnmente como la potencia media más alta que se puede mantener durante una hora, medida en vatios. El FTP se utiliza a menudo para determinar las zonas de entrenamiento cuando se utiliza un medidor de potencia y para realizar un seguimiento de la mejora - <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "FTP": "FTP",
-  "FTP Estimation Min Effort Duration (secs)": "Estimación FTP Duración mínima del esfuerzo (s)",
+  "FTP Estimation Min Effort Duration (secs)": "Duración mínima de esfuerzo para estimación de FTP (segundos)",
   "FTP for this activity": "FTP para esta actividad",
   "FTP or threshold power": "FTP o potencia umbral",
   "FTP when this activity took place": "FTP cuando se llevó a cabo esta actividad",
