@@ -1490,6 +1490,7 @@
   "Missing content": "Ontbrekende inhoud",
   "Missing name": "Ontbrekende naam",
   "Missing plots": "Ontbrekende grafieken",
+  "missing_custom_activity_field": "De atleet heeft dit aangepaste activiteitsveld niet geconfigureerd",
   "MMP Duration": "MMP-duur",
   "mmp_days": "Workoutstappen kunnen worden opgegeven als een percentage van het gemiddelde maximale vermogen (MMP) van de atleet voor een bepaalde duur. Dit is het aantal dagen dat wordt gebruikt om de modelcurve te berekenen voor trainingen met MMP.",
   "Model": "Model",

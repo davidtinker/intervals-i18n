@@ -1490,6 +1490,7 @@
   "Missing content": "Chýbajúci obsah",
   "Missing name": "Chýbajúci názov",
   "Missing plots": "Chýbajúce grafy",
+  "missing_custom_activity_field": "Športovec nemá nakonfigurované toto vlastné pole aktivity",
   "MMP Duration": "Trvanie MMP",
   "mmp_days": "Tréningové kroky možno definovať ako percentuálny podiel priemerného maximálneho výkonu športovca (MMP) za dané obdobie. Ide o počet dní, ktoré sa používajú na výpočet modelovej krivky pre tréning pomocou MMP",
   "Model": "Model",

@@ -1490,6 +1490,7 @@
   "Missing content": "Hiányzó tartalom",
   "Missing name": "Hiányzó név",
   "Missing plots": "Hiányzó esemény",
+  "missing_custom_activity_field": "A sportoló nem rendelkezik ezzel a testreszabott tevékenységi mezővel.",
   "MMP Duration": "MMP időtartam",
   "mmp_days": "Az edzésen belüli feladatok intenzításai megadhatók a sportoló átlagos maximális teljesítményének (MMP) százalékában egy adott időtartamra. Ez az a napok száma, amelyet az MMP-vel végzett edzések modellgörbéjének kiszámítására használnak.",
   "Model": "Modell",

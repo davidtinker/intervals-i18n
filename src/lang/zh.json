@@ -1490,6 +1490,7 @@
   "Missing content": "缺少内容",
   "Missing name": "缺少名称",
   "Missing plots": "缺少绘图",
+  "missing_custom_activity_field": "运动员未配置此自定义活动字段",
   "MMP Duration": "MMP时间",
   "mmp_days": "训练步骤可以定义为运动员在一定时间内的平均最大功率(MMP)的百分比。这个天数用于计算使用MMP的训练的模型曲线",
   "Model": "模型",

@@ -1490,6 +1490,7 @@
   "Missing content": "Conteúdo ausente",
   "Missing name": "Nome ausente",
   "Missing plots": "Gráficos ausentes",
+  "missing_custom_activity_field": "O atleta não tem este campo de atividade personalizado configurado",
   "MMP Duration": "Duração MMP",
   "mmp_days": "As etapas do treino podem ser especificadas como uma porcentagem da potência máxima média (MMP) do atleta para uma determinada duração. Este é o número de dias usados para calcular a curva modelada para treinos usando MMP.",
   "Model": "Modelo",
