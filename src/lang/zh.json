@@ -552,6 +552,8 @@
   "Components": "组成部分",
   "compound_score_5m": "复合分数是给定持续时间（此处为 5 分钟）的绝对功率 (w) x 相对功率 (w/kg)。已发现它比仅 5m 绝对或相对力量更能预测亲大陆 U23 一日比赛的成功 - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "计算机",
+  "configure_activity_fields": "编辑活动摘要",
+  "configure_activity_fields_blurb": "更改活动摘要中显示的布局和字段，并向活动详细信息选项卡添加您自己的面板",
   "configure_pace_zones": "在设置中为这项运动配置步伐区，以查看步伐区的时间。",
   "confirm_change_code": "您确定要将代码从 {old} 更改为 {new} 吗？这将隐藏已保存为 {old} 的任何数据",
   "confirm_clear_intervals": "你确定你要删除所有的分段吗？",

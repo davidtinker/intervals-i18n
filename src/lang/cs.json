@@ -552,6 +552,8 @@
   "Components": "komponenty",
   "compound_score_5m": "Složené skóre je absolutní výkon (w) x relativní výkon (w/kg) po danou dobu (zde 5 minut). Bylo zjištěno, že je více prediktivní než 5 m absolutní nebo relativní síly samotného jednodenního závodního úspěchu prokontinentálních U23 – <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Počítač",
+  "configure_activity_fields": "Upravit shrnutí aktivity",
+  "configure_activity_fields_blurb": "Změňte rozložení a pole zobrazená v souhrnu aktivity a přidejte své vlastní panely na záložky podrobností o aktivitě",
   "configure_pace_zones": "Konfigurace tempových zón pro tento sport v nastavení pro zobrazení času v tempových zónách.",
   "confirm_change_code": "Jste si jisti, že chcete změnit kód z {old} na {new}? Tím se skryjí veškerá data již uložená jako {old}",
   "confirm_clear_intervals": "Určitě chcete odstranit všechny intervaly?",

@@ -552,6 +552,8 @@
   "Components": "Alkatrészek",
   "compound_score_5m": "Az összetett pontszám az abszolút- (w) és a relatív-teljesítmény (w/kg) szorzata egy adott időtartamra (itt most 5 percre). A profik kontinentális U23-as egynapos versenyein ez jobb teljesítmény-előrejelzőnek bizonyult, mint az 5perces abszolút- (w),  vagy relatív- (w/kg) teljesítmény önmagában. Bővebben lásd a <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a> cikkben",
   "Computer": "Számítógép",
+  "configure_activity_fields": "Tevékenység összegzésének szerkesztése",
+  "configure_activity_fields_blurb": "Módosítsa az elrendezést és a megjelenített mezőket a tevékenység összegzésén, és adjon hozzá saját paneleit a tevékenység részleteihez tartozó fülökhöz.",
   "configure_pace_zones": "Add meg a sportághoz tartozó tempó zónáid a Beállításokban, hogy láthasd az ezekben a tempó zónákban eltöltött időd.",
   "confirm_change_code": "Biztos vagy benne, hogy meg akarod változtatni a kódot {old}-ról {new}-ra? Ez elrejti az összes már mentett adatot, ami {old}-ként van elmentve.",
   "confirm_clear_intervals": "Biztos, hogy az összes intervallumot el akarod távolítani?",

@@ -552,6 +552,8 @@
   "Components": "Componentes",
   "compound_score_5m": "O score composto é potência absoluta (w) x potência relativa (w/kg) para uma determinada duração (neste caso, 5 minutos). Foi constatado que é mais preditivo do que a potência absoluta ou relativa de 5 minutos sozinha para o sucesso em corridas de um dia U23 pró-continental - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>\n",
   "Computer": "Computador",
+  "configure_activity_fields": "Editar resumo da atividade",
+  "configure_activity_fields_blurb": "Altere o layout e os campos exibidos no resumo da atividade e adicione seus próprios painéis às abas de detalhes da atividade",
   "configure_pace_zones": "Configure zonas de ritmo para este esporte nas configurações para ver o tempo em zonas de ritmo",
   "confirm_change_code": "Tem certeza de que deseja alterar o código de {old} para {new}? Isso ocultará quaisquer dados já salvos como {old}",
   "confirm_clear_intervals": "Tem certeza de que deseja remover todos os intervalos?",

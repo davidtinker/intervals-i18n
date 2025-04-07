@@ -552,6 +552,8 @@
   "Components": "Components",
   "compound_score_5m": "The compound score is absolute power (w) x relative power (w/kg) for a given duration (here 5 minutes). It has been found to be more predictive than 5m absolute or relative power alone of pro-continental U23 one day racing success - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>\n",
   "Computer": "Computer",
+  "configure_activity_fields": "Edit activity summary",
+  "configure_activity_fields_blurb": "Change the layout and fields displayed on the activity summary and add your own panels to the activity detail tabs",
   "configure_pace_zones": "Configure pace zones for this sport in settings to see time in pace zones",
   "confirm_change_code": "Are you sure you want to change code from {old} to {new}? This will hide any data already saved as {old}",
   "confirm_clear_intervals": "Are you sure you want to remove all the intervals?",

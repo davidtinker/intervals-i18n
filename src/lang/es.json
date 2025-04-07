@@ -552,6 +552,8 @@
   "Components": "Componentes",
   "compound_score_5m": "La puntuación compuesta es potencia absoluta (w) x potencia relativa (w/kg) durante un tiempo determinado (aquí 5 minutos). Se ha descubierto que es más predictivo que la potencia absoluta o relativa de 5 m por sí sola, extraído del éxito en carreras sub-23 continentales de un día: <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Ordenador",
+  "configure_activity_fields": "Editar resumen de actividad",
+  "configure_activity_fields_blurb": "Cambia el diseño y los campos mostrados en el resumen de la actividad y añade tus propios paneles a las pestañas de detalles de la actividad",
   "configure_pace_zones": "Configura las zonas de ritmo para este deporte en los ajustes para ver el tiempo en las zonas de ritmo",
   "confirm_change_code": "¿Estás seguro de que quieres cambiar el código de {old} a {new}? Esto ocultará cualquier dato ya guardado como {old}",
   "confirm_clear_intervals": "¿Estás seguro de que quieres eliminar todos los intervalos?",

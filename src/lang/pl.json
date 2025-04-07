@@ -552,6 +552,8 @@
   "Components": "Komponenty",
   "compound_score_5m": "Wynik związku to moc bezwzględna (w) x moc względna (w/kg) dla danego czasu trwania (tutaj 5 minut). Stwierdzono, że jest ona bardziej predykcyjna niż sama moc bezwzględna lub względna z 5 metrów w jednodniowych wyścigach prokontynentalnych U23 — <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Komputer",
+  "configure_activity_fields": "Edytuj podsumowanie aktywności",
+  "configure_activity_fields_blurb": "Zmień układ i pola wyświetlane w podsumowaniu aktywności oraz dodaj własne panele do zakładek szczegółów aktywności",
   "configure_pace_zones": "Skonfiguruj strefy tempa dla tego sportu w ustawieniach, aby zobaczyć czas w strefach tempa.",
   "confirm_change_code": "Czy na pewno chcesz zmienić kod z {old} na {new}? Spowoduje to ukrycie wszelkich danych już zapisanych jako {old}",
   "confirm_clear_intervals": "Czy na pewno chcesz usunąć wszystkie interwały?",

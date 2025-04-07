@@ -552,6 +552,8 @@
   "Components": "Komponente",
   "compound_score_5m": "Sestavljen rezultat je absolutna moč (w) x relativna moč (w/kg) za dano trajanje (tukaj 5 minut). Ugotovljeno je bilo, da bolj napoveduje kot samo 5 m absolutne ali relativne moči prokontinentalnega uspeha na dirkah U23 – <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Računalnik",
+  "configure_activity_fields": "Uredi povzetek aktivnosti",
+  "configure_activity_fields_blurb": "Spremenite postavitev in polja, prikazana v povzetku aktivnosti, ter dodajte svoje panele na zavihke podrobnosti aktivnosti",
   "configure_pace_zones": "V nastavitvah konfigurirajte območja tempa za ta šport, da vidite čas v območjih tempa",
   "confirm_change_code": "Ali ste prepričani, da želite spremeniti kodo iz {old} v {new}? To bo skrilo vse podatke, ki so že shranjeni kot {old}",
   "confirm_clear_intervals": "Ali ste prepričani, da želite odstraniti vse intervale?",

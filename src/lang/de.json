@@ -552,6 +552,8 @@
   "Components": "Komponenten",
   "compound_score_5m": "Die zusammengesetzte Punktzahl ist absolute Leistung (w) x relative Leistung (W/kg) für eine bestimmte Dauer (hier 5 Minuten). Es hat sich als aussagekräftiger herausgestellt als 5 m absolute oder relative Leistung allein für den Erfolg eines pro-kontinentalen U23-Rennens an einem Tag - <a href='https://www.researchgate.net/publication/361643363_The_Compound_Score_in_elite_road_cycling' target='_blank'>The Compound Score in elite road cycling</a>",
   "Computer": "Computer",
+  "configure_activity_fields": "Aktivitätszusammenfassung bearbeiten",
+  "configure_activity_fields_blurb": "Ändern Sie das Layout und die angezeigten Felder in der Aktivitätszusammenfassung und fügen Sie Ihre eigenen Panels zu den Detailtabs der Aktivität hinzu.",
   "configure_pace_zones": "Konfiguriere Tempo-Zonen für diese Sportart in den Einstellungen, um die Zeit in Tempo-Zonen anzuzeigen.",
   "confirm_change_code": "Bist du sicher, dass du den Code von {old} auf {new} ändern möchtest? Dadurch werden alle bereits gespeicherten Daten als {old} ausgeblendet.",
   "confirm_clear_intervals": "Bist du sicher, dass du alle Intervalle entfernen möchtest?",
