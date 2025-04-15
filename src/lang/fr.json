@@ -1630,6 +1630,7 @@
   "Ok": "OK",
   "OK": "OK",
   "Ok & Next": "OK & Suivant",
+  "Ok_wellness": "OK",
   "old_wellness_data_blurb": "Les données relatives à la santé à partir de la date de début seront téléchargées. Il faudra plusieurs minutes pour qu'elles apparaissent sur votre calendrier. Merci de votre patience.",
   "old_wellness_data_download_busy": "Les données sur la santé sont en cours de téléchargement, veuillez être patient.",
   "On Date": "En date du",

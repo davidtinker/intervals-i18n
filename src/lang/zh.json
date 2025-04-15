@@ -1630,6 +1630,7 @@
   "Ok": "确定",
   "OK": "确定",
   "Ok & Next": "确定并继续",
+  "Ok_wellness": "确定",
   "old_wellness_data_blurb": "开始日期以后的健康数据将被下载，可能将需要几分钟才能出现在你的日历上，请耐心等待",
   "old_wellness_data_download_busy": "健康数据正在下载中，请耐心等待",
   "On Date": "日期",

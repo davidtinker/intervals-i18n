@@ -1630,6 +1630,7 @@
   "Ok": "Ok",
   "OK": "OK",
   "Ok & Next": "OK、次へ",
+  "Ok_wellness": "Ok",
   "old_wellness_data_blurb": "開始日からのウェルネスデータがダウンロードされます。カレンダーに表示されるまでには、数分かかる場合がああります。しばらくお待ちください。",
   "old_wellness_data_download_busy": "ウェルネスデータはダウンロード中です。しばらくお待ち下さい。",
   "On Date": "進行中",
