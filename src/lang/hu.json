@@ -1005,6 +1005,7 @@
   "Fri": "P",
   "Friday": "Péntek",
   "From": "-tól",
+  "from Strava": "a Stravától",
   "from_app": "innen: {n}",
   "ftp": "Az FTP a funkcionális küszöbértéket jelenti, amit közönségesen azon a legnagyobb átlagos teljesítményként határozunk meg, amit még épp fenn tudsz tartani egy teljes órán keresztül folyamatosan. Wattban adjuk meg. Az FTP-t gyakran használják teljesítménymérős edzések zónáinak a meghatározására, valamint a fejlődés nyomon követésére - lásd még: <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "FTP": "FTP",

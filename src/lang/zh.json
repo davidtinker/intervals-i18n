@@ -1005,6 +1005,7 @@
   "Fri": "周五",
   "Friday": "周五",
   "From": "从",
+  "from Strava": "来自 Strava",
   "from_app": "来自 {n}",
   "ftp": "FTP指功能阈值功率，通常被定义为你能维持一小时的最高平均功率，以瓦特计算.使用功率计时，FTP通常被用来确定训练区间并跟踪改进 - <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "FTP": "FTP",

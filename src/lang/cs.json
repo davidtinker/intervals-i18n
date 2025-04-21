@@ -1005,6 +1005,7 @@
   "Fri": "Pá",
   "Friday": "pátek",
   "From": "z",
+  "from Strava": "ze Stravy",
   "from_app": "od {n}",
   "ftp": "FTP znamená funkční prahový výkon, který je běžně definován jako nejvyšší průměrný výkon, který můžete hodinu vydržet, měřeno ve wattech. FTP se často používá k určení tréninkových zón při používání měřiče výkonu a ke sledování zlepšení - <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "FTP": "FTP",

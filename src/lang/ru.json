@@ -1005,6 +1005,7 @@
   "Fri": "Пятница",
   "Friday": "пятница",
   "From": "с",
+  "from Strava": "из Strava",
   "from_app": "От {n}",
   "ftp": "FTP означает функциональную пороговую мощность, которая обычно определяется как максимальная средняя мощность, которую вы можете поддерживать в течение часа, измеряемая в ваттах. FTP часто используется для определения тренировочных зон при использовании измерителя мощности и для отслеживания улучшения - <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "FTP": "FTP",

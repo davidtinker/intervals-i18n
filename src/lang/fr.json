@@ -1005,6 +1005,7 @@
   "Fri": "VEN",
   "Friday": "Vendredi",
   "From": "A partir de",
+  "from Strava": "de Strava",
   "from_app": "à partir de {n}",
   "ftp": "FTP est l'abréviation de Functional Threshold Power, qui est généralement définie comme la puissance moyenne la plus élevée que vous pouvez maintenir pendant une heure, mesurée en watts. La FTP est souvent utilisée pour déterminer les zones d'entraînement lors de l'utilisation d'un capteur de puissance et pour suivre la progression - <a href='https://www.bikeradar.com/road/gear/article/ftp-for-cycling-what-functional-threshold-power-means-how-to-test-it-and-how-to-improve-it-48624/' target='_blank' tabindex='-1'>bikeradar.com</a>",
   "FTP": "FTP",
