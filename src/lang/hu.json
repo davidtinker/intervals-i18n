@@ -1298,6 +1298,7 @@
   "intervals_locked_blurb": "Az intervallumok zárolva vannak, az {actions} menüből feloldhatóak.",
   "intervals_login_otp": "Intervals.icu bejelentkezés egyszer-használatos kóddal (OTP)",
   "intervals_password_reset": "Intervals.icu jelszó visszaállítása",
+  "Invalid height": "Érvénytelen magasság",
   "Invert calendar": "Invert naptár",
   "invert_sub_wellness": "A szubjektív wellness értéksorának megfordítása: az 1 számítson rossznak, a 4 pedig jónak",
   "invite_your_friends": "Hívd meg barátaidat és sportolóidat, hogy csatlakozzanak hozzád az Intervals.icu oldalon az alábbi link elküldésével:",

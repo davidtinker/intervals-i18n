@@ -1298,6 +1298,7 @@
   "intervals_locked_blurb": "Intervaller er låst, lås op fra menuen {actions}",
   "intervals_login_otp": "Intervals.icu login OTP",
   "intervals_password_reset": "Intervals.icu nulstilling af adgangskode",
+  "Invalid height": "Ugyldig højde",
   "Invert calendar": "Inverter kalender",
   "invert_sub_wellness": "Inverter subjektive wellness-scores, så 1 er dårligt og 4 er godt",
   "invite_your_friends": "Inviter dine venner og atleter til at slutte sig til dig på Intervals.icu ved at sende dem nedenstående link:",

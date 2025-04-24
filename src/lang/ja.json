@@ -1298,6 +1298,7 @@
   "intervals_locked_blurb": "インターバルはロックされています。{actions}からロック解除してください。",
   "intervals_login_otp": "Intervals.icu ログインOTP",
   "intervals_password_reset": "Intervals.icu パスワードリセット",
+  "Invalid height": "無効な身長",
   "Invert calendar": "カレンダーを反転する",
   "invert_sub_wellness": "ウェルネススコアを反転し、1が「悪い」、4が「良い」にします",
   "invite_your_friends": "このリンクを友だちやアスリートに送って、Intervals.icuに招待しましょう！",

@@ -1298,6 +1298,7 @@
   "intervals_locked_blurb": "分段时间被锁定，从 {actions} 菜单中解锁",
   "intervals_login_otp": "Intervals.icu登录OTP",
   "intervals_password_reset": "Intervals.icu密码重置",
+  "Invalid height": "无效的身高",
   "Invert calendar": "反转日历",
   "invert_sub_wellness": "颠倒主观健康评分，所以1是坏的，4是好的。",
   "invite_your_friends": "邀请你的朋友和运动员加入Intervals.icu，向他们发送以下链接:",

@@ -1298,6 +1298,7 @@
   "intervals_locked_blurb": "Intervalos estão bloqueados, desbloqueie no menu {actions}",
   "intervals_login_otp": "OTP de login do Intervals.icu",
   "intervals_password_reset": "Redefinição de senha do Intervals.icu",
+  "Invalid height": "Altura inválida",
   "Invert calendar": "Inverter calendário",
   "invert_sub_wellness": "Inverter pontuações de bem-estar subjetivo para que 1 seja ruim e 4 seja bom",
   "invite_your_friends": "Convide seus amigos e atletas para se juntar a você no Intervals.icu enviando-lhes o link abaixo:",
