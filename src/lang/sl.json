@@ -2453,7 +2453,7 @@
   "Upload Wellness CSV": "Naložite Wellness CSV",
   "Upload Workouts": "Naloži vadbe",
   "upload_activity_blurb": "Kliknite, da izberete datoteke FIT, GPX, TCX, GZ in/ali ZIP ali jih povlecite in spustite sem. Za zip datoteke se uvozijo vse podprte vrste datotek, ki jih najdemo v arhivu. Izberete lahko ali spustite več datotek.",
-  "upload_activity_problems_blurb": "Upoštevajte, da lahko datoteke .fit vsebujejo vse vrste nenavadnosti. Prosimo, prijavite težave na <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>forumih</a>.",
+  "upload_activity_problems_blurb": "Upoštevajte, da lahko datoteke .fit vsebujejo vse vrste nenavadnosti. Prosimo, prijavite težave na <a href=\"https://forum.intervals.icu\" target=\"_blank\">forumih</a>.",
   "upload_attachment_blurb": "Kliknite, da izberete datoteko ali povlecite in spustite datoteko sem",
   "upload_filters_blurb": "Dodajte filtre, da izberete, katere načrtovane vadbe bodo naložene v {n}.",
   "upload_lang_blurb": "Povlecite in spustite datoteko {file} sem, da uporabite prevod v Intervals.icu. Spremembe se zavržejo, ko se Intervals.icu znova naloži.",

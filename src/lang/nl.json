@@ -2453,7 +2453,7 @@
   "Upload Wellness CSV": "Gezondheid CSV uploaden",
   "Upload Workouts": "Workouts uploaden",
   "upload_activity_blurb": "Klik om FIT, GPX, TCX, GZ en/of ZIP bestanden te selecteren of sleep ze hierheen. Alle ondersteunde bestandstypen in een zip-archief worden geïmporteerd. Je kan meerdere bestanden selecteren of hierheen slepen.",
-  "upload_activity_problems_blurb": "Merk op dat .fit bestanden allerlei vreemde dingen kunnen bevatten. Meld problemen op de <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>forums</a>.",
+  "upload_activity_problems_blurb": "Merk op dat .fit bestanden allerlei vreemde dingen kunnen bevatten. Meld problemen op de <a href=\"https://forum.intervals.icu\" target=\"_blank\">forums</a>.",
   "upload_attachment_blurb": "Klik om een bestand te selecteren of sleep het hierheen",
   "upload_filters_blurb": "Voeg filters toe om te selecteren welke geplande workouts worden geüpload naar {n}. ",
   "upload_lang_blurb": "Sleep {file} of een andere json file hierheen om de vertaling in Intervals.icu te gebruiken. Wijzigingen worden ongedaan gemaakt bij het opnieuw laden van Intervals.icu.",

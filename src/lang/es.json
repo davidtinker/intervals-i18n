@@ -2453,7 +2453,7 @@
   "Upload Wellness CSV": "Cargar CSV de bienestar",
   "Upload Workouts": "Subir entrenamientos",
   "upload_activity_blurb": "Haga clic para seleccionar archivos FIT, GPX, TCX, GZ y/o ZIP o arrástrelos y suéltelos aquí. En el caso de los archivos ZIP, se importan todos los tipos de archivos compatibles que se encuentran en el archivo. Puede seleccionar o soltar varios archivos.",
-  "upload_activity_problems_blurb": "Tenga en cuenta que los archivos .fit pueden contener todo tipo de rarezas. Por favor, informe de los problemas en los foros <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop></a>.",
+  "upload_activity_problems_blurb": "Tenga en cuenta que los archivos .fit pueden contener todo tipo de rarezas. Por favor, informe de los problemas en los foros <a href=\"https://forum.intervals.icu\" target=\"_blank\"></a>.",
   "upload_attachment_blurb": "Haga clic para seleccionar un archivo o arrastre y suelte un archivo aquí",
   "upload_filters_blurb": "Agregue filtros para seleccionar qué entrenamientos planificados se cargarán en {n}. ",
   "upload_lang_blurb": "Arrastre y suelte el archivo {file} aquí para utilizar la traducción en Intervals.icu. Los cambios se descartan cuando se recarga Intervals.icu.",

@@ -2453,7 +2453,7 @@
   "Upload Wellness CSV": "Încărcare CSV Wellness",
   "Upload Workouts": "Încărcați antrenamente",
   "upload_activity_blurb": "Fă clic pentru a selecta fișierele FIT, GPX, TCX, GZ și / sau ZIP sau „drag and drop” aici. Pentru fișierele zip, toate tipurile de fișiere acceptate găsite în arhivă sunt importate. Poți selecta sau plasa mai multe fișiere.",
-  "upload_activity_problems_blurb": "De reținut că fișierele .fit pot conține tot felul de ciudățenii. Vă rugăm să raportați problemele pe <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>forumuri</a>.",
+  "upload_activity_problems_blurb": "De reținut că fișierele .fit pot conține tot felul de ciudățenii. Vă rugăm să raportați problemele pe <a href=\"https://forum.intervals.icu\" target=\"_blank\">forumuri</a>.",
   "upload_attachment_blurb": "Faceți clic pentru a selecta un fișier sau trageți și plasați un fișier aici",
   "upload_filters_blurb": "Adăugare filtre pentru a selecta antrenamentele planificate care vor fi încărcate în {n}.",
   "upload_lang_blurb": "„Drag and drop” fișierul {file} aici pentru a utiliza traducerea în Intervals.icu. Modificările sunt eliminate atunci când Intervals.icu este reîncărcat.",

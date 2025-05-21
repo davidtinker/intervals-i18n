@@ -2453,7 +2453,7 @@
   "Upload Wellness CSV": "上传健康CSV",
   "Upload Workouts": "上传锻炼",
   "upload_activity_blurb": "点击选择FIT、GPX、TCX、GZ和/或ZIP文件，或将它们拖放到这里。对于ZIP文件，压缩包中的所有支持的文件类型都被导入。你可以选择或拖放多个文件",
-  "upload_activity_problems_blurb": "请注意，.fit文件可能包含各种各样的奇怪错误，请在<a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>论坛</a>上报告问题",
+  "upload_activity_problems_blurb": "请注意，.fit文件可能包含各种各样的奇怪错误，请在<a href=\"https://forum.intervals.icu\" target=\"_blank\">论坛</a>上报告问题",
   "upload_attachment_blurb": "单击以选择文件或将文件拖放到此处",
   "upload_filters_blurb": "添加过滤器以选择将哪些计划锻炼上传到 {n}。",
   "upload_lang_blurb": "在这里拖放 {file} 文件，以在Intervals.icu中使用翻译。当Intervals.icu重新加载时，更改将被丢弃",

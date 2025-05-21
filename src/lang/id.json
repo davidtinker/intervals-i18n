@@ -2453,7 +2453,7 @@
   "Upload Wellness CSV": "Unggah CSV Kesehatan",
   "Upload Workouts": "Unggah Latihan",
   "upload_activity_blurb": "Klik untuk memilih file FIT, GPX, TCX, GZ dan/atau ZIP atau seret dan letakkan di sini. Untuk file zip, semua jenis file yang didukung yang ditemukan dalam arsip akan diimpor. Anda dapat memilih atau menjatuhkan beberapa file.",
-  "upload_activity_problems_blurb": "Perhatikan bahwa file .fit dapat berisi segala macam keanehan. Silakan laporkan masalah di <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>forum</a>.",
+  "upload_activity_problems_blurb": "Perhatikan bahwa file .fit dapat berisi segala macam keanehan. Silakan laporkan masalah di <a href=\"https://forum.intervals.icu\" target=\"_blank\">forum</a>.",
   "upload_attachment_blurb": "Klik untuk memilih file atau seret dan letakkan file di sini",
   "upload_filters_blurb": "Tambahkan filter untuk memilih latihan terencana mana yang akan diunggah ke {n}.",
   "upload_lang_blurb": "Seret dan jatuhkan file {file} di sini untuk menggunakan terjemahan di Intervals.icu. Perubahan akan dibuang ketika Intervals.icu dimuat ulang.",

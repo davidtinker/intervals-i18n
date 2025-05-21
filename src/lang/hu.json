@@ -2453,7 +2453,7 @@
   "Upload Wellness CSV": "Wellness CSV feltöltése",
   "Upload Workouts": "Edzésfeladatok feltöltése",
   "upload_activity_blurb": "Kattints ide a FIT, GPX, TCX, GZ és/vagy ZIP fájlok kiválasztásához, vagy húzd ide őket. Zip fájlok esetén az archívumban található összes támogatott fájltípus importálva van. Több fájlt is kijelölhetsz vagy behúzhatsz.",
-  "upload_activity_problems_blurb": "Számíts rá, hogy a .fit fájlok mindenféle furcsaságokat is tartalmazhatnak. Kérjük jelentsd az esetleges problémákat a <a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>fórumokon</a>.",
+  "upload_activity_problems_blurb": "Számíts rá, hogy a .fit fájlok mindenféle furcsaságokat is tartalmazhatnak. Kérjük jelentsd az esetleges problémákat a <a href=\"https://forum.intervals.icu\" target=\"_blank\">fórumokon</a>.",
   "upload_attachment_blurb": "Kattintson ide egy fájl kiválasztásához, vagy húzza ide a fájlt",
   "upload_filters_blurb": "Adj hozzá szűrőket annak kiválasztásához, hogy mely tervezett edzések legyenek feltöltve a(z) {n} webhelyre.",
   "upload_lang_blurb": "Az Intervals.icu fordításának használatához húzd-és-ejtsd ide a {file} fájlt. A módosítások elvesznek amikor az Intervals.icu oldalt újratöltöd a böngésződbe.",

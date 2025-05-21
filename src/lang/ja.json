@@ -2453,7 +2453,7 @@
   "Upload Wellness CSV": "ウェルネスをCSVでアップロード",
   "Upload Workouts": "ワークアウトをアップロード",
   "upload_activity_blurb": "ここをクリックしてFIT/GPX/TCX/GZ/ZIPファイルを選択するか、ファイルをここにドラッグ＆ドロップします。複数のファイルを選択またはドロップすることができます。",
-  "upload_activity_problems_blurb": ".fitファイルには様々な問題が含まれている可能性があることに注意してください。問題が見つかったら<a href=\"https://forum.intervals.icu\" target=\"_blank\" @click.stop>フォーラム</a>にてご報告ください。",
+  "upload_activity_problems_blurb": ".fitファイルには様々な問題が含まれている可能性があることに注意してください。問題が見つかったら<a href=\"https://forum.intervals.icu\" target=\"_blank\">フォーラム</a>にてご報告ください。",
   "upload_attachment_blurb": "クリックしてファイルを選択するか、ここにファイルをドラッグ アンド ドロップします",
   "upload_filters_blurb": "フィルタを追加して、{n}にアップロードするワークアウトを選択します。",
   "upload_lang_blurb": "Intervals.icuの翻訳を使用するには、{file}ファイルをここにドラッグ・アンド・ドロップします。Intervals.icuがリロードされると変更は破棄されます。",
