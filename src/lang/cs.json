@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "Toto je HRV normalizované dělením klidovým srdečním tepem. \"Může poskytnout užitečné informace. Například v dnech, kdy srdeční frekvence klesá a HRV je stabilní, normalizované HRV odráží, že i když je více prostoru pro variabilitu, vaše HRV se nezvýšilo a je ve skutečnosti nižší než vaše normální.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "Toto je HRV normalizované podle klidového srdečního tepu. Vezměte prosím na vědomí, že klidový srdeční tep a rMSSD musí pocházet ze stejného zdroje, aby měl tento metriku jakoukoli platnost! \"Může poskytnout užitečné poznatky. Například v dnech, kdy srdeční frekvence klesá a HRV je stabilní, normalizované HRV odráží, že navzdory většímu prostoru pro variabilitu vaše HRV nevzrostlo a je ve skutečnosti nižší než vaše normální.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Rozbočovač",
   "Humidity": "Vlhkost",

@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "Esto es la VFC normalizada dividiendo por la FC en reposo. \"Puede proporcionar información útil. Por ejemplo, en los días en que la frecuencia cardíaca disminuye y la VFC se mantiene estable, la VFC normalizada refleja que a pesar de tener más margen para la variabilidad, tu VFC no ha aumentado y, de hecho, es más baja que la normal.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "Esto es la HRV normalizada por la FC en reposo. ¡Tenga en cuenta que la FC en reposo y el rMSSD deben provenir de la misma fuente para que esta métrica tenga validez! \"Puede proporcionar información útil. Por ejemplo, en días en que la frecuencia cardíaca disminuye y la HRV se mantiene estable, la HRV normalizada refleja que a pesar de tener más margen para la variabilidad, su HRV no ha aumentado y, de hecho, es más baja que la normal.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Hub",
   "Humidity": "humedad",

@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "Ez a HRV, amelyet a nyugalmi HR-rel való osztással normalizálnak. \"Hasznos betekintéseket nyújthat. Például, amikor a szívfrekvencia csökken, és a HRV stabil, a normalizált HRV azt tükrözi, hogy bár nagyobb variabilitásra van lehetőség, a HRV-d nem nőtt, és valójában alacsonyabb, mint a normális.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "Ez a HRV, amelyet a nyugalmi HR normálásával számoltak. Kérjük, vegye figyelembe, hogy a nyugalmi HR-nek és az rMSSD-nek ugyanabból a forrásból kell származnia ahhoz, hogy ennek a mutatónak bármilyen érvényessége legyen! \"Hasznos betekintéseket nyújthat. Például, amikor a szívverés csökken, és a HRV stabil, a normalizált HRV azt tükrözi, hogy a nagyobb variabilitás ellenére a HRV nem nőtt, és valójában alacsonyabb, mint a normális.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Kerékagy",
   "Humidity": "Páratartalom",

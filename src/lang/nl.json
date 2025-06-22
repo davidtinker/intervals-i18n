@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "Dit is HRV genormaliseerd door te delen door de rusthartslag. \"Het kan nuttige inzichten bieden. Bijvoorbeeld, op dagen waarop de hartslag daalt en de HRV stabiel is, weerspiegelt genormaliseerde HRV dat, ondanks meer ruimte voor variabiliteit, je HRV niet is toegenomen en in feite lager is dan normaal.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "Dit is HRV genormaliseerd op basis van de rusthartslag. Houd er rekening mee dat de rusthartslag en rMSSD uit dezelfde bron moeten komen om deze maatstaf enige geldigheid te geven! \"Het kan nuttige inzichten bieden. Bijvoorbeeld, op dagen waarop de hartslag daalt en de HRV stabiel is, weerspiegelt de genormaliseerde HRV dat, ondanks meer ruimte voor variabiliteit, je HRV niet is toegenomen en in feite lager is dan normaal.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Naaf",
   "Humidity": "Vochtigheid",

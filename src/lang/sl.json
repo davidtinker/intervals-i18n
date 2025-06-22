@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "To je HRV normalizirano z deljenjem s počitniškim HR. \"Lahko nudi koristne vpoglede. Na primer, v dneh, ko srčni utrip pade in je HRV stabilen, normalizirani HRV odraža, da kljub večjemu prostoru za variabilnost vaš HRV ni narasel in je dejansko nižji od vašega normalnega.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "To je HRV normaliziran s počitkom HR. Upoštevajte, da morata počitek HR in rMSSD izhajati iz istega vira, da ima ta metrika kakršno koli veljavnost! \"Lahko zagotovi koristne vpoglede. Na primer, v dneh, ko srčni utrip pade in je HRV stabilen, normaliziran HRV odraža, da kljub večjemu prostoru za spremenljivost vaš HRV ni narasel in je dejansko nižji od vašega običajnega.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Pesto",
   "Humidity": "Vlažnost",

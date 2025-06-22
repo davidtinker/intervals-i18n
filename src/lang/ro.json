@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "Aceasta este HRV normalizată prin împărțirea la HR-ul de repaus. \"Poate oferi informații utile. De exemplu, în zilele când ritmul cardiac scade și HRV-ul este stabil, HRV normalizat reflectă că, în ciuda unei mai mari variabilități, HRV-ul tău nu a crescut și este, de fapt, mai mic decât normalul tău.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "Aceasta este HRV normalizat în funcție de HR-ul de repaus. Vă rugăm să rețineți că HR-ul de repaus și rMSSD trebuie să provină din aceeași sursă pentru ca această metrică să aibă vreo validitate! \"Poate oferi informații utile. De exemplu, în zilele în care ritmul cardiac scade și HRV-ul este stabil, HRV normalizat reflectă că, în ciuda unei mai mari variabilități, HRV-ul dumneavoastră nu a crescut și este, de fapt, mai mic decât normalul dumneavoastră.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Hub",
   "Humidity": "Umiditate",
