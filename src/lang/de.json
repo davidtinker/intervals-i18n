@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HFV rMSSD",
   "HRV SDNN": "HFV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "Dies ist die HRV, normalisiert durch Division durch die Ruhe-HR. \"Es kann nützliche Einblicke bieten. Zum Beispiel, an Tagen, an denen die Herzfrequenz sinkt und die HRV stabil ist, spiegelt die normalisierte HRV wider, dass trotz mehr Spielraum für Variabilität Ihre HRV nicht gestiegen ist und tatsächlich niedriger ist als normal.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "Dies ist die HRV, normalisiert durch die Ruhe-HR. Bitte beachten Sie, dass die Ruhe-HR und rMSSD aus derselben Quelle stammen müssen, damit diese Kennzahl gültig ist! \"Es kann nützliche Einblicke bieten. Zum Beispiel, an Tagen, an denen die Herzfrequenz sinkt und die HRV stabil ist, spiegelt die normalisierte HRV wider, dass trotz mehr Spielraum für Variabilität Ihre HRV nicht gestiegen ist und tatsächlich niedriger ist als normal.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Nabe",
   "Humidity": "Luftfeuchtigkeit",

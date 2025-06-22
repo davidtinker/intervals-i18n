@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "Dette er HRV normaliseret ved at dividere med hvilepuls. \"Det kan give nyttige indsigter. For eksempel, på dage hvor pulsen falder og HRV er stabil, afspejler normaliseret HRV, at på trods af mere plads til variabilitet, er din HRV ikke steget, og er faktisk lavere end normalt.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "Dette er HRV normaliseret efter hvilepuls. Bemærk venligst, at hvilepuls og rMSSD skal komme fra den samme kilde for at denne måling kan have nogen gyldighed! \"Det kan give nyttige indsigter. For eksempel, på dage hvor hjertefrekvensen falder og HRV er stabil, afspejler normaliseret HRV, at på trods af mere plads til variabilitet, er din HRV ikke steget, og er faktisk lavere end normalt.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Hub",
   "Humidity": "Fugtighed",

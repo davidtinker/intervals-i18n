@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "这是通过除以静息心率来标准化的HRV。\"它可以提供有用的见解。例如，在心率下降而HRV稳定的日子里，标准化HRV反映出尽管有更多的变异空间，但你的HRV并没有增加，实际上低于正常水平。\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "这是经过静息心率标准化的HRV。请注意，静息心率和rMSSD必须来自同一来源，以确保该指标的有效性！\"它可以提供有用的见解。例如，在心率下降而HRV稳定的日子里，标准化HRV反映出尽管有更多的变异空间，但你的HRV并没有增加，实际上低于正常水平。\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "花鼓",
   "Humidity": "湿度",

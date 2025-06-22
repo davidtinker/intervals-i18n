@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "Ini adalah HRV yang dinormalisasi dengan membaginya dengan HR istirahat. \"Ini dapat memberikan wawasan yang berguna. Misalnya, pada hari-hari ketika detak jantung menurun dan HRV stabil, HRV yang dinormalisasi mencerminkan bahwa meskipun ada lebih banyak ruang untuk variabilitas, HRV Anda tidak meningkat, dan sebenarnya lebih rendah dari normal Anda.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "Ini adalah HRV yang dinormalisasi berdasarkan HR istirahat. Harap dicatat bahwa HR istirahat dan rMSSD harus berasal dari sumber yang sama agar metrik ini memiliki validitas! \"Ini dapat memberikan wawasan yang berguna. Misalnya, pada hari-hari ketika detak jantung menurun dan HRV stabil, HRV yang dinormalisasi mencerminkan bahwa meskipun ada lebih banyak ruang untuk variabilitas, HRV Anda tidak meningkat, dan sebenarnya lebih rendah dari normal Anda.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Hub",
   "Humidity": "Kelembaban",

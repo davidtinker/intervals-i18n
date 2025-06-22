@@ -1189,7 +1189,7 @@
   "HRV rMSSD": "HRV rMSSD",
   "HRV SDNN": "HRV SDNN",
   "HRV:HR": "HRV:HR",
-  "hrv_hr": "HRV jest normalizowane przez podzielenie przez spoczynkowe HR. \"Może dostarczyć użytecznych informacji. Na przykład, w dni, gdy tętno spada, a HRV jest stabilne, znormalizowane HRV odzwierciedla, że pomimo większej przestrzeni na zmienność, twoje HRV nie wzrosło i w rzeczywistości jest niższe niż normalnie.\" ~  <a href=\"https://marcoaltini.substack.com/p/should-we-normalize-hrv-by-heart\" target=\"_blank\">Marco Altini</a>",
+  "hrv_hr": "To jest HRV znormalizowane przez spoczynkowe HR. Należy pamiętać, że spoczynkowe HR i rMSSD muszą pochodzić z tego samego źródła, aby ta miara miała jakąkolwiek ważność! \"Może dostarczyć użytecznych informacji. Na przykład, w dni, gdy tętno spada, a HRV jest stabilne, znormalizowane HRV odzwierciedla, że pomimo większej przestrzeni na zmienność, twoje HRV nie wzrosło, a w rzeczywistości jest niższe niż normalnie.\" ~  <a href=\"https://forum.intervals.icu/t/normalised-hrv-added-to-fitness-page/106679\" target=\"_blank\">Marco Altini</a>",
   "HSI": "HSI",
   "Hub": "Hub",
   "Humidity": "Wilgotność",
