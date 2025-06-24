@@ -4,47 +4,33 @@ on:
   pull_request:
     paths:
       - 'src/lang/*.json'
-      - 'check-tokens.js'
   push:
     paths:
       - 'src/lang/*.json'
-      - 'check-tokens.js'
 
 jobs:
   check-tokens:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Get changed JSON files (PR)
-        if: github.event_name == 'pull_request'
-        id: files
-        uses: actions/github-script@v7
         with:
-          script: |
-            const files = await github.rest.pulls.listFiles({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.payload.pull_request.number
-            });
-            const changed = files.data
-              .map(f => f.filename)
-              .filter(f => f.startsWith('src/lang/') && f.endsWith('.json') && !f.endsWith('en.json'));
-            core.setOutput('jsons', changed.join(' '));
+          fetch-depth: 0
 
-      - name: Get changed JSON files (push)
-        if: github.event_name == 'push'
-        id: files-push
-        run: |
-          git fetch origin ${{ github.event.before }}
-          echo "jsons=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^src/lang/.*\.json$' | grep -v 'en.json' | xargs)" >> $GITHUB_OUTPUT
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v41
+        with:
+          files: src/lang/*.json
+          files_ignore: src/lang/en.json
 
       - name: Setup Node.js
+        if: steps.changed-files.outputs.any_changed == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '18'
 
       - name: Create token comparison script
+        if: steps.changed-files.outputs.any_changed == 'true'
         run: |
           cat > compare-tokens.js << 'EOL'
           const fs = require('fs');
@@ -57,42 +43,39 @@ jobs:
           function compareFiles(enFile, translationFile) {
             const en = JSON.parse(fs.readFileSync(enFile, 'utf8'));
             const translation = JSON.parse(fs.readFileSync(translationFile, 'utf8'));
-          
+
             const errors = [];
-          
+
             for (const [key, enValue] of Object.entries(en)) {
               if (typeof enValue !== 'string') continue;
-          
+
               const transValue = translation[key];
               if (!transValue) {
                 errors.push(`Missing key: ${key}`);
                 continue;
               }
-          
+
               const enTokens = extractTokens(enValue);
               const transTokens = extractTokens(transValue);
-          
-              // Check if all tokens from EN exist in translation
+
               for (const token of enTokens) {
                 if (!transTokens.includes(token)) {
                   errors.push(`Missing token ${token} in key: ${key}`);
                 }
               }
-          
-              // Check if translation has extra tokens
+
               for (const token of transTokens) {
                 if (!enTokens.includes(token)) {
                   errors.push(`Extra token ${token} in key: ${key}`);
                 }
               }
             }
-          
             return errors;
           }
 
           const [enFile, translationFile] = process.argv.slice(2);
           const errors = compareFiles(enFile, translationFile);
-          
+
           if (errors.length > 0) {
             console.error(`Errors in ${translationFile}:`);
             console.error(errors.join('\n'));
@@ -103,9 +86,8 @@ jobs:
           EOL
 
       - name: Check translations
-        if: ${{ github.event_name == 'pull_request' && steps.files.outputs.jsons != '' || github.event_name == 'push' && steps.files-push.outputs.jsons != '' }}
+        if: steps.changed-files.outputs.any_changed == 'true'
         run: |
-          FILES="${{ github.event_name == 'pull_request' && steps.files.outputs.jsons || steps.files-push.outputs.jsons }}"
-          for file in $FILES; do
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             node compare-tokens.js src/lang/en.json "$file"
           done
