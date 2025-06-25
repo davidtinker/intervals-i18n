@@ -1,0 +1,100 @@
+name: Check Translation Tokens
+
+on:
+  pull_request:
+    paths:
+      - 'src/lang/*.json'
+  push:
+    paths:
+      - 'src/lang/*.json'
+
+jobs:
+  check-tokens:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v41
+        with:
+          files: src/lang/*.json
+          files_ignore: src/lang/en.json
+
+      - name: Setup Node.js
+        if: steps.changed-files.outputs.any_changed == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Create token comparison script
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          cat > compare-tokens.js << 'EOL'
+          const fs = require('fs');
+          
+          function validateTokens(str) {
+            // Count opening and closing braces
+            const openBraces = (str.match(/\{/g) || []).length;
+            const closeBraces = (str.match(/\}/g) || []).length;
+          
+            // Check if braces are balanced
+            if (openBraces !== closeBraces) {
+              return [`Unmatched curly braces: ${openBraces} opening vs ${closeBraces} closing`];
+            }
+          
+            // Extract tokens like {0}, {1}, {a1}, etc
+            const tokens = str.match(/\{[a-zA-Z0-9]+\}/g) || [];
+            return tokens;
+          }
+          
+          function compareFiles(enFile, translationFile) {
+            const en = JSON.parse(fs.readFileSync(enFile, 'utf8'));
+            const translation = JSON.parse(fs.readFileSync(translationFile, 'utf8'));
+            const errors = [];
+          
+            for (const [key, enValue] of Object.entries(en)) {
+              const translatedValue = translation[key];
+          
+              // Skip if translation not found
+              if (!translatedValue) continue;
+          
+              const enTokens = validateTokens(enValue);
+              const translationTokens = validateTokens(translatedValue);
+          
+              // Check if validation returned error messages
+              if (typeof enTokens === 'string' || typeof translationTokens === 'string') {
+                errors.push(`${key}: ${translationTokens || enTokens}`);
+                continue;
+              }
+          
+              // Compare token counts
+              if (enTokens.length !== translationTokens.length) {
+                errors.push(`${key}: Number of tokens mismatch. EN has ${enTokens.length}, translation has ${translationTokens.length}`);
+              }
+            }
+          
+            return errors;
+          }
+          
+          const [enFile, translationFile] = process.argv.slice(2);
+          const errors = compareFiles(enFile, translationFile);
+          
+          if (errors.length > 0) {
+            console.log('Validation errors found:');
+            errors.forEach(error => console.log(error));
+            process.exit(1);
+          } else {
+            console.log('No validation errors found');
+            process.exit(0);
+          }
+          EOL
+            
+      - name: Check translations
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            node compare-tokens.js src/lang/en.json "$file"
+          done
