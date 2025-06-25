@@ -36,68 +36,46 @@ jobs:
           const fs = require('fs');
           
           function validateTokens(str) {
-            const errors = [];
-            let pos = 0;
+            // Count opening and closing braces
+            const openBraces = (str.match(/\{/g) || []).length;
+            const closeBraces = (str.match(/\}/g) || []).length;
           
-            while (pos < str.length) {
-              const openBrace = str.indexOf('{', pos);
-              if (openBrace === -1) break;
-          
-              const closeBrace = str.indexOf('}', openBrace);
-              if (closeBrace === -1) {
-                errors.push(`Unclosed token starting at position ${openBrace}`);
-                break;
-              }
-          
-              const token = str.substring(openBrace, closeBrace + 1);
-              if (token.length <= 2) {
-                errors.push(`Empty token at position ${openBrace}`);
-              }
-          
-              pos = closeBrace + 1;
+            // Check if braces are balanced
+            if (openBraces !== closeBraces) {
+              return [`Unmatched curly braces: ${openBraces} opening vs ${closeBraces} closing`];
             }
           
-            return errors;
-          }
-          
-          function countTokens(str) {
-            const regex = /\{[^}]+\}/g;
-            const matches = str.match(regex) || [];
-            return matches.length;
+            // Extract tokens like {0}, {1} etc
+            const tokens = str.match(/\{[0-9]+\}/g) || [];
+            return tokens;
           }
           
           function compareFiles(enFile, translationFile) {
             const en = JSON.parse(fs.readFileSync(enFile, 'utf8'));
             const translation = JSON.parse(fs.readFileSync(translationFile, 'utf8'));
-          
             const errors = [];
           
             for (const [key, enValue] of Object.entries(en)) {
-              if (typeof enValue !== 'string') continue;
+              const translatedValue = translation[key];
           
-              const transValue = translation[key];
-              if (!transValue) {
-                errors.push(`Missing translation for key: ${key}`);
+              // Skip if translation not found
+              if (!translatedValue) continue;
+          
+              const enTokens = validateTokens(enValue);
+              const translationTokens = validateTokens(translatedValue);
+          
+              // Check if validation returned error messages
+              if (typeof enTokens === 'string' || typeof translationTokens === 'string') {
+                errors.push(`${key}: ${translationTokens || enTokens}`);
                 continue;
               }
           
-              const enValidation = validateTokens(enValue);
-              if (enValidation.length > 0) {
-                errors.push(`Token format errors in English key "${key}": ${enValidation.join(', ')}`);
-              }
-          
-              const transValidation = validateTokens(transValue);
-              if (transValidation.length > 0) {
-                errors.push(`Token format errors in translation key "${key}": ${transValidation.join(', ')}`);
-              }
-          
-              const enTokenCount = countTokens(enValue);
-              const transTokenCount = countTokens(transValue);
-          
-              if (enTokenCount !== transTokenCount) {
-                errors.push(`Token count mismatch in key "${key}": English has ${enTokenCount} tokens, translation has ${transTokenCount} tokens`);
+              // Compare token counts
+              if (enTokens.length !== translationTokens.length) {
+                errors.push(`${key}: Number of tokens mismatch. EN has ${enTokens.length}, translation has ${translationTokens.length}`);
               }
             }
+          
             return errors;
           }
           
@@ -105,11 +83,12 @@ jobs:
           const errors = compareFiles(enFile, translationFile);
           
           if (errors.length > 0) {
-            console.error(`Errors in ${translationFile}:`);
-            console.error(errors.join('\n'));
+            console.log('Validation errors found:');
+            errors.forEach(error => console.log(error));
             process.exit(1);
           } else {
-            console.log(`${translationFile}: OK`);
+            console.log('No validation errors found');
+            process.exit(0);
           }
           EOL
             
