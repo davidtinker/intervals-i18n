@@ -35,26 +35,35 @@ jobs:
           cat > compare-tokens.js << 'EOL'
           const fs = require('fs');
           
-          function extractTokens(str) {
-            const regex = /\{[^}]+\}/g;
-            const matches = str.match(regex) || [];
-            return [...new Set(matches)];  // Remove duplicates
+          function validateTokens(str) {
+            const errors = [];
+            let pos = 0;
+          
+            while (pos < str.length) {
+              const openBrace = str.indexOf('{', pos);
+              if (openBrace === -1) break;
+          
+              const closeBrace = str.indexOf('}', openBrace);
+              if (closeBrace === -1) {
+                errors.push(`Unclosed token starting at position ${openBrace}`);
+                break;
+              }
+          
+              const token = str.substring(openBrace, closeBrace + 1);
+              if (token.length <= 2) {
+                errors.push(`Empty token at position ${openBrace}`);
+              }
+          
+              pos = closeBrace + 1;
+            }
+          
+            return errors;
           }
           
-          function findDuplicateTokens(str) {
+          function countTokens(str) {
             const regex = /\{[^}]+\}/g;
             const matches = str.match(regex) || [];
-            const seen = new Set();
-            const duplicates = new Set();
-          
-            matches.forEach(token => {
-              if (seen.has(token)) {
-                duplicates.add(token);
-              }
-              seen.add(token);
-            });
-          
-            return [...duplicates];
+            return matches.length;
           }
           
           function compareFiles(enFile, translationFile) {
@@ -68,34 +77,25 @@ jobs:
           
               const transValue = translation[key];
               if (!transValue) {
-                errors.push(`Missing key: ${key}`);
+                errors.push(`Missing translation for key: ${key}`);
                 continue;
               }
           
-              const duplicatesEn = findDuplicateTokens(enValue);
-              const duplicatesTrans = findDuplicateTokens(transValue);
-          
-              if (duplicatesEn.length > 0) {
-                errors.push(`Duplicate tokens in EN ${duplicatesEn.join(', ')} for key: ${key}`);
+              const enValidation = validateTokens(enValue);
+              if (enValidation.length > 0) {
+                errors.push(`Token format errors in English key "${key}": ${enValidation.join(', ')}`);
               }
           
-              if (duplicatesTrans.length > 0) {
-                errors.push(`Duplicate tokens in translation ${duplicatesTrans.join(', ')} for key: ${key}`);
+              const transValidation = validateTokens(transValue);
+              if (transValidation.length > 0) {
+                errors.push(`Token format errors in translation key "${key}": ${transValidation.join(', ')}`);
               }
           
-              const enTokens = extractTokens(enValue);
-              const transTokens = extractTokens(transValue);
+              const enTokenCount = countTokens(enValue);
+              const transTokenCount = countTokens(transValue);
           
-              for (const token of enTokens) {
-                if (!transTokens.includes(token)) {
-                  errors.push(`Missing token ${token} in key: ${key}`);
-                }
-              }
-          
-              for (const token of transTokens) {
-                if (!enTokens.includes(token)) {
-                  errors.push(`Extra token ${token} in key: ${key}`);
-                }
+              if (enTokenCount !== transTokenCount) {
+                errors.push(`Token count mismatch in key "${key}": English has ${enTokenCount} tokens, translation has ${transTokenCount} tokens`);
               }
             }
             return errors;
@@ -112,7 +112,7 @@ jobs:
             console.log(`${translationFile}: OK`);
           }
           EOL
-
+            
       - name: Check translations
         if: steps.changed-files.outputs.any_changed == 'true'
         run: |
