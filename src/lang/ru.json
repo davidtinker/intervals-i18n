@@ -746,7 +746,7 @@
   "Disconnect from Dropbox": "Отключить от Dropbox",
   "Disconnect from Garmin Connect": "Отключить от Garmin Connect",
   "disconnected_from": "Отключено от",
-  "disconnected_from_activities_blurb": "Intervals.icu{  {0} был отключен от {0}. Если вы хотите продолжить загрузку мероприятий из {0}, пожалуйста, переподключитесь в <a href=\"https://intervals.icu/settings\">настройках</a>.",
+  "disconnected_from_activities_blurb": "Intervals.icu{   был отключен от {0}. Если вы хотите продолжить загрузку мероприятий из {0}, пожалуйста, переподключитесь в <a href=\"https://intervals.icu/settings\">настройках</a>.",
   "disconnected_from_training_blurb": "Intervals.icu был }} отключен от {0}. Если вы хотите продолжить загружать запланированные тренировки в {0}, пожалуйста, переподключитесь в <a href=\"https://intervals.icu/settings\">настройках</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu был отключен от {0}. Если вы хотите продолжить загрузку данных о здоровье из {0}, пожалуйста, переподключитесь в <a href=\"https://intervals.icu/settings\">настройках</a>.",
   "Display": "Дисплей",
