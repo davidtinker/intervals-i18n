@@ -45,8 +45,8 @@ jobs:
               return [`Unmatched curly braces: ${openBraces} opening vs ${closeBraces} closing`];
             }
           
-            // Extract tokens like {0}, {1} etc
-            const tokens = str.match(/\{[0-9]+\}/g) || [];
+            // Extract tokens like {0}, {1}, {d} etc
+            const tokens = str.match(/\{[^}]+\}/g) || [];
             return tokens;
           }
           
