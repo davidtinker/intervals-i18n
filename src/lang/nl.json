@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Gebruik geen matr. van Strava",
   "ignore_time_blurb": "Neem tijd, afstand, trainingsbelasting en calorieën niet op in de totalen",
   "ignore_velocity_blurb": "Gebruik de snelheidsgegevens niet om de bewogen tijd of de tijd in de vermogenszones te berekenen",
+  "ignored_non_fitness_activities": "{n} activiteiten zijn niet op tijd in zones opgenomen omdat hun activiteitssoorten niet bijdragen aan de cardiofitness",
   "Image": "Afbeelding",
   "Import": "Importeren",
   "Import activity files": "Importeer activiteitsbestanden",

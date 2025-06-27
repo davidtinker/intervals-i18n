@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Não usar equipamento do Strava",
   "ignore_time_blurb": "Não incluir tempo, distância, carga de treino e calorias nos totais",
   "ignore_velocity_blurb": "Não usar dados de velocidade para calcular o tempo em movimento ou o tempo nas zonas de potência",
+  "ignored_non_fitness_activities": "{n} atividades não foram incluídas a tempo nas zonas porque seus tipos de atividade não contribuem para a aptidão cardiovascular",
   "Image": "Imagem",
   "Import": "Importar",
   "Import activity files": "Importar arquivos de atividade",

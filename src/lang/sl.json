@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Ne uporabljajte opreme Strava",
   "ignore_time_blurb": "V skupne vrednosti ne vključujte časa, razdalje, obremenitve pri treningu in kalorij",
   "ignore_velocity_blurb": "Ne uporabljajte podatkov o hitrosti za izračun časa gibanja ali časa v območjih moči",
+  "ignored_non_fitness_activities": "{n} aktivnosti niso bile vključene v čas v conah, ker njihovi tipi aktivnosti ne prispevajo k kardio kondiciji.",
   "Image": "Slika",
   "Import": "Uvozite",
   "Import activity files": "Uvozite datoteke aktivnosti",

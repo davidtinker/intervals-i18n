@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Ignorovať vybavenie v Strave",
   "ignore_time_blurb": "Do súčtov nezapočítavajte čas, vzdialenosť, tréningovú záťaž a kalórie",
   "ignore_velocity_blurb": "Údaje o rýchlosti nepoužívajte na výpočet času pohybu alebo času v energetických zónach",
+  "ignored_non_fitness_activities": "{n} aktivity neboli zahrnuté v časových zónach, pretože ich typy aktivít neprispievajú k kardiovaskulárnej kondícii.",
   "Image": "Obrázok",
   "Import": "Import",
   "Import activity files": "Importovať súbory s aktivitami",

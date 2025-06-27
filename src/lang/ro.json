@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Nu folosiți echipament de la Strava",
   "ignore_time_blurb": "Nu include timpul, distanța, sarcina de antrenament și caloriile în totaluri.",
   "ignore_velocity_blurb": "Nu folosi datele privind viteza pentru a calcula timpul de deplasare sau timpul în zonele de putere.",
+  "ignored_non_fitness_activities": "{n} activități nu au fost incluse la timp în zone deoarece tipurile lor de activitate nu contribuie la fitnessul cardio",
   "Image": "Imagine",
   "Import": "Import",
   "Import activity files": "Import fișiere de activitate",

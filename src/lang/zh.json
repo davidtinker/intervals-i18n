@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "请勿使用 Strava 的装备",
   "ignore_time_blurb": "总数中不包括时间、距离、训练负荷和卡路里。",
   "ignore_velocity_blurb": "不要使用速度数据来计算移动时间或动力区的时间",
+  "ignored_non_fitness_activities": "{n} 项活动未及时纳入区域，因为它们的活动类型不有助于心肺健康",
   "Image": "图片",
   "Import": "导入",
   "Import activity files": "导入活动文件",

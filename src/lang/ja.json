@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Strava のギアを同期しない",
   "ignore_time_blurb": "時間、距離、トレーニング負荷、カロリーは集計に含めない",
   "ignore_velocity_blurb": "移動時間やパワーゾーン経過時間の計算に速度データを使用しない",
+  "ignored_non_fitness_activities": "{n} のアクティビティは有酸素運動フィットネスに貢献しないため、タイムインゾーンに含まれていません。",
   "Image": "画像",
   "Import": "インポート",
   "Import activity files": "アクティビティをファイルからインポート",

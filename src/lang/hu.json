@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Ne használjon Strava felszerelést",
   "ignore_time_blurb": "Az idő, a távolság, az edzésterhelés és a kalória adatok kihagyása az összesítésekből.",
   "ignore_velocity_blurb": "A sebességadatok figyelmen kívül hagyása a mozgással töltött idő, illetve a teljesítményzónákban töltött idő kiszámításánál.",
+  "ignored_non_fitness_activities": "{n} tevékenység nem került időben figyelembe vételre a zónákban, mert a tevékenység típusai nem járulnak hozzá a kardio fitneszhez.",
   "Image": "Kép",
   "Import": "Importálás",
   "Import activity files": "Tevékenységek importálása",

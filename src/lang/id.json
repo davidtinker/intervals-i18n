@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Abaikan perlengkapan dari Strava",
   "ignore_time_blurb": "Abaikan pemasukkan waktu, jarak, beban latihan, dan kalori dalam total",
   "ignore_velocity_blurb": "Abaikan data kecepatan untuk menghitung waktu bergerak atau waktu dalam zona daya",
+  "ignored_non_fitness_activities": "{n} aktivitas tidak termasuk dalam waktu di zona karena jenis aktivitas mereka tidak berkontribusi terhadap kebugaran kardiovaskular",
   "Image": "Gambar",
   "Import": "Impor",
   "Import activity files": "Mengimpor file aktivitas",

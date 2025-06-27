@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Brug ikke udstyr fra Strava",
   "ignore_time_blurb": "Medtag ikke tid, distance, træningsbelastning og kalorier i totaler",
   "ignore_velocity_blurb": "Brug ikke hastighedsdata til at beregne bevægelsestid eller tid i effektzoner",
+  "ignored_non_fitness_activities": "{n} aktiviteter er ikke blevet inkluderet i tidszoner, fordi deres aktivitetstyper ikke bidrager til kardiovaskulær fitness",
   "Image": "Billede",
   "Import": "Importer",
   "Import activity files": "Importer aktivitetsfiler",

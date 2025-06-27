@@ -1240,6 +1240,7 @@
   "ignore_strava_gear": "Do not use gear from Strava",
   "ignore_time_blurb": "Do not include time, distance, training load and calories in totals",
   "ignore_velocity_blurb": "Do not use velocity data to calculate moving time or time in power zones",
+  "ignored_non_fitness_activities": "{n} activities have not been included in time in zones because their activity types do not contribute towards cardio fitness",
   "Image": "Image",
   "Import": "Import",
   "Import activity files": "Import activity files",
