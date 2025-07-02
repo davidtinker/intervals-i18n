@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Es wurden keine Ordner und Trainingsspläne mit dieser Gruppe geteilt.",
   "group_role_admin_help": "Kann Gruppeneinstellungen ändern sowie Athleten hinzufügen und entfernen",
   "group_role_coach_help": "Hat Trainerzugriff auf alle Gruppenmitglieder (nur bei Trainingsgruppen)",
+  "group_role_follower_help": "Kann Aktivitäten und andere Daten für alle Gruppenmitglieder (nur Coaching-Gruppen) sehen, aber nicht aktualisieren",
   "Groups": "Gruppen",
   "Grumpy": "Mürrisch",
   "Gusts": "Böen",

@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Nessuna cartella e piani di formazione sono stati condivisi con questo gruppo",
   "group_role_admin_help": "Può modificare le impostazioni del gruppo e aggiungere o rimuovere atleti",
   "group_role_coach_help": "Ha accesso da allenatore a tutti i membri del gruppo (solo gruppi di coaching)",
+  "group_role_follower_help": "Può visualizzare ma non aggiornare le attività e altri dati per tutti i membri del gruppo (solo gruppi di coaching)",
   "Groups": "Gruppi",
   "Grumpy": "Scontroso",
   "Gusts": "raffiche",

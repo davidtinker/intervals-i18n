@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Tejto skupine neboli poskytnuté žiadne súbory ani plány odbornej prípravy",
   "group_role_admin_help": "Môže meniť nastavenia skupiny a pridávať alebo odstraňovať športovcov",
   "group_role_coach_help": "Má prístup k všetkým členom skupiny ako tréner (len tréningové skupiny)",
+  "group_role_follower_help": "Môžu vidieť, ale nemôžu aktualizovať aktivity a ďalšie údaje pre všetkých členov skupiny (len tréningové skupiny)",
   "Groups": "Skupiny",
   "Grumpy": "Mrzutý",
   "Gusts": "Gusts",

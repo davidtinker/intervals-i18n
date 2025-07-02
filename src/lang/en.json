@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "No folders and training plans have been shared with this group",
   "group_role_admin_help": "Can change group settings and add and remove athletes",
   "group_role_coach_help": "Has coach access to all group members (coaching groups only)",
+  "group_role_follower_help": "Can see but not update activities and other data for for all group members (coaching groups only)",
   "Groups": "Groups",
   "Grumpy": "Grumpy",
   "Gusts": "Gusts",

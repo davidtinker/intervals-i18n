@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Ezzel a csoporttal nem osztottak meg mappákat és edzésterveket",
   "group_role_admin_help": "Csoportbeállítások módosítása és sportolók hozzáadása vagy eltávolítása",
   "group_role_coach_help": "Edzői hozzáféréssel rendelkezik az összes csoporttaghoz (csak edzőcsoportok esetén)",
+  "group_role_follower_help": "Látni tudja, de nem frissítheti a tevékenységeket és más adatokat az összes csoporttag számára (csak edzőcsoportok esetén)",
   "Groups": "Csoportok",
   "Grumpy": "Morcos",
   "Gusts": "Széllökések",

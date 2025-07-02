@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Niciun dosar și plan de instruire nu a fost partajat cu acest grup",
   "group_role_admin_help": "Poate modifica setările grupului și adăuga sau elimina sportivi",
   "group_role_coach_help": "Are acces ca antrenor la toți membrii grupului (doar pentru grupurile de antrenament)",
+  "group_role_follower_help": "Poate vedea, dar nu poate actualiza activitățile și alte date pentru toți membrii grupului (doar pentru grupurile de antrenament)",
   "Groups": "Grupuri",
   "Grumpy": "Morocănos",
   "Gusts": "Rafale",

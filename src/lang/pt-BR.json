@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Nenhuma pasta ou plano de treino foi compartilhado com este grupo",
   "group_role_admin_help": "Pode alterar configurações do grupo e adicionar ou remover atletas",
   "group_role_coach_help": "Tem acesso de treinador a todos os membros do grupo (apenas grupos de treinamento)",
+  "group_role_follower_help": "Pode ver, mas não atualizar atividades e outros dados para todos os membros do grupo (apenas grupos de treinamento)",
   "Groups": "Grupos",
   "Grumpy": "Mal-humorado",
   "Gusts": "Rajadas",

@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "S to skupino ni bila deljena nobena mapa in načrt treniranja",
   "group_role_admin_help": "Lahko spreminja nastavitve skupine in dodaja ter odstranjuje športnike",
   "group_role_coach_help": "Ima dostop do vseh članov skupine kot trener (samo za trenerjske skupine)",
+  "group_role_follower_help": "Lahko vidi, vendar ne more posodabljati dejavnosti in drugih podatkov za vse člane skupine (samo za trenerjske skupine)",
   "Groups": "Skupine",
   "Grumpy": "Tečen",
   "Gusts": "Sunki",

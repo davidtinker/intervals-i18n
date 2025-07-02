@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Aucun dossier et aucun plan d'entrainement n'ont été partagés avec ce groupe",
   "group_role_admin_help": "Peut modifier les paramètres du groupe et ajouter ou supprimer des athlètes",
   "group_role_coach_help": "A accès en tant qu'entraîneur à tous les membres du groupe (groupes d'entraînement uniquement)",
+  "group_role_follower_help": "Peut voir mais ne peut pas mettre à jour les activités et autres données pour tous les membres du groupe (groupes d'entraînement uniquement)",
   "Groups": "Groupes",
   "Grumpy": "Grincheux",
   "Gusts": "Rafales",

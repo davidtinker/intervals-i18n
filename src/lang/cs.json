@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "S touto skupinou nebyly sdíleny žádné složky a tréninkové plány",
   "group_role_admin_help": "Může měnit nastavení skupiny a přidávat či odstraňovat sportovce",
   "group_role_coach_help": "Má přístup ke všem členům skupiny jako trenér (pouze tréninkové skupiny)",
+  "group_role_follower_help": "Lze vidět, ale nelze aktualizovat aktivity a další data pro všechny členy skupiny (pouze trenérské skupiny)",
   "Groups": "Skupiny",
   "Grumpy": "Nevrlý",
   "Gusts": "Gusts",

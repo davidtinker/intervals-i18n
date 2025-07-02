@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Er zijn geen mappen of plannen met deze groep gedeeld",
   "group_role_admin_help": "Kan groepsinstellingen aanpassen en atleten toevoegen en verwijderen",
   "group_role_coach_help": "Heeft coach-toegang tot alle groepsleden (coachinggroepen alleen)",
+  "group_role_follower_help": "Kan activiteiten en andere gegevens voor alle groepsleden niet bekijken, maar niet bijwerken (alleen voor coachingsgroepen)",
   "Groups": "Groepen",
   "Grumpy": "Nors",
   "Gusts": "Windvlagen",

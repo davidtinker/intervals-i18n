@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "没有文件夹和培训计划分享到该群组",
   "group_role_admin_help": "可以更改组设置并添加或删除运动员",
   "group_role_coach_help": "拥有所有组员的教练权限（仅限训练组）",
+  "group_role_follower_help": "只能查看但无法更新所有组员（仅限教练组）的活动和其他数据",
   "Groups": "群组",
   "Grumpy": "烦躁",
   "Gusts": "阵风",

@@ -1084,6 +1084,7 @@
   "group_no_plans_shared": "Tidak ada folder dan rencana pelatihan yang dibagikan dengan grup ini",
   "group_role_admin_help": "Dapat mengubah pengaturan grup dan menambah serta menghapus atlet",
   "group_role_coach_help": "Memiliki akses pelatih ke semua anggota grup (hanya untuk grup pelatihan)",
+  "group_role_follower_help": "Dapat melihat tetapi tidak memperbarui aktivitas dan data lain untuk semua anggota grup (hanya untuk grup pelatih)",
   "Groups": "Grup",
   "Grumpy": "Pemarah",
   "Gusts": "Hembusan",
