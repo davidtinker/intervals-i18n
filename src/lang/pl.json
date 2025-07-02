@@ -460,6 +460,7 @@
   "Chart Height": "Wysokość wykresu",
   "Chart legend": "Legenda wykresu",
   "chart_extras_blurb": "Kliknij „Dodaj element”, aby dostosować tło wykresu za pomocą zacienionych stref, linii itp.",
+  "chart_garmin_data_attribution": "Wykresy mogą zawierać dane z urządzeń Garmin",
   "chart_script_blurb": "Kod JavaScript do zbudowania wykresu",
   "Charts": "Wykresy",
   "Chat": "Czat",

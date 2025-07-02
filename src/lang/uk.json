@@ -460,6 +460,7 @@
   "Chart Height": "Висота діаграми",
   "Chart legend": "Легенда діаграми",
   "chart_extras_blurb": "Натисніть «Додати елемент», щоб налаштувати фон діаграми з затіненими зонами, лініями тощо",
+  "chart_garmin_data_attribution": "Діаграми можуть включати дані з пристроїв Garmin",
   "chart_script_blurb": "Код JavaScript для побудови діаграми",
   "Charts": "Діаграми",
   "Chat": "Чат",

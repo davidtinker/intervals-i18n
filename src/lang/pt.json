@@ -460,6 +460,7 @@
   "Chart Height": "Altura do Gráfico",
   "Chart legend": "Legenda do gráfico",
   "chart_extras_blurb": "Clique em 'Adicionar item' para personalizar o plano de fundo do gráfico com zonas sombreadas, linhas, etc.",
+  "chart_garmin_data_attribution": "Os gráficos podem incluir dados de dispositivos Garmin",
   "chart_script_blurb": "Código JavaScript para construir o gráfico",
   "Charts": "Gráficos",
   "Chat": "Conversa",

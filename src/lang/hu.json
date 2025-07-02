@@ -460,6 +460,7 @@
   "Chart Height": "Diagram magassága",
   "Chart legend": "Diagram legendája",
   "chart_extras_blurb": "Kattints a „Tétel hozzáadása” gombra a diagram hátterének testreszabásához árnyékolt zónákkal, vonalakkal stb.",
+  "chart_garmin_data_attribution": "Diagramok tartalmazhatnak Garmin eszközök adatait",
   "chart_script_blurb": "JavaScript kód a diagram elkészítéséhez",
   "Charts": "Diagramok",
   "Chat": "Csevegés",

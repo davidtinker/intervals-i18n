@@ -460,6 +460,7 @@
   "Chart Height": "Višina grafikona",
   "Chart legend": "Legenda grafikona",
   "chart_extras_blurb": "Kliknite »Dodaj element«, da prilagodite ozadje grafikona z zasenčenimi območji, črtami itd.",
+  "chart_garmin_data_attribution": "Grafi lahko vključujejo podatke iz naprav Garmin",
   "chart_script_blurb": "Koda JavaScript za izdelavo grafikona",
   "Charts": "Grafi",
   "Chat": "Klepet",

@@ -460,6 +460,7 @@
   "Chart Height": "Výška grafu",
   "Chart legend": "Legenda grafu",
   "chart_extras_blurb": "Kliknutím na 'Přidat položku' upravíte pozadí grafu pomocí stínovaných zón, čar atd.",
+  "chart_garmin_data_attribution": "Grafy mohou obsahovat data z zařízení Garmin",
   "chart_script_blurb": "JavaScript kód pro sestavení grafu",
   "Charts": "Grafy",
   "Chat": "Povídat si",

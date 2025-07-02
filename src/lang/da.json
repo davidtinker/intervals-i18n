@@ -460,6 +460,7 @@
   "Chart Height": "Korthøjde",
   "Chart legend": "Kortforklaring",
   "chart_extras_blurb": "Klik på 'Tilføj element' for at tilpasse diagrambaggrunden med skraverede zoner, linjer osv.",
+  "chart_garmin_data_attribution": "Diagrammer kan indeholde data fra Garmin-enheder",
   "chart_script_blurb": "JavaScript-kode til at bygge diagrammet",
   "Charts": "Diagrammer",
   "Chat": "Chat",
