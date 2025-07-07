@@ -481,6 +481,7 @@
   "chat_group_hidden": "Ascuns grupul de la non-membri",
   "chat_group_visible": "Dezvăluit grupul pentru non-membri (excluzând mesajele din chat, antrenamentele și planurile de antrenament)",
   "chat_member_new_role": "'{0}' este acum un grup {1}",
+  "chat_removed_athlete": "Îndepărtat '{0}' din grup",
   "Chats": "Conversații",
   "check_garmin_settings": "Te rugăm să verifici setările Garmin pentru Intervals.icu:",
   "check_inbox_for_email": "Te rugăm să verifici căsuța de e-mail și spam pentru un e-mail de confirmare și apasă pe link",

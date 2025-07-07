@@ -481,6 +481,7 @@
   "chat_group_hidden": "将组隐藏，不对非成员显示",
   "chat_group_visible": "将组对非成员可见（不包括聊天消息、锻炼和训练计划）",
   "chat_member_new_role": "'{0}' 现在是一个 {1} 组",
+  "chat_removed_athlete": "已将 '{0}' 从组中移除",
   "Chats": "聊天",
   "check_garmin_settings": "请检查你的Garmin设置",
   "check_inbox_for_email": "请检查你的收件箱和垃圾邮件中的确认邮件，并点击链接",

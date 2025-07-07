@@ -481,6 +481,7 @@
   "chat_group_hidden": "Skupina je nyní skryta před nečleny",
   "chat_group_visible": "Skupina je nyní viditelná pro nečleny (s výjimkou chatových zpráv, cvičení a tréninkových plánů)",
   "chat_member_new_role": "'{0}' je nyní skupina {1}",
+  "chat_removed_athlete": "Odstraněno '{0}' ze skupiny",
   "Chats": "Chaty",
   "check_garmin_settings": "Zkontrolujte prosím nastavení Garmin pro Intervals.icu:",
   "check_inbox_for_email": "Zkontrolujte prosím ve své doručené poště a spamu potvrzovací e -mail a klikněte na odkaz",

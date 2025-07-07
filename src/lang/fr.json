@@ -481,6 +481,7 @@
   "chat_group_hidden": "Groupe rendu invisible aux non-membres",
   "chat_group_visible": "Groupe rendu visible aux non-membres (à l'exception des messages de chat, des entraînements et des plans d'entraînement)",
   "chat_member_new_role": "'{0}' est maintenant un groupe {1}",
+  "chat_removed_athlete": "Retiré '{0}' du groupe",
   "Chats": "Discussions",
   "check_garmin_settings": "Vérifiez les paramètres de votre Garmin pour Intervalles.icu :",
   "check_inbox_for_email": "Veuillez vérifier votre boîte de réception et vos spams et cliquez sur le lien de l'e-mail de confirmation",

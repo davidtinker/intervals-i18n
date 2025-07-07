@@ -481,6 +481,7 @@
   "chat_group_hidden": "Membuat grup tersembunyi dari non-anggota",
   "chat_group_visible": "Membuat grup terlihat oleh non-anggota (kecuali pesan obrolan, latihan, dan rencana pelatihan)",
   "chat_member_new_role": "'{0}' sekarang adalah grup {1}",
+  "chat_removed_athlete": "Dihapus '{0}' dari grup",
   "Chats": "Obrolan",
   "check_garmin_settings": "Silakan periksa pengaturan Garmin Anda untuk Intervals.icu:",
   "check_inbox_for_email": "Silakan periksa kotak masuk dan spam Anda untuk email konfirmasi dan klik tautannya",

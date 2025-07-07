@@ -481,6 +481,7 @@
   "chat_group_hidden": "非会員からグループを隠す",
   "chat_group_visible": "非会員にもグループが見えるようにする（チャットメッセージ、ワークアウト、トレーニングプランを除く）",
   "chat_member_new_role": "'{0}'は現在グループ {1}である。",
+  "chat_removed_athlete": "グループから「{0}」を削除",
   "Chats": "チャット",
   "check_garmin_settings": "Intervals.icu のGarminの設定をご確認ください：",
   "check_inbox_for_email": "受信トレイや迷惑メールに届いている確認メールからリンクをクリックしてください。",
