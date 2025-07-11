@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu a été déconnecté de {0}. Si vous souhaitez continuer à télécharger des données de santé à partir de {0} , veuillez vous reconnecter dans les paramètres <a href=\"https://intervals.icu/settings\"></a>.",
   "Display": "Afficher",
   "displayed_welless_fields": "Champs de bien-être affichés sur le calendrier",
+  "Dist": "Dist",
   "distance": "Vous pouvez modifier ces données pour un entraînement en salle si la distance n'a pas été calculée correctement",
   "Distance": "Distance",
   "Distance covered": "Distance parcourue",

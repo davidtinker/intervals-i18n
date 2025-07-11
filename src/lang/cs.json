@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu byl odpojen od {0}. Pokud chcete pokračovat ve stahování údajů o wellness z webu {0} , znovu se připojte v <a href=\"https://intervals.icu/settings\">nastavení</a>.",
   "Display": "Zobrazit",
   "displayed_welless_fields": "Wellness pole zobrazená v kalendáři",
+  "Dist": "Dist",
   "distance": "Pokud vzdálenost nebyla vypočítána správně, můžete to změnit.",
   "Distance": "Vzdálenost",
   "Distance covered": "Ujetá vzdálenost",

@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu je bila prekinjena z {0}. Če želite še naprej prenašati podatke o dobrem počutju iz {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
   "Display": "Zaslon",
   "displayed_welless_fields": "Polja za dobro počutje, prikazana na koledarju",
+  "Dist": "Razdalja",
   "distance": "Če razdalja ni bila pravilno izračunana, boste morda želeli to spremeniti v notranjo vožnjo.",
   "Distance": "Razdalja",
   "Distance covered": "Prevožena razdalja",

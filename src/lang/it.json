@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu è stato disconnesso da {0}. Se volete continuare a scaricare i dati del benessere da {0} , ricollegatevi nelle impostazioni <a href=\"https://intervals.icu/settings\"></a>.",
   "Display": "Display",
   "displayed_welless_fields": "Campi benessere visualizzati sul calendario",
+  "Dist": "Distanza",
   "distance": "Se la distanza non è stata calcolata correttamente, potresti voler modificare questo per una corsa con il trainer indoor.",
   "Distance": "Distanza",
   "Distance covered": "Distanza percorsa",

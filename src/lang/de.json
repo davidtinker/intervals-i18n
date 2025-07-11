@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Die Verbindung von Intervals.icu wurde von {0} getrennt. Wenn du weiterhin Wellnessdaten von {0} herunterladen möchtest, stelle die Verbindung in den <a href=\"https://intervals.icu/settings\">Einstellungen</a> wieder her.",
   "Display": "Anzeige",
   "displayed_welless_fields": "Wellnessfelder im Kalender angezeigt",
+  "Dist": "Dist",
   "distance": "Du solltest dies für eine Fahrt mit dem Indoor-Trainer bearbeiten, wenn die Entfernung nicht korrekt berechnet wurde.",
   "Distance": "Distanz",
   "Distance covered": "Zurückgelegte Entfernung",

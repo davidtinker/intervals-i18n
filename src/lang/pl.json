@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu został odłączony z {0}. Jeśli chcą Państwo kontynuować pobieranie danych dotyczących odnowy biologicznej z {0} , prosimy o ponowne połączenie w <a href=\"https://intervals.icu/settings\">ustawieniach</a>.",
   "Display": "Pokaż",
   "displayed_welless_fields": "Pola kondycji wyświetlane w kalendarzu",
+  "Dist": "Dyst",
   "distance": "Jeśli dystans nie został poprawnie obliczony, możesz edytować to dla jazdy na krytym trenażerze.",
   "Distance": "Odległość",
   "Distance covered": "Pokonana odległość",

@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu已经从 {0} 断开连接。如果想继续从 {0} 下载健康数据，请在 <a href=\"https://intervals.icu/settings\">设置</a>重新连接",
   "Display": "显示",
   "displayed_welless_fields": "日历上显示的健康字段",
+  "Dist": "距离",
   "distance": "如果距离计算不正确，可能需要为室内骑行台骑行编辑这里",
   "Distance": "距离",
   "Distance covered": "移动距离",

@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Az Intervals.icu leválasztva a (z) {0}webhelyről. Ha továbbra is szeretnéd letölteni a wellness-adatokat {0} , csatlakozz újra a <a href=\"https://intervals.icu/settings\">beállításokban</a>.",
   "Display": "Kijelző",
   "displayed_welless_fields": "Wellness mezők megjelennek a naptárban",
+  "Dist": "Távolság",
   "distance": "Érdemes átírni az értéket beltéri edzéseken, ha a távolságot nem megfelelően mérted.",
   "Distance": "Távolság",
   "Distance covered": "Megtett távolság",

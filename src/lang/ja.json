@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icuは{0}と連携解除しました。{0}からウェルネスデータをダウンロードしたい場合は、<a href=\"https://intervals.icu/settings\">設定</a>から再接続してください。",
   "Display": "ディスプレイ",
   "displayed_welless_fields": "ウェルネスの項目をカレンダーに表示",
+  "Dist": "ディスト",
   "distance": "距離が正しく計算されていない場合、室内トレーナーでのライド用に編集したほうがよい場合があります。",
   "Distance": "距離",
   "Distance covered": "実際の距離",

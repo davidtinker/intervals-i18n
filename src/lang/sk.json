@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervaly.icu boli odpojené od {0}. Ak chcete pokračovať v preberaní údajov o wellness z {0} , znovu sa pripojte v <a href='https://intervals.icu/settings'>nastaveniach</a>.'",
   "Display": "Zobrazenie",
   "displayed_welless_fields": "Wellness polia zobrazené v kalendári",
+  "Dist": "Dist",
   "distance": "Ak sa vzdialenosť nevypočítala správne, možno ju budete chcieť upraviť pre jazdu na halovom trenažéri.",
   "Distance": "Vzdialenosť",
   "Distance covered": "Prejdená vzdialenosť",

@@ -784,6 +784,7 @@
   "disconnected_from_wellness_blurb": "Intervals.icu er blevet afbrudt fra {0}. Hvis du vil fortsætte med at downloade wellness-data fra {0}, skal du oprette forbindelse igen i <a href=\"https://intervals.icu/settings\">indstillinger</a>.",
   "Display": "Vise",
   "displayed_welless_fields": "Wellness-felter vises i kalenderen",
+  "Dist": "Dist",
   "distance": "Du ønsker muligvis at redigere dette til en indendørs trænertur, hvis afstanden ikke er blevet beregnet korrekt.",
   "Distance": "Afstand",
   "Distance covered": "Tilbagelagt afstand",
