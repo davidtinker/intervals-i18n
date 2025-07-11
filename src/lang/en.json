@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Has coach access to all group members (coaching groups only)",
   "group_role_follower_help": "Can see but not update activities and other data for for all group members (coaching groups only)",
   "group_role_not_coaching_group": "This group is not a coaching group. Coach and Follower roles only have effect in coaching groups.",
+  "group_ui_blurb": "Customize Intervals.icu for users who have this group set as their primary group",
   "Groups": "Groups",
   "Grumpy": "Grumpy",
   "Gusts": "Gusts",

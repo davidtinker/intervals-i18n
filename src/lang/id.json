@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Memiliki akses pelatih ke semua anggota grup (hanya untuk grup pelatihan)",
   "group_role_follower_help": "Dapat melihat tetapi tidak memperbarui aktivitas dan data lain untuk semua anggota grup (hanya untuk grup pelatih)",
   "group_role_not_coaching_group": "Grup ini bukan grup pelatihan. Peran Pelatih dan Pengikut hanya berlaku dalam grup pelatihan.",
+  "group_ui_blurb": "Sesuaikan Intervals.icu untuk pengguna yang telah menetapkan grup ini sebagai grup utama mereka",
   "Groups": "Grup",
   "Grumpy": "Pemarah",
   "Gusts": "Hembusan",

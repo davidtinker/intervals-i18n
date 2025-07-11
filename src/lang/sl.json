@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Ima dostop do vseh članov skupine kot trener (samo za trenerjske skupine)",
   "group_role_follower_help": "Lahko vidi, vendar ne more posodabljati dejavnosti in drugih podatkov za vse člane skupine (samo za trenerjske skupine)",
   "group_role_not_coaching_group": "Ta skupina ni skupina za usposabljanje. Vloge trenerja in sledilca veljajo le v skupinah za usposabljanje.",
+  "group_ui_blurb": "Prilagodi Intervals.icu za uporabnike, ki imajo to skupino nastavljen kot njihovo primarno skupino",
   "Groups": "Skupine",
   "Grumpy": "Tečen",
   "Gusts": "Sunki",

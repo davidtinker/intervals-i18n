@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Edzői hozzáféréssel rendelkezik az összes csoporttaghoz (csak edzőcsoportok esetén)",
   "group_role_follower_help": "Látni tudja, de nem frissítheti a tevékenységeket és más adatokat az összes csoporttag számára (csak edzőcsoportok esetén)",
   "group_role_not_coaching_group": "Ez a csoport nem edzőcsoport. Az Edző és Követő szerepek csak edzőcsoportokban vannak hatással.",
+  "group_ui_blurb": "Személyre szabhatja az Intervals.icu-t azok számára, akik ezt a csoportot elsődleges csoportként állították be",
   "Groups": "Csoportok",
   "Grumpy": "Morcos",
   "Gusts": "Széllökések",

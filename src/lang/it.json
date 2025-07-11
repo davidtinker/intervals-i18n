@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Ha accesso da allenatore a tutti i membri del gruppo (solo gruppi di coaching)",
   "group_role_follower_help": "Può visualizzare ma non aggiornare le attività e altri dati per tutti i membri del gruppo (solo gruppi di coaching)",
   "group_role_not_coaching_group": "Questa gruppo non è un gruppo di coaching. I ruoli di Allenatore e Seguito hanno effetto solo nei gruppi di coaching.",
+  "group_ui_blurb": "Personalizza Intervals.icu per gli utenti che hanno questo gruppo impostato come gruppo principale",
   "Groups": "Gruppi",
   "Grumpy": "Scontroso",
   "Gusts": "raffiche",

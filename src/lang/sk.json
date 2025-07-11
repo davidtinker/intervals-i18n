@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Má prístup k všetkým členom skupiny ako tréner (len tréningové skupiny)",
   "group_role_follower_help": "Môžu vidieť, ale nemôžu aktualizovať aktivity a ďalšie údaje pre všetkých členov skupiny (len tréningové skupiny)",
   "group_role_not_coaching_group": "Táto skupina nie je koučovská skupina. Úlohy kouča a sledovateľa majú účinok iba v koučovských skupinách.",
+  "group_ui_blurb": "Prispôsobte Intervals.icu pre používateľov, ktorí majú túto skupinu nastavenú ako svoju hlavnú skupinu",
   "Groups": "Skupiny",
   "Grumpy": "Mrzutý",
   "Gusts": "Gusts",

@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Are acces ca antrenor la toți membrii grupului (doar pentru grupurile de antrenament)",
   "group_role_follower_help": "Poate vedea, dar nu poate actualiza activitățile și alte date pentru toți membrii grupului (doar pentru grupurile de antrenament)",
   "group_role_not_coaching_group": "Această grupă nu este o grupă de coaching. Rolurile de Antrenor și Urmăritor au efect doar în grupele de coaching.",
+  "group_ui_blurb": "Personalizați Intervals.icu pentru utilizatorii care au acest grup setat ca grup principal",
   "Groups": "Grupuri",
   "Grumpy": "Morocănos",
   "Gusts": "Rafale",

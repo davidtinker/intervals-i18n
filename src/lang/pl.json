@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Ma dostęp trenera do wszystkich członków grupy (tylko grupy treningowe)",
   "group_role_follower_help": "Można zobaczyć, ale nie można aktualizować aktywności i innych danych dla wszystkich członków grupy (tylko grupy szkoleniowe)",
   "group_role_not_coaching_group": "Ta grupa nie jest grupą szkoleniową. Role Trenera i Obserwatora mają zastosowanie tylko w grupach szkoleniowych.",
+  "group_ui_blurb": "Dostosuj Intervals.icu dla użytkowników, którzy mają tę grupę ustawioną jako główną",
   "Groups": "Grupy",
   "Grumpy": "Zrzędliwy",
   "Gusts": "Podmuchy",

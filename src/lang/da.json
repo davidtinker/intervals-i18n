@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Har træneradgang til alle gruppemedlemmer (kun træningsgrupper)",
   "group_role_follower_help": "Kan se, men kan ikke opdatere aktiviteter og andre data for alle gruppemedlemmer (kun coachinggrupper)",
   "group_role_not_coaching_group": "Denne gruppe er ikke en coachinggruppe. Coach- og Følgerroller har kun effekt i coachinggrupper.",
+  "group_ui_blurb": "Tilpas Intervals.icu til brugere, der har denne gruppe som deres primære gruppe",
   "Groups": "Grupper",
   "Grumpy": "Gnaven",
   "Gusts": "Vindstød",

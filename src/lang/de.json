@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Hat Trainerzugriff auf alle Gruppenmitglieder (nur bei Trainingsgruppen)",
   "group_role_follower_help": "Kann Aktivitäten und andere Daten für alle Gruppenmitglieder (nur Coaching-Gruppen) sehen, aber nicht aktualisieren",
   "group_role_not_coaching_group": "Diese Gruppe ist keine Coaching-Gruppe. Coach- und Follower-Rollen haben nur in Coaching-Gruppen Wirkung.",
+  "group_ui_blurb": "Passen Sie Intervals.icu für Benutzer an, die diese Gruppe als ihre primäre Gruppe festgelegt haben",
   "Groups": "Gruppen",
   "Grumpy": "Mürrisch",
   "Gusts": "Böen",

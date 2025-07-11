@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "拥有所有组员的教练权限（仅限训练组）",
   "group_role_follower_help": "只能查看但无法更新所有组员（仅限教练组）的活动和其他数据",
   "group_role_not_coaching_group": "此组不是教练组。教练和跟随者角色仅在教练组中有效。",
+  "group_ui_blurb": "为将此组设为主要组的用户定制Intervals.icu",
   "Groups": "群组",
   "Grumpy": "烦躁",
   "Gusts": "阵风",

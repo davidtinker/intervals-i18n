@@ -1117,6 +1117,7 @@
   "group_role_coach_help": "Tem acesso de treinador a todos os membros do grupo (apenas grupos de treinamento)",
   "group_role_follower_help": "Pode ver, mas não atualizar atividades e outros dados para todos os membros do grupo (apenas grupos de treinamento)",
   "group_role_not_coaching_group": "Este grupo não é um grupo de treinamento. Os papéis de Treinador e Seguidor só têm efeito em grupos de treinamento.",
+  "group_ui_blurb": "Personalize Intervals.icu para usuários que tenham esse grupo definido como seu grupo principal",
   "Groups": "Grupos",
   "Grumpy": "Mal-humorado",
   "Gusts": "Rajadas",
