@@ -2106,6 +2106,7 @@
   "NW": "KB (Kuzeybatı)",
   "oauth_apply_intro": "Intervals.icu'ya bağlamak istediğiniz uygulama hakkında bize bilgi verin. Başvurunuzu inceleyeceğiz ve OAuth istemciniz hazır olduğunda size e-posta göndereceğiz. Oluşturulduktan sonra bir logo yükleyebilir ve yönlendirme URL'lerinizi, web kancalarınızı ve gizli anahtarınızı /settings/apps üzerinden yönetebilirsiniz.\n\nLütfen başvurmadan önce aşağıdaki forum gönderilerini inceleyin:\n- https://forum.intervals.icu/t/api-access-to-intervals-icu/609\n- https://forum.intervals.icu/t/intervals-icu-oauth-support/2759\n- https://forum.intervals.icu/t/intervals-icu-api-integration-cookbook/80090\n\n**Sadece Intervals.icu'da görebileceğiniz verilere erişmek istiyorsanız OAuth uygulaması oluşturmanıza gerek olmadığını lütfen unutmayın**. Her sporcunun, OAuth karmaşası olmadan API çağrıları yapmak için kullanılabilecek bir API anahtarı vardır.\n\nBirden fazla sporcu tarafından kullanılacak bir uygulama geliştiriyorsanız veya web kancalarını kullanmanız gerekiyorsa, OAuth uygulaması oluşturmanız gerekir.",
   "oauth_apply_title": "OAuth Erişimi için Başvur",
+  "oauth_status_not_approved_yet": "Lütfen bu uygulamanın {status} durumunda olduğunu ve onaylanana kadar OAuth kullanamayacağınızı unutmayın",
   "Offset": "Ofset",
   "ofn": " / {n}",
   "Ok": "Tamam",

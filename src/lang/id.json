@@ -2106,6 +2106,7 @@
   "NW": "NW",
   "oauth_apply_intro": "Ceritakan tentang aplikasi yang ingin Anda hubungkan ke Intervals.icu. Kami akan meninjau aplikasi Anda dan mengirim email kepada Anda ketika klien OAuth Anda siap. Anda dapat mengunggah logo dan mengelola URL pengalihan, webhook, dan rahasia Anda dari /settings/apps setelah aplikasi dibuat.\n\nHarap tinjau posting forum berikut sebelum mengajukan:\n- https://forum.intervals.icu/t/api-access-to-intervals-icu/609\n- https://forum.intervals.icu/t/intervals-icu-oauth-support/2759\n- https://forum.intervals.icu/t/intervals-icu-api-integration-cookbook/80090\n\nHarap dicatat bahwa **Anda tidak perlu membuat aplikasi OAuth jika Anda hanya ingin mengakses data yang dapat Anda lihat di Intervals.icu**. Setiap atlet memiliki kunci API yang dapat digunakan untuk melakukan panggilan ke API tanpa kerumitan OAuth.\n\nJika Anda membangun aplikasi yang akan digunakan oleh beberapa atlet, atau perlu menggunakan webhook, maka Anda perlu membuat aplikasi OAuth.",
   "oauth_apply_title": "Ajukan Akses OAuth",
+  "oauth_status_not_approved_yet": "Harap dicatat bahwa aplikasi ini memiliki status {status} dan Anda tidak akan dapat menggunakan OAuth sampai disetujui",
   "Offset": "Offset",
   "ofn": "Dari {n}",
   "Ok": "Ok.",

@@ -2106,6 +2106,7 @@
   "NW": "NW",
   "oauth_apply_intro": "Kerro meille sovelluksesta, jonka haluat yhdistää Intervals.icu-palveluun. Tarkistamme hakemuksesi ja lähetämme sinulle sähköpostia, kun OAuth-asiakas on valmis. Voit ladata logon ja hallita uudelleenohjaus-URL-osoitteita, webhooks-toimintoja ja salaisuuksia kohdassa /settings/apps, kun sovellus on luotu.\n\nTutustu seuraaviin foorumiviesteihin ennen hakemista:\n- https://forum.intervals.icu/t/api-access-to-intervals-icu/609\n- https://forum.intervals.icu/t/intervals-icu-oauth-support/2759\n- https://forum.intervals.icu/t/intervals-icu-api-integration-cookbook/80090\n\nHuomaa, että **OAuth-sovellusta ei tarvitse luoda, jos haluat vain pääsyn Intervals.icu:ssa näkyviin tietoihin**. Jokaisella urheilijalla on API-avain, jota voi käyttää API-kutsujen tekemiseen ilman OAuth-kompleksisuutta.\n\nJos rakennat sovellusta, jota käyttää useampi urheilija tai tarvitset webhooks-toimintoja, sinun tulee luoda OAuth-sovellus.",
   "oauth_apply_title": "Hae OAuth-pääsyä",
+  "oauth_status_not_approved_yet": "Huomioithan, että tällä sovelluksella on tila {status} eikä OAuthia voi käyttää ennen kuin se on hyväksytty",
   "Offset": "Siirtymä",
   "ofn": "osoitteessa {n}",
   "Ok": "Ok",

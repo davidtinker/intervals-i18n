@@ -2106,6 +2106,7 @@
   "NW": "NY",
   "oauth_apply_intro": "Mesélj nekünk az alkalmazásról, amelyet az Intervals.icu-hoz szeretnél csatlakoztatni. Áttekintjük a jelentkezésedet, és e-mailben értesítünk, amikor az OAuth kliensed készen áll. Feltölthetsz egy logót, és kezelheted az átirányítási URL-eket, webhookokat és titkokat a /settings/apps oldalon, miután létrehoztad.\n\nKérjük, az igénylés előtt tekintsd át a következő fórum bejegyzéseket:\n- https://forum.intervals.icu/t/api-access-to-intervals-icu/609\n- https://forum.intervals.icu/t/intervals-icu-oauth-support/2759\n- https://forum.intervals.icu/t/intervals-icu-api-integration-cookbook/80090\n\nKérjük, vedd figyelembe, hogy **nem szükséges OAuth alkalmazást létrehoznod, ha csak az Intervals.icu-ban látható adatokhoz szeretnél hozzáférni**. Minden sportolónak van egy API kulcsa, amely OAuth bonyodalmak nélkül használható az API hívásokhoz.\n\nHa olyan alkalmazást fejlesztesz, amelyet több sportoló is használni fog, vagy webhookokat kell használnod, akkor OAuth alkalmazást kell létrehoznod.",
   "oauth_apply_title": "OAuth hozzáférés igénylése",
+  "oauth_status_not_approved_yet": "Kérjük, vegye figyelembe, hogy ennek az alkalmazásnak a státusza {status}, és az OAuth használata csak jóváhagyás után lesz lehetséges.",
   "Offset": "Eltolt",
   "ofn": "/ {n}",
   "Ok": "Rendben",

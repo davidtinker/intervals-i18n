@@ -2106,6 +2106,7 @@
   "NW": "NW",
   "oauth_apply_intro": "Conte-nos sobre a aplicação que pretende ligar ao Intervals.icu. Iremos analisar a sua candidatura e enviar-lhe um e-mail quando o seu cliente OAuth estiver pronto. Pode carregar um logótipo e gerir os seus URLs de redirecionamento, webhooks e segredo a partir de /settings/apps assim que for criada.\n\nPor favor, reveja as seguintes publicações no fórum antes de se candidatar:\n- https://forum.intervals.icu/t/api-access-to-intervals-icu/609\n- https://forum.intervals.icu/t/intervals-icu-oauth-support/2759\n- https://forum.intervals.icu/t/intervals-icu-api-integration-cookbook/80090\n\nNote que **não precisa de criar uma aplicação OAuth se apenas quiser aceder a dados que pode ver no Intervals.icu**. Cada atleta tem uma chave API que pode ser usada para fazer chamadas à API sem qualquer complexidade OAuth.\n\nSe estiver a desenvolver uma aplicação que será usada por vários atletas, ou precisar de usar webhooks, então precisa de criar uma aplicação OAuth.",
   "oauth_apply_title": "Solicitar acesso OAuth",
+  "oauth_status_not_approved_yet": "Por favor, note que esta aplicação tem o estado {status} e não poderá usar OAuth até que seja aprovada",
   "Offset": "Offset",
   "ofn": "de {n}",
   "Ok": "OK",

@@ -2106,6 +2106,7 @@
   "NW": "NW",
   "oauth_apply_intro": "Povejte nam o aplikaciji, ki jo želite povezati z Intervals.icu. Vašo prijavo bomo pregledali in vam poslali e-pošto, ko bo vaš OAuth odjemalec pripravljen. Ko bo ustvarjen, lahko naložite logotip in upravljate svoje preusmeritvene URL-je, spletne klice (webhooke) in skrivnosti v razdelku /settings/apps.\n\nPred prijavo si prosimo preberite naslednje objave na forumu:\n- https://forum.intervals.icu/t/api-access-to-intervals-icu/609\n- https://forum.intervals.icu/t/intervals-icu-oauth-support/2759\n- https://forum.intervals.icu/t/intervals-icu-api-integration-cookbook/80090\n\nUpoštevajte, da **ni potrebno ustvariti OAuth aplikacije, če želite dostopati samo do podatkov, ki jih vidite v Intervals.icu**. Vsak športnik ima API ključ, ki ga lahko uporabi za klice API-ja brez zapletenosti OAuth.\n\nČe razvijate aplikacijo, ki jo bo uporabljalo več športnikov ali potrebujete uporabo spletnih klicev (webhookov), potem morate ustvariti OAuth aplikacijo.",
   "oauth_apply_title": "Prijavite se za OAuth dostop",
+  "oauth_status_not_approved_yet": "Upoštevajte, da ima ta aplikacija status {status} in OAuth ne boste mogli uporabljati, dokler ne bo odobrena",
   "Offset": "Odmik",
   "ofn": "od {n}",
   "Ok": "Ok",

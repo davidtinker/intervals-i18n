@@ -2106,6 +2106,7 @@
   "NW": "NV",
   "oauth_apply_intro": "Spune-ne despre aplicația pe care dorești să o conectezi la Intervals.icu. Vom analiza cererea ta și îți vom trimite un e-mail când clientul tău OAuth este gata. Poți încărca un logo și gestiona URL-urile de redirecționare, webhook-urile și secretul din /settings/apps după ce a fost creat.\n\nTe rugăm să consulți următoarele postări din forum înainte de a aplica:\n- https://forum.intervals.icu/t/api-access-to-intervals-icu/609\n- https://forum.intervals.icu/t/intervals-icu-oauth-support/2759\n- https://forum.intervals.icu/t/intervals-icu-api-integration-cookbook/80090\n\nTe rugăm să reții că **nu este necesar să creezi o aplicație OAuth dacă dorești doar acces la datele pe care le poți vedea în Intervals.icu**. Fiecare atlet are o cheie API care poate fi folosită pentru a face apeluri către API fără nicio complexitate OAuth.\n\nDacă construiești o aplicație care va fi folosită de mai mulți atleți sau ai nevoie să folosești webhook-uri, atunci trebuie să creezi o aplicație OAuth.",
   "oauth_apply_title": "Solicită acces OAuth",
+  "oauth_status_not_approved_yet": "Vă rugăm să rețineți că această aplicație are statutul {status} și nu veți putea utiliza OAuth până când nu va fi aprobată",
   "Offset": "Decalat",
   "ofn": "din {n}",
   "Ok": "OK",
