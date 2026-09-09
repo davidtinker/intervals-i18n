@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Charge d'entraînement cumulée",
   "Current Password": "Mot de passe actuel",
   "Curve CSV": "Courbe CSV",
+  "curves_date_help": "Tout sur cette page est calculé à partir du mois choisi : les courbes de puissance, les meilleures performances et votre place dans le classement. Les périodes telles que « 42 jours » et « cette saison » sont comptées à rebours à partir de la fin de ce mois. Choisissez un mois antérieur pour voir la situation à ce moment-là, ou Aujourd'hui pour inclure tout jusqu'à présent.",
   "Custom": "Personnalisation",
   "Custom Chart": "Graphique personnalisé",
   "Custom Charts": "Graphiques personnalisés",

@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Kumulativ træningsbelastning",
   "Current Password": "Nuværende adgangskode",
   "Curve CSV": "Kurve CSV",
+  "curves_date_help": "Alt på denne side er beregnet ud fra den valgte måned: effektkurverne, de bedste præstationer og din placering i ranglisterne. Perioder som \"42 dage\" og \"denne sæson\" tæller tilbage fra slutningen af den måned. Vælg en tidligere måned for at se, hvordan det så ud dengang, eller Vælg I dag for at inkludere alt op til nu.",
   "Custom": "Brugerdefineret",
   "Custom Chart": "Brugerdefineret diagram",
   "Custom Charts": "Brugerdefinerede diagrammer",

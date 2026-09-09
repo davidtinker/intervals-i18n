@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Cumulative Training Load",
   "Current Password": "Current Password",
   "Curve CSV": "Curve CSV",
+  "curves_date_help": "Everything on this page is worked out as of the chosen month: the power curves, the best efforts and your place in the rankings. Periods like \"42 days\" and \"this season\" count back from the end of that month. Choose an earlier month to see how things stood then, or Today to include everything up to now.",
   "Custom": "Custom",
   "Custom Chart": "Custom Chart",
   "Custom Charts": "Custom Charts",

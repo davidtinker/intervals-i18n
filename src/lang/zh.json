@@ -886,6 +886,7 @@
   "Cumulative Training Load": "累计训练负荷",
   "Current Password": "当前密码",
   "Curve CSV": "曲线CSV",
+  "curves_date_help": "本页上的所有内容均以所选月份为准计算：功率曲线、最佳表现及您的排名。诸如“42天”和“本赛季”等时间段均从该月份末尾向前计算。选择较早的月份以查看当时的情况，或选择“今天”以包含截至目前的所有数据。",
   "Custom": "自定义",
   "Custom Chart": "自定义图表",
   "Custom Charts": "自定义图表",

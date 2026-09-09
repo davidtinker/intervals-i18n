@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Łączne obciążenie treningowe",
   "Current Password": "Aktualne hasło",
   "Curve CSV": "Krzywa CSV",
+  "curves_date_help": "Wszystko na tej stronie jest obliczane na podstawie wybranego miesiąca: krzywe mocy, najlepsze wyniki oraz Twoja pozycja w rankingu. Okresy takie jak „42 dni” i „ten sezon” liczone są wstecz od końca tego miesiąca. Wybierz wcześniejszy miesiąc, aby zobaczyć, jak sytuacja wyglądała wtedy, lub Dzisiaj, aby uwzględnić wszystko do teraz.",
   "Custom": "Niestandardowy",
   "Custom Chart": "Wykres niestandardowy",
   "Custom Charts": "Wykresy niestandardowe",

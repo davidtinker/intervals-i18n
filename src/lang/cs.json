@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Kumulativní tréninkové zatížení",
   "Current Password": "Aktuální heslo",
   "Curve CSV": "Křivka CSV",
+  "curves_date_help": "Vše na této stránce je vypočítáno k vybranému měsíci: křivky výkonu, nejlepší výkony a vaše místo v žebříčcích. Období jako „42 dní“ a „tato sezóna“ se počítají zpětně od konce tohoto měsíce. Vyberte dřívější měsíc, abyste viděli, jak to vypadalo tehdy, nebo Dnes, abyste zahrnuli vše až do současnosti.",
   "Custom": "Zvyk",
   "Custom Chart": "Vlastní graf",
   "Custom Charts": "Vlastní grafy",

@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Beban Latihan Kumulatif",
   "Current Password": "Kata sandi saat ini",
   "Curve CSV": "Kurva CSV",
+  "curves_date_help": "Semua pada halaman ini dihitung berdasarkan bulan yang dipilih: kurva daya, usaha terbaik, dan posisi Anda dalam peringkat. Periode seperti \"42 hari\" dan \"musim ini\" dihitung mundur dari akhir bulan tersebut. Pilih bulan sebelumnya untuk melihat kondisi saat itu, atau Hari Ini untuk memasukkan semuanya hingga sekarang.",
   "Custom": "Kustom",
   "Custom Chart": "Bagan Kustom",
   "Custom Charts": "Bagan Kustom",

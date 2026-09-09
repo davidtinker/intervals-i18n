@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Efortul de antrenament cumulat",
   "Current Password": "Parola actuală",
   "Curve CSV": "Curba CSV",
+  "curves_date_help": "Totul pe această pagină este calculat începând cu luna aleasă: curbele de putere, cele mai bune performanțe și locul tău în clasament. Perioade precum „42 de zile” și „acest sezon” se calculează înapoi de la sfârșitul acelei luni. Alege o lună anterioară pentru a vedea cum stăteau lucrurile atunci sau Astăzi pentru a include totul până acum.",
   "Custom": "Personalizat",
   "Custom Chart": "Diagrama personalizată",
   "Custom Charts": "Diagrame personalizate",

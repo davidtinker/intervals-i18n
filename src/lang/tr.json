@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Toplam Antrenman Yükü",
   "Current Password": "Mevcut Şifre",
   "Curve CSV": "Eğri CSV",
+  "curves_date_help": "Bu sayfadaki her şey seçilen aya göre hesaplanır: güç eğrileri, en iyi performanslar ve sıralamadaki yeriniz. \"42 gün\" ve \"bu sezon\" gibi dönemler, o ayın sonundan geriye doğru sayılır. O zamanki durumu görmek için daha önceki bir ayı seçin veya şimdiye kadar olan her şeyi dahil etmek için Bugün'ü seçin.",
   "Custom": "Özel",
   "Custom Chart": "Özel Grafik",
   "Custom Charts": "Özel Grafikler",

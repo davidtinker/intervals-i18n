@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Összesített edzésterhelés",
   "Current Password": "Jelenlegi jelszó",
   "Curve CSV": "CSV görbe",
+  "curves_date_help": "Minden ezen az oldalon a kiválasztott hónap állapotának megfelelően van kiszámítva: a teljesítménygörbék, a legjobb eredmények és a helyezésed a ranglistán. Az olyan időszakok, mint a „42 nap” és „ez a szezon” az adott hónap végéig visszamenőleg számítódnak. Válassz korábbi hónapot, hogy lásd, hogyan álltak akkor a dolgok, vagy a Ma opciót, hogy az eddigi összes adatot belefoglalja.",
   "Custom": "Egyéni",
   "Custom Chart": "Egyéni diagram",
   "Custom Charts": "Egyedi diagramok",

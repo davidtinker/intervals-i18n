@@ -886,6 +886,7 @@
   "Cumulative Training Load": "Carga de entrenamiento acumulada",
   "Current Password": "Contraseña actual",
   "Curve CSV": "Curva CSV",
+  "curves_date_help": "Todo en esta página se calcula según el mes seleccionado: las curvas de potencia, los mejores esfuerzos y tu posición en la clasificación. Periodos como \"42 días\" y \"esta temporada\" se cuentan hacia atrás desde el final de ese mes. Elige un mes anterior para ver cómo estaban las cosas entonces, o Hoy para incluir todo hasta ahora.",
   "Custom": "Personalizado",
   "Custom Chart": "Gráfico personalizado",
   "Custom Charts": "Gráficos personalizados",
